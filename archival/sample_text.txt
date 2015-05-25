@@ -1,0 +1,167 @@
+Notes
+
+Bacteriocins, take a look
+
+Use the snowball stemmer
+
+can we eschew directionality 
+
+Synonymize antiX to not X
+
+
+-----------------------------------------------------
+
+[http://jmm.sgmjournals.org/content/12/1/71.full.pdf]
+
+Supports:
+<Intrageneric inhibition between strains of P. acnes occurred much more
+commonly than intergeneric inhibition between strains of P. acnes and Micrococcaceae,
+and more often than intrageneric inhibition between strains of
+Micrococcaceae>
+
+<Fifty-three strains (22%) showed some activity against at least
+one indicator strain>
+
+<There was a low frequency of inhibition of S. epidermidis by Micrococcaceae
+(2.7 %)>
+
+Against
+
+
+Notes:
+Multiple false negatives within the discussion may throw off results
+nv
+
+------------------------------------------------------
+[http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0082599#pone-0082599-g004]
+
+all post-treatment samples were restored to dominance by Lactobacillaceae; predominantly L. iners or transiently L. jensenii; some samples were co-dominant for these as indicated by sequence polymorphisms. Acute BV samples fell into two groups: P1 and P2 (recurring patients) were dominantly Actinobacteridae (G. vaginalis)
+
+P. timonensis replaced L. iners in P1, but G. vaginalis was first to dominance in P2
+
+Our unpublished data indicate that vaginal E. faecalis strains, if beta-hemolytic, are strongly antagonistic to most vaginal Lactobacillus species in vitro
+
+-------------------------------------------------------
+http://link.springer.com.libproxy1.nus.edu.sg/article/10.1007/s002480000074
+
+By screening lake water,
+we isolated two strains of lytic bacteria from the family Cytophagaceae. When tested on 12 cyanobacteria
+and 6 heterotrophic bacteria, strain 1 lysed only Anabaena flos-aquae and strain 2 lysed only
+Synechococcus cedorurn, Synechococcus leopoliensis, Synechococcus elongatus, and Anacystis nidulans:
+both liquid and agar-grown cultures of these cyanobacteria were iysed.
+---------------------------------------------------------
+http://www.pnas.org/content/83/7/2138.short
+
+The second bacterium, named Daptobacter, is a Gram-negative, facultatively anaerobic straight rod (0.5 × 1.5 μm) with a single polar flagellum, which collides, penetrates, and grows inside the cytoplasm of its prey (several genera of Chromatiaceae)
+
+
+-------------------------------------------------------
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2672.2010.04900.x/full
+
+By coculturing B. bacteriovorus 109J and M. aeruginosavorus ARL-13 with selected pathogens, we have demonstrated that predatory bacteria are able to attack bacteria from the genus Acinetobacter, Aeromonas, Bordetella, Burkholderia, Citrobacter, Enterobacter, Escherichia, Klebsiella, Listonella, Morganella, Proteus, Pseudomonas, Salmonella, Serratia, Shigella, Vibrio and Yersinia.
+
+-------------------------------------
+Automated Extraction
+-------------------------------------
+all of these results suggested that the slps of both l. acidophilus strains possessed murein hydrolase activities that were sublethal to e. coli cells.
+
+
+a cocktail containing l. plantarum + b. longum bb46 + b. longum lmg 13197 best inhibited s. aureus while e. coli was best inhibited by a combination containing l. acidophilus la14 150b + b. longum bb46 + b. bifidum lmg 11041.
+
+
+furthermore, the released cell counts were increase from 2.43 log cfu/g to 9.17 log cfu/g for the time prolong to 3h in the simulated colonic ph solution. on the other hand, the visible cells of lactobacillus acidophilus in the dog feces on the 10th day after the probiotics feeding was improve about 34.8% compare to the before feeding, which was decrease about 24.6%for escherichia coli.
+
+
+supernatants produced from aerobic but not anaerobic cultures of l. acidophilus reduced the growth of escherichia coli by about 20 %.
+						NP 				  VP									NP
+																NP               PP 
+															 DD   N    IN          N
+				l. acidophilus 			reduced 			the growth of escherichia coli by about 20 %.
+						
+
+
+
+
+
+the dfm combination lactobacillus acidophilus (np51) and propionibacterium freudenreichii (np24) was more efficacious in reducing the prevalence of faecal e. coli o157 shedding at the time of harvest and throughout the trial period compared with the group of other dfm, although this difference was not statistically significant.
+
+
+
+
+
+<Not inhibition. but shows selective envs?>
+prebiotic activity assay of glucan-dm5 displayed increased growth of probiotic bacteria such as bifidobacterium infantis and lactobacillus acidophilus, but did not support the growth of non-probiotic bacteria such as escherichia coli and enterobacter aerogenes.
+
+<Unrelated but ambiguous from text>
+the overexpression of l. acidophilus vtcc-b-871 mind in e. coli led to cell filamentation in iptg and morphology changes in different sugar stresses, interestingly.
+
+
+
+------------------------------------
+Glossary
+NP: noun phrase
+VP: verb phrase
+nVP: negative Verb phrase
+
+potential patterns
+
+NP - nVP -NP
+supernatants produced from aerobic but not anaerobic cultures of l. acidophilus reduced the growth of escherichia coli by about 20 %.
+Our unpublished data indicate that vaginal E. faecalis strains, if beta-hemolytic, are strongly antagonistic to most vaginal Lactobacillus species in vitro
+all of these results suggested that the slps of both l. acidophilus strains possessed murein hydrolase activities that were sublethal to e. coli cells.
+
+"The ability of A to inhibit B"
+
+nVP - NP - NP
+Inhibition of A by B
+
+REJECT A B V triples
+
+
+
+
+-------------------------------------
+
+List of potentially negative interation phrases
+
+Stemmable
+	Antagonsises
+	Antagonized
+	inhibits
+	outcompeted
+	lethal
+	kills
+	predator
+	<try the whole set of eco interactions>
+	anticorrelated
+	lysed
+	decrease
+	lowered
+	suppressed
+	sublethal
+As is
+	#-cins <bacteriocins, colicins>
+	use bacteriocin only
+
+	competes with
+	Activity against
+	reduced the growth -> reduced growth
+
+
+Current pool
+a   = ["Antagonistic","Antagonises", "Antagonise", "Antagonizes", "inhibits", "inhibiting", "Inhibition", "inhibitory","outcompeted","lethal", "sublethal", "KILLING","kills","predator","anticorrelated","lysed", "lyses", "competing", "competition", "competed", "suppressed", "decrease", "lowered", "bacteriocin", "reduced", "bacteriocin", "bacteriocins", against"]
+
+Positive interactions 
+Quorum sensing?
+
+--------------------------------------
+Complications
+
+Vague phrasing
+compliations: Lactobacillus -> lactic acid bacteria -> LAB
+Genus interactions to pliral form
+
+
+Information in paper body
+>However, LAB bacteriocins also show activity towards a number of potential Grampositive food spoilage and/or pathogenic bacteria, for example towards Listeria.
+

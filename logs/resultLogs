@@ -1,0 +1,41 @@
+#OBJECTIVE: <10% FN (<=8), <33% FP
+
+------------NAIVE-----------
+LOGGING
+Total samples analyzed: 412
+Correctly Assigned:  287
+True Positives:  49
+False Positives:  92
+False Negatives:  33
+[Finished in 2.8s]
+
+----------ABCHECK------
+LOGGING
+Total samples analyzed: 412
+Correctly Assigned:  308
+True Positives:  58
+False Positives:  81
+False Negatives:  23
+
+LOGGING
+Total samples analyzed: 412
+Correctly Assigned:  310
+True Positives:  64
+False Positives:  85
+False Negatives:  17
+
+LOGGING
+Total samples analyzed: 412
+Correctly Assigned:  304
+True Positives:  68
+True Negatives:  236
+False Positives:  95
+False Negatives:  13
+
+LOGGING
+Total samples analyzed: 412
+Correctly Assigned:  262
+True Positives:  73
+True Negatives:  189
+False Positives:  143
+False Negatives:  7
