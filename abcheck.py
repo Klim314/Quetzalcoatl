@@ -17,7 +17,7 @@ abcheck:
 import nltk
 import os
 from segtok.segmenter import split_single as ssplit
-from data import sent_tokenize as st
+import sent_tokenize as st
 import evaluate
 
 
@@ -41,6 +41,12 @@ negTerm = [stemmer.stem(i) for i in unstemmed]
 negTerm = set(negTerm)
 
 """
+Distance Cutoff for two terms
+"""
+cutoff = 10
+
+
+"""
 getNames:
 	Given a file of abstracts, acquires the two terms to be searched from the file name
 
@@ -52,12 +58,14 @@ def getNames(file):
 		return tup[0][0] + '. ' + tup[1]
 	file = os.path.basename(file)
 	name = os.path.splitext(file)[0]
+	
 	print(name)
 	name = [i.split('_') for i in name.split('#')]
 	#check if genus only
+	
 	print(name)
 	if len(name[0]) ==1:
-			return [i[0] for i in name]
+			return [[i[0]] for i in name]
 
 	return [[" ".join(i), shorten(i), i[0]] for i in name] 
 
@@ -122,7 +130,10 @@ def sheck(sentence, spSet1, spSet2):
 	if b1 and b2 and neg:
 		return True
 	return False
+"""
 
+REFACTOR THIS MONSTROSITY
+"""
 def abcheck(abstract, spSet1, spSet2):
 	b1, b2, d1, d2 = 0,0,0,0
 	#DB raisees sensitivity but drastically drops specifiicity
@@ -139,7 +150,6 @@ def abcheck(abstract, spSet1, spSet2):
 				temp[1] = 1
 			elif word in negTerm:
 				temp[2] = 1
-		print(temp)
 
 		if temp == [1,1,1]:
 			return True
@@ -154,7 +164,17 @@ def abcheck(abstract, spSet1, spSet2):
 		#DB raisees sensitivity but drastically drops specifiicity
 		elif temp == [1,1,0]:
 			db = 1
-	if b1 and d2 or b2 and d1 or d1 and d2: #db and b1 or db and b2 or
+		#force at least a 5 token gap
+		#NOT WORKING
+		if temp == [1,1,0]:			
+			
+			i1, i2 = max([sentence.index(i) for i in spSet1 if i in sentence]), max([sentence.index(i) for i in spSet2 if i in sentence])
+			#print(i1, i2)
+			if abs(i2-i1) < cutoff:
+				db = 0
+				temp = [0,0,0]
+		#print(temp)
+	if b1 and d2 or b2 and d1 or d1 and d2 or db and b1 or db and b2: #
 		return True
 	return False
 #all possible combs
@@ -171,11 +191,13 @@ def abcheck(abstract, spSet1, spSet2):
 # def check(paper):
 def execute(target):
 	def write(enumPair, names):
-		path = outdir + '#'.join(names) + '/' 
+		tnames = [i[0] for i in names]
+		path = outdir + '#'.join(tnames) + '/' 
 		if not os.path.exists(path):
 			os.mkdir(path)
-		print(path +  str(enumPair[0])+".out")
-		with open(outdir + '#'.join(names) + '/' + str(enumPair[0])+".out", 'w') as f:
+		#print(path +  str(enumPair[0])+".out")
+		#print('___________--')
+		with open(path + str(enumPair[0])+".out", 'w') as f:
 			f.write(enumPair[1][0] + "\n")
 			temp = st.sentSplit(enumPair[1][1])
 
@@ -196,9 +218,8 @@ def execute(target):
 	#stem all papers
 	stemmed = stemFile(allP, spSet)
 	output = open(outdir + "abcheck.out", "w")
-	holder = []	
+	holder = []
 	for original, paper in zip(enumerate(orig), stemmed):
-
 		
 		#Title fufills criteria
 		if sheck(paper[0], spSet1, spSet2):
@@ -212,18 +233,44 @@ def execute(target):
 			write(original, names)
 		else:
 			holder.append("F")
+		#print(len(holder), " | ", original[0])
 
 
+	return holder
 
 
 
 
 if __name__ == "__main__":
 	
+	# # #########DEBUG
+	# target = "input/lactobacillus_acidophilus#escherichia_coli.compiled"
+	# #set up sets of bacterial species
+	# names = getNames(target)
+	# print(names)
+	# spSet1 = set(names[0])
+	# spSet2 = set(names[1])
+	# spSet = spSet1.union(spSet2)
+	# #Load all papers 
+	# allP = load(target)
+	# #stem all papers
+	# stemmed = stemFile(allP, spSet)
+	# print('DEEEBUUUUGGG------------')
+	# paper1 = stemmed[35]
+	# print(paper1)
+	# print(abcheck(paper1[1], spSet1, spSet2))
+	# raise	
+	# ##########END
+	
 
 	target = "input/lactobacillus_acidophilus#escherichia_coli.compiled"
-	target = "input/Actinomyces#Bacteroides.compiled"
-	execute(target)
+	#*target = "input/Actinomyces#Bacteroides.compiled"
+	holder =execute(target)
+
+	#EVALUTATION	
+	annPath = "annotated/lactobacillus_acidophilus#escherichia_coli.ann"
+	evaluate.evaluate(holder, annPath,  "testlog")
+
 	# raise
 	# aoe = 3
 
@@ -240,26 +287,9 @@ if __name__ == "__main__":
 	# ori = [i for i in papers]
 
 
-	# #set up sets of bacterial species
-	# names = getNames(target)
-	# print(names)
-	# spSet1 = set(names[0])
-	# spSet2 = set(names[1])
-	# spSet = spSet1.union(spSet2)
-	# #Load all papers 
-	# allP = load(target)
-	# #stem all papers
-	# stemmed = stemFile(allP, spSet)
 
 	# holder = []
 
-	# #########DEBUG
-	# # print('DEEEBUUUUGGG------------')
-	# # paper1 = stemmed[270]
-	# # print(paper1)
-	# # print(abcheck(paper1[1], spSet1, spSet2))
-	# # raise	
-	# ###########END
 	# output = open("output/output.out", "w")
 	
 	# for original, paper in zip(ori, stemmed):
@@ -296,9 +326,6 @@ if __name__ == "__main__":
 	# 		holder.append("F")
 
 
-	#EVALUTATION	
-	# annPath = "annotated/lactobacillus_acidophilus#escherichia_coli.ann"
-	# evaluate.evaluate(holder, annPath,  "testlog")
 
 	# print(holder)
 

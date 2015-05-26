@@ -1,3 +1,4 @@
+#!/usr/env/bin python3
 """
 sent_tokenize:
 	Modified segtok, attempts correction of incorrectly split species names

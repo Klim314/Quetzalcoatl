@@ -64,10 +64,10 @@ def eva(inp, ann, u = False, logging = 0):
 		with open(logging + ".log", 'w') as f:
 			f.write("FALSE POSITIVES:\n")
 			for i in fpLog:
-				f.write(str(i) + '\n')
+				f.write(str(i) + '\n\n')
 			f.write("FALSE NEGATIVES:\n")
 			for i in fnLog:
-				f.write(str(i) + '\n')
+				f.write(str(i) + '\n\n')
 	return TP
 def evaluate(inp, annPath, logging):
 	return( eva(inp,loadAnn(annPath), logging = logging))
@@ -87,4 +87,4 @@ if __name__ == "__main__":
 
 
 
-#eva(testresults, a, logging = "testlog")
+#eva(testresults, a, logging = "testlog")*

@@ -12,6 +12,8 @@ constituent scripts:
 		<TO BE IMPLEMENTED>
 		quetzalcoatl
 			NLP-based fine filter for inhibitory relationships
+		hermes:
+			linker script for the entire Quetzacoatl system
 	SUPPLEMENTARY:
 		evaluate:
 			Evaluation system for abcheck. Requires a preannotated data set

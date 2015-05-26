@@ -1,9 +1,10 @@
+#!/usr/env/bin python3
 import nltk
 import pexpect
 import os
 """
 iob2tree:
-	Takes a file containing a presplit paper (sent_tokenize.sentSplit in abcheck), chunks it using geniatagger and imports it as an nltk Tree
+	Takes a file containing a presplit paper (sent_tokenize.sentSplit <in abcheck>), chunks it using geniatagger and imports it as an nltk Tree
 
 	input: File containing a sentences split by newlines
 
@@ -54,12 +55,18 @@ chunk:
 	Note: GeniaTagger only runs from it's own directory thus the cwds.
 """
 def chunk(targetFile):
+	print("-----------")
+	#escape the spaces in filenames
+	targetFile = targetFile.replace(" ", "\ ")
+
+
 	oriDir = os.getcwd()
 	#set this directory to the geniatagger directory
 	#geniatagger is required to be run from it's directory and cannot be accessed directly
-	os.chdir("../extparsers/geniatagger-3.0.1")
-	child = pexpect.spawn("./geniatagger " + targetFile )
+	os.chdir("extparsers/geniatagger-3.0.1")
+	child = pexpect.spawn("./geniatagger " +"../../" +  targetFile)
 	child = [i for i in child]
+	print(child)
 	results = [i.decode("utf-8") for i in child[4:]]
 	os.chdir(oriDir)
 	return results
@@ -109,8 +116,13 @@ if __name__ == "__main__":
 	# outdir = "../output/iob2tree/"
 	# if not os.path.exists(outdir):
 	# 	os.mkdir(outdir)
-	indir = "../output/abcheck/"
-	# inp = "../../input/testsentences.in"
+	indir = "output/abcheck/"
+	inp = indir + "lactobacillus acidophilus#escherichia coli/115.out"
+	print(inp)
+	# with open(inp) as f:
+	# 	for i in f:
+	# 		print(i)
+	[i.draw() for i in execute(inp)]
 	# blah = execute(inp)
 	# blah[0].draw()
 

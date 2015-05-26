@@ -39,3 +39,11 @@ True Positives:  73
 True Negatives:  189
 False Positives:  143
 False Negatives:  7
+
+LOGGING
+Total samples analyzed: 412
+Correctly Assigned:  284
+True Positives:  77
+True Negatives:  207
+False Positives:  125
+False Negatives:  3
