@@ -117,7 +117,7 @@ if __name__ == "__main__":
 	# if not os.path.exists(outdir):
 	# 	os.mkdir(outdir)
 	indir = "output/abcheck/"
-	inp = indir + "lactobacillus acidophilus#escherichia coli/115.out"
+	inp = indir + "lactobacillus acidophilus#escherichia coli/53.out"
 	print(inp)
 	# with open(inp) as f:
 	# 	for i in f:

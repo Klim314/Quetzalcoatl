@@ -17,7 +17,7 @@ abcheck:
 import nltk
 import os
 from segtok.segmenter import split_single as ssplit
-import sent_tokenize as st
+from modules import sent_tokenize as st
 import evaluate
 
 
@@ -167,7 +167,6 @@ def abcheck(abstract, spSet1, spSet2):
 		#force at least a 5 token gap
 		#NOT WORKING
 		if temp == [1,1,0]:			
-			
 			i1, i2 = max([sentence.index(i) for i in spSet1 if i in sentence]), max([sentence.index(i) for i in spSet2 if i in sentence])
 			#print(i1, i2)
 			if abs(i2-i1) < cutoff:
@@ -217,6 +216,7 @@ def execute(target):
 	allP = load(target)
 	#stem all papers
 	stemmed = stemFile(allP, spSet)
+	print(stemmed[0])
 	output = open(outdir + "abcheck.out", "w")
 	holder = []
 	for original, paper in zip(enumerate(orig), stemmed):
@@ -258,7 +258,7 @@ if __name__ == "__main__":
 	# print('DEEEBUUUUGGG------------')
 	# paper1 = stemmed[35]
 	# print(paper1)
-	# print(abcheck(paper1[1], spSet1, spSet2))
+	# print(abcheck(paper1[1], spSet1, spSet2))-
 	# raise	
 	# ##########END
 	
@@ -269,129 +269,7 @@ if __name__ == "__main__":
 
 	#EVALUTATION	
 	annPath = "annotated/lactobacillus_acidophilus#escherichia_coli.ann"
-	evaluate.evaluate(holder, annPath,  "testlog")
-
-	# raise
-	# aoe = 3
-
-	# #set of all stemmed negative terms
-	# unstemmed = ["Antagonistic","Antagonises", "Antagonise", "Antagonizes", "inhibits", "inhibiting", "Inhibition", "inhibitory",\
-	# "outcompeted","lethal", "sublethal", "KILLING","kills","predator","anticorrelated","lysed", "lyses", "competing", "competition",\
-	#  "competed", "suppressed", "decrease", "lowered", "bacteriocin", "reduced", "bacteriocin", "bacteriocins", "against", "reduced",\
-	#  "antibacterial", "viability"]
-	# stemmer = nltk.stem.snowball.EnglishStemmer()
-	# negTerm = [stemmer.stem(i) for i in unstemmed]
-	# negTerm = set(negTerm)
-	# print(negTerm)	
-	# papers = load(target)
-	# ori = [i for i in papers]
-
-
-
-	# holder = []
-
-	# output = open("output/output.out", "w")
-	
-	# for original, paper in zip(ori, stemmed):
-
-		
-	# 	# if sheck(paper[0], spSet1, spSet2) or any([sheck(i, spSet1, spSet2) for i in paper[1]]):
-	# 	# 	holder.append("T")
-	# 	# else:*
-	# 	# 	holder.append("F")
-	# 	if sheck(paper[0], spSet1, spSet2):
-	# 		holder.append("T")
-	# 		output.write(original[0] + "\n")
-	# 		output.write(original[1] + "\n")
-	# 		continue
-
-	# 	#ABCHECK VARIANT
-	# 	if abcheck(paper[1], spSet1, spSet2):
-	# 		holder.append("T")
-	# 		output.write(original[0] + "\n")
-	# 		output.write(original[1] + "\n")
-	# 	else:
-	# 		holder.append("F")
-
-	# output.close()
-		#NAIV1E VARIANT
-	# 	flag =0
-	# 	for i in range(len(paper[1]) - aoe):
-	# 		if sheck(sum(paper[1][i:i+aoe], []), spSet1, spSet2):
-	# 			flag = 1
-
-	# 	if flag:
-	# 		holder.append("T")
-	# 	else:
-	# 		holder.append("F")
-
-
-
-	# print(holder)
-
-
-
-# art1 = stemFile(allP, spSet)[0]
-# print(art1)
-# print(sheck (art1[0], spSet1, spSet2))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# print(paper)
-# # print("STOPs")
-# stemmed_papers = stemFile(papers)
-# # print(stemmed_papers)
-
-# title = stemmed_papers[0][0][0]
-# print(" ".join(title))
-# print(title)
-# print(sheck(title, spSet1, spSet2))
-
-
-
-
-
-# names = getNames(target)
-# first = [names[0].lower(), abb(names[0])]
-# second = [names[1].lower(), abb(names[1])]
-
-# with open(target) as f:
-# 	for i in f:
-# 		holder.append(i.lower())
-# #group them into title, abstract sublists
-# res = [(holder[i], holder[i+1]) for i in range(0, len(holder), 2)]
-
-# sRes = []
-# #tokenize and analyze each one
-# for i,j in res:
-# 	#tAb = nltk.sent_tokenize(j)
-# 	tAb = [ i for i in ssplit(j)]
-	
-
-	
-# 	for i in  range(len(tAb)):
-# 		if i <aoe or i + aoe >= len(tAb):
-# 			continue
-# 		sentence = '\n'.join(tAb[i-aoe:i+aoe+1])
-# 		if (first[0] in sentence or first[1] in sentence) and (second[0] in sentence or second[1] in sentence):
-# 			sRes.append(sentence)
-
-# #print(res[0])
-
-# #print(res[1][1])
-# [print(i + '\n\n-------------------') for i in sRes]
+	print("WITHOUT AMBIGUOUS/TITLE ONLY")
+	evaluate.evaluate(holder, annPath, 1,  "testlog")
+	print("WITH AMBIGUOUS/TITLE ONLY")
+	evaluate.evaluate(holder, annPath, 0,  "testlog")
