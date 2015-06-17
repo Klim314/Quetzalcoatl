@@ -33,11 +33,11 @@ def getNames(file):
 	file = os.path.basename(file)
 	name = os.path.splitext(file)[0]
 	
-	print(name)
+	# print(name)
 	name = [i.split('_') for i in name.split('#')]
 	name = [[i.lower() for i in j] for j in name]
 	#check if genus only
-	print(name)
+	# print(name)
 	if len(name[0]) ==1:
 			return [[i[0]] for i in name]
 
@@ -51,10 +51,8 @@ load:
 """
 def load(filename):
 	with open(filename) as f:
-		holder = []
-		for i in f:
-			#trim the 6 letter initalizer
-			holder.append(i.strip().lower()[6:])
+		holder = [i.strip().lower() for i in f]
+
 		try:
 			temp = [(holder[i], holder[i+1]) for i in range(0, len(holder), 2)]
 		except:
@@ -84,3 +82,8 @@ def stemFile(fileLst, spSet = {}):
 	# untagged = [[[[tup[0] for tup in sentence] for sentence in component] for component in paper] for paper in preproc]
 	# stemmed = [[[[stemmer.stem(word) for word in sentence] for sentence in component] for component in paper] for paper in untagged]
 	return stemmed
+
+def loadFile(filePath):
+	with open(filePath) as f:
+		holder = [i.strip().lower() for i in f]
+	return holder

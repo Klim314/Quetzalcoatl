@@ -140,7 +140,7 @@ class Pattern():
 				if i in flags[cur]:
 					cur+=1
 					if cur == end:
-						print("FLAGS:", flags)
+						# print("FLAGS:", flags)
 						return True
 			except:
 				print("ERROR", i)
@@ -218,6 +218,16 @@ nPatterns = [[[stemmer.stem(i)for i in j] for j in k] for k in nPatterns]
 nPatterns = [[" ".join(i) for i in j] for j in nPatterns]
 compiled += [nPattern(i) for i in nPatterns]
 
+#Antipatterns
+antiPatterns = [
+
+]
+antiPatterns = [st.preprocess(i)[0] for i in antiPatterns]
+antiPatterns = [[stemmer.stem(j) for j in i ] for i in antiPatterns]
+antiPatterns = [" ".join(i) for i in antiPatterns]
+antiCompiled = [Pattern(i) for i in antiPatterns]
+
+
 print("------PATTERNS------")
 [print(i.text) for i in compiled]
 # print("nPatterns: ", nPatterns)
@@ -230,7 +240,6 @@ if not os.path.exists(outDir):
 def execute(target):
 	names = getNames(target)
 	print("InFile: ", target)
-	print("Compiled: ", compiled[0].text)
 
 	allP = load(target)
 	oriP = load(target)
@@ -254,7 +263,7 @@ def execute(target):
 
 
 if __name__ == "__main__":
-	target = "input/pattern/tester/Gemella_morbillorum#Porphyromonas_gingivalis.compiled"
+	target = "input/pattern/tester/Lactobacillus_acidophilus#Escherichia_coli.compiled"
 	names = getNames(target)
 	# print("------TARGET NAMES------")
 	# print(names)
