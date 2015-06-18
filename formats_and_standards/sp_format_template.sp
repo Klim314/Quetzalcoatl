@@ -1,0 +1,26 @@
+#ANNOTATION FORMAT
+
+@BEGIN::SUMMARY
+
+INTERACTS == 1
+POSITIVE == 0
+NEGATIVE == 1
+
+@BEGIN::ABSTRACTS
+>PMID == 
+TI == 
+AB == 
+TIHIT == 
+ABHIT == 
+
+>PMID == 
+TI == 
+AB == 
+TIHIT == 
+ABHIT == 
+
+>PMID == 
+TI == 
+AB == 
+TIHIT == 
+ABHIT == 
