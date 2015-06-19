@@ -34,11 +34,11 @@ class Paper():
 
 	def writeAnn(self, path):
 		with open(path, 'a') as f:
-			f.write('> PMID == ' + self.pmid + '\n')
-			f.write("TI == " + self.title + '\n')
-			f.write("AB == " + self.abstract + '\n')
-			f.write("TIHIT == \n")
-			f.write("ABHIT == \n")
+			f.write('PMID== ' + self.pmid + '\n')
+			f.write("TI  == " + self.title + '\n')
+			f.write("AB  == " + self.abstract + '\n')
+			f.write("TIHT== \n")
+			f.write("ABHT== \n\n")
 
 
 """
@@ -101,11 +101,11 @@ class Pair():
 	def writeAnn(self, path):
 		print("Writing annotations to: ", path)
 		with open(path, 'w') as f:
-			f.write("@BEGIN::SUMMARY\n")
-			f.write("INTERACTS == \n")
-			f.write("POSITIVE == \n")
-			f.write("NEGATIVE == \n")
-			f.write("@BEGIN::ABSTRACTS\n")
+			f.write("@SUMMARY\n")
+			f.write("INT == \n")
+			f.write("POS == \n")
+			f.write("NEG == \n")
+			f.write("@PAPERS\n")
 		for paper in self.papers:
 			paper.writeAnn(path)
 

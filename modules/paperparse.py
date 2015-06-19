@@ -91,10 +91,11 @@ class spFile():
 		self.summary = self.loadSection(loaded["SUMMARY"])
 		papers = loaded['PAPERS'].split('\n\n')
 		self.papers = [self.loadSection(i) for i in papers]
+		self.papers = [i for i in self.papers if i != {}]
 
 
 	def loadSection(self, section):
-		holder = [i.split("==") for i in section.split('\n') if i != '']
+		holder = [i.split("==") for i in section.split('\n') if i != '' and i != '\n']
 		result = {i:j.strip() for i,j in holder}
 		return result
 
@@ -110,6 +111,9 @@ class spFile():
 					current = i[1:].strip()
 					holder[current] = ''
 				else:
+					#account for empty lines
+					if i == '':
+						continue
 					holder[current] += i
 		return holder
 
@@ -146,7 +150,8 @@ class spFile():
 
 
 if __name__ == "__main__":
-	target = '../formats_and_standards/sp_format_documentation.txt'
+	#target = '../input/pattern/smalltestann/Actinomyces_sp.#Bacteroides_sp..sp'
+	target = '../input/pattern/smalltestann/Actinomyces_sp.#Bacteroides_coprosuis.sp'
 	outPath = '../formats_and_standards/tester/tester.sp'
 	temp  = spFile(target)
 	print(temp.papers)
