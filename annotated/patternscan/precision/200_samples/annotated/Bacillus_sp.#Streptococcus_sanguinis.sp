@@ -1,0 +1,20 @@
+@BEGIN::SUMMARY
+INTERACTS == 
+POSITIVE == 
+NEGATIVE == 
+@BEGIN::ABSTRACTS
+> PMID == 
+TI == beta-hemolytic streptococci and other beta-hemolytic organisms in apical periodontitis and severe marginal periodontitis.
+AB == thirteen teeth with necrotic pulps and apical periodontitis and nine severe periodontal pockets were cultured for presence of beta-hemolytic streptococci and other beta-hemolytic organisms. samples were dispersed and plated on two non-selective and one selective growth media and incubated anaerobically and in 10% co2 in air. a total of 59 beta-hemolytic colonies were purified and identified. eight beta-hemolytic streptococcal isolates were obtained from three of the severe marginal periodontitis sites. all were identified as belonging to the streptococcus sanguis group. no beta-hemolytic streptococci were detected in apical periodontitis samples. twenty obligately anaerobic isolates were detected, all of which were known periodontal and endodontic pathogens. isolates from apical periodontitis sites were identified as propionibacterium acnes, actinomyces naeslundii, actionomyces odontolyticus and peptostreptococcus micros, while severe marginal periodontal sites contained the same species with the addition of actinomyces viscosus and actinomyces meyeri. of 19 staphylococci and micrococci, staphylococcus epidermidis was the predominant isolate in both apical periodontitis and severe marginal periodontitis sites. however, less commonly known organisms such as staphylococcus cohnii and micrococcus sp. were identified in severe marginal periodontitis sites. the isolation of bacillus sp. (12 isolates) in one severe marginal periodontitis and two apical periodontitis subjects was especially interesting, warranting consideration of this organism as a legitimate isolate and potential pathogen in oral disease.
+TIHIT == 
+ABHIT == 
+> PMID == 
+TI == low surface tension calcium hydroxide solution is an effective antiseptic.
+AB == the antimicrobial effects of a saturated calcium hydroxide solution, and in combination with 10% and 20% detergent, were evaluated on streptococcus faecalis, streptococcus sanguis, streptococcus mutans, streptococcus salivarius, neisseria sp., diphtheroid, staphylococcus aureus, lactobacillus sp., staphylococcus epidermidis, bacillus subtilis and candida albicans. the saturated calcium hydroxide solution was effective against only four of the 11 microorganisms studied over a 60-min exposure time. the calcium hydroxide solutions containing detergent killed all 11 test organisms over a 30-min exposure time. this difference was statistically significant (p < 0.01). no statistically significant difference in antimicrobial action was found between the 10% and 20% detergent calcium hydroxide solutions (p > 0.01). however, the low surface tension (46.5 x 10(-3) nm-1) and high ph (10.8) of the calcium hydroxide solution with 20% detergent establish it as the more effective solution.
+TIHIT == 
+ABHIT == 
+> PMID == 
+TI == [effect of solid substrates of microbial colony development].
+AB == bacteria have been found to grow differently at contact sites to both organic and anorganic solids as on pure agar media. of 16 ad hoc selected bacterial strains, the following species (arranged in decreasing order) responded with stronger colony formation: bacillus subtilis, b. cereus, streptococcus sanguis, s. saprophyticus, s. faecalis, escherichia coli, micrococcus flavus, actinomyces viscosus, veillonella sp., enterobacter liquefaciens, yersinia enterocolitica. lactobacillus casei behaved neutral. proteus vulgaris, y. enterocolitica and chromobacterium violaceum grow on certain media only in the presence of solid particles. the yeasts endomyces lactis, saccharomyces cerevisiae, rhodotorula mucilaginosa and cryptococcus nigricans did not respond to solid particles during colony formation. the kind of protein-animal (meat) or vegetable (soy beans)-did not influence the behaviour of the microorganisms in these experiments.
+TIHIT == 
+ABHIT == 

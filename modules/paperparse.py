@@ -13,6 +13,7 @@ try:
 	from modules import sent_tokenize as st
 except:
 	import sent_tokenize as st
+import re
 
 """
 getNames(filePath):
@@ -21,6 +22,7 @@ getNames(filePath):
 
 	Sample pubcrawl output file:
 		Escherichia_coli#Pseudomonas_aeruginosa.compiled
+		Escherichia_coli#Pseudomonas_aeruginosa.sp
 
 	Resultant getNames output:
 		[['escherichia coli', 'e. coli', 'escherichia'], ['pseudomonas aeruginosa', 'p. aeruginosa', 'pseudomonas']]
@@ -47,8 +49,10 @@ loadFile(filepath):
 """
 
 def loadFile(filePath):
+	holder = []
 	with open(filePath) as f:
-		holder = [i.strip().lower() for i in f]
+		for i in f:
+			holder.append(i.strip().lower())
 	return holder
 
 """
@@ -59,3 +63,91 @@ tagStrip(line):
 
 def tagStrip(line):
 	return line[6:]
+
+
+
+"""""""""""""""""""""
+#####################
+#     .sp Files     #
+#####################
+"""""""""""""""""""""
+
+"""
+spFile():
+	Class representation of a single .sp file. Contains the title, abstract, and their respective stemmed and tokenized forms
+
+	loadSection(section):
+		Loads a .sp section into split {TERM: DATA} dicitonaries.)
+	
+	readSpFile(spFIlePath):
+		reads a SP file
+
+	NOTE: Use as base class for all the other paper derivatives
+	NOTE: For all future pubcrawl outputs, pmid is NECESSARY
+"""
+class spFile():
+	def __init__(self, spFilePath):
+		loaded = self.readSpFile(spFilePath)
+		self.summary = self.loadSection(loaded["SUMMARY"])
+		papers = loaded['PAPERS'].split('\n\n')
+		self.papers = [self.loadSection(i) for i in papers]
+
+
+	def loadSection(self, section):
+		holder = [i.split("==") for i in section.split('\n') if i != '']
+		result = {i:j.strip() for i,j in holder}
+		return result
+
+
+	def readSpFile(self, spFilePath):
+		holder = {}
+		with open(spFilePath) as f:
+			for i in f:
+				#find the first section
+				if i[0] == '#':
+					continue
+				if i[0] == '@':
+					current = i[1:].strip()
+					holder[current] = ''
+				else:
+					holder[current] += i
+		return holder
+
+	#reads the list of papers, converts them into paper tuples
+	def loadPapers(self, rawAbstractList):
+		holder = []
+		res = []
+		for i in rawAbstractList:
+			if i[0] == ">":
+				if holder == []:
+					holder = [i[2:]]
+				else:
+					res.append(holder)
+					holder = [i[2:]]
+			else:
+				holder.append(i)
+		return res
+	def writeSpFile(self, filePath):
+		with open(filePath, 'w') as f:
+			#handle the summary
+			f.write("@SUMMARY\n")
+			for i in self.summary:
+				f.write('== '.join([i, self.summary[i]]) + '\n')
+			f.write("@PAPERS\n")
+			for paperDict in self.papers:
+				f.write("== ".join(["PMID", paperDict["PMID"]]) + "\n")
+				f.write("== ".join(["AB  ", paperDict["AB  "]]) + "\n")
+				f.write("== ".join(["TI  ", paperDict["TI  "]]) + "\n")
+				f.write("== ".join(["TIHT", paperDict["TIHT"]]) + "\n")
+				f.write("== ".join(["ABHT", paperDict["ABHT"]]) + "\n\n")
+
+
+
+
+
+if __name__ == "__main__":
+	target = '../formats_and_standards/sp_format_documentation.txt'
+	outPath = '../formats_and_standards/tester/tester.sp'
+	temp  = spFile(target)
+	print(temp.papers)
+	temp.writeSpFile(outPath)

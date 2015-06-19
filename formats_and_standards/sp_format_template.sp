@@ -1,26 +1,25 @@
 #ANNOTATION FORMAT
+@SUMMARY
 
-@BEGIN::SUMMARY
+INT == 1
+POS == 0
+NEG == 1
 
-INTERACTS == 1
-POSITIVE == 0
-NEGATIVE == 1
+@PAPERS
+PMID== 
+TI  == 
+AB  == 
+TIHT== 
+ABHT== 
 
-@BEGIN::ABSTRACTS
->PMID == 
-TI == 
-AB == 
-TIHIT == 
-ABHIT == 
+PMID== 
+TI  == 
+AB  == 
+TIHT== 
+ABHT== 
 
->PMID == 
-TI == 
-AB == 
-TIHIT == 
-ABHIT == 
-
->PMID == 
-TI == 
-AB == 
-TIHIT == 
-ABHIT == 
+PMID== 
+TI  == 
+AB  == 
+TIHT== 
+ABHT== 

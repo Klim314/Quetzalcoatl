@@ -11,14 +11,19 @@ import os
 
 """
 Paper():
-	Class representation of a single paper. Contains the title, abstract, and their respective stemmed and tokenized forms
+	Class representation of a single paper. Contains the title, abstract, and their respective stemmed and tokenized forms. May contain PMID 
+	of the paper. (All future pubcrawl data will. This is supported due to legacy issues)
 """
 class Paper():
-	def __init__(self, pmid, title, abstract,  spSet = {}):
+	def __init__(self, termDict,  spSet = {}):
 		self.spSet = spSet
-		self.pmid = pmid
-		self.title = title
-		self.abstract = abstract
+		#HACKY SOLUTION. FIND ALTERNATIVE
+		if "pmid" in termDict:
+			self.pmid = termDict["pmid"]
+		else:
+			self.pmid = ''
+		self.title = termDict["ti  "]
+		self.abstract = termDict["ab  "]
 
 	def export(self):
 		print("-------PAPER--------")
@@ -47,8 +52,12 @@ Pair():
 		TODO: Implement logging of discarded data
 """
 class Pair():
-	def __init__(self, filePath):
+	def __init__(self, filePath, terms):
 		#initalize the species sets
+		self.terms = terms.split(':')
+		#pad the tags with spaces
+		self.terms = [i.lower() + ' ' * (4-len(i)) for i in self.terms]
+		print(self.terms)
 		sja, sjb = pp.getNames(filePath)[0], pp.getNames(filePath)[1]
 		self.spSet1 = set(sja)
 		self.spSet2 = set(sjb)
@@ -56,17 +65,21 @@ class Pair():
 
 		#Load the papers
 		self.rawPapers = pp.loadFile(filePath)
-		self.papers = [Paper(pmid, title, abstract, self.spSet) for pmid, title, abstract in self.paperSplit(self.rawPapers) ]
+		#preprep the termDict
+		self.papers = self.paperSplit(self.rawPapers)
+		self.papers = [{i:j for i,j in zip(self.terms, k)} for k in self.papers]
+		self.papers = [Paper(onePaper, self.spSet) for onePaper in self.papers ]
+		#self.papers = [Paper(pmid, title, abstract, self.spSet) for pmid, title, abstract in self.paperSplit(self.rawPapers) ]
 
 	#Splits the papers into (Title, Abstract) 2-tuples
 	def paperSplit(self, paperList):
 		#Handle Missing Dat ahere
 		holder, res = [], []
 		for i in paperList:
-			if i[:4] == "PMID" or i[:4] == "pmid":
+			if i[:4] == self.terms[0].upper() or i[:4] == self.terms[0].lower():
 				if holder == []:
 					holder.append(pp.tagStrip(i))
-				elif len(holder) != 3:
+				elif len(holder) != len(self.terms):
 					print("Warning: Erronous data detected")
 					print(holder)
 					print(i)
@@ -78,7 +91,7 @@ class Pair():
 				holder.append(pp.tagStrip(i))
 		if len(holder) == 0:
 			pass
-		elif len(holder) != 3:
+		elif len(holder) != len(self.terms):
 			print("Warning2: Erronous data detected")
 			print(holder)
 		else:
@@ -101,8 +114,7 @@ def execute(filePath, outDir = "output/ann_format/", terms = 'PMID:TI:AB'):
 		os.makedirs(outDir)
 	outFile = os.path.basename(filePath)
 	outFile = os.path.splitext(outFile)[0] + '.sp'
-	print(outFile)
-	papers = Pair(filePath)
+	papers = Pair(filePath, terms)
 	papers.writeAnn(outDir + outFile)
 
 
@@ -110,10 +122,11 @@ if __name__ == "__main__":
 	parser = argparse.ArgumentParser()
 	parser.add_argument("target", help= "Path to pubcrawl output file")
 	parser.add_argument("-o", "--outDir", help= "Directory to output data to")
+	parser.add_argument("-t", "--terms", help= "Medline terms in the file. Separate terms with ':'", default = 'PMID:TI:AB')
 	args = parser.parse_args()
 	
 	outDir = "output/ann_format/"
 	if args.outDir:
 		outDir = args.outDir
-		execute(args.target, outDir)
+		execute(args.target, outDir, args.terms)
 	
