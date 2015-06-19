@@ -1,5 +1,5 @@
 @SUMMARY
-POS == 
 NEG == 
 INT == 
+POS == 
 @PAPERS

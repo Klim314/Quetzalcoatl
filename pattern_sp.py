@@ -5,7 +5,7 @@ from modules import papers
 from modules import modfile
 import os
 import re
-import paperparse as pp
+from modules import paperparse as pp
 
 
 """
@@ -81,10 +81,10 @@ Paper():
 	Class representation of a single paper. Contains the title, abstract, and their respective stemmed and tokenized forms
 """
 class Paper():
-	def __init__(self, title, abstract, spSet = {}):
+	def __init__(self, spFilePaper, spSet = {}):
 		self.spSet = spSet
-		self.title = title
-		self.abstract = abstract
+		self.title = spFilePaper["TI  "]
+		self.abstract = spFilePaper["AB  "]
 		self.sTitle = self.tokStem(self.title)
 		self.sAbstract = self.tokStem(self.abstract)
 
@@ -108,9 +108,7 @@ Pair():
 	Takes in a filePath to a set of line-separated, initalizer-tagged papers
 	from that pair and packages them into Paper() objects
 
-	paperSplit:
-		takes a list of papers and converts them into a list of (Title, abstract) tuples. Currently discards any anomalous data
-		TODO: Implement logging of discarded data
+
 """
 class Pair():
 	def __init__(self, filePath):
@@ -121,35 +119,29 @@ class Pair():
 		self.spSet = self.spSet1.union(self.spSet2)
 
 		#Load the papers
-		self.rawPapers = papers.loadFile(filePath)
-		self.papers = [Paper(i,j, self.spSet) for i,j in self.paperSplit(self.rawPapers) ]
+		self.spFile = pp.spFile(filePath)
+		#unified is a tuple: (spFile.papers[i], Paper)
+		self.unified = [(i, Paper(i, self.spSet)) for i in self.spFile.papers]
 
-	#Splits the papers into (Title, Abstract) 2-tuples
-	def paperSplit(self, paperList):
-		#Handle Missing Dat ahere
-		holder, res = [], []
-		for i in paperList:
-			if i[:2] == "TI" or i[:2] == "ti":
-				if holder == []:
-					holder.append(i)
-				elif len(holder) != 2:
-					print("Warning: Erronous data detected")
-					print(holder)
-					print(i)
-					holder = [i]
-				else:
-					res.append(holder)
-					holder = [i]
-			else:
-				holder.append(i)
-		if len(holder) == 0:
-			pass
-		elif len(holder) != 2:
-			print("Warning2: Erronous data detected")
-			print(holder)
-		else:
-			res.append(holder)
-		return res	
+	def test(self, unifiedObject, patternList):
+		flag = 0
+		for pattern in patternList:
+			titleCheck = pattern.pCheck(unifiedObject[1].sTitle)
+			if titleCheck:
+				unifiedObject[0]['TIHT'] += ":#:".join([i.group(0) for i in titleCheck])
+				flag = 1
+			abstractCheck = pattern.pCheck(unifiedObject[1].sAbstract)	
+			if abstractCheck:
+				unifiedObject[0]['ABHT'] += ":#:".join([i.group(0) for i in abstractCheck])
+				flag = 1
+		return flag
+	def testAll(self, patternList, outPath):
+		for unifiedObject in self.unified:
+			isTrue = self.test(unifiedObject, patternList)
+			if isTrue:
+				self.spFile.summary["INT "] = '1'
+			self.spFile.writeSpFileHits(outPath)
+
 
 """
 pattern:
@@ -168,10 +160,12 @@ class Pattern():
 		self.text = text
 		self.regexes = []
 	def check(self, sentence):
+		holder = []
 		for regex in self.regexes:
-			if regex.search(sentence):
-				return True
-		return False
+			temp = regex.search(sentence)
+			if temp:
+				holder.append(temp)
+		return holder
 	def initialize(self, sja, sjb):
 		#cleanup
 		self.regexes = []
@@ -190,14 +184,16 @@ class Pattern():
 						flags[i] = k
 					else:
 						flags[i] = flags[i]
-				self.regexes.append(re.compile(".*".join(flags)))
+				self.regexes.append(re.compile("(" + ".*".join(flags) + ")"))
 				flags = self.text.split(' ')
 		return
 	def pCheck(self, paragraph):
+		holder = []
 		for sentence in paragraph:
-			if self.check(sentence):
-				return True
-		return False
+			temp = self.check(sentence)
+			if temp:
+				holder.extend(temp)
+		return holder
 
 class nPattern():
 	def __init__(textList):
@@ -209,12 +205,15 @@ class nPattern():
 
 	def pCheck(self, paragraph):
 		temp = [i for i in self.patterns]
+		holder = []
 		for pattern in self.patterns:
-			if pattern.pCheck(paragraph):
+			checkData = pattern.pCheck(paragraph)
+			if checkData:
+				holder.extend(checkData)
 				temp.remove(pattern)
 		if len(temp) == 0:
-			return True
-		return False
+			return holder
+		return []
 
 
 
@@ -234,7 +233,7 @@ makeName
 def makeName(sja, sjb):
 	sja = '_'.join(sja.split(" "))
 	sjb = '_'.join(sjb.split(" "))
-	return sja+'#' + sjb + ".compiled"
+	return sja+'#' + sjb + ".sp"
 """
 makePatterns(patternStringList):
 	takes in a list of pattern strings and processes them (tokenizing, stemming) into Pattern objects
@@ -278,12 +277,15 @@ def execute(filePath, postOutDir = ""):
 
 	pairPapers = Pair(filePath)
 
-	for paper in pairPapers.papers:
-		
-		if test(paper, patternList) or test(paper, reverseList):
-			with open (outPath, 'a') as f:
-				f.write(paper.title + '\n')
-				f.write(paper.abstract + '\n')
+	pairPapers.testAll(patternList, outPath)
+	pairPapers.testAll(reverseList, outPath)
+	# pairPapers.testAll(reverseList)
+
+	# for paper in pairPapers.papers:
+	# 	if test(paper, patternList) or test(paper, reverseList):
+	# 		with open (outPath, 'a') as f:
+	# 			f.write(paper.title + '\n')
+	# 			f.write(paper.abstract + '\n')
 
 
 def debug(filePath):
@@ -295,25 +297,12 @@ def debug(filePath):
 		pattern.initialize(sja, sjb)
 	for pattern in reverseList:
 		pattern.initialize(sjb, sja)
-
-	paper = Paper("ti  - cocktails of probiotics pre-adapted to multiple stress factors are more robust under simulated gastrointestinal conditions than their parental counterparts and exhibit enhanced antagonistic capabilities against escherichia coli and staphylococcus aureus.", "ab  - background: the success of the probiotics in delivery of health benefits depends  on their ability to withstand the technological and gastrointestinal conditions; hence development of robust cultures is critical to the probiotic industry. combinations of probiotic cultures have proven to be more effective than the use of single cultures for treatment and prevention of heterogeneous diseases. we investigated the effect of pre- adaptation of probiotics to multiple stresses on their stability under simulated gastrointestinal conditions and the effect of their singular as well as their synergistic antagonistic effect against selected enteric pathogens. methods: probiotic cultures were inoculated into mrs broth adjusted to ph 2 and incubated for 2 h at 37 degrees c. survivors of ph 2 were subcultured into 2% bile acid for 1 h at 37 degrees c. cells that showed growth after exposure to 2% bile acid for 1 h were finally inoculated in fresh mrs broth and incubated at 55 degrees c for 2 h. the cells surviving were then used as stress adapted cultures. the adapted cultures were exposed to simulated gastrointestinal conditions and their non- adapted counterparts were used to compare the effects of stress adaptation. the combination cultures were tested for their antipathogenic effects on escherichia coli and staphylococcus aureus. results: acid and bile tolerances of most of the stress-adapted cells were higher than of the non-adapted cells. viable counts of all the stress-adapted lactobacilli and bifidobacterium longum lmg 13197 were higher after sequential exposure to simulated gastric and intestinal fluids. however, for b. longum bb46 and b. bifidum lmg 13197, viability of non-adapted cells was higher than for adapted cells after exposure to these fluids. a cocktail containing l. plantarum + b. longum bb46 + b. longum lmg 13197 best inhibited s. aureus while e. coli was best inhibited by a combination containing l. acidophilus la14 150b + b. longum bb46 + b. bifidum lmg 11041. a cocktail containing the six non- adapted cultures was the least effective in inhibiting the pathogens. conclusion: multi-stress pre-adaptation enhances viability of probiotics under simulated gastrointestinal conditions; and formulations containing a mixture of multi stress-adapted cells exhibits enhanced synergistic effects against foodborne pathogens.")
-	temp = patternList[1].regexes
-	temp2= reverseList[1].regexes
-	target = paper.sAbstract[9]
-	print(target)
-	for i in temp:
-		for j in temp2:
-			print(i)
-			print(i.search(target))
-			print(j)
-			print(j.search(target))
-	print(paper.title)
-	print(paper.sTitle)
+	Pair(filePath)
 
 
 if __name__ == "__main__":
 
-	target = "input/pattern/tester/Lactobacillus_acidophilus#Escherichia_coli.compiled"
+	target = "input/pattern/smalltestann/Lactobacillus_acidophilus#Escherichia_coli.sp"
 	#debug(target)
 	execute(target)
 	

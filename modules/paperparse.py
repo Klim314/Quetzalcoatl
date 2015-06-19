@@ -140,8 +140,23 @@ class spFile():
 			f.write("@PAPERS\n")
 			for paperDict in self.papers:
 				f.write("== ".join(["PMID", paperDict["PMID"]]) + "\n")
-				f.write("== ".join(["AB  ", paperDict["AB  "]]) + "\n")
 				f.write("== ".join(["TI  ", paperDict["TI  "]]) + "\n")
+				f.write("== ".join(["AB  ", paperDict["AB  "]]) + "\n")
+				f.write("== ".join(["TIHT", paperDict["TIHT"]]) + "\n")
+				f.write("== ".join(["ABHT", paperDict["ABHT"]]) + "\n\n")
+	def writeSpFileHits(self, filePath):
+		with open(filePath, 'w') as f:
+			#handle the summary
+			f.write("@SUMMARY\n")
+			for i in self.summary:
+				f.write('== '.join([i, self.summary[i]]) + '\n')
+			f.write("@PAPERS\n")
+			for paperDict in self.papers:
+				if not (paperDict["TIHT"] or paperDict["ABHT"]):
+					continue
+				f.write("== ".join(["PMID", paperDict["PMID"]]) + "\n")
+				f.write("== ".join(["TI  ", paperDict["TI  "]]) + "\n")
+				f.write("== ".join(["AB  ", paperDict["AB  "]]) + "\n")
 				f.write("== ".join(["TIHT", paperDict["TIHT"]]) + "\n")
 				f.write("== ".join(["ABHT", paperDict["ABHT"]]) + "\n\n")
 
@@ -154,5 +169,4 @@ if __name__ == "__main__":
 	target = '../input/pattern/smalltestann/Actinomyces_sp.#Bacteroides_coprosuis.sp'
 	outPath = '../formats_and_standards/tester/tester.sp'
 	temp  = spFile(target)
-	print(temp.papers)
 	temp.writeSpFile(outPath)
