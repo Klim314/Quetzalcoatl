@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 12384389
+TI  == in vitro activities of faropenem against 579 strains of anaerobic bacteria.
+AB  == the activity of faropenem, a new oral penem, was tested against 579 strains of anaerobic bacteria by using the nccls-approved reference method. drugs tested included amoxicillin-clavulanate, cefoxitin, clindamycin, faropenem, imipenem, and metronidazole. of the 176 strains of bacteroides fragilis group isolates tested, two isolates had faropenem mics of 64 micro g/ml and imipenem mics of >32 micro g/ml. faropenem had an mic of 16 micro g/ml for an additional isolate of b. fragilis; this strain was sensitive to imipenem (mic of 1 micro g/ml). both faropenem and imipenem had mics of < or=4 micro g/ml for all isolates of bacteroides capillosus (10 isolates), bacteroides splanchnicus (13 isolates), bacteroides ureolyticus (11 isolates), bilophila wadsworthia (11 isolates), porphyromonas species (42 isolates), prevotella species (78 isolates), campylobacter species (25 isolates), sutterella wadsworthensis (11 isolates), fusobacterium nucleatum (19 isolates), fusobacterium mortiferum/varium (20 isolates), and other fusobacterium species (9 isolates). faropenem and imipenem had mics of 16 to 32 micro g/ml for two strains of clostridium difficile; the mics for all other strains of clostridium tested (69 isolates) were < or =4 micro g/ml. faropenem had mics of 8 and 16 micro g/ml, respectively, for two strains of peptostreptococcus anaerobius (mics of imipenem were 2 micro g/ml). mics were < or =4 micro g/ml for all other strains of gram-positive anaerobic cocci (53 isolates) and non-spore-forming gram-positive rods (28 isolates). other results were as expected and reported in previous studies. no metronidazole resistance was seen in gram-negative anaerobes other than s. wadsworthensis (18% resistant); 63% of gram-positive non-spore-forming rods were resistant. some degree of clindamycin resistance was seen in most of the groups tested.
+TIHT== 
+ABHT== 
+
+PMID== 16887572
+TI  == bilophila wadsworthiain brain abscess: case report.
+AB  == a case of a patient with a 20-year history of chronic otitis media complicated by cholesteatoma and brain abscess is described. a ct scan with contrast material showed three abscess cavities in the right cerebellar hemisphere. a culture from  a specimen of the cholesteatoma yielded a significant amount of growth of bilophila wadsworthia, bacteroides fragilis and prevotella oris and a moderate growth of alpha-streptococci and staphylococcus simulans. from the pus of the brain abscess we also isolated numerous bilophila wadsworthia, bacteroides fragilis and prevotella oris and some prevotella buccae and peptostreptococcus anaerobius. no aerobes were present. the patient underwent a craniotomy and the biggest abscess was removed together with the capsule. the antimicrobial therapy  included penicillin plus metronidazole and later augmentin. the result of the treatment was a complete cure and total recovery of the patient. this is the first documentation of isolation of b. wadsworthia in chronic otitis media and in brain abscess.
+TIHT== 
+ABHT== 
+
+PMID== 8517721
+TI  == in vitro activity of fk037, a new parenteral cephalosporin, against anaerobic bacteria.
+AB  == the activity of fk037, a new parenteral cephalosporin, was compared with those of cefpirome, ceftazidime, and flomoxef against 322 recent clinical isolates of anaerobic bacteria. a fastidious facultative anaerobe, gardnerella vaginalis, was also studied. fk037 inhibited 90% of isolates of peptostreptococcus anaerobius, peptostreptococcus asaccharolyticus, clostridium perfringens, mobiluncus spp., g. vaginalis, and porphyromonas gingivalis at < or = 0.78 micrograms/ml. the mics of fk037 for 50 and 90% of bacteroides fragilis isolates were 25 and > 200 micrograms/ml, respectively; the activity of fk037 was comparable to those of cefpirome and ceftazidime but lower than that of flomoxef. the activity of fk037  against fusobacterium nucleatum, fusobacterium varium, and bilophila wadsworthia  decreased when inoculum size was increased from 10(6) to 10(8) cfu/ml. little influence of inoculum size on the activity of fk037 was observed for other isolates tested. medium ph affected the activity of fk037 against f. varium (mics at phs 5 and 7, 3.13 and 100 micrograms/ml, respectively) and bacteroides gracilis (mics at phs 5 and 7, 12.5 and 1.56 micrograms/ml, respectively) but not against other organisms tested. fk037 was less resistant than flomoxef to hydrolysis by beta-lactamase group 2e derived from b. fragilis gai 0558 and gai 10150.
+TIHT== 
+ABHT== 
+

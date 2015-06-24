@@ -1,0 +1,131 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22214451
+TI  == inhibition of bacterial carbonic anhydrases and zinc proteases: from orphan targets to innovative new antibiotic drugs.
+AB  == zinc-containing enzymes, such as carbonic anhydrases (cas) and metalloproteases (mps) play critical functions in bacteria, being involved in various steps of their life cycle, which are important for survival, colonization, acquisition of  nutrients for growth and proliferation, facilitation of dissemination, invasion and pathogenicity. the development of resistance to many classes of clinically used antibiotics emphasizes the need of new antibacterial drug targets to be explored. there is a wealth of data regarding bacterial cas and zinc mps present  in many pathogenic species, such as neisseria spp., helycobacter pylori escherichia coli, mycobacterium tuberculosis, brucella spp., streptococcus pneumoniae, salmonella enterica, haemophilus influenzae, listeria spp, vibrio spp., pseudomonas aeruginosa, legionella pneumophila, streptomyces spp., clostridium spp., enterococcus spp., etc. some of these enzymes have been cloned, purified and characterized by crystallographic techniques. however, for the moment, few potent and specific inhibitors for bacterial mps have been reported except for clostridium histolyticum collagenase, botulinum and tetanus neurotoxin and anthrax lethal factor, which will be reviewed in this article. bacteria encode alpha-,beta-, and/or gamma-ca families, but up to now only the first two classes have been investigated in some detail in different species. the alpha-cas from neisseria spp. and h. pylori as well as the beta-class enzymes from e. coli, h. pylori, m. tuberculosis, brucella spp., s. pneumoniae, s. enterica and h. influenzae have been cloned and characterized. the catalytic/inhibition mechanisms of these cas are well understood as x-ray crystal structures are available for some of them, but no adducts of these enzymes with inhibitors have  been characterized so far. in vitro and in vivo studies with various classes of inhibitors, such as anions, sulfonamides and sulfamates have been reported. only  for neisseria spp., h. pylori, b. suis and s. pneumoniae cas it has been possible to evidence inhibition of bacterial growth in vivo. thus, bacterial cas and mps represent at this moment very promising targets for obtaining antibacterials devoid of the resistance problems of the clinically used such agents but further  studies are needed to validate these and other less investigated enzymes as novel drug targets.
+TIHT== 
+ABHT== 
+
+PMID== 21466657
+TI  == actin as target for modification by bacterial protein toxins.
+AB  == various bacterial protein toxins and effectors target the actin cytoskeleton. at  least three groups of toxins/effectors can be identified, which directly modify actin molecules. one group of toxins/effectors causes adp-ribosylation of actin at arginine-177, thereby inhibiting actin polymerization. members of this group are numerous binary actin-adp-ribosylating exotoxins (e.g. clostridium botulinum  c2 toxin) as well as several bacterial adp-ribosyltransferases (e.g. salmonella enterica spvb) which are not binary in structure. the second group includes toxins that modify actin to promote actin polymerization and the formation of actin aggregates. to this group belongs a toxin from the photorhabdus luminescens tc toxin complex that adp-ribosylates actin at threonine-148. a third group of bacterial toxins/effectors (e.g. vibrio cholerae multifunctional, autoprocessing  rtx toxin) catalyses a chemical crosslinking reaction of actin thereby forming oligomers, while blocking the polymerization of actin to functional filaments. novel findings about members of these toxin groups are discussed in detail.
+TIHT== 
+ABHT== 
+
+PMID== 21317249
+TI  == inhibitory spectra and modes of antimicrobial action of gallotannins from mango kernels (mangifera indica l.).
+AB  == this study investigated the antimicrobial activities and modes of action of penta-, hexa-, hepta-, octa-, nona-, and deca-o-galloylglucose (gallotannins) isolated from mango kernels. the mics and minimum bactericidal concentrations (mbcs) against food-borne bacteria and fungi were determined using a critical dilution assay. gram-positive bacteria were generally more susceptible to gallotannins than were gram-negative bacteria. the mics of gallotannins against bacillus subtilis, bacillus cereus, clostridium botulinum, campylobacter jejuni,  listeria monocytogenes, and staphylococcus aureus were 0.2 g liter(-1) or less; enterotoxigenic escherichia coli and salmonella enterica were inhibited by 0.5 to 1 g liter(-1), and lactic acid bacteria were resistant. the use of lipopolysaccharide mutants of s. enterica indicated that the outer membrane confers resistance toward gallotannins. supplementation of lb medium with iron eliminated the inhibitory activity of gallotannins against staphylococcus aureus, and siderophore-deficient mutants of s. enterica were less resistant toward gallotannins than was the wild-type strain. hepta-o-galloylglucose sensitized lactobacillus plantarum tmw1.460 to hop extract, indicating inactivation of hop resistance mechanisms, e.g., the multidrug resistance (mdr) transporter hora. carbohydrate metabolism of lactococcus lactis mg1363, a conditionally respiring organism, was influenced by hepta-o-galloylglucose when grown under aerobic conditions and in the presence of heme but not under anaerobic conditions, indicating that gallotannins influence the respiratory chain. in conclusion, the  inhibitory activities of gallotannins are attributable to their strong affinity for iron and likely additionally relate to the inactivation of membrane-bound proteins.
+TIHT== 
+ABHT== 
+
+PMID== 21247657
+TI  == new insights into the mode of action of the actin adp-ribosylating virulence factors salmonella enterica spvb and clostridium botulinum c2 toxin.
+AB  == the c2 toxin from clostridium botulinum represents the prototype of the family of binary actin-adp-ribosylating toxins. these toxins covalently transfer adp-ribose from nicotinamide adenine dinucleotide (nad(+)) onto arginine-177 of actin in the cytosol of eukaryotic cells resulting in depolymerization of actin filaments and  cell rounding. the c2 toxin consists of two non-linked proteins, the enzyme component c2i and the binding and translocation component c2ii, which delivers c2i into host cells. the adp-ribosyltransferase spvb from salmonella enterica also modifies actin, but is delivered into the host cell cytosol from intracellular growing salmonella, most likely via type-iii-secretion. we characterized the mode of action of spvb in comparison to c2 toxin in vitro and in intact cells. we identified arginine-177 as the target for spvb-catalyzed mono-adp-ribosylation of actin. to compare the cellular responses following modification of actin by spvb or by the binary toxins without the influence of other salmonella virulence factors, we constructed a cell-permeable fusion toxin  to deliver the catalytic domain of spvb (c/spvb) into the cytosol of target cells. this review summarizes recent findings of research on the actin adp-ribosylating toxins regarding their cellular uptake, molecular mode of action and the cellular consequences following adp-ribosylation of actin.
+TIHT== 
+ABHT== 
+
+PMID== 19805536
+TI  == the long-lived nature of clostridium perfringens iota toxin in mammalian cells induces delayed apoptosis.
+AB  == mono-adp ribosylation of actin by bacterial toxins, such as clostridium perfringens iota or clostridium botulinum c2 toxins, results in rapid depolymerization of actin filaments and cell rounding. here we report that treatment of african green monkey kidney (vero) cells with iota toxin resulted in delayed caspase-dependent death. unmodified actin did not reappear in toxin-treated cells, and enzyme-active toxin was detectable in the cytosol for at least 24 h. c2 toxin showed comparable, long-lived effects in cells, while a c2 toxin control lacking adp-ribosyltransferase activity did not induce cell death.  to address whether the remarkable stability of the iota and c2 toxins in cytosol  was crucial for inducing cell death, we treated cells with c/spvb, the catalytic  domain of salmonella enterica spvb. although c/spvb also mono-adp ribosylates actin as do the iota and c2 toxins, cells treated with a cell-permeating c/spvb fusion toxin became rounded but recovered and remained viable. moreover, unmodified actin reappeared in these cells, and adp-ribosyltransferase activity due to c/spvb was not detectable in the cytosol after 24 h, a result most likely  due to degradation of c/spvb. repeated application of c/spvb prevented recovery of cells and reappearance of unmodified actin. in conclusion, a complete but transient adp ribosylation of actin was not sufficient to trigger apoptosis, implying that long-term stability of actin-adp-ribosylating toxins, such as iota  and c2, in the cytosol is crucial for inducing delayed, caspase-dependent cell death.
+TIHT== 
+ABHT== 
+
+PMID== 18073088
+TI  == foodborne zoonoses due to meat: a quantitative approach for a comparative risk assessment applied to pig slaughtering in europe.
+AB  == foodborne zoonoses have a major health impact in industrialised countries. new european food safety regulations were issued to apply risk analysis to the food chain. the severity of foodborne zoonoses and the exposure of humans to biological hazards transmitted by food must be assessed. for meat, inspection at  the slaughterhouse is historically the main means of control to protect consumers. however, the levels of detection of biological hazards during meat inspection have not been established in quantitative terms yet. pork is the most  frequently consumed meat in europe. the aim of this study was to provide elements for quantifying levels of risk for pork consumers and lack of detection by meat inspection. information concerning hazard identification and characterisation was obtained by the compilation and statistical analysis of data from 440 literature  references. the incidence and severity of human cases due to pork consumption in  europe were assessed in order to calculate risk scores. a ratio of non-control was calculated for each biological hazard identified as currently established in  europe, i.e. the incidence of human cases divided by the prevalence of hazards on pork. salmonella enterica, yersinia enterocolitica and campylobacter spp. were characterised by high incidence rates. listeria monocytogenes, clostridium botulinum and mycobacterium spp. showed the highest severity scores. the three main high risk hazards involved in foodborne infections, y. enterocolitica, s. enterica and campylobacter spp. are characterised by high non-control ratios and  cannot be detected by macroscopic examination of carcasses. new means of hazard control are needed to complement the classical macroscopic examination.
+TIHT== 
+ABHT== 
+
+PMID== 17995767
+TI  == uncertainty in thermal process calculations due to variability in first-order and weibull kinetic parameters.
+AB  == alternatives to first-order model of death kinetics of microorganisms have been proposed as improvements in the calculation of lethality for a thermal process. although such models can potentially improve predictions for many situations, this article tries to answer the question of whether the added complexities of these models are a worthwhile investment once we include the effect of uncertainties in various microbiological and process parameters. monte carlo technique is used to include variability in kinetic parameters in lethality calculation for a number of heating processes, for both first-order and weibull kinetics models. it is shown that uncertainties represented by coefficient of variation in kinetic parameters lead to a wide range of final log-reduction prediction. with the same percent variability in kinetic parameters, uncertainty  in the final log reduction for weibull kinetics was smaller or equal to that for  first-order kinetics. due to the large effect of variability in the input parameters on the final log reduction, the effort to move toward more accurate kinetic models needs to be weighed against inclusion of variability.
+TIHT== 
+ABHT== 
+
+PMID== 17283073
+TI  == a cell-permeable fusion toxin as a tool to study the consequences of actin-adp-ribosylation caused by the salmonella enterica virulence factor spvb in intact cells.
+AB  == the virulence factor spvb is a crucial component for the intracellular growth and infection process of salmonella enterica. the spvb protein mediates the adp-ribosylation of actin in infected cells and is assumed to be delivered directly from the engulfed bacteria into the host cell cytosol. here we used the  binary clostridium botulinum c2 toxin as a transport system for the catalytic domain of spvb (c/spvb) into the host cell cytosol. a recombinant fusion toxin composed of the enzymatically inactive n-terminal domain of c. botulinum c2 toxin (c2in) and c/spvb was cloned, expressed, and characterized in vitro and in intact cells. when added together with c2ii, the c2in-c/spvb fusion toxin was efficiently delivered into the host cell cytosol and adp-ribosylated actin in various cell lines. the cellular uptake of the fusion toxin requires translocation from acidic endosomes into the cytosol and is facilitated by hsp90. the n- and c-terminal domains of spvb are linked by 7 proline residues. to elucidate the function of this proline region, fusion toxins containing none, 5,  7, and 9 proline residues were constructed and analyzed. the existence of the proline residues was essential for the translocation of the fusion toxins into host cell cytosol and thereby determined their cytopathic efficiency. no differences concerning the mode of action of the c2in-c/spvb fusion toxin and the c2 toxin were obvious as both toxins induced depolymerization of actin filaments, resulting in cell rounding. the acute cellular responses following adp-ribosylation of actin did not immediately induce cell death of j774.a1 macrophage-like cells.
+TIHT== 
+ABHT== 
+
+PMID== 16430223
+TI  == salmonella enterica spvb adp-ribosylates actin at position arginine-177-characterization of the catalytic domain within the spvb protein and a comparison to binary clostridial actin-adp-ribosylating toxins.
+AB  == the spvb protein from salmonella enterica was recently discovered as an actin-adp-ribosylating toxin. spvb is most likely delivered via a type-iii secretion system into eukaryotic cells and does not have a binding/translocation  component. this is in contrast to the family of binary actin-adp-ribosylating toxins from various bacillus and clostridium species. however, there are homologies in amino acid sequences between the c-terminal domain of spvb and the  catalytic domains of the actin-adp-ribosylating toxins such as c2 toxin from clostridium botulinum and iota toxin from clostridium perfringens. we compared the biochemical properties of the catalytic c-terminal domain of spvb (c/spvb) with the enzyme components of c2 toxin and iota toxin. the specificity of c/spvb  concerning the modification of g- or f-actin was comparable to the c2 and iota toxins, although there were distinct differences regarding the recognition of actin isoforms. c/spvb and iota toxin modify both muscle alpha-actin and nonmuscle beta/gamma-actin, whereas c2 toxin only modifies beta/gamma-actin. in contrast to the iota and c2 toxins, c/spvb possessed no detectable glycohydrolase activity in the absence of a protein substrate. the maximal reaction rates were comparable for all toxins, whereas variable k(m) values for nad were evident. we  identified arginine-177 as the modification site for c/spvb with the actin homologue protein act88f from drosophila.
+TIHT== 
+ABHT== 
+
+PMID== 15353570
+TI  == phages and the evolution of bacterial pathogens: from genomic rearrangements to lysogenic conversion.
+AB  == comparative genomics demonstrated that the chromosomes from bacteria and their viruses (bacteriophages) are coevolving. this process is most evident for bacterial pathogens where the majority contain prophages or phage remnants integrated into the bacterial dna. many prophages from bacterial pathogens encode virulence factors. two situations can be distinguished: vibrio cholerae, shiga toxin-producing escherichia coli, corynebacterium diphtheriae, and clostridium botulinum depend on a specific prophage-encoded toxin for causing a specific disease, whereas staphylococcus aureus, streptococcus pyogenes, and salmonella enterica serovar typhimurium harbor a multitude of prophages and each phage-encoded virulence or fitness factor makes an incremental contribution to the fitness of the lysogen. these prophages behave like "swarms" of related prophages. prophage diversification seems to be fueled by the frequent transfer of phage material by recombination with superinfecting phages, resident prophages, or occasional acquisition of other mobile dna elements or bacterial chromosomal genes. prophages also contribute to the diversification of the bacterial genome architecture. in many cases, they actually represent a large fraction of the strain-specific dna sequences. in addition, they can serve as anchoring points for genome inversions. the current review presents the available genomics and biological data on prophages from bacterial pathogens in an evolutionary framework.
+TIHT== 
+ABHT== 
+
+PMID== 15279944
+TI  == application of oligonucleotide array technology for the rapid detection of pathogenic bacteria of foodborne infections.
+AB  == a rapid and accurate method for detection for common pathogenic bacteria in foodborne infections was established by using oligonucleotide array technology. nylon membrane was used as the array support. a mutation region of the 23s rrna gene was selected as the discrimination target from 14 species (genera) of bacteria causing foodborne infections and two unrelated bacterial species. a pair of universal primers was designed for pcr amplification of the 23s rrna gene. twenty-one species (genera)-specific oligonucleotide detection probes were synthesized and spotted onto the nylon membranes. the 23s rrna gene amplification products of 14 species of pathogenic bacteria were hybridized to the oligonucleotide array. hybridization results were analyzed with digoxigenin-linked enzyme reaction. results indicated that nine species of pathogenic bacteria (escherichia coli, campylobacter jejuni, shigella dysenteriae, vibrio cholerae, vibrio parahaemolyticus, proteus vulgaris, bacillus cereus, listeria monocytogenes and clostridium botulinum) showed high sensitivity and specificity for the oligonucleotide array. two other species (salmonella enterica and yersinia enterocolitica) gave weak cross-reaction with e. coli, but  the reaction did not affect their detection. after redesigning the probes, positive hybridization results were obtained with staphylococcus aureus, but not  with clostridium perfringens and streptococcus pyogenes. the oligonucleotide array can also be applied to samples collected in clinical settings of foodborne  infections. the superiority of oligonucleotide array over other tests lies on its rapidity, accuracy and efficiency in the diagnosis, treatment and control of foodborne infections.
+TIHT== 
+ABHT== 
+
+PMID== 12559779
+TI  == vaccination against type f botulinum toxin using attenuated salmonella enterica var typhimurium strains expressing the bont/f h(c) fragment.
+AB  == the utility of the htra, pagc and nirb promoters to direct the expression of the  carboxy-terminal (h(c)) fragment of botulinum toxin f (fh(c)) in salmonella enterica var typhimurium has been evaluated. only low levels of serum antibody were induced after immunisation, and some protection against botulinum toxin type f was demonstrated after oral immunisation of mice with two doses of any of these recombinant salmonella. immunisation with two doses of recombinant salmonella expressing fh(c) from the htra promoter gave the greatest protection, against up  to 10,000 mouse lethal doses of botulinum toxin type f. these results demonstrate the feasibility of an orally delivered vaccine against botulinum toxin type f.
+TIHT== 
+ABHT== 
+
+PMID== 12189948
+TI  == contaminants in feed for food-producing animals.
+AB  == outbreaks of bovine spongiform encephalopathy (bse) and food borne microbial infections, dioxin contaminated animal products, the presence of veterinary drug  residues, microbial resistance to antibiotics, mycotoxins, agricultural and industrial chemicals, etc. are serious concerns for the food industry in many countries. since the direct links between feed safety and safety of foods of animal origin are obvious, feed production and manufacture should be considered as an integral part of the food production chain. industry is responsible for the quality and safety of food and feed that is produced. this paper is a brief review of some microorganisms as source of infections for farm animals that could result in human illnesses. these include salmonella enterica, bacillus anthracis, toxoplasma gondii, trichinella spiralis, prions, listeria monocytogenes, ehec, campylobacter, clostridium botulinum, hog cholera virus, foot and mouth disease virus, etc. as well as other contaminants associated with animal feed such as mycotoxins, veterinary drugs, dioxins and pcb and genetically modified organisms.
+TIHT== 
+ABHT== 
+
+PMID== 10712800
+TI  == infections and intoxications associated with animal feed and forage which may present a hazard to human health.
+AB  == animal feed or forage may be the source of a limited number of infections for farm animals that could lead to human illness. likely organisms include salmonella enterica, toxoplasma gondii, trichinella spiralis and possibly the agent of bovine spongiform encephalopathy. the risk to human health from other infectious agents which may contaminate either feed or forage appear to be either negligible, e.g. bacillus anthracis and mycobacterium bovis, or non-existent, e.g. clostridium botulinum toxin and listeria monocytogenes. mycotoxins present in animal feed can result in foods of animal origin also containing them. this risk is well recognized but has yet to be quantified accurately and in some instances the risk may be of theoretical rather than practical importance. pesticides, agricultural and industrial chemicals, heavy metals and radionuclides may pollute animal feed and forages. the methods available for controlling pollution from these sources are well understood from a technical point of view although the effective implementation of controls can be difficult.
+TIHT== 
+ABHT== 
+
+PMID== 399374
+TI  == the intestinal flora and infant botulism.
+AB  == the intestinal flora of experimental animals interferes with infection by species of salmonella and shigella. protection against infection with these organisms appears to be related to high concentrations of volatile acids, low ph, and low oxidation-reduction potential of the intestinal contents of animals with an intact flora. there are no data to show that the flora influences colonization of the intestine with clostridial species, but indirect evidence suggests that the intestinal flora may be involved in this process. the impact of the intestinal flora on the ecology of the large intestine may be the most important determinant of resistance to infant botulism.
+TIHT== 
+ABHT== 
+
+PMID== 803403
+TI  == comparison of the effects of three fluorocarbons on certain bacteria.
+AB  == three fluorocarbons were tested to determine their effect on bacterial growth. freon 11 and 21 in various concentrations had an inhibitory effect on selected test organisms, but freon 22 had no effect. both aerobic and anaerobic microorganisms, as well as gram-positive and gram-negative species, were included among the bacteria tested. freon 11 and 21 caused a similar response with freon 11 being more inhibitory to some species and freon 21 more inhibitory to others.  inhibition was dependent on the concentration of the halocarbon and resulted in decreased respiration rates at all concentrations tested. results reported here indicate that the action of the fluorocarbons tested is bactericidal rather than  bacteriostatic, serratia marcescens and clostridium botulinum were the species most sensitive to the halocarbons tested.
+TIHT== 
+ABHT== 
+
+PMID== 4564040
+TI  == radiometric detection of some food-borne bacteria.
+AB  == studies on detection of bacteria by radiometric techniques have been concerned primarily with aerobic species in clinical specimens. the data presented here are related to detection of aerobic and anaerobic species that are of significance in foods, by measurement of (14)co(2) evolved from the metabolism of (14)c-glucose.  salmonella typhimurium and staphylococcus aureus were inoculated into tryptic soy broth containing 0.0139 muci of (14)c glucose/ml of medium. detection times ranged from 10 to 3 hr for inocula of 10(0) to 10(4) cells/ml of broth. heat-shocked spores of clostridium sporogenes or c. botulinum were incubated in tryptic soy broth supplemented with thiotone and nahco(3). the medium was rendered anaerobic with n(2). spores were detected when 0.0833 muci of labeled glucose was available/ml of medium but not when 0.0139 muci of glucose was present/ml. the spores required 3 to 4 hr longer for detection than did comparable numbers of aerobic vegetative cells. the results demonstrate the importance of availability of sufficient label in the media and the potential of  the application of this technique for sterility testing of foods.
+TIHT== 
+ABHT== 
+
+PMID== 4340202
+TI  == bacterial contamination of food.
+AB  == 
+TIHT== 
+ABHT== 
+
+PMID== 4917478
+TI  == food irradiation: a complex conundrum.
+AB  == 
+TIHT== 
+ABHT== 
+
+PMID== 4293386
+TI  == experimental production of diarrhea and its prevention by malethamer in monkeys.
+AB  == 
+TIHT== 
+ABHT== 
+
+PMID== 14837307
+TI  == [behaviour of toxins of clostridium botulinum and salmonella enteritidis towards  antibiotics, chemotherapeutics and dyes].
+AB  == 
+TIHT== 
+ABHT== 
+

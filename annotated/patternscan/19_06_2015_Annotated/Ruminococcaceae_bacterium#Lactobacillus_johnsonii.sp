@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24662098
+TI  == discordance between changes in the gut microbiota and pathogenicity in a mouse model of spontaneous colitis.
+AB  == under conventional conditions, mice deficient in core 1-derived o-glycans (tm-iec c1galt1(-/-)), which have a defective mucus layer, experienced spontaneous inflammation of the colon. analysis of fecal bacterial populations by pyrosequencing of 16s rrna gene showed that disease in conventional tm-iec c1galt1(-/-) was associated with shifts in the microbiota manifested by increases in lactobacillus and clostridium species, and decreases in unclassified ruminococcaceae and lachnospiraceae. under germ-free (gf) conditions, tm-iec c1galt1(-/-) presented decreased goblet cells, but did not develop inflammation.  monoassociation of gf tm-iec c1galt1(-/-) revealed that bacterial species differ  significantly in their ability to induce inflammatory changes. bacteroides thetaiotaomicron caused inflammation, while lactobacillus johnsonii (enriched during colitis) did not. these observations demonstrate that not all microbiota shifts that correlate with disease contribute to pathogenesis.
+TIHT== 
+ABHT== 
+
+PMID== 21441326
+TI  == influence of antimicrobial feed additives on broiler commensal posthatch gut microbiota development and performance.
+AB  == the effects of avilamycin, zinc bacitracin, and flavophospholipol on broiler gut  microbial community colonization and bird performance in the first 17 days posthatch were investigated. significant differences in gut microbiota associated with gut section, dietary treatment, and age were identified by terminal restriction fragment length polymorphism (t-rflp), although no performance-related differences between dietary treatments were detected. similar age-related shifts in the gut microbiota were identified regardless of diet but varied between the ilea and ceca. interbird variabilities in ileal bacterial communities were reduced (3 to 7 days posthatch) in chicks fed with feed containing antimicrobial agents. avilamycin and flavophospholipol had the most consistent effect on gut microbial communities. operational taxonomic units (otu) linked to changes in gut microbiota in birds on antimicrobial-supplemented diets  were characterized and identified. some otus could be identified to the species level; however, the majority could be only tentatively classified to the genus, family, order, or domain level. otus 140 to 146 (lachnospiraceae), otu 186/188 (lactobacillus johnsonii), otu 220 (lachnospiraceae), otus 284 to 288 (unclassified bacterial spp. or ruminococcaceae), otu 296/298 (unclassified bacterium or clostridiales), and otu 480/482 (oxalobacteraceae) were less prevalent in the guts of chicks fed antimicrobial-supplemented diets. otu 178/180 (lactobacillus crispatus), otu 152 (lactobacillus reuteri or unclassified clostridiales), otu 198/200 (subdoligranulum spp.), and otu 490/492 (unclassified bacterium or enterobacteriaceae) were less prevalent in the gut of chicks raised  on the antimicrobial-free diet. the identification of key bacterial species influenced by antimicrobial-supplemented feed immediately posthatch may assist in the formulation of diets that facilitate beneficial gut microbial colonization and, hence, the development of alternatives to current antimicrobial agents in feed for sustainable poultry production.
+TIHT== 
+ABHT== 
+

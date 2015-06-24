@@ -1,0 +1,53 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23851074
+TI  == crystal structure of the ligand-binding form of nanornase from bacteroides fragilis, a member of the dhh/dhha1 phosphoesterase family of proteins.
+AB  == nanornase (nrn) specifically degrades nucleoside 3',5'-bisphosphate and the very  short rna, nanorna, during the final step of mrna degradation. the crystal structure of nrn in complex with a reaction product gmp was determined. the overall structure consists of two domains that are interconnected by a flexible loop and form a cleft. two mn(2)(+) ions are coordinated by conserved residues in the dhh motif of the n-terminal domain. gmp binds near the dhha1 motif region in  the c-terminal domain. our structure enables us to predict the substrate-bound form of nrn as well as other dhh/dhha1 phosphoesterase family proteins.
+TIHT== 
+ABHT== 
+
+PMID== 16723563
+TI  == dna microarray for detection of macrolide resistance genes.
+AB  == a dna microarray was developed to detect bacterial genes conferring resistance to macrolides and related antibiotics. a database containing 65 nonredundant genes selected from publicly available dna sequences was constructed and used to design 100 oligonucleotide probes that could specifically detect and discriminate all 65 genes. probes were spotted on a glass slide, and the array was reacted with dna templates extracted from 20 reference strains of eight different bacterial species (streptococcus pneumoniae, streptococcus pyogenes, enterococcus faecalis, enterococcus faecium, staphylococcus aureus, staphylococcus haemolyticus, escherichia coli, and bacteroides fragilis) known to harbor 29 different macrolide resistance genes. hybridization results showed that probes reacted with, and only with, the expected dna templates and allowed discovery of three unexpected genes, including msr(sa) in b. fragilis, an efflux gene that has not yet been described for gram-negative bacteria.
+TIHT== 
+ABHT== 
+
+PMID== 8724814
+TI  == antibacterial activity of quinupristin/dalfopristin. rationale for clinical use.
+AB  == most gram-positive organisms are highly susceptible to the streptogramin, quinupristin/dalfopristin (rp 59500; synercid). minimum inhibitory concentrations for 90% of isolates (mic90) were < or = 1 mg/l for staphylococcus aureus, s. epidermidis, s. haemolyticus, streptococcus pneumoniae, s. pyogenes and listeria  monocytogenes. importantly, quinupristin/dalfopristin shows similar activity against methicillin-susceptible and -resistant strains of s. aureus, and streptococci with benzylpenicillin (penicillin g)- or erythromycin-acquired resistance. enterococci have varying susceptibility to quinupristin /dalfopristin, although most isolates tested are susceptible to the drug, including vancomycin-resistant and multiresistant enterococcus faecium. e. faecalis are generally the least susceptible. among the gram-negative respiratory pathogens moraxella catarrhalis is susceptible and haemophilus influenzae is moderately susceptible to quinupristin/ dalfopristin; however, enterobacteriaceae, pseudomonas aeruginosa and acinetobacter spp. are resistant.  the drug is active against anaerobic organisms tested, including clostridium perfringens, lactobacillus spp., bacteroides fragilis and peptostreptococcus. synergy has been demonstrated in vancomycin-resistant and multiresistant e. faecium, and methicillin-sensitive and -resistant s. aureus with the combination  of vancomycin and quinupristin/ dalfopristin. quinupristin/dalfopristin shows antibacterial activity in vivo in animal models of infection, including methicillin-sensitive and -resistant s. aureus infection in rabbits, s. aureus and s. pneumoniae in mice, and erythromycin-sensitive and -resistant viridans group streptococci infections in rats. the drug is rapidly bactericidal against gram-positive organisms (with the exception of enterococci) at concentrations similar to or within 4-fold of the mic, and it has a long postantibiotic effect both in vitro and in vivo.
+TIHT== 
+ABHT== 
+
+PMID== 1424509
+TI  == the activity of metal compounds against aerobic and anaerobic bacteria.
+AB  == we evaluated the antimicrobial activity of two metal compounds, jm-1397 (oso2[xylyl]2) and jm-2469 (aucl[s2cpet3]). both inhibited methicillin-susceptible and methicillin-resistant staphylococcus aureus at concentrations of 0.5-2 micrograms/ml, with a minimum inhibitory concentration (mic90) of 1 microgram/ml for jm-1397 and 0.5 microgram/ml for jm-2469. similar concentrations inhibited methicillin-susceptible and -resistant coagulase-negative staphylococci (s. epidermidis, s. haemolyticus, and s. saprophyticus). jm-2469 inhibited group a, b, c, f, and g beta-hemolytic streptococci and viridans group streptococci at 1-8 micrograms/ml (mic90 4 micrograms/ml) but enterococcus faecalis and e. faecium had mics of 8-16 micrograms/ml. jm-1397 had mics for these organisms of greater than 64 micrograms/ml. bacteroides fragilis, other bacteroides, and clostridium species were inhibited by less than or equal to 0.12-4 micrograms/ml (mic90, 0.5 microgram/ml). mics of both compounds for enterobacteriaceae and pseudomonas spp. were greater than 64 micrograms/ml. these studies show that osmium and gold compounds have potential as topical agents against gram-positive and anaerobic species.
+TIHT== 
+ABHT== 
+
+PMID== 1828137
+TI  == activities of two new teicoplanin amide derivatives (mdl 62211 and mdl 62873) compared with activities of teicoplanin and vancomycin against 800 recent staphylococcal isolates from france and the united states.
+AB  == mdl 62211 is the amide derivative of the teicoplanin complex and mdl 62873 is a more focused amide derivative of the teicoplanin a2-2 peak. each investigational  compound had nearly identical activity and was 2- to 16-fold more active than teicoplanin or vancomycin. the mdl 62873 mics for 90% of the strains tested were  as follows: staphylococcus aureus, oxacillin susceptible, 0.12 micrograms/ml; s.  aureus, oxacillin resistant, 0.25 micrograms/ml; coagulase-negative staphylococci (cns), oxacillin susceptible, 0.25 micrograms/ml; and cns, oxacillin resistant, 2 micrograms/ml. cns isolates from france were generally more susceptible than those tested in the united states. teicoplanin-resistant u.s. isolates were usually staphylococcus haemolyticus (1.8% of all tested strains), for which mics  ranged from 32 to greater than 128 micrograms/ml. mdl 62873 was not active against the bacteroides fragilis group but was generally effective against gram-positive anaerobic strains.
+TIHT== 
+ABHT== 
+
+PMID== 2226498
+TI  == comparative in vitro activity of cefpirome and cefepime, two new cephalosporins.
+AB  == in in vitro tests the broad-spectrum cephalosporins cefpirome and cefepime were highly active against enterobacteriaceae, although often less so against strains  resistant to amoxicillin-clavulanate and ticarcillin-clavulanate, and against most strains of acinetobacter spp. and aeromonas hydrophila. they were also active against pseudomonas aeruginosa, although strains with non-plasmid mediated beta-lactam resistance were sometimes less sensitive. other pseudomonas spp. varied in their sensitivity. both agents were highly active against haemophilus influenzae, but beta-lactamase-producing branhamella catarrhalis were somewhat less sensitive. neisseria gonorrhoeae were susceptible, although non-beta-lactamase producing penicillin-resistant strains had higher mics. gardnerella vaginalis was also susceptible and campylobacter coli/jejuni usually  susceptible. both antibiotics had good activity against staphylococcus aureus and coagulase-negative staphylococci except for methicillin-resistant strains and staphylococcus haemolyticus which were of borderline sensitivity. all streptococci were sensitive, with the exception of highly penicillin-resistant pneumococci and enterococci against which cefpirome had greater activity than cefepime. both antibiotics had little useful activity against the bacteroides fragilis group or bacteroides oralis group but were active against most other anaerobes. clostridium difficile and some other clostridium species were resistant.
+TIHT== 
+ABHT== 
+
+PMID== 3487389
+TI  == in vitro activity of flurithromycin, a novel macrolide antibiotic.
+AB  == flurithromycin is an (8,s)-8-fluoroerythromycin isolated from the fermentation broth of streptomyces erythraeus atcc 31772, a blocked mutant of a strain producer of erythromycin. its in vitro antibacterial activity has been determined on recent clinical isolates of respiratory pathogens. the range of mic for streptococcus pneumoniae and streptococcus beta-haemolyticus group a is from 0.0015 to 0.006 microgram/ml, for haemophilus influenzae from 0.012 to 0.4 microgram/ml, for staphylococcus aureus from 0.1 to 3.1 micrograms/ml. its action is bacteriostatic and increases at alkaline ph. among anaerobes clostridium perfringens, bacteroides fragilis, other species of bacteroides and peptostreptococcus are particularly susceptible. flurithromycin also showed some  activity on mycobacterium bovis, m. scrofulaceum and m. phley. the determination  of killing curves indicated that in most cases a killing effect was obtained at 4 x mic. a combination of flurithromycin with ampicillin or doxycycline sometimes was synergic, but more often additive and never antagonistic. the possible interference of flurithromycin on some parameters of the natural system of defense was determined. at concentrations equal to therapeutic levels in blood and tissues, flurithromycin did not influence chemotaxis, phagocytosis, metabolic activation and the killing activity of neutrophils.
+TIHT== 
+ABHT== 
+
+PMID== 3755018
+TI  == ly164846 in vitro antimicrobial activity testing, including disk diffusion susceptibility tests using 30-microgram disks.
+AB  == a new oral cephalosporin, ly164846 (eli lilly & co., indianapolis, ind.), was found to have a unique antimicrobial spectrum confined to methicillin-susceptible staphylococcus spp., streptococci (except enterococcus spp.), haemophilus influenzae, branhamella catarrhalis, and some anaerobes. cephalothin in vitro tests (30-microgram disks or dilution) can represent ly164846 for laboratory testing if comparable interpretive breakpoints are applied to strains within the  spectrum of ly164846. organisms not inhibited by ly164846 (mics greater than or equal to 32 micrograms/ml) were members of the family enterobacteriaceae, pseudomonas spp., acinetobacter spp., enterococci, and some strains of staphylococcus haemolyticus and of the bacteroides fragilis group.
+TIHT== 
+ABHT== 
+

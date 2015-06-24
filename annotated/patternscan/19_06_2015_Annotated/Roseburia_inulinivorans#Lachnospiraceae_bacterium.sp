@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24553467
+TI  == phylogenetic distribution of three pathways for propionate production within the  human gut microbiota.
+AB  == propionate is produced in the human large intestine by microbial fermentation and may help maintain human health. we have examined the distribution of three different pathways used by bacteria for propionate formation using genomic and metagenomic analysis of the human gut microbiota and by designing degenerate primer sets for the detection of diagnostic genes for these pathways. degenerate  primers for the acrylate pathway (detecting the lcda gene, encoding lactoyl-coa dehydratase) together with metagenomic mining revealed that this pathway is restricted to only a few human colonic species within the lachnospiraceae and negativicutes. the operation of this pathway for lactate utilisation in coprococcus catus (lachnospiraceae) was confirmed using stable isotope labelling. the propanediol pathway that processes deoxy sugars such as fucose and rhamnose was more abundant within the lachnospiraceae (based on the pdup gene, which encodes propionaldehyde dehydrogenase), occurring in relatives of ruminococcus obeum and in roseburia inulinivorans. the dominant source of propionate from hexose sugars, however, was concluded to be the succinate pathway, as indicated by the widespread distribution of the mmda gene that encodes methylmalonyl-coa decarboxylase in the bacteroidetes and in many negativicutes. in general, the capacity to produce propionate or butyrate from hexose sugars resided in different species, although two species of lachnospiraceae (c. catus and r. inulinivorans) are now known to be able to switch from butyrate to propionate production on different substrates. a better understanding of the microbial ecology of short-chain fatty acid formation may allow modulation of propionate formation by the human gut microbiota.
+TIHT== 
+ABHT== 
+
+PMID== 23909466
+TI  == prebiotic stimulation of human colonic butyrate-producing bacteria and bifidobacteria, in vitro.
+AB  == dietary macronutrients affect the composition of the gut microbiota, and prebiotics are used to improve and maintain a healthy gut. the impact of prebiotics on dominant gut bacteria other than bifidobacteria, however, is under-researched. here, we report carbohydrate utilisation patterns for representative butyrate-producing anaerobes, belonging to the gram-positive firmicutes families lachnospiraceae and ruminococcaceae, by comparison with selected bacteroides and bifidobacterium species. growth assessments using anaerobic hungate tubes and a new rapid microtitre plate assay were generally in  good agreement. the bacteroides strains tested showed some growth on basal medium with no added carbohydrates, utilising peptides in the growth medium. the butyrate-producing strains exhibited different growth profiles on the substrates, which included starch, inulin, fructooligosaccharides (fos), galactooligosaccharides (gos) and xylooligosaccharides (xos). eleven were able to grow on short-chain fos, but this number decreased as the chain length of the fructan substrates increased. long-chain inulin was utilised by roseburia inulinivorans, but by none of the bifidobacterium species examined here. xos was  a more selective growth substrate than fos, with only six of the 11 firmicutes strains able to use xos for growth. these results illustrate the selectivity of different prebiotics and help to explain why some are butyrogenic.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 2148089
+TI  == role of bacteroides uniformis in susceptibility of ta:cf# 1 mice to infection by  treponema hyodysenteriae.
+AB  == among the various strains and colonies of mice tested specific-pathogen-free (spf) ta:cf#1 mice exhibited the highest susceptibility to treponema hyodysenteriae infection. staphylococcus epidermidis 1047, streptococcus faecalis 2039, lactobacillus murinus 3010, escherichia coli 1049, and bacteroides thetaiotaomicron 3008 were administered to the ta:cf#1 mice. b. uniformis ik, which appeared to colonize in the breeding facility under spf conditions, was isolated from the cecal content of a ta:cf#1 mouse and identified in the mouse flora. germfree mice were infected with these six bacteria and challenged with t. hyodysenteriae dj70p3 to elucidate the causal relationship between these bacteria and the sensitivity of mice to t. hyodysenteriae infection. no cecal lesions were observed in gnotobiotic mice either monoassociated with t. hyodysenteriae dj70p3  or b. uniformis ik or inoculated with t. hyodysenteriae dj70p3 combined with the  5 a.m. strains. gross cecal lesions appeared only in mice inoculated with t. hyodysenteriae dj70p3 combined with b. uniformis ik. a new spf mouse colony (cf#1/b ta) established from gnotobiotic mice by inoculation with b. uniformis ik and the 5 laboratory stock cultures was as susceptible to t. hyodysenteriae as the original ta:cf#1 mice. this suggests that b. uniformis ik plays an important  role in the high susceptibility of ta:cf#1 mice to t.hyodysenteriae.
+TIHT== 
+ABHT== 
+
+PMID== 992250
+TI  == deconjugation of bile acids by human intestinal bacteria.
+AB  == the purpose of this report is to present the deconjugation of bile acids by numbers of strains of bacteria in the small intestine and feces. the small intestinal juice was aseptically aspirated by a double lumen tube with a rubber cover on the tip devised by us ("fukushima type 1"). bile acids were analyzed with thin layer chromatography. the results: 1) among aerobic bacteria, species of which all of the strains split conjugated bile acids was enterococcus, and most of the strains split were staphylococcus (s.) epidermidis and lactobacillus  (l.) bifidus. species of which none of the strains split were escherichia (e.) coli, e. communior, e. freundii, l. plantarum, l. acidophilus, l. buchneri, l. cellobiosus, l. bulgaricus, s. aureus, aerobacter aerogenes, pseudomonas aeruginosa, candida, proteus, serratia, and almost none of the species split was  intermediate coliform bacilli. 2) among anaerobic bacteria, species of which all  of the strains split were bacteroides (b.) vulgatus, b. thetaiotaomicron, b. uniformis, corynebacterium (c.) granulosum, c. avidum, peptostreptococcus (peptostrept.) putridus, eubacterium (eubact.) lentum, peptococcus (pept.) grigoroffii, pept. anaerobius, veillonella (v.) orbiculus, and most of the strains split were coryne. diphtheroides, eubact. parvum, peptostrept. intermedius. species of which none of the strains split were coryne, parvum, peptostrept. micros, v. alcalescens, v. parvula, catenabacterium (catena.) catenaforme, and catena. filamentosum. 3) all or none, or almost all or none, of  the strains of each species tested split conjugated bile acids, and it seems probably that the presence or absence of this ability would be a proper character of eachspecies.
+TIHT== 
+ABHT== 
+

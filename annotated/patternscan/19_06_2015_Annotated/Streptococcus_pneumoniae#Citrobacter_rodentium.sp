@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24431327
+TI  == streptococcus pneumoniae-induced pneumonia and citrobacter rodentium-induced gut  infection differentially alter vitamin a concentrations in the lung and liver of  mice.
+AB  == in the developing world, vitamin a (va) deficiency is endemic in populations that are also at great risk of morbidity and mortality because of pneumococcal pneumonia and enteric infections. to better understand how lung and gastrointestinal pathogens affect va status, we assessed va concentrations in serum, lung, and liver during an invasive pneumonia infection induced by streptococcus pneumoniae serotype 3, and a noninvasive gut infection induced by citrobacter rodentium, in vitamin a-adequate (vaa) and vitamin a-deficient (vad)  mice. for pneumonia infection, mice were immunized with pneumococcal polysaccharide serotype 3 (pps3), or not (infected-control), 5 d prior to intranasal inoculation with s. pneumoniae. two days post-inoculation, immunization was protective against systemic infection regardless of va status as pps3 immunization decreased bacteremia compared with infected-control mice (p < 0.05). retinol concentrations in the lung were higher in infected-control vaa mice (15.7 nmol/g: p < 0.05) compared with pps3-immunized mice (8.23 nmol/g), but this was not associated with increased lung bacterial burden. vaa mice had reduced severity of c. rodentium-induced gut infection as measured by fecal bacterial shedding compared with vad mice (p < 0.05). liver retinol and retinyl ester concentrations in vaa mice decreased at the peak of infection (retinol, 8.1 nmol/g; retinyl esters, 985 nmol/g; p < 0.05, compared with uninfected mice; retinol, 29.5 nmol/g; retinyl esters, 1730 nmol/g), whereas tissue va concentrations were low in vad mice during both infections. colonic mucin gene expression was also depressed at peak infection compared with uninfected mice (p  < 0.05). overall, pneumonia had less effect on va status than gastrointestinal infection, predominantly owing to reduced hepatic va storage at the peak of gut infection.
+TIHT== 
+ABHT== 
+
+PMID== 22801499
+TI  == hvem signalling at mucosal barriers provides host defence against pathogenic bacteria.
+AB  == the herpes virus entry mediator (hvem), a member of the tumour-necrosis factor receptor family, has diverse functions, augmenting or inhibiting the immune response. hvem was recently reported as a colitis risk locus in patients, and in  a mouse model of colitis we demonstrated an anti-inflammatory role for hvem, but  its mechanism of action in the mucosal immune system was unknown. here we report  an important role for epithelial hvem in innate mucosal defence against pathogenic bacteria. hvem enhances immune responses by nf-kappab-inducing kinase-dependent stat3 activation, which promotes the epithelial expression of genes important for immunity. during intestinal citrobacter rodentium infection,  a mouse model for enteropathogenic escherichia coli infection, hvem-/- mice showed decreased stat3 activation, impaired responses in the colon, higher bacterial burdens and increased mortality. we identified the immunoglobulin superfamily molecule cd160 (refs 7 and 8), expressed predominantly by innate-like intraepithelial lymphocytes, as the ligand engaging epithelial hvem for host protection. likewise, in pulmonary streptococcus pneumoniae infection, hvem is also required for host defence. our results pinpoint hvem as an important orchestrator of mucosal immunity, integrating signals from innate lymphocytes to  induce optimal epithelial stat3 activation, which indicates that targeting hvem with agonists could improve host defence.
+TIHT== 
+ABHT== 
+
+PMID== 21656255
+TI  == modulation of connexin signaling by bacterial pathogens and their toxins.
+AB  == inherent to their pivotal tasks in the maintenance of cellular homeostasis, gap junctions, connexin hemichannels, and pannexin hemichannels are frequently involved in the dysregulation of this critical balance. the present paper specifically focuses on their roles in bacterial infection and disease. in particular, the reported biological outcome of clinically important bacteria including escherichia coli, shigella flexneri, yersinia enterocolitica, helicobacter pylori, bordetella pertussis, aggregatibacter actinomycetemcomitans, pseudomonas aeruginosa, citrobacter rodentium, clostridium species, streptococcus pneumoniae, and staphylococcus aureus and their toxic products on connexin- and pannexin-related signaling in host cells is reviewed. particular attention is paid to the underlying molecular mechanisms of these effects as well as to the actual biological relevance of these findings.
+TIHT== 
+ABHT== 
+

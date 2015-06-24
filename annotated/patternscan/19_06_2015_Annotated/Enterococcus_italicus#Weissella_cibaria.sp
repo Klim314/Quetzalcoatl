@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 20226556
+TI  == probiotic table olives: microbial populations adhering on olive surface in fermentation sets inoculated with the probiotic strain lactobacillus paracasei impc2.1 in an industrial plant.
+AB  == this study reports the dynamics of microbial populations adhering on the surface  of debittered green olives cv. bella di cerignola in fermentation sets inoculated with the probiotic strain lactobacillus paracasei impc2.1 in different brining conditions (4% and 8% (w/v) nacl) at room temperature and 4 degrees c. the probiotic strain successfully colonized the olive surface dominating the natural  lab population and decreasing the ph of brines to <or=5.0 after 30 days until the end of fermentation. the dynamics of microbial populations associated with olive  surface and belonging to the different groups indicated that inoculated olives held at room temperature did not host enterobacteriaceae at the end of fermentation. yeast populations were present in a low number (<or=log(10) 5.7 cfu/g) throughout the process. a considerable genetic diversity of lab species colonizing the olive surface was found mainly in inoculated set brined in 8% nacl, as indicated by the shannon diversity index calculated for each set. generally, strains of lactobacillus coryniformis, l. paracasei, l. plantarum, l.  pentosus, l. rhamnosus, l. brevis, l. mali, l. vaccinostercus, l.casei, leuconostoc mesenteroides, leuc. pseudomesenteroides, lactococcus lactis, weissella paramesenteroides, w. cibaria, enterococcus casseliflavus group and e.  italicus were identified during the whole process. in particular, l. pentosus was the most frequently isolated species and it showed a high strain diversity throughout fermentation in all processes except for the one held at 4 degrees c.  also a notable incidence of leuc. mesenteroides on olives was highlighted in this study during all fermentation. results indicated that the human strain l. paracasei impc2.1 can be considered an example of a strain used in the dual role  of starter and probiotic culture which allowed the control of fermentation processes and the realization of a final probiotic product with functional appeal.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23019688
+TI  == bacteria and candida yeasts in inflammations of the oral mucosa in children with  secondary immunodeficiency.
+AB  == background: oral microbial flora and a damaged oral mucosa may increase the risk  of bacteriemia, fungemia and complications in immunocompromised patients. aim of  the study: assessment of presence: bacteria and candida spp. in different oral lesions, and the incidence of bacteremia in the case of a damaged mucosa in transplant recipients and patients receiving anti-tumour chemotherapy. material and method: forty-five patients - 18 months to 18 years of life, were included (20 - organ recipients, 14- anti-tumour chemotherapy, 11 - control group). clinical, oral mucosa examination focused on the type, severity and site of lesions, and microbiology assessed the presence of bacteria and fungi in the material from lesions. blood cultures were performed in ten immunocompromised patients with manifestations of systemic infection. the control material consisted of blood cultures made prior to the onset of oral lesions and after 4-6 weeks following their remission in a diagnosed bacteremia. the statistical analysis was performed. results: in the subjects with secondary immunodeficiency, among other coagulase-negative staphylococcus (cons), candidia spp. were more frequent. in cancer patients, mucositis was associated with candida spp., streptococcus spp. organ recipients with stomatitis exhibited the presence of cons, streptococcus viridians and other. oral lesions in the control group contained haemophilus parainfluenzae, neisseria spp. and staphylococcus aureus. in 30% of immunocompromised patients, oral lesions were accompanied by bacteremia. conclusions: a correlation has been found between oral lesions and the presence of s. aureus in patients without secondary immunodeficiency, and of  cons, enterococcus spp., candida spp. in immunocompromised patients.
+TIHT== 
+ABHT== 
+
+PMID== 15338148
+TI  == [piercing and tattoos in patients with congenital heart disease -- is it a problem?].
+AB  == piercing and tattooing enjoy widespread popularity in modern society. patients with congenital heart disease are at elevated risk for infective endocarditis. however, it is not yet known whether piercing and tattooing are dangerous for these patients.a search of the literature provided 10 published cases of infective endocarditis after piercing or tattooing. affected patients were adolescents or young adults ranging in age from 13 to 30 years (5 male, 5 female). four of the patients had a known cardiac risk factor for endocarditis (bicuspid aortic valve, postoperative trans-position of the great arteries, postoperative coarctation, postoperative aortic valve stenosis). piercing preceded endocarditis in 9 cases (4 times mouth, 2 ear, 1 nose, 1 breast, 1 navel), one tattoo. the following agents were isolated: s. aureus in 4 cases, 2 s. epidermidis, 1 str. viridans, 1 neisseria mucosa, 1 haemophilus aphrophilus, 1 haemophilus parainfluenzae. all patients were treated with antibiotics. six patients underwent cardiac surgery (5 of them valve replacement). patients with congenital heart disease constitute less than 1% of the population. thus, they are clearly overrepresented in the published literature. epidemiologic conclusions are not possible from these data. however, patients with congenital heart disease and their parents should be strongly advised against piercing and tattooing with regard to the risk of infective endocarditis.
+TIHT== 
+ABHT== 
+

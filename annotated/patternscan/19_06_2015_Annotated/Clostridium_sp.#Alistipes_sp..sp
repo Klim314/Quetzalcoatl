@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25579666
+TI  == genome sequence determination and metagenomic characterization of a dehalococcoides mixed culture grown on cis-1,2-dichloroethene.
+AB  == a dehalococcoides-containing bacterial consortium that performed dechlorination of 0.20 mm cis-1,2-dichloroethene to ethene in 14 days was obtained from the sediment mud of the lotus field. to obtain detailed information of the consortium, the metagenome was analyzed using the short-read next-generation sequencer solid 3. matching the obtained sequence tags with the reference genome  sequences indicated that the dehalococcoides sp. in the consortium was highly homologous to dehalococcoides mccartyi cbdb1 and bav1. sequence comparison with the reference sequence constructed from 16s rrna gene sequences in a public database showed the presence of sedimentibacter, sulfurospirillum, clostridium, desulfovibrio, parabacteroides, alistipes, eubacterium, peptostreptococcus and proteocatella in addition to dehalococcoides sp. after further enrichment, the members of the consortium were narrowed down to almost three species. finally, the full-length circular genome sequence of the dehalococcoides sp. in the consortium, d. mccartyi ibaraki, was determined by analyzing the metagenome with  the single-molecule dna sequencer pacbio rs. the accuracy of the sequence was confirmed by matching it to the tag sequences obtained by solid 3. the genome is  1,451,062 nt and the number of cds is 1566, which includes 3 rrna genes and 47 trna genes. there exist twenty-eight rdase genes that are accompanied by the genes for anchor proteins. the genome exhibits significant sequence identity with other dehalococcoides spp. throughout the genome, but there exists significant difference in the distribution rdase genes. the combination of a short-read next-generation dna sequencer and a long-read single-molecule dna sequencer gives detailed information of a bacterial consortium.
+TIHT== 
+ABHT== 
+
+PMID== 25049979
+TI  == effect of feeding bacillus subtilis natto on hindgut fermentation and microbiota  of holstein dairy cows.
+AB  == the effect of bacillus subtilis natto on hindgut fermentation and microbiota of early lactation holstein dairy cows was investigated in this study. thirty-six holstein dairy cows in early lactation were randomly allocated to three groups: no b. subtilis natto as the control group, b. subtilis natto with 0.5x10(11) cfu  as dmf1 group and b. subtilis natto with 1.0x10(11) cfu as dmf2 group. after 14 days of adaptation period, the formal experiment was started and lasted for 63 days. fecal samples were collected directly from the rectum of each animal on the morning at the end of eighth week and placed into sterile plastic bags. the ph, nh3-n and vfa concentration were determined and fecal bacteria dna was extracted  and analyzed by dgge. the results showed that the addition of b. subtilus natto at either treatment level resulted in a decrease in fecal nh3-n concentration but had no effect on fecal ph and vfa. the dgge profile revealed that b. subtilis natto affected the population of fecal bacteria. the diversity index of shannon-wiener in dfm1 decreased significantly compared to the control. fecal alistipes sp., clostridium sp., roseospira sp., beta proteobacterium were decreased and bifidobacterium was increased after supplementing with b. subtilis  natto. this study demonstrated that b. subtilis natto had a tendency to change fecal microbiota balance.
+TIHT== 
+ABHT== 
+

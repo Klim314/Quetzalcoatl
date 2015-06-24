@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 20491536
+TI  == competition between yogurt probiotics and periodontal pathogens in vitro.
+AB  == objective: to investigate the competition between probiotics in bio-yogurt and periodontal pathogens in vitro. material and methods: the antimicrobial activity  of bio-yogurt was studied by agar diffusion assays, using eight species of putative periodontal pathogens and a 'protective bacteria' as indicator strains.  four probiotic bacterial species (lactobacillus bulgaricus, streptococcus thermophilus, lactobacillus acidophilus, and bifidobacterium) were isolated from  yogurt and used to rate the competitive exclusion between probiotics and periodontal pathogens. results: fresh yogurt inhibited all the periodontal pathogens included in this work, showing inhibition zones ranging from 9.3 (standard deviation 0.6) mm to 17.3 (standard deviation 1.7) mm, whereas heat-treated yogurt showed lower antimicrobial activity. in addition, neither fresh yogurt nor heat-treated yogurt inhibited the 'protective bacteria', streptococcus sanguinis. the competition between yogurt probiotics and periodontal pathogens depended on the sequence of inoculation. when probiotics were inoculated first, bifidobacterium inhibited porphyromonas gingivalis, fusobacterium nucleatum, aggregatibacter actinomycetemcomitans, porphyromonas circumdentaria, and prevotella nigrescens; l. acidophilus inhibited p. gingivalis, a. actinomycetemcomitans, p. circumdentaria, p. nigrescens, and peptostreptococcus anaerobius; l. bulgaricus inhibited p. gingivalis, a. actinomycetemcomitans, and p. nigrescens; and s. thermophilus inhibited p. gingivalis, f. nucleatum, and p. nigrescens. however, their antimicrobial properties were reduced when both species (probiotics and periodontal pathogens)  were inoculated simultaneously. when periodontal pathogens were inoculated first, prevotella intermedia inhibited bifidobacterium and s. thermophilus. conclusions: the results demonstrated that bio-yogurt and the probiotics that it contains are  capable of inhibiting specific periodontal pathogens but have no effect on the periodontal protective bacteria.
+TIHT== 
+ABHT== 
+

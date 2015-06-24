@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 18590533
+TI  == changes in the predominant human lactobacillus flora during in vitro fertilisation.
+AB  == background: signature matching of nucleotide sequences in the v1 and v3 regions 16s rrna genes using pyrosequencing technology is a powerful tool for typing vaginal lactobacilli to the species level and has been used for investigating the vaginal microbial niche. methods: this study has characterized the normal cultivable vaginal lactobacillus flora at varying estradiol levels in plasma; the study comprised 17 patients undergoing ovarian stimulation for in vitro fertilization (ivf) treatment. the vaginal status of each participant was initially assessed as normal according to amsel and nugent criteria. results: l.  crispatus, l. gasseri and/or l. jensenii were present in 10 of the patients throughout the study period, and little variation among these three species was encountered in individual patients. the flora of three women was dominated by l.  delbrueckii, l. rhamnosus or l. vaginalis. one woman exhibited a dominance of l.  iners. the flora of the remaining three women were initially dominated by l. rhamnosus or l. reuteri, but as their estrogen levels rose, their flora composition altered, to become dominated by one of the three species most common  in a normal, healthy vagina. conclusion: signature matching of nucleotide sequences in the v1 and v3 regions of 16s rrna genes is a discriminative tool for the study of vaginal lactobacilli and can be used to track the lactobacillus flora under a variety of physiological conditions.
+TIHT== 
+ABHT== 
+
+PMID== 16086557
+TI  == susceptibility to some antifungal drugs of vaginal lactobacilli isolated from healthy women.
+AB  == samples were taken from the lateral vaginal wall of 19 healthy women. lactobacilli were isolated from ten of these women. fifty-eight lactobacillus isolates were identified as l. gasseri, l. vaginalis, l. acidophilus, l. delbrueckii spp. lactis, l. crispatus, l. plantarum, l. cellobiosus, l. jensenii, l. salivarius, l. curvatus, l. brevis and l. oris. the inhibitory effect of isoconazole and oxiconazole in 0.2, 0.1 and 0.05 microg/ml concentrations on 58 lactobacillus spp. and candida albicans (ajd 180) were investigated, using an agar diffusion method. although both antifungal drugs showed a large inhibitory effect on c. albicans, oxiconazole had a very low inhibitory effect on lactobacillus isolates. the natural resistance of lactobacilli to anti-fungal drugs may enable the development of an antifungal drug(s)/ probiotic combination  for antifungal activity and lactobacilli replacement therapy.
+TIHT== 
+ABHT== 
+
+PMID== 10847208
+TI  == characterisation and selection of a lactobacillus species to re-colonise the vagina of women with recurrent bacterial vaginosis.
+AB  == this paper reports the results of characterising and selecting a strain of lactobacillus for potential use as a probiotic in regenerating the vaginal flora  of women with recurrent episodes of bacterial vaginosis (bv). bv is a condition characterised by a depletion of vaginal lactobacilli accompanied by an overgrowth of a mixed vaginal flora of aerobic, anaerobic and micro-aerophilic species in very large numbers. bv has been associated with various gynaecological and obstetric complications and has an extremely high recurrence rate, due in part to the failure to establish a normal vaginal flora after antimicrobial therapy. a total of 60 vaginal isolates of lactobacilli was assessed for characteristics considered important for vaginal re-colonisation. the characteristics studied were the in-vitro inhibitory activity of the lactobacilli against bacterial species isolated from women with recurrent bv, acid production after growth of the lactobacilli in liquid culture, production of hydrogen peroxide (h2o2) and adhesiveness of the lactobacilli to exfoliated vaginal epithelial cells (vec). four strains of lactobacilli, l. acidophilus (61701 and 61880), l. crispatus (55730) and l. delbrueckii subsp. delbrueckii (65407), demonstrated the greatest  inhibitory activity against the bv-associated bacterial species. two of these isolates (55730 and 61880) produced h2o2. all four isolates produced a highly acidic environment after growth in liquid medium (ph <4). only one of these (strain 61701) was strongly adherent to vec (>100 bacteria/vec). a further isolate (l. acidophilus 48101) did not demonstrate maximum inhibitory activity against bv-associated bacteria, but was found to be a strong producer of h2o2 and was also highly adherent to vec. isolates 61701 and 48101 could be candidates for use as probiotics for vaginal re-colonisation.
+TIHT== 
+ABHT== 
+

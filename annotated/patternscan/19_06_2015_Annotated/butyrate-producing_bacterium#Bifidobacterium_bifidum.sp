@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24341731
+TI  == polysaccharide from seeds of plantago asiatica l. affects lipid metabolism and colon microbiota of mouse.
+AB  == polysaccharide from the seeds of plantago asiatica l. was given via oral administration to mice (0.4 g/kg body weight, 30 days) to observe its effects on  mouse nutrient metabolism and colon microbiota. it was found the polysaccharide intake could lower the apparent absorption of lipid. total triglyceride, cholesterol, and atherogenic index in blood serum with total lipid and cholesterol levels in liver of polysaccharide group mice were all significantly lower than those of the control group (p < 0.05). furthermore, the effect of the  polysaccharide intake on mouse colon bacterial communities was investigated. mice from the polysaccharide group showed a higher colon bacterial diversity than the  control group. bacteroides sp., eubacterium sp., butyrate-producing bacteria butyrivibrio sp., and probiotics bifidobacterium bifidum , lactobacillus fermentum , and lactobacillus reuteri in mouse colon were all increased after polysaccharide intake. these indicated that the intake of polysaccharide from p.  asiatica l. could be beneficial for lipid metabolism and colon microbiota.
+TIHT== 
+ABHT== 
+
+PMID== 16085863
+TI  == genetic diversity of viable, injured, and dead fecal bacteria assessed by fluorescence-activated cell sorting and 16s rrna gene analysis.
+AB  == a novel approach combining a flow cytometric in situ viability assay with 16s rrna gene analysis was used to study the relationship between diversity and activity of the fecal microbiota. simultaneous staining with propidium iodide (pi) and syto bc provided clear discrimination between intact cells (49%), injured or damaged cells (19%), and dead cells (32%). the three subpopulations were sorted and characterized by denaturing gradient gel electrophoresis (dgge) of 16s rrna gene amplicons obtained from the total and bifidobacterial communities. this analysis revealed that not only the total community but also the distinct subpopulations are characteristic for each individual. cloning and sequencing of the dominant bands of the dgge patterns showed that most of clones  retrieved from the live, injured, and dead fractions belonged to clostridium coccoides, clostridium leptum, and bacteroides. we found that some of the butyrate-producing related bacteria, such as eubacterium rectale and eubacterium  hallii, were obviously viable at the time of sampling. however, amplicons affiliated with bacteroides and ruminococcus obeum- and eubacterium biforme-like  bacteria, as well as butyrivibrio crossotus, were obtained especially from the dead population. furthermore, some bacterial clones were recovered from all sorted fractions, and this was especially noticeable for the clostridium leptum cluster. the bifidobacterial phylotypes identified in total samples and sorted fractions were assigned to bifidobacterium adolescentis, bifidobacterium longum,  bifidobacterium infantis, bifidobacterium pseudocatenulatum, and bifidobacterium  bifidum. phylogenetic analysis of the live, dead, and injured cells revealed a remarkable physiological heterogeneity within these bacterial populations; b. longum and b. infantis were retrieved from all sorted fractions, while b. adolescentis was recovered mostly from the sorted dead fraction.
+TIHT== 
+ABHT== 
+

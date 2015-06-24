@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22719832
+TI  == a metagenomic approach to characterization of the vaginal microbiome signature in pregnancy.
+AB  == while current major national research efforts (i.e., the nih human microbiome project) will enable comprehensive metagenomic characterization of the adult human microbiota, how and when these diverse microbial communities take up residence in the host and during reproductive life are unexplored at a population level. because microbial abundance and diversity might differ in pregnancy, we sought to generate comparative metagenomic signatures across gestational age strata. dna was isolated from the vagina (introitus, posterior fornix, midvagina) and the v5v3 region of bacterial 16s rrna genes were sequenced (454flx titanium platform). sixty-eight samples from 24 healthy gravidae (18 to 40 confirmed weeks) were compared with 301 non-pregnant controls (60 subjects). generated sequence data were quality filtered, taxonomically binned, normalized, and organized by phylogeny and into operational taxonomic units (otu); principal coordinates analysis (pcoa) of the resultant beta diversity measures were used for visualization and analysis in association with sample clinical metadata. altogether, 1.4 gigabytes of data containing >2.5 million reads (averaging 6,837  sequences/sample of 493 nt in length) were generated for computational analyses.  although gravidae were not excluded by virtue of a posterior fornix ph >4.5 at the time of screening, unique vaginal microbiome signature encompassing several specific otus and higher-level clades was nevertheless observed and confirmed using a combination of phylogenetic, non-phylogenetic, supervised, and unsupervised approaches. both overall diversity and richness were reduced in pregnancy, with dominance of lactobacillus species (l. iners crispatus, jensenii  and johnsonii, and the orders lactobacillales (and lactobacillaceae family), clostridiales, bacteroidales, and actinomycetales. this intergroup comparison using rigorous standardized sampling protocols and analytical methodologies provides robust initial evidence that the vaginal microbial 16s rrna gene catalogue uniquely differs in pregnancy, with variance of taxa across vaginal subsite and gestational age.
+TIHT== 
+ABHT== 
+

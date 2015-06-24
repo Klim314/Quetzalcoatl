@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 14532050
+TI  == cloning, characterization, and functional expression of the klebsiella oxytoca xylodextrin utilization operon (xyntb) in escherichia coli.
+AB  == escherichia coli is being developed as a biocatalyst for bulk chemical production from inexpensive carbohydrates derived from lignocellulose. potential substrates  include the soluble xylodextrins (xyloside, xylooligosaccharide) and xylobiose that are produced by treatments designed to expose cellulose for subsequent enzymatic hydrolysis. adjacent genes encoding xylobiose uptake and hydrolysis were cloned from klebsiella oxytoca m5a1 and are functionally expressed in ethanologenic e. coli. the xylosidase encoded by xynb contains the cog3507 domain characteristic of glycosyl hydrolase family 43. the xynt gene encodes a membrane  protein containing the melb domain (cog2211) found in na(+)/melibiose symporters  and related proteins. these two genes form a bicistronic operon that appears to be regulated by xylose (xylr) and by catabolite repression in both k. oxytoca and recombinant e. coli. homologs of this operon were found in klebsiella pneumoniae, lactobacillus lactis, e. coli, clostridium acetobutylicum, and bacillus subtilis  based on sequence comparisons. based on similarities in protein sequence, the xyntb genes in k. oxytoca appear to have originated from a gram-positive ancestor related to l. lactis. functional expression of xynb allowed ethanologenic e. coli to metabolize xylodextrins (xylosides) containing up to six xylose residues without the addition of enzyme supplements. 4-o-methylglucuronic acid substitutions at the nonreducing termini of soluble xylodextrins blocked further  degradation by the xynb xylosidase. the rate of xylodextrin utilization by recombinant e. coli was increased when a full-length xynt gene was included with  xynb, consistent with xynt functioning as a symport. hydrolysis rates were inversely related to xylodextrin chain length, with xylobiose as the preferred substrate. xylodextrins were utilized more rapidly by recombinant e. coli than k. oxytoca m5a1 (the source of xynt and xynb). xynb exhibited weak arabinosidase activity, 3% that of xylosidase.
+TIHT== 
+ABHT== 
+

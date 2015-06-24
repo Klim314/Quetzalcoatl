@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22163302
+TI  == correlation network analysis applied to complex biofilm communities.
+AB  == the complexity of the human microbiome makes it difficult to reveal organizational principles of the community and even more challenging to generate  testable hypotheses. it has been suggested that in the gut microbiome species such as bacteroides thetaiotaomicron are keystone in maintaining the stability and functional adaptability of the microbial community. in this study, we investigate the interspecies associations in a complex microbial biofilm applying systems biology principles. using correlation network analysis we identified bacterial modules that represent important microbial associations within the oral community. we used dental plaque as a model community because of its high diversity and the well known species-species interactions that are common in the  oral biofilm. we analyzed samples from healthy individuals as well as from patients with periodontitis, a polymicrobial disease. using results obtained by checkerboard hybridization on cultivable bacteria we identified modules that correlated well with microbial complexes previously described. furthermore, we extended our analysis using the human oral microbe identification microarray (homim), which includes a large number of bacterial species, among them uncultivated organisms present in the mouth. two distinct microbial communities appeared in healthy individuals while there was one major type in disease. bacterial modules in all communities did not overlap, indicating that bacteria were able to effectively re-associate with new partners depending on the environmental conditions. we then identified hubs that could act as keystone species in the bacterial modules. based on those results we then cultured a not-yet-cultivated microorganism, tannerella sp. ot286 (clone bu063). after two rounds of enrichment by a selected helper (prevotella oris ot311) we obtained colonies of tannerella sp. ot286 growing on blood agar plates. this system-level  approach would open the possibility of manipulating microbial communities in a targeted fashion as well as associating certain bacterial modules to clinical traits (e.g.: obesity, crohn's disease, periodontal disease, etc).
+TIHT== 
+ABHT== 
+

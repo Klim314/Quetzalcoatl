@@ -1,0 +1,47 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24833621
+TI  == arsenic thiolation and the role of sulfate-reducing bacteria from the human intestinal tract.
+AB  == background: arsenic (as) toxicity is primarily based on its chemical speciation.  although inorganic and methylated as species are well characterized in terms of metabolism and formation in the human body, the origin of thiolated methylarsenicals is still unclear. objectives: we sought to determine whether sulfate-reducing bacteria (srb) from the human gut are actively involved in the thiolation of monomethylarsonic acid (mmav). methods: we incubated human fecal and colon microbiota in a batch incubator and in a dynamic gut simulator with a dose of 0.5 mg mmav in the absence or presence of sodium molybdate, an srb inhibitor. we monitored the conversion of mmav into monomethyl monothioarsonate (mmmtav) and other as species by high-performance liquid chromatography coupled with inductively coupled plasma mass spectrometry analysis. we monitored the sulfate-reducing activity of the srb by measuring hydrogen sulfide (h2s) production. we used molecular analysis to determine the dominant species of srb responsible for as thiolation. results: in the absence of sodium molybdate, the srb activity-primarily derived from desulfovibrio desulfuricans (piger)-was specifically and proportionally correlated (p < 0.01) to mmav conversion into mmmtav. inactivating the srb with molybdate did not result in mmav thiolation; however, we observed that the microbiota from a dynamic gut simulator were capable of demethylating 4% of the incubated mmav into arsenous acid (iasiii), the trivalent and more toxic form of arsenic acid (iasv). conclusion: we found that srb of human gastrointestinal origin, through their ability to produce h2s,  were necessary and sufficient to induce as thiolation. the toxicological consequences of this microbial as speciation change are not yet clear. however, given the efficient epithelial absorption of thiolated methylarsenicals, we conclude that the gut microbiome-and srb activity in particular-should be incorporated into toxicokinetic analysis carried out after as exposure.
+TIHT== 
+ABHT== 
+
+PMID== 21753800
+TI  == abundance and diversity of mucosa-associated hydrogenotrophic microbes in the healthy human colon.
+AB  == hydrogenotrophic microbiota have a significant impact on colonic health; however, little is known about their diversity and ecology in situ. here, molecular-based  methods and multivariate analyses were used to examine the abundance and diversity of mucosa-associated hydrogenotrophic microbes in 90 biopsies collected from right colon, left colon and rectum of 25 healthy subjects. functional genes  of all three hydrogenotrophic groups were detected in at least one colonic region of all subjects. methanogenic archaea (ma) constituted approximately one half of  the hydrogenotrophic microbiota in each colonic region. sulfate-reducing bacteria (srb) were more abundant than acetogens in right colon, while acetogens were more abundant than srb in left colon and rectum. ma genotypes exhibited low diversity, whereas srb genotypes were diverse and generally similar across the three regions within subject but significantly variable among subjects. multivariate cluster analysis defined subject-specific patterns for the diversity of srb genotypes; however, neither subject- nor region-specific clusters were observed for the abundance of hydrogenotrophic functional genes. sequence analyses of functional gene clones revealed that mucosa-associated srb were phylogenetically related to  desulfovibrio piger, desulfovibrio desulfuricans and bilophila wadsworthia; whereas ma were related to methanobrevibacter spp., mb. smithii and the order methanomicrobiales. together these data demonstrate for the first time that the human colonic mucosa is persistently colonized by all three groups of hydrogenotrophic microbes, which exhibit segmental and interindividual variation  in abundance and diversity.
+TIHT== 
+ABHT== 
+
+PMID== 20159048
+TI  == first isolation of desulfovibrio from the human vaginal flora.
+AB  == four desulfovibrio species, including 2 subtypes of 1 species, namely, desulfovibrio piger, desulfovibrio desulfuricans mb subtype and essex 6 subtype,  desulfovibrio fairfieldensis, and desulfovibrio vulgaris, have been isolated from the human oral and intestinal flora, but not previously from the vaginal flora. they are opportunistic pathogens and have been considered as possible environmental and etiologic agents involved in ulcerative colitis and chronic periodontitis. we isolated desulfovibrio intestinalis from vaginal specimens of four japanese women; a species which has not been previously isolated from humans. the vaginal isolates were highly resistant to cefoxitin, piperacillin, and piperacillin-tazobactam but were susceptible to the other antimicrobial agents tested. our findings suggested that vaginal desulfovibrio species may be involved in gynecological or obstetric pathology, and provides additional information of the medical relevance on human desulfovibrio species.
+TIHT== 
+ABHT== 
+
+PMID== 16081948
+TI  == biochemical differentiation and comparison of desulfovibrio species and other phenotypically similar genera.
+AB  == seventeen human clinical isolates representing four species of desulfovibrio were characterized using 16s rrna gene sequences and tests for catalase, indole, nitrate, bile, urease, formate-fumarate stimulation, desulfoviridin, motility, and hydrogen sulfide production, plus susceptibility to antimicrobial agents. eighty additional strains representing 10 phenotypically similar genera (bilophila, selenomonas, capnocytophaga, campylobacter, bacteroides, sutterella,  anaerobiospirillum, dialister, veillonella, and mobiluncus) were included for comparison. all desulfovibrio species produced h2s and were desulfoviridin positive, and all desulfovibrio species except d. piger were motile. the four desulfovibrio species could be distinguished from each other using tests for catalase, indole, nitrate, urease, and growth on bile, with the following results (positive [+], negative [-], growth [g], and no growth [ng]): for d. piger, -, -, -, -, and g, respectively; for d. fairfieldensis, +, -, +, -, and g, respectively; for d. desulfuricans, -, -, +, +, and ng, respectively; and for d.  vulgaris, -, +, -, -, and g, respectively. resistance to the 10-microg colistin disk separated the desulfovibrio species from most of the other genera, which were usually susceptible. these simple tests were useful for characterizing the desulfovibrio species and differentiating them from other phenotypically similar  genera.
+TIHT== 
+ABHT== 
+
+PMID== 12624073
+TI  == isolation of sulfate-reducing bacteria from human thoracoabdominal pus.
+AB  == to evaluate the prevalence of sulfate-reducing bacteria in septic processes, we searched for these bacteria by culture in 100 consecutive abdominal and pleural pus specimens. twelve isolates were obtained from abdominal samples and were identified by a multiplex pcr as desulfovibrio piger (formerly desulfomonas pigra) (seven strains), desulfovibrio fairfieldensis (four strains), and desulfovibrio desulfuricans (one strain).
+TIHT== 
+ABHT== 
+
+PMID== 12148644
+TI  == reclassification of the only species of the genus desulfomonas, desulfomonas pigra, as desulfovibrio piger comb. nov.
+AB  == the growth characteristics, dna g+c content and sequences of 16s rdna and the transcribed 16s-23s rdna internal spacer were determined for desulfomonas pigra atcc 29098t, desulfovibrio desulfuricans subsp. desulfuricans strains essex 6t (= atcc 29577t) and mb (= atcc 27774) and 'desulfovibrio fairfieldensis' atcc 700045. despite phenotypic differences (shape and motility) between desulfomonas  pigra and desulfovibrio strains, the molecular analysis suggests that desulfomonas pigra should be reclassified within the genus desulfovibrio. thus, the reclassification is proposed of desulfomonas pigra, the type and only species of the genus, as desulfovibrio piger comb. nov., which implies the emendation of  the description of the genus desulfovibrio.
+TIHT== 
+ABHT== 
+
+PMID== 19709217
+TI  == sulfate-reducing bacteria in human feces and their association with inflammatory  bowel diseases.
+AB  == we have searched for sulfate-reducing bacteria in the feces of 41 healthy individuals and 110 patients from a hepato-gastro-enterology unit using a specific liquid medium (test-kit labege, compagnie francaise de geothermie, orleans, france). the 110 patients were separated in 22 patients presenting with  inflammatory bowel diseases and 88 patients hospitalized for other lower (n=30) or upper (n=58) digestive tract diseases. sulfate-reducing bacteria were isolated from 10 healthy individuals (24%), 15 patients presenting with inflammatory bowel diseases (68%), and 33 patients with other symptoms (37%). a multiplex pcr was devised for the identification of desulfovibrio piger (formerly desulfomonas pigra), desulfovibrio fairfieldensis and desulfovibrio desulfuricans, and applied to the above isolates. the strains of sulfate-reducing bacteria consisted of d. piger (39 isolates), d. fairfieldensis (19 isolates) and d. desulfuricans (one isolate). the prevalence of d. piger was significantly higher in inflammatory bowel disease patients (55%) as compared to healthy individuals (12%) or patients with other symptoms (25%) (p<0.05).
+TIHT== 
+ABHT== 
+

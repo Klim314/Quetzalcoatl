@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24603888
+TI  == analysis of the intestinal lumen microbiota in an animal model of colorectal cancer.
+AB  == recent reports have suggested that multiple factors such as host genetics, environment and diet can promote the progression of healthy mucosa towards sporadic colorectal carcinoma. accumulating evidence has additionally associated  intestinal bacteria with disease initiation and progression. in order to examine  and analyze the composition of gut microbiota in the absence of confounding influences, we have established an animal model of 1, 2-dimethylhydrazine (dmh)-induced colon cancer. using this model, we have performed pyrosequencing of the v3 region of the 16s rrna genes in this study to determine the diversity and  breadth of the intestinal microbial species. our findings indicate that the microbial composition of the intestinal lumen differs significantly between control and tumor groups. the abundance of firmicutes was elevated whereas the abundance of bacteroidetes and spirochetes was reduced in the lumen of crc rats.  fusobacteria was not detected in any of the healthy rats and there was no significant difference in observed proteobacteria species when comparing the bacterial communities between our two groups. interestingly, the abundance of proteobacteria was higher in crc rats. at the genus level, bacteroides exhibited  a relatively higher abundance in crc rats compared to controls (14.92% vs. 9.22%, p<0.001). meanwhile, prevotella (55.22% vs. 26.19%), lactobacillus (3.71% vs. 2.32%) and treponema (3.04% vs. 2.43%), were found to be significantly more abundant in healthy rats than crc rats (p<0.001, respectively). we also demonstrate a significant reduction of butyrate-producing bacteria such as roseburia and eubacterium in the gut microbiota of crc rats. furthermore, a significant increase in desulfovibrio, erysipelotrichaceae and fusobacterium was  also observed in the tumor group. a decrease in probiotic species such as ruminococcus and lactobacillus was likewise observed in the tumor group. collectively, we can conclude that a significant difference in intestinal bacterial flora exists between healthy rats and crc rats.
+TIHT== 
+ABHT== 
+

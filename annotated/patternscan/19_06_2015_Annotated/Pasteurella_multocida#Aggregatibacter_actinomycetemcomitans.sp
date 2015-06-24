@@ -1,0 +1,47 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 18669030
+TI  == molecular phylogenetic analysis of tryptophanyl-trna synthetase of actinobacillus actinomycetemcomitans.
+AB  == aminoacyl-trna synthetase family enzymes are of particular interest for creating  universal phylogenetic trees and understanding the gene flow as these enzymes perform the basic and analogous biochemical function of protein synthesis in all  extant organisms. among them, tryptophanyl-trna synthetase (trp-rs) plays a foremost role in phylogeny owing to the close relationship with tyrosine-trna synthetase. in this study, the sequence of the gene trp-rs was amplified using degenerated adenylation domain primers in the periodontal bacterium actinobacillus actinomycetemcomitans. the sequence of the cloned pcr amplicon confirmed the adenylation domain sequence with glutamic acid residue, which is absent in five other oral bacteria used in this study as well as in a number of other bacteria described in the database. the trp-rs sequence analysis prevailed  the identify elements such as rossmann-fold sequence and trna(trp) binding domains including acceptor stem and anticodon. a theoretical model of trp-rs of a. actinomycetemcomitans was generated. guided docking of the ligand tryptophanyl-5'-amp revealed a highly identical active site in comparison with the bacterial template. the phylogenetic positioning of trp-rs among a group of oral bacterial species revealed that a. actinomycetemcomitans is closely related  to haemophilus influenzae, h. ducreyi and pasteurella multocida.
+TIHT== 
+ABHT== 
+
+PMID== 18621903
+TI  == membrane morphology and leukotoxin secretion are associated with a novel membrane protein of aggregatibacter actinomycetemcomitans.
+AB  == gram-negative bacteria display either a flat or an irregular outer membrane. the  periodontal pathogen aggregatibacter (actinobacillus) actinomycetemcomitans has an irregular outer membrane. we have identified a gene that is associated with the biogenesis of this morphology. the gene is part of a three-gene operon and codes for a 141-kda protein designated morphogenesis protein c (morc), which is conserved in several gram-negative bacteria including haemophilus influenzae and  pasteurella multocida. insertional inactivation of this gene resulted in the conversion of an irregularly shaped membrane to a flat membrane. associated with  this morphological change were the autoaggregation of the bacteria during planktonic growth and a concomitant increase in the surface hydrophobicity of the bacterium. the absence of morc also resulted in the loss of the secretion of leukotoxin but not the ltxa transcription. our findings suggest that morc is critical for membrane morphology and leukotoxin secretion in a. actinomycetemcomitans.
+TIHT== 
+ABHT== 
+
+PMID== 17258409
+TI  == comparative functional genomic analysis of pasteurellaceae adhesins using phage display.
+AB  == the pasteurellaceae contain a number of important animal pathogens. although related, the various members of this family cause a diversity of pathology in a wide variety of organ systems. adhesion is an important virulence factor in bacterial infections. surprisingly little is known about the adhesins of the pasteurellaceae. to attempt to identify the genes coding for adhesins to some key components of the hosts extracellular matrix molecules, phage display libraries of fragmented genomic dna from haemophilus influenzae, actinobacillus pleuropneumoniae, pasteurella multocida and aggregatibacter actinomycetemcomitans, were prepared in the phage display vector pg8saet. the libraries were screened against human or porcine fibronectin, serum albumin or a  commercial extracellular matrix containing type iv collagen, laminin and heparin  sulphate. four genes encoding putative adhesins were identified. these genes code for: (i) a 34 kda human serum albumin binding protein from haemophilus influenzae; (ii) a 12.8 kda fibronectin-binding protein from pasteurella multocida; (iii) a 13.7 kda fibronectin-binding protein from a. actinomycetemcomitans; (iv) a 9.5 kda serum albumin-binding protein from a. pleuropneumoniae. none of these genes have previously been proposed to code for adhesins. the applications of phage display with whole bacterial genomes to identify genes encoding novel adhesins in this family of bacteria are discussed.
+TIHT== 
+ABHT== 
+
+PMID== 11535037
+TI  == a cryptic plasmid from pasteurella multocida has a predicted protein nearly identical to a transport protein from actinobacillus actinomycetemcomitans.
+AB  == several plasmids from pasteurella multocida have been shown to carry antibiotic resistance genes but no other genes possibly related to the organism's pathogenesis. we report here that sequence from the plasmid plem from a fowl isolate of p. multocida, strain 1059, contained one open reading frame that had significant identity with a predicted protein from pvt745, a plasmid that was isolated from a human oral isolate of actinobacillus actinomycetemcomitans. this  predicted protein had significant homology at the amino acid level to cation transport proteins.
+TIHT== 
+ABHT== 
+
+PMID== 11029439
+TI  == nonspecific adherence by actinobacillus actinomycetemcomitans requires genes widespread in bacteria and archaea.
+AB  == the gram-negative coccobacillus, actinobacillus actinomycetemcomitans, is the putative agent for localized juvenile periodontitis, a particularly destructive form of periodontal disease in adolescents. this bacterium has also been isolated from a variety of other infections, notably endocarditis. fresh clinical isolates of a. actinomycetemcomitans form tenacious biofilms, a property likely to be critical for colonization of teeth and other surfaces. here we report the identification of a locus of seven genes required for nonspecific adherence of a. actinomycetemcomitans to surfaces. the recently developed transposon is903phikan  was used to isolate mutants of the rough clinical isolate cu1000 that are defective in tight adherence to surfaces (tad(-)). unlike wild-type cells, tad(-) mutant cells adhere poorly to surfaces, fail to form large autoaggregates, and lack long, bundled fibrils. nucleotide sequencing and genetic complementation analysis revealed a 6.7-kb region of the genome with seven adjacent genes (tadabcdefg) required for tight adherence. the predicted tada polypeptide is similar to virb11, an atpase involved in macromolecular transport. the predicted  amino acid sequences of the other tad polypeptides indicate membrane localization but no obvious functions. we suggest that the tad genes are involved in secretion of factors required for tight adherence of a. actinomycetemcomitans. remarkably,  complete and highly conserved tad gene clusters are present in the genomes of the bubonic plague bacillus yersinia pestis and the human and animal pathogen pasteurella multocida. partial tad loci also occur in strikingly diverse bacteria and archaea. our results show that the tad genes are required for tight adherence of a. actinomycetemcomitans to surfaces and are therefore likely to be essential  for colonization and pathogenesis. the occurrence of similar genes in a wide array of microorganisms indicates that they have important functions. we propose  that tad-like genes have a significant role in microbial colonization.
+TIHT== 
+ABHT== 
+
+PMID== 8152840
+TI  == electron microscopy of phages in serotypes of actinobacillus actinomycetemcomitans.
+AB  == actinobacillus actinomycetemcomitans, actinobacillus ureae, haemophilus aphrophilus, haemophilus paraphrophilus, haemophilus influenzae, haemophilus parainfluenzae, pasteurella haemolytica and pasteurella multocida strains were examined by transmission electron microscopy for the presence of bacteriophages.  phages were detected in serotype a (suny 75) and e (uoh 1705) and in the fresh clinical isolates uoh q1243 and uoh q1247 of a. actinomycetemcomitans. phages were not found in serotype b, c and d strains of a. actinomycetemcomitans, in the fresh clinical isolate uoh q1244 of this species or in old strains (including reference strains) of related species from the actinobacillus-haemophilus-pasteurella group.
+TIHT== 
+ABHT== 
+
+PMID== 8233565
+TI  == multivariate chemosystematics demonstrate two groups of actinobacillus actinomycetemcomitans strains.
+AB  == chemical analysis by us has indicated that actinobacillus actinomycetemcomitans is not a homogeneous species. the present study used chemometric methods and a multitude of chemical characters to examine this further. strains were characterized by cell sugar and fatty acid contents, lysis kinetics during edta and edta plus lysozyme exposure, methylene blue reduction, and api zym enzymatic  assessment of whole cells and outer membrane vesicles/fragments. in total, 41 quantitative variables were analyzed from each of 9 strains and treated with principal component analysis and soft independent modeling of class analogy. these methods divided a. actinomycetemcomitans into 2 strain groups. one group contained atcc 33384, atcc 29522, fdc 2112 and fdc 2043; the other comprised atcc 29524, atcc 29523, fdc 2097, fdc 511 and fdc y4. with an f-test, the groups (classes) of a. actinomycetemcomitans strains could be distinguished at 95% confidence limits. both groups were distinct from members of the genera haemophilus and pasteurella (haemophilus aphrophilus, haemophilus paraphrophilus, haemophilus influenzae, pasteurella multocida and pasteurella haemolytica).
+TIHT== 
+ABHT== 
+

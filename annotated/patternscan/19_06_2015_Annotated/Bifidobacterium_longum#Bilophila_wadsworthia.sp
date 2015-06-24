@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 26075636
+TI  == specific gut microbiota features and metabolic markers in postmenopausal women with obesity.
+AB  == background: gut microbial gene richness and specific bacterial species are associated with metabolic risk markers in humans, but the impact of host physiology and dietary habits on the link between the gut microbiota and metabolic markers remain unclear. the objective of this study was to identify gut metagenomic markers associated with estimates of insulin resistance, lipid metabolism and inflammation in obesity, and to explore whether the associations between metagenomic and metabolic markers persisted after adjustment for body fat, age and habitual dietary intake. methods: faecal dna from 53 women with obesity was analysed through quantitative metagenomic sequencing and analysis, and a systematic search was performed for bacterial genes associated with estimates of insulin resistance, inflammation and lipid metabolism. subsequently, the correlations between metagenomic species and metabolic markers were tested by linear regression models, with and without covariate adjustment. results: one hundred and fourteen metagenomic species correlated with metabolic markers (p<0.001) including akkermansia muciniphila, bilophila wadsworthia, bifidobacterium longum and faecalibacterium prausnitzii, but also species not previously associated with metabolic markers including bacteroides faecis and dorea longicatena. the majority of the identified correlations between bacterial  species and metabolic markers persisted after adjustment for differences in body  fat, age and dietary macronutrient composition; however, the negative correlation with insulin resistance observed for b. longum and f. prausnitzii appeared to be  modified by the intake of dietary fibre and fat, respectively. conclusions: this  study shows that several gut bacterial species are linked to metabolic risk markers in obesity, also after adjustment for potential confounders, such as long-term diet composition. the study supports the use of gut metagenomic markers for metabolic disease prediction and warrants further investigation of causality.
+TIHT== 
+ABHT== 
+

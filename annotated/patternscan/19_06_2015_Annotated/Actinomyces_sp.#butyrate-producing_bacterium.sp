@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 3624445
+TI  == characteristics and sites of infection of eubacterium nodatum, eubacterium timidum, eubacterium brachy, and other asaccharolytic eubacteria.
+AB  == three new species, eubacterium nodatum, eubacterium timidum, and eubacterium brachy, were described, primarily from subgingival samples taken from patients with moderate and severe adult periodontitis. except for the isolation of e. brachy from a pleuropulmonary infection, these species have not been reported from other infected body sites. we report on the isolation of these species and an undescribed group (d-6) of asaccharolytic eubacteria also found in periodontal disease from numerous different sites of infection, mostly the head and neck. a similarity in cellular morphological properties of e. nodatum and actinomyces sp. was noted previously. additional similarities, particularly to actinomyces israelii, that we found are the formation of molar tooth colonies and the isolation from cases of lumpy jaw and from the genital tract of women in association with the use of an intrauterine contraceptive device. e. timidum and  e. brachy did not occur more often from any particular site outside of the head,  neck, and respiratory tract. the group d-6 strains came from a variety of sites in the trunk and pelvis. these species are all obligately anaerobic, asaccharolytic, and generally nonreactive, and they grow poorly and slowly on media commonly used to isolate anaerobic bacteria. l-lysine (0.5%) markedly stimulated the growth of e. nodatum and, to a lesser extent, another acetate- and butyrate-producing group, eubacterium sp. group d-6, but we did not find comparable stimulants for the other species. we found the production of phenyl acetate to be a helpful marker in the identification of e. timidum and eubacterium sp. group d-6. although the isolation and identification of most of these species remain somewhat difficult, the evidence from dental infections and  the present report suggests that these species are potential pathogens that are likely to be overlooked in infected clinical material without special attention to more prolonged incubation and use of enriched isolation media.
+TIHT== 
+ABHT== 
+

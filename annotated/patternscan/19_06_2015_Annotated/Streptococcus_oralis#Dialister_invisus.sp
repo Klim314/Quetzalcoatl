@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22326171
+TI  == molecular analysis of 16s rrna genes identifies potentially periodontal pathogenic bacteria and archaea in the plaque of partially erupted third molars.
+AB  == purpose: small subunit rrna sequencing and phylogenetic analysis were used to identify cultivable and uncultivable microorganisms present in the dental plaque  of symptomatic and asymptomatic partially erupted third molars to determine the prevalence of putative periodontal pathogens in pericoronal sites. materials and  methods: template dna prepared from subgingival plaque collected from partially erupted symptomatic and asymptomatic mandibular third molars and healthy incisors was used in polymerase chain reaction with broad-range oligonucleotide primers to amplify 16s rrna bacterial and archaeal genes. amplicons were cloned, sequenced,  and compared with known nucleotide sequences in online databases to identify the  microorganisms present. results: two thousand three hundred two clones from the plaque of 12 patients carried bacterial sequences from 63 genera belonging to 11  phyla, including members of the uncultivable tm7, sr1, and chloroflexi, and difficult-to-cultivate synergistetes and spirochaetes. dialister invisus, filifactor alocis, fusobacterium nucleatum, porphyromonas endodontalis, prevotella denticola, tannerella forsythia, and treponema denticola, which have been associated with periodontal disease, were found in significantly greater abundance in pericoronal compared with incisor sites. dialister invisus and f nucleatum were found in greater abundance in sites exhibiting clinical symptoms.  the archaeal species, methanobrevibacter oralis, which has been associated with severe periodontitis, was found in 3 symptomatic patients. conclusions: these findings have provided new insights into the complex microbiota of pericoronitis. several bacterial and archaeal species implicated in periodontal disease were recovered in greater incidence and abundance from the plaque of partially erupted third molars compared with incisors, supporting the hypothesis that the pericoronal region may provide a favored niche for periodontal pathogens in otherwise healthy mouths.
+TIHT== 
+ABHT== 
+

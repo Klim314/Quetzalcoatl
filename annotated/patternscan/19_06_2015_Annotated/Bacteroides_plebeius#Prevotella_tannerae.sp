@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23514765
+TI  == intake of whole-grain and fiber-rich rye bread versus refined wheat bread does not differentiate intestinal microbiota composition in finnish adults with metabolic syndrome.
+AB  == whole-grain (wg) foods rich in indigestible carbohydrates are thought to modulate the composition of the intestinal microbiota. we investigated in a randomized, parallel, 2-arm 12-wk intervention whether consumption of wg and fiber-rich rye breads compared with refined wheat breads affected the microbiota composition in  finnish individuals aged 60 +/- 6 y with metabolic syndrome. fecal samples from 51 participants (25 males, 26 females) before and after the intervention were processed for the microbiota analysis using a phylogenetic microarray and quantitative polymerase chain reactions targeting the 16s rrna gene. the intake of whole grains calculated from food records was higher in the group consuming rye breads (75 g) than in that consuming refined wheat breads (4 g; p < 0.001), confirmed by fasting plasma alkylrecorsinol concentrations, a biomarker of whole  grain intake. the intestinal microbiota composition did not significantly differ  between the groups after the intervention. however, we detected a 37% decrease of bacteroidetes (p < 0.05) in parallel to a 53% decrease in the alkylrecorsinol concentration (p < 0.001) in the group consuming refined wheat breads. in this group, the abundance of bacteria related to bacteroides vulgatus, b. plebeius, and prevotella tannerae decreased, whereas that of bacteria related to collinsella and members of the clostridium clusters iv and xi increased. in a multivariate regression analysis, the abundance of bacteroides spp. was best explained by different fat compounds among dietary variables, whereas the main sugar-converting butyrate-producers were mostly associated with the intake of whole- and refined-grain bread and fiber. our results indicate that the quality of grains has a minor effect on the intestinal microbiota composition in participants with metabolic syndrome and suggest that the dietary influence on the microbiota involves other dietary components such as fat.
+TIHT== 
+ABHT== 
+

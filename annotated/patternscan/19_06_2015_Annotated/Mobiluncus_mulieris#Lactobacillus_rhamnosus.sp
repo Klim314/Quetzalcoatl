@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 15298771
+TI  == nucleic acid-based diagnosis of bacterial vaginosis and improved management using probiotic lactobacilli.
+AB  == bacterial vaginosis (bv) is a common condition in women that represents an imbalance of the vaginal microflora, lactobacilli depletion, and excess growth of mainly anaerobic gram-negative pathogens. diagnosis is made using a series of tests or a gram stain of a vaginal smear. treatment with antibiotics is quite effective, but recurrences are common. a study of 55 vaginal samples from 11 postmenopausal women showed the presence of bv by the gram stain-based nugent scoring system, and polymerase chain reaction-denaturing gradient gel electrophoresis showed that bacteroides or prevotella species were the most common isolates recovered (24 of 25), with escherichia coli, staphylococcus aureus, and streptococcus agalactiae also found in some samples. in one case, only gardnerella vaginalis was found. these findings illustrate that bv remains common even among otherwise healthy women, but it is not caused solely by either  gardnerella or mobiluncus. use of a femexam system (cooper surgical, shelton, ct), based upon elevated ph and trimethylamine levels, to screen vaginal smears from 59 healthy women showed poor correlation with the gram stain method. a randomized, placebo-controlled trial of these subjects showed that the lactobacilli-dominant microbiota was restored in subjects with bv but not in controls, following 2 months of daily oral intake of lactobacillus rhamnosus gr-1 and lactobacillus fermentum rc-14. these studies show that nucleic acid-based methods are effective at identifying bacteria responsible for bv. if such methods could be used to develop a commercially available, self-use kit, women would be much better placed to take control of their own health, for example, using medicinal food or dietary supplement products such as the clinically proven probiotic strains l. rhamnosus gr-1 and l. fermentum rc-14.
+TIHT== 
+ABHT== 
+
+PMID== 10865430
+TI  == [the range of antagonistic effects of lactobacillus bacterial strains on etiologic agents of bacterial vaginosis].
+AB  == bacterial vaginosis is caused by uncontrolled sequential overgrowth of some anaerobic bacteria: gardnerella vaginalis, prevotella bivia, bacteroides spp., peptostreptococcus spp., mobiluncus sp. usually occurring in stable numbers in the bacterial flora of healthy women. on the other hand, different species of bacteria belonging to the genus lactobacillus, most frequently l. plantarum, l. rhamnosus and l. acidophilus, form a group of aerobic bacteria dominating in the  same environment. the diversity and density of their populations depend on the age and health conditions. thanks to their antagonistic and adherence properties  bacteria of the genus lactobacillus can maintain a positive balance role in this  ecosystem. the aim of this study was to assess the antagonistic properties of lactobacillus strains isolated from the vagina of healthy women against most common agents of bacterial vaginosis. it was found that nearly all of the tested  lactobacillus strains exerted distinct antagonistic activity against anaerobic bacteria: gardnerella vaginalis, prevotella bivia and peptostreptococcus anaerobius and quite a number also against gram-negative rods, while only some of them were able to inhibit gram-positive aerobic cocci as enterococcus faecalis or staphylococcus aureus.
+TIHT== 
+ABHT== 
+

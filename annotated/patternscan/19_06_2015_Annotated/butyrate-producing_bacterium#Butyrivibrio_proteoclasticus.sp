@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22060546
+TI  == extracellular polysaccharide-degrading proteome of butyrivibrio proteoclasticus.
+AB  == plant polysaccharide-degrading rumen microbes are fundamental to the health and productivity of ruminant animals. butyrivibrio proteoclasticus b316(t) is a gram-positive, butyrate-producing anaerobic bacterium with a key role in hemicellulose degradation in the rumen. gel-based proteomics was used to examine  the growth-phase-dependent abundance patterns of secreted proteins recovered from cells grown in vitro with xylan or xylose provided as the sole supplementary carbon source. five polysaccharidases and two carbohydrate-binding proteins (cbps) were among 30 identified secreted proteins. the endo-1,4-beta-xylanase xyn10b was 17.5-fold more abundant in the culture medium of xylan-grown cells, which suggests it plays an important role in hemicellulose degradation. the secretion of three nonxylanolytic enzymes and two cbps implies they augment hemicellulose degradation by hydrolysis or disruption of associated structural polysaccharides. sixteen atp-binding cassette (abc) transporter substrate-binding proteins were identified, several of which had altered relative abundance levels  between growth conditions, which suggests they are important for oligosaccharide  uptake. this study demonstrates that b. proteoclasticus modulates the secretion of hemicellulose-degrading enzymes and atp-dependent sugar uptake systems in response to growth substrate and supports the notion that this organism makes an  important contribution to polysaccharide degradation in the rumen.
+TIHT== 
+ABHT== 
+
+PMID== 18768601
+TI  == reclassification of clostridium proteoclasticum as butyrivibrio proteoclasticus comb. nov., a butyrate-producing ruminal bacterium.
+AB  == it is proposed that clostridium proteoclasticum be reclassified as butyrivibrio proteoclasticus comb. nov. on the basis of phylogenetic position, dna g+c content and physiological traits. phylogenetic analyses based on 16s rrna gene sequences  from an extensive range of taxa within clostridial rrna subcluster xiva grouped c. proteoclasticum together with isolates of the genus butyrivibrio, though this  species was genetically distinct from the extant butyrivibrio species examined. the dna g+c content of c. proteoclasticum was originally erroneously reported as  28 mol%. however the genome sequence of the type strain of c. proteoclasticum, strain b316(t), and hplc analysis estimate the dna g+c content as 40 mol%, which  is within the range reported for strains of butyrivibrio. c. proteoclasticum was  distinguishable from other species of the genus butyrivibrio as the 16s rrna gene from strain b316(t) shared less than 97 % sequence similarity with sequences from the type strains of butyrivibrio species. c. proteoclasticum was also able to convert linoleic acid to stearic acid, in contrast to other species of butyrivibrio. physiological characteristics, including carbon source utilization, volatile fatty acid production and proteinase activities, were assessed for a panel of representative strains of the genera butyrivibrio and pseudobutyrivibrio and c. proteoclasticum. these data, together with the phylogenetic analyses, support the reclassification of clostridium proteoclasticum as a separate species within the genus butyrivibrio, butyrivibrio proteoclasticus comb. nov. (type strain b316(t)=atcc 51982(t)=dsm 14932(t)).
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22324467
+TI  == impact of periodontal therapy on the subgingival microbiota of severe periodontitis: comparison between good responders and individuals with refractory periodontitis using the human oral microbe identification microarray.
+AB  == background: this study compares the changes to the subgingival microbiota of individuals with "refractory" periodontitis (rp) or treatable periodontitis (good responders [gr]) before and after periodontal therapy by using the human oral microbe identification microarray (homim) analysis. methods: individuals with chronic periodontitis were classified as rp (n = 17) based on mean attachment loss (al) and/or >3 sites with al >/=2.5 mm after scaling and root planing, surgery, and systemically administered amoxicillin and metronidazole or as gr (n  = 30) based on mean attachment gain and no sites with al >/=2.5 mm after treatment. subgingival plaque samples were taken at baseline and 15 months after  treatment and analyzed for the presence of 300 species by homim analysis. significant differences in taxa before and post-therapy were sought using the wilcoxon test. results: the majority of species evaluated decreased in prevalence in both groups after treatment; however, only a small subset of organisms was significantly affected. species that increased or persisted in high frequency in  rp but were significantly reduced in gr included bacteroidetes sp., porphyromonas endodontalis, porphyromonas gingivalis, prevotella spp., tannerella forsythia, dialister spp., selenomonas spp., catonella morbi, eubacterium spp., filifactor alocis, parvimonas micra, peptostreptococcus sp. ot113, fusobacterium sp. ot203,  pseudoramibacter alactolyticus, streptococcus intermedius or streptococcus constellatus, and shuttlesworthia satelles. in contrast, capnocytophaga sputigena, cardiobacterium hominis, gemella haemolysans, haemophilus parainfluenzae, kingella oralis, lautropia mirabilis, neisseria elongata, rothia  dentocariosa, streptococcus australis, and veillonella spp. were more associated  with therapeutic success. conclusion: persistence of putative and novel periodontal pathogens, as well as low prevalence of beneficial species was associated with chronic refractory periodontitis.
+TIHT== 
+ABHT== 
+
+PMID== 15943771
+TI  == microarrays complement culture methods for identification of bacteria in endodontic infections.
+AB  == the aim of this study was to investigate the microbial composition of necrotic root canals using culture methods and microarray technology. twenty uniradicular  teeth with radiographic evidence of periapical bone loss and with no previous endodontic treatment were selected for this study. for molecular diagnosis a dna  chip with 20 different species-specific, 16s-rdna-directed catcher probes was used. the microorganisms most frequently detected by the dna chip were: micromonas micros, fusobacterium nucleatum ssp., tannerella forsythia, treponema  denticola, veillonella parvula, eubacterium nodatum, porphyromonas gingivalis, actinomyces odontolyticus, and streptococcus constellatus. as expected, additional important bacterial taxa were found by culture analysis, but microorganisms such as t. forsythia and t. denticola could not be identified. in  conclusion, microarrays may provide significant additional information regarding  the endodontic microbiota by detecting bacterial species that are otherwise difficult or impossible to culture.
+TIHT== 
+ABHT== 
+

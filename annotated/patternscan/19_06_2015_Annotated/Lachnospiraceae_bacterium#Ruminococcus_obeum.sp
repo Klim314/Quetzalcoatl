@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25481290
+TI  == reclassification of ruminococcus obeum as blautia obeum comb. nov.
+AB  == during our previous studies we reclassified clostridium coccoides and a number of misclassified ruminococci into a novel genus blautia within the family lachnospiraceae. however, the rules of the bacteriological code currently require that the types of all species and subspecies with new names (including new combinations) be deposited in two different collections in two different countries. the type strain of ruminococcus obeum was, at that period in time, only deposited in the american type culture collection (atcc) and a second independent deposit, as required by the code, was not available. consequently, the transfer of this species to the genus blautia could not be made, because the  resulting species name would not conform to the rules governing the valid publication of species names and deposit of type material (rules 27 and 30) and consequently would not be considered to be validly published. this resulted in a  nomenclatural and taxonomic anomaly with r. obeum being phylogenetically placed among members of the genus blautia with 16s rrna gene sequence similarities of between 91.8 and 96.6 %. in order to rectify this unsatisfactory situation, through our discussions with the atcc, the deposit of strain r. obeum atcc 29174(t) to the dsmz as strain number dsm 25238(t) was completed. hence, the transfer of r. obeum to the genus blautia as blautia obeum comb. nov. is now proposed. the type strain is atcc 29174(t) ( = dsm 25238(t) = kctc 15206(t)).
+TIHT== 
+ABHT== 
+
+PMID== 24553467
+TI  == phylogenetic distribution of three pathways for propionate production within the  human gut microbiota.
+AB  == propionate is produced in the human large intestine by microbial fermentation and may help maintain human health. we have examined the distribution of three different pathways used by bacteria for propionate formation using genomic and metagenomic analysis of the human gut microbiota and by designing degenerate primer sets for the detection of diagnostic genes for these pathways. degenerate  primers for the acrylate pathway (detecting the lcda gene, encoding lactoyl-coa dehydratase) together with metagenomic mining revealed that this pathway is restricted to only a few human colonic species within the lachnospiraceae and negativicutes. the operation of this pathway for lactate utilisation in coprococcus catus (lachnospiraceae) was confirmed using stable isotope labelling. the propanediol pathway that processes deoxy sugars such as fucose and rhamnose was more abundant within the lachnospiraceae (based on the pdup gene, which encodes propionaldehyde dehydrogenase), occurring in relatives of ruminococcus obeum and in roseburia inulinivorans. the dominant source of propionate from hexose sugars, however, was concluded to be the succinate pathway, as indicated by the widespread distribution of the mmda gene that encodes methylmalonyl-coa decarboxylase in the bacteroidetes and in many negativicutes. in general, the capacity to produce propionate or butyrate from hexose sugars resided in different species, although two species of lachnospiraceae (c. catus and r. inulinivorans) are now known to be able to switch from butyrate to propionate production on different substrates. a better understanding of the microbial ecology of short-chain fatty acid formation may allow modulation of propionate formation by the human gut microbiota.
+TIHT== 
+ABHT== 
+
+PMID== 22544782
+TI  == blautia faecis sp. nov., isolated from human faeces.
+AB  == a strictly anoxic, gram-stain-positive, non-motile blautia-like bacterium, designated strain m25(t), was isolated from a human faecal sample. strain m25(t)  was negative for both catalase and oxidase activity, utilized carbohydrates as fermentable substrates, produced lactate and acetate as the major end products of glucose fermentation in pyg medium, and had a dna g+c content of 41.6 mol%. comparative 16s rrna gene sequencing showed that strain m25(t) was closely related to ruminococcus obeum atcc 29174(t) (96.40 % 16s rrna gene sequence similarity) and blautia glucerasea hfth-1(t) (96.17 %) within the family lachnospiraceae. straight-chain saturated and monounsaturated cellular fatty acids were also detected, the majority being c(14 : 0), c(16 : 0) and c(16 : 0) dimethyl acetal acids. based on the phenotypic, genotypic and phylogenetic characteristics presented in this study, strain m25(t) represents a novel species within the genus blautia for which the name blautia faecis sp. nov. is proposed.  the type strain is m25(t) ( = kctc 5980(t) = jcm 17205(t)).
+TIHT== 
+ABHT== 
+

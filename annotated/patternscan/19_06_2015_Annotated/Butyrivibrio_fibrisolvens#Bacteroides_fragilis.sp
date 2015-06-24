@@ -1,0 +1,35 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 7906687
+TI  == a new type of glutamine synthetase in cyanobacteria: the protein encoded by the glnn gene supports nitrogen assimilation in synechocystis sp. strain pcc 6803.
+AB  == a new glutamine synthetase gene, glnn, which encodes a polypeptide of 724 amino acid residues (m(r), 79,416), has been identified in the unicellular cyanobacterium synechocystis sp. strain pcc 6803; this is the second gene that encodes a glutamine synthetase (gs) in this cyanobacterium. the functionality of  this gene was evidenced by its ability to complement an escherichia coli glna mutant and to support synechocystis growth in a strain whose glna gene was inactivated by insertional mutagenesis. in this mutant (strain sjcr3), as well as in the wild-type strain, the second gs activity was subject to regulation by the  nitrogen source, being strongly enhanced in nitrogen-free medium. transcriptional fusion of a chloramphenicol acetyltransferase (cat) gene with the 5'-upstream region of glnn suggested that synthesis of the second synechocystis gs is regulated at the transcriptional level. furthermore, the level of glnn mrna, a transcript of about 2,300 bases, was found to be strongly increased in nitrogen-free medium. the glnn product is similar to the gs subunits of bacteroides fragilis and butyrivibrio fibrisolvens, two obligate anaerobic bacteria whose gss are markedly different from other prokaryotic and eukaryotic gss. however, significant similarity is evident in the five regions which are homologous in all of the gss so far described. the new gs gene was also found in  other cyanobacteria but not in n2-fixing filamentous species.
+TIHT== 
+ABHT== 
+
+PMID== 8103789
+TI  == cloning and nucleotide sequence of the butyrivibrio fibrisolvens gene encoding a  type iii glutamine synthetase.
+AB  == a butyrivibrio fibrisolvens glna gene encoding glutamine synthetase (gs) was cloned on a recombinant plasmid pgs4 which enabled escherichia coli glna deletion mutants to utilize (nh4)2so4 as a sole source of nitrogen. the nucleotide sequence of a 2423 bp dna segment containing the gs-coding region of b. fibrisolvens was determined and the complete amino acid sequence (701 residues) was deduced. comparisons of the derived b. fibrisolvens gs protein sequence with  the amino acid sequences of gs from other bacteria indicate that it is the second reported example of a type iii gs, originally identified in the obligate anaerobe bacteroides fragilis. the presence of gs in b. fibrisolvens cells and the regulation of the cloned gs in e. coli cells was demonstrated by western blot analysis.
+TIHT== 
+ABHT== 
+
+PMID== 2283426
+TI  == physiology and genetics of xylan degradation by gastrointestinal tract bacteria.
+AB  == hemicelluloses or xylans are major components (35%) of plant materials. for ruminant animals, about 50% of the dietary xylans are degraded, but only small amounts of xylans are degraded in the lower gut of nonruminant animals and humans. in the rumen, the major xylanolytic species are butyrivibrio fibrisolvens and bacteroides ruminicola. in the human colon, bacteroides ovatus and bacteroides fragilis subspecies "a" are major xylanolytic bacteria. xylans are chemically complex, and their degradation requires multiple enzymes. expression of these enzymes by gut bacteria varies greatly among species. butyrivibrio fibrisolvens makes extracellular xylanases but bacteroides species have cell-bound xylanase activity. biochemical characterization of xylanolytic enzymes from gut bacteria has not been done. a xylosidase gene has been cloned from b. fibrosolvens 113. the data from dna hybridizations using a xylanase gene cloned from b. fibrisolvens 49 indicate this gene may be present in other b. fibrisolvens strains. a cloned xylanase from bact. ruminicola was transferred to  and highly expressed in bact. fragilis and bact. uniformis. arabinosidase and xylosidase genes from bact. ovatus have been cloned and both activities appear to be catalyzed by a single, bifunctional, novel enzyme. continued research in genetic and biochemical areas will provide knowledge and insights for manipulation of digestion at the gut level and improved understanding of colonic  fiber digestion.
+TIHT== 
+ABHT== 
+
+PMID== 6413047
+TI  == alpha-ketoglutarate metabolism by cytochrome-containing anaerobes.
+AB  == during growth in the presence of tracer amounts of exogenously supplied alpha-keto[1-14c]glutarate (akg) or alpha-keto [5-14c]glutarate, cytochrome-containing bacteroides fragilis strain 2044 and bacteroides vulgatus strain 8482 incorporated extremely small amounts of radioactivity into cell macromolecules and protoheme. under identical conditions, bacteroides "l" strain  7cm and bacteroides buccae strain j1 incorporated substantial label from [5-14c]akg, but not [1-14c]akg, into cellular macromolecules and protoheme. bacteroides succinogenes strain s85 incorporated radioactivity from both [1-14c]akg and [5-14c]akg into cell macromolecules, but only label from [5-14c]akg appeared in protoheme. selenomonas ruminantium strain hd1 and butyrivibrio fibrisolvens strain d1, both of which are devoid of cytochromes, incorporated substantial label from both [1-14c]akg and [5-14c]akg into cell macromolecules, but failed to incorporate label from either position into protoheme. bacteroides ruminicola sp. brevis strain ga33 incorporated label from  both [1-14c]akg and [5-14c]akg into both cell macromolecules and protoheme. a substantial portion of the heme synthesized by this organism may be formed by the "plant" pathway involving the intact use of the akg carbon skeleton. major differences exist in the manner and extent of akg utilization among cytochrome-containing anaerobes and between these organisms and bacteria devoid of cytochromes obtained from similar environments.
+TIHT== 
+ABHT== 
+
+PMID== 5370458
+TI  == oxygen sensitivity of various anaerobic bacteria.
+AB  == anaerobes differ in their sensitivity to oxygen, as two patterns were recognizable in the organisms included in this study. strict anaerobes were species incapable of agar surface growth at po(2) levels greater than 0.5%. species that were found to be strict anaerobes were treponema macrodentium, treponema denticola, treponema oralis n. sp., clostridium haemolyticum, selenomonas ruminatium, butyrivibrio fibrisolvens, succinivibrio dextrinosolvens, and lachnospira multiparus. moderate anaerobes would include those species capable of growth in the presence of oxygen levels as high as 2 to 8%. the moderate anaerobes could be exposed to room atmosphere for 60 to 90 min without appreciable loss of viability. species considered as moderate anaerobes were bacteroides fragilis, b. melaninogenicus, b. oralis, fusobacteria nucleatum, clostridium novyi type a, and peptostreptococcus elsdenii. the recognition of at  least two general types of anaerobes would seem to have practical import in regard to the primary isolation of anaerobes from source material.
+TIHT== 
+ABHT== 
+

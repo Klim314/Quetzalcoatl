@@ -110,6 +110,7 @@ class Pair():
 			paper.writeAnn(path)
 
 def execute(filePath, outDir = "output/ann_format/", terms = 'PMID:TI:AB'):
+	print("EXECUTING: ", filePath) 
 	if not os.path.exists(outDir):
 		os.makedirs(outDir)
 	outFile = os.path.basename(filePath)

@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 12428062
+TI  == inhibition by yeast killer toxin-like antibodies of oral streptococci adhesion to tooth surfaces in an ex vivo model.
+AB  == background: monoclonal (ktmab) and recombinant (ktscfv) anti-idiotypic antibodies, representing the internal image of a yeast killer toxin, proved to be microbicidal in vitro against important eukaryotic and prokaryotic pathogens such as candida albicans, pneumocystis carinii, mycobacterium tuberculosis, staphylococcus aureus, s. haemolyticus, enterococcus faecalis, e. faecium, and streptococcus pneumoniae, including multidrug-resistant strains. ktmab and ktscfv exerted a strong therapeutic effect in well-established animal models of candidiasis and pneumocystosis. streptococcus mutans is the most important etiologic agent of dental caries that might result from the metabolic end products of dental plaque. effective strategies to reduce the disease potential of dental plaque have considered the possibility of using antibiotics or antibodies against oral streptococci in general and s. mutans in particular. in this study, the activity of ktmab and ktscfv against s. mutans and the inhibition and reduction by ktmab of dental colonization by s. mutans and other oral streptococci in an ex vivo model of human teeth were investigated. materials and  methods: ktscfv and ktmab were used in a conventional colony forming unit (cfu) assay against a serotype c strain of s. mutans, and other oral streptococci (s. intermedius, s. mitis, s. oralis, s. salivarius). an ex vivo model of human teeth submerged in saliva was used to establish ktmab potential of inhibiting or reducing the adhesion to dental surfaces by s. mutans and other oral streptococci. results: ktmab and ktscfv kill in vitro s. mutans and other oral streptococci. ktmab inhibit colonization of dental surfaces by s. mutans and oral streptococci in the ex vivo model. conclusions: killer antibodies with antibiotic activity or their engineered derivatives may have a potential in the prevention of dental caries in vivo.
+TIHT== 
+ABHT== 
+
+PMID== 2965127
+TI  == bactericidal activity of teicoplanin in an in-vitro two-compartment kinetic model.
+AB  == the bactericidal activity of teicoplanin was studied in a model system in which antibiotic concentration is continuously varied. a two-compartment open model was used to reproduce, in vitro serum pharmacokinetics of teicoplanin in humans during 24 h after iv administration. staphylococcal and streptococcal strains of  various species were tested. teicoplanin showed rapid killing of staphylococcus epidermidis and staph. hominis. all strains of staph. epidermidis were rapidly killed in spite of the high mic values (4-16 mg/l). the killing effect against staph. haemolyticus was less rapid and marked than against staph. epidermidis, with strain to strain variation. a 99.9% kill was achieved for most strains within 22 h, but with other isolates regrowth occurred which was due to the presence of highly resistant cells in the original population. other staphylococci (staph. aureus, staph. saprophyticus) and streptococcus pyogenes, str. bovis and str. salivarius were reduced by 99.9% within 22 h. bactericidal activity against other streptococci (str. mutans, str. agalactiae, str. faecalis, str. faecium) was less marked; against str. sanguis teicoplanin was bacteriostatic.
+TIHT== 
+ABHT== 
+

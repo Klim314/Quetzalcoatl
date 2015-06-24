@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25049913
+TI  == effects of ensiling fermentation and aerobic deterioration on the bacterial community in italian ryegrass, guinea grass, and whole-crop maize silages stored  at high moisture content.
+AB  == the effects of storage period and aerobic deterioration on the bacterial community were examined in italian ryegrass (ir), guinea grass (gg), and whole-crop maize (wm) silages. direct-cut forages were stored in a laboratory silo for 3, 7, 14, 28, 56, and 120 d without any additives; live counts, content  of fermentation products, and characteristics of the bacterial community were determined. 2,3-butanediol, acetic acid, and lactic acid were the dominant fermentation products in the ir, gg, and wm silages, respectively. the acetic acid content increased as a result of prolonged ensiling, regardless of the type  of silage crop, and the changes were distinctively visible from the beginning of  gg ensiling. pantoea agglomerans, rahnella aquatilis, and enterobacter sp. were the major bacteria in the ir silage, indicating that alcoholic fermentation may be due to the activity of enterobacteria. staphylococcus sciuri and bacillus pumilus were detected when ir silage was spoiled, whereas between aerobically stable and unstable silages, no differences were seen in the bacterial community  at silo opening. lactococcus lactis was a representative bacterium, although acetic acid was the major fermentation product in the gg silage. lactobacillus plantarum, lactobacillus brevis, and morganella morganii were suggested to be associated with the increase in acetic acid due to prolonged storage. enterobacter cloacae appeared when the gg silage was spoiled. in the wm silage, no distinctive changes due to prolonged ensiling were seen in the bacterial community. throughout the ensiling, weissella paramesenteroides, weissella confusa, and klebsiella pneumoniae were present in addition to l. plantarum, l. brevis, and l. lactis. upon deterioration, acetobacter pasteurianus, klebsiella variicola, enterobacter hormaechei, and bacillus gibsonii were detected. these results demonstrate the diverse bacterial community that evolves during ensiling  and aerobic spoilage of ir, gg, and wm silages.
+TIHT== 
+ABHT== 
+

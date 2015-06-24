@@ -1,5 +1,0 @@
-@SUMMARY
-NEG == 
-INT == 
-POS == 
-@PAPERS

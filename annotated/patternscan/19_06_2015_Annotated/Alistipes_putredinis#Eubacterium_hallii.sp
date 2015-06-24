@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19640972
+TI  == human gut bacterial communities are altered by addition of cruciferous vegetables to a controlled fruit- and vegetable-free diet.
+AB  == in the human gut, commensal bacteria metabolize food components that typically serve as energy sources. these components have the potential to influence gut bacterial community composition. cruciferous vegetables, such as broccoli and cabbage, contain distinctive compounds that can be utilized by gut bacteria. for  example, glucosinolates can be hydrolyzed by certain bacteria, and dietary fibers can be fermented by a range of species. we hypothesized that cruciferous vegetable consumption would alter growth of certain bacteria, thereby altering bacterial community composition. we tested this hypothesis in a randomized, crossover, controlled feeding study. fecal samples were collected from 17 participants at the end of 2 14-d intake periods: a low-phytochemical, low-fiber  basal diet (i.e. refined grains without fruits or vegetables) and a high ("double") cruciferous vegetable diet [basal diet + 14 g cruciferous vegetables/(kg body weightd)]. fecal bacterial composition was analyzed by the terminal restriction fragment length polymorphism (trflp) method using the bacterial 16s ribosomal rna gene and nucleotide sequencing. using blocked multi-response permutation procedures analysis, we found that overall bacterial community composition differed between the 2 consumption periods (delta = 0.603;  p = 0.011). the bacterial community response to cruciferous vegetables was individual-specific, as revealed by nonmetric multidimensional scaling ordination analysis. specific trflp fragments that characterized each of the diets were identified using indicator species analysis. putative species corresponding to these fragments were identified through gene sequencing as eubacterium hallii, phascolarctobacterium faecium, burkholderiales spp., alistipes putredinis, and eggerthella spp. in conclusion, human gut bacterial community composition was altered by cruciferous vegetable consumption, which could ultimately influence gut metabolism of bioactive food components and host exposure to these compounds.
+TIHT== 
+ABHT== 
+

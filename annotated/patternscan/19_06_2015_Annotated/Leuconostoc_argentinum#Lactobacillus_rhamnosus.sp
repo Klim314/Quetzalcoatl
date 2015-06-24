@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 12038579
+TI  == isolation, identification and changes in the composition of lactic acid bacteria  during the malting of two different barley cultivars.
+AB  == malt has a complex microbial population, which changes as the malting process commences. little is known about the proliferation of lactic acid bacteria (lab)  in each of the malting phases. in this study, we determined the number of lab present in the different phases of malting with clipper and prisma barley cultivars. the strains were identified to species level by using numerical analysis of total soluble cell protein patterns, rapd-pcr banding patterns and 16s rrna sequencing. the number of viable lab in the barley before steep was higher in prisma than clipper (7.6 x 10(4) and 1.2 x 10(3) cfu/g, respectively).  despite this, the number of viable cells recorded in the first steep water was slightly higher for clipper (9.0 x 10(5) cfu/g) than prisma (5.5 x 10(5) cfu/g).  more or less, the same cell numbers were recorded for the two barley cultivars after the first and second dry stands. both cultivars displayed more or less the  same cell numbers (3.7 x 10(7) for clipper and 3.2 x 10(7) cfu/g for prisma) after the third day of germination. however, a higher number of lab were detected in the kilned prisma malt (6.9 x 10(4) cfu/g) than the clipper malt (1.5 x 10(4)  cfu/g). leuconostoc argentinum, le. lactis and weissella confusa were the most predominant in both cultivars. a few strains were identified as w. paramesenteroides (four strains), lactobacillus casei (five strains), lactococcus lactis (five strains) and lb. rhamnosus (two strains). lb. casei and lb. rhamnosus were not isolated from the prisma cultivar, while w. paramesenteroides  and lc. lactis were absent in the clipper cultivar. kilned malt of the clipper cultivar contained predominantly le. argentinum, whereas the prisma cultivar contained mainly lc. lactis. to our knowledge. this is the first report of lab in clipper and prisma barley and the various malting phases. the influence of the various groups of lactic acid bacteria on the fermenting ability of brewers' yeast is currently being determined.
+TIHT== 
+ABHT== 
+

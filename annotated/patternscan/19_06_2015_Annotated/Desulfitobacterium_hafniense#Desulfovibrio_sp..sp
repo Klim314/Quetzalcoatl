@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 18634895
+TI  == application of molecular techniques to evaluate the methanogenic archaea and anaerobic bacteria in the presence of oxygen with different cod:sulfate ratios in a uasb reactor.
+AB  == in this paper, the microbial characteristics of the granular sludge in the presence of oxygen (3.0+/-0.7 mg o2 l(-1)) were analyzed using molecular biology  techniques. the granules were provided by an upflow anaerobic sludge blanket (uasb) operated over 469 days and fed with synthetic substrate. ethanol and sulfate were added to obtain different cod/so4(2-) ratios (3.0, 2.0, and 1.6). the results of fluorescent in situ hybridization (fish) analyses showed that archaeal cells, detected by the arc915 probe, accounted for 77%, 84%, and 75% in  the cod/so(4)(2-) ratios (3.0, 2.0, and 1.6, respectively). methanosaeta sp. was  the predominant acetoclastic archaea observed by optical microscopy and fish analyses, and confirmed by sequencing of the excised bands of the dgge gel with a similarity of 96%. the sulfate-reducing bacterium desulfovibrio vulgaris subsp. vulgaris (similarity of 99%) was verified by sequencing of the dgge band. others  identified microorganism were similar to shewanella sp. and desulfitobacterium hafniense, with similarities of 95% and 99%, respectively. these results confirmed that the presence of oxygen did not severely affect the metabolism of microorganisms that are commonly considered strictly anaerobic. we obtained mean  efficiencies of organic matter conversion and sulfate reducing higher than 74%.
+TIHT== 
+ABHT== 
+
+PMID== 10508097
+TI  == sulfonates as terminal electron acceptors for growth of sulfite-reducing bacteria (desulfitobacterium spp.) and sulfate-reducing bacteria: effects of inhibitors of sulfidogenesis.
+AB  == this study demonstrates the ability of desulfitobacterium spp. to utilize aliphatic sulfonates as terminal electron acceptors (tea) for growth. isethionate (2-hydroxyethanesulfonate) reduction by desulfitobacterium hafniense resulted in  acetate as well as sulfide accumulation in accordance with the expectation that the carbon portion of isethionate was oxidized to acetate and the sulfur was reduced to sulfide. the presence of a polypeptide, approximately 97 kda, was evident in isethionate-grown cells of desulfitobacterium hafniense, desulfitobacterium sp. strain pce 1, and the two sulfate-reducing bacteria (srb)-desulfovibrio desulfuricans ic1 (t. j. lie, j. r. leadbetter, and e. r. leadbetter, geomicrobiol. j. 15:135-149, 1998) and desulfomicrobium norvegicum; this polypeptide was not detected when these bacteria were grown on tea other than isethionate, suggesting involvement in its metabolism. the sulfate analogs molybdate and tungstate, effective in inhibiting sulfate reduction by srb, were examined for their effects on sulfonate reduction. molybdate effectively inhibited sulfonate reduction by strain ic1 and selectively inhibited isethionate (but not cysteate) reduction by desulfitobacterium dehalogenans and desulfitobacterium sp. strain pce 1. desulfitobacterium hafniense, however, grew  with both isethionate and cysteate in the presence of molybdate. in contrast, tungstate only partially inhibited sulfonate reduction by both srb and desulfitobacterium spp. similarly, another inhibitor of sulfate reduction, 1,8-dihydroxyanthraquinone, effectively inhibited sulfate reduction by srb but only partially inhibited sulfonate reduction by both srb and desulfitobacterium hafniense.
+TIHT== 
+ABHT== 
+

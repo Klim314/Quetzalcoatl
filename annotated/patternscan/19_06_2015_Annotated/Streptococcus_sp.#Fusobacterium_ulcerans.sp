@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 17633139
+TI  == a six-month audit of the isolation of fusobacterium necrophorum from patients with sore throat in a district general hospital.
+AB  == fusobacterium necrophorum is an obligate anaerobe believed to be a member of the  normal flora of the human oropharangeal and urogenital tract. it has been associated with deep-seated infections and was first described in 1936 by lemierre, a french microbiologist. there is now strong evidence to suggest that it is also a cause of recurrent sore throat and persistent sore throat syndrome (psts) without leading to full systemic infection. it is considered to be the second most common cause of sore throat after group a beta-haemolytic streptococci. this study was performed over a six-month period (october 2004 to march 2005) at the eastbourne district general hospital. all throat swabs received in the laboratory are cultured routinely for haemolytic group a streptococci and pathogenic corynebacteria spp. during the study period an extra  fastidious anaerobic blood agar plate with neomycin was inoculated, with a 30 microg vancomycin disc placed at the junction of the second and third streaks. this was examined after 48 h for the presence of f. necrophorum. a total of 1157  swabs were processed during the study period: 156 were positive for haemolytic group a streptococci, 57 were positive for f. necrophorum, 47 for group c haemolytic streptococci, nine for group g haemolytic streptococci, and one was positive for c. ulcerans. patient age ranged from less than a year old to 88. the majority of f. necrophorum isolates were from patients in the 11-25 age group, with an isolation rate of 9.48% (44/464). this age group accounted for 40% (464/1157) of the swabs received during the study period and 77% (44/57) of these were positive for f. necrophorum. group a haemolytic streptococci showed an overall isolation rate of 13.5%, with peaks of 23% in the 0-10 and 26-35 age ranges. together, these two organisms were responsible for 18.4% (213/1157) of all throat infections in this study. the results presented here indicate that f.  necrophorum is second to group a haemolytic streptococci as a cause of sore throat, especially in the young adult, and introduction of routine culture should be considered.
+TIHT== 
+ABHT== 
+

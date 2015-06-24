@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25880819
+TI  == development and pyrosequencing analysis of an in-vitro oral biofilm model.
+AB  == background: dental caries and periodontal disease are the commonest bacterial diseases of man and can result in tooth loss. the principal method of prevention  is the mechanical removal of dental plaque augmented by active agents incorporated into toothpastes and mouthrinses. in-vitro assays that include complex oral bacterial biofilms are required to accurately predict the efficacy of novel active agents in vivo. the aim of this study was to develop an oral biofilm model using the calgary biofilm device (cbd) seeded with a natural saliva inoculum and analysed by next generation sequencing. the specific objectives were to determine the reproducibility and stability of the model by comparing the composition of the biofilms over time derived from (i) the same volunteers at different time points, and (ii) different panels of volunteers. results: pyrosequencing yielded 280,093 sequences with a mean length of 432 bases after filtering. a mean of 320 and 250 otus were detected in pooled saliva and biofilm  samples, respectively. principal coordinates analysis (pcoa) plots based on community membership and structure showed that replicate biofilm samples were highly similar and clustered together. in addition, there were no significant differences between biofilms derived from the same panel at different times using analysis of molecular variance (amova). there were significant differences between biofilms from different panels (amova, p < 0.002). pcoa revealed that there was a shift in biofilm composition between seven and 14 days (amova, p < 0.001). veillonella parvula, veillonella atypica/dispar/parvula and peptostreptococcus stomatis were the predominant otus detected in seven-day biofilms, whilst prevotella oralis, v. parvula and streptococcus constellatus were predominant in 14-day biofilms. conclusions: diverse oral biofilms were successfully grown and maintained using the cbd. biofilms derived from the same panel of volunteers were highly reproducible. this model could be used to screen  both antimicrobial-containing oral care products and also novel approaches aiming to modify plaque composition, such as pre- or probiotics.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19665391
+TI  == th17 cytokines and host-pathogen interactions at the mucosa: dichotomies of help  and harm.
+AB  == the mucosal surfaces are often the first site of interaction between pathogenic microorganisms and the host. activation of the mucosal immune response has the important function of containing an infection and preventing dissemination of pathogens to systemic sites (barrier function). numerous lines of evidence suggest that the barrier function is orchestrated by a subset of cytokines (interleukin (il-)17 and il-22), which belong to the th17 family. il-17 and il-22 induce expression of antimicrobial peptides and neutrophil chemoattractants at mucosal sites, and thus play an important role in controlling mucosal infections. however, there is increasing evidence that mucosal pathogens achieve greater colonization during inflammation because they are resistant to a subset of these  antimicrobial responses. in this review we compare the antimicrobial responses elicited by th17 cytokines during mucosal infections with four different pathogens: klebsiella pneumoniae, citrobacter rodentium, candida albicans and salmonella typhimurium. we will then discuss which responses may constitute the mucosal barrier, thus providing a benefit to the host, and which ones may promote the colonization of pathogens, thereby providing a benefit to the microbes.
+TIHT== 
+ABHT== 
+
+PMID== 19125888
+TI  == interleukin-17 in host defence against bacterial, mycobacterial and fungal pathogens.
+AB  == the mammalian immune system is intricately regulated, allowing for potent pathogen-specific immunity to be rapidly activated in response to infection with  a broad and diverse array of potential pathogens. as a result of their ability to differentiate into distinct effector lineages, cd4 t cells significantly contribute to pathogen-specific adaptive immune responses. through the production of effector cytokines, cd4 t helper (th) cells orchestrate the precise mobilization of specific immune cells to eradicate infection. the protective effects of the newly identified lineage of th17 cells against pathogens like klebsiella pneumoniae, citrobacter rodentium and candida albicans indicate the capacity of th17 cells to confer protection against extracellular bacterial and fungal pathogens, filling a critical void in host immunity not covered by the classically described th1 lineage that activates immunity to intracellular pathogens or the th2 lineage that is important in protection against mucosal parasitic pathogens. host defence by th17 cells extends beyond protection against extracellular bacterial and fungal pathogens, as demonstrated in infections against intracellular bacteria like listeria monocytogenes and salmonella enterica, as well as mycobacterium tuberculosis. herein, we summarize both experimental data from mouse infection models and epidemiological studies in humans that demonstrate the protective effects of interleukin-17 and th17 cd4 t cells in immunity to bacterial, mycobacterial and fungal pathogens.
+TIHT== 
+ABHT== 
+
+PMID== 18762269
+TI  == host and microbiota factors that control klebsiella pneumoniae mucosal colonization in mice.
+AB  == klebsiella pneumoniae is both an opportunistic pathogen and a commensal organism. we have previously reported that k. pneumoniae strain ia565 (kpia565) is non-pathogenic in a murine model of acute pneumonia. in this study, kpia565 was inoculated into wild-type mice and found to stably colonize and persist in the nasal cavity and gastrointestinal tract of mice for up to 3weeks post-inoculation. intranasal inoculation of wild-type or germ-free mice with kpia565 resulted in similar bacterial levels in the nasal cavity, suggesting kpia565 nasal colonization is independent of normal nasal microbiota. in contrast, kpia565 gastrointestinal tract colonization was significantly higher in germ-free mice than in wild-type mice, indicating that members of the endogenous  microbiota regulate kpia565 colonization. in the presence of non-specific dextran sodium sulfate-induced inflammation, kpia565 gastrointestinal tract colonization  was significantly higher when compared to non-dss treated mice. interestingly, kpia565 colonization was unaffected by citrobacter rodentium-induced gastrointestinal tract inflammation. however, gastrointestinal tract colonization with k. pneumoniae strain ia565 had no impact on the inflammatory histopathology  in either colitis model. this study is the first to identify and describe mechanisms influencing the growth and behavior of a murine commensal strain of k. pneumoniae.
+TIHT== 
+ABHT== 
+

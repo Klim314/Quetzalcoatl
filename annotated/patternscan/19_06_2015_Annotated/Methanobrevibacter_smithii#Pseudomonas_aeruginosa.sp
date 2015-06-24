@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25416765
+TI  == alternative fecal indicators and their empirical relationships with enteric viruses, salmonella enterica, and pseudomonas aeruginosa in surface waters of a tropical urban catchment.
+AB  == the suitability of traditional microbial indicators (i.e., escherichia coli and enterococci) has been challenged due to the lack of correlation with pathogens and evidence of possible regrowth in the natural environment. in this study, the  relationships between alternative microbial indicators of potential human fecal contamination (bacteroides thetaiotaomicron, methanobrevibacter smithii, human polyomaviruses [hpyvs], and f+ and somatic coliphages) and pathogens (salmonella  spp., pseudomonas aeruginosa, rotavirus, astrovirus, norovirus gi, norovirus gii, and adenovirus) were compared with those of traditional microbial indicators, as  well as environmental parameters (temperature, conductivity, salinity, ph, dissolved oxygen, total organic carbon, total suspended solids, turbidity, total  nitrogen, and total phosphorus). water samples were collected from surface waters of urban catchments in singapore. salmonella and p. aeruginosa had significant positive correlations with most of the microbial indicators, especially e. coli and enterococci. norovirus gii showed moderately strong positive correlations with most of the microbial indicators, except for hpyvs and coliphages. in general, high geometric means and significant correlations between human-specific markers and pathogens suggest the possibility of sewage contamination in some areas. the simultaneous detection of human-specific markers (i.e., b. thetaiotaomicron, m. smithii, and hpyvs) with e. coli and enterococcus supports the likelihood of recent fecal contamination, since the human-specific markers are unable to regrow in natural surface waters. multiple-linear-regression results further confirm that the inclusion of m. smithii and hpyvs, together with traditional indicators, would better predict the occurrence of pathogens. further study is needed to determine the applicability of such models to different geographical locations and environmental conditions.
+TIHT== 
+ABHT== 
+

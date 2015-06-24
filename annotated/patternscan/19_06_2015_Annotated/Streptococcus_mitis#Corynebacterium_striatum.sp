@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25859394
+TI  == antimicrobial activity of chemokine cxcl10 for dermal and oral microorganisms.
+AB  == cxcl10 (ip-10) is a small 10 kda chemokine with antimicrobial activity. it is induced by ifn-gamma, chemoattracts mononuclear cells, and promotes adhesion of t cells. recently, we detected cxcl10 on the surface of the skin and in the oral cavity. in the current study, we used broth microdilution and radial diffusion assays to show that cxcl10 inhibits the growth of escherichia coli, staphylococcus aureus, corynebacterium jeikeium, corynebacterium striatum, and candida albicans hmv4c, but not corynebacterium bovis, streptococcus mutans, streptococcus mitis, streptococcus sanguinis, fusobacterium nucleatum, aggregatibacter actinomycetemcomitans, poryphromonas gingivalis, or c. albicans atcc 64124. the reason for the selective antimicrobial activity is not yet known. however, antimicrobial activity of cxcl10 may be related to its composition and structure, as a cationic 98 amino acid residue molecule with 10 lysine residues,  7 arginine residues, a total net charge of +11, and a theoretical pi of 9.93. modeling studies revealed that cxcl10 contains an alpha-helix at the n-terminal,  three anti-parallel beta-strands in the middle, and an alpha-helix at the c-terminal. thus, cxcl10, when produced on the surface of the skin or in the oral cavity, likely has antimicrobial activity and may enhance innate antimicrobial and cellular responses to the presence of select commensal or opportunistic microorganisms.
+TIHT== 
+ABHT== 
+
+PMID== 22155833
+TI  == antibacterial activity of sphingoid bases and fatty acids against gram-positive and gram-negative bacteria.
+AB  == there is growing evidence that the role of lipids in innate immunity is more important than previously realized. how lipids interact with bacteria to achieve  a level of protection, however, is still poorly understood. to begin to address the mechanisms of antibacterial activity, we determined mics and minimum bactericidal concentrations (mbcs) of lipids common to the skin and oral cavity--the sphingoid bases d-sphingosine, phytosphingosine, and dihydrosphingosine and the fatty acids sapienic acid and lauric acid--against four gram-negative bacteria and seven gram-positive bacteria. exact kruskal-wallis tests of these values showed differences among lipid treatments (p < 0.0001) for each bacterial species except serratia marcescens and pseudomonas aeruginosa. d-sphingosine (mbc range, 0.3 to 19.6 mug/ml), dihydrosphingosine (mbc range, 0.6 to 39.1 mug/ml), and phytosphingosine (mbc range, 3.3 to 62.5 mug/ml) were active against all bacteria except s. marcescens and p. aeruginosa (mbc > 500 mug/ml). sapienic acid (mbc range, 31.3 to 375.0 mug/ml) was active against streptococcus sanguinis, streptococcus mitis, and fusobacterium nucleatum but not active against escherichia coli, staphylococcus aureus, s. marcescens, p. aeruginosa, corynebacterium bovis, corynebacterium striatum, and corynebacterium  jeikeium (mbc > 500 mug/ml). lauric acid (mbc range, 6.8 to 375.0 mug/ml) was active against all bacteria except e. coli, s. marcescens, and p. aeruginosa (mbc > 500 mug/ml). complete killing was achieved as early as 0.5 h for some lipids but took as long as 24 h for others. hence, sphingoid bases and fatty acids have  different antibacterial activities and may have potential for prophylactic or therapeutic intervention in infection.
+TIHT== 
+ABHT== 
+

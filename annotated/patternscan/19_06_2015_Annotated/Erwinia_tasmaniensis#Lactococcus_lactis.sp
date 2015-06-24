@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22666442
+TI  == phylogenetic analysis of a spontaneous cocoa bean fermentation metagenome reveals new insights into its bacterial and fungal community diversity.
+AB  == this is the first report on the phylogenetic analysis of the community diversity  of a single spontaneous cocoa bean box fermentation sample through a metagenomic  approach involving 454 pyrosequencing. several sequence-based and composition-based taxonomic profiling tools were used and evaluated to avoid software-dependent results and their outcome was validated by comparison with previously obtained culture-dependent and culture-independent data. overall, this approach revealed a wider bacterial (mainly gamma-proteobacteria) and fungal diversity than previously found. further, the use of a combination of different classification methods, in a software-independent way, helped to understand the actual composition of the microbial ecosystem under study. in addition, bacteriophage-related sequences were found. the bacterial diversity depended partially on the methods used, as composition-based methods predicted a wider diversity than sequence-based methods, and as classification methods based solely on phylogenetic marker genes predicted a more restricted diversity compared with  methods that took all reads into account. the metagenomic sequencing analysis identified hanseniaspora uvarum, hanseniaspora opuntiae, saccharomyces cerevisiae, lactobacillus fermentum, and acetobacter pasteurianus as the prevailing species. also, the presence of occasional members of the cocoa bean fermentation process was revealed (such as erwinia tasmaniensis, lactobacillus brevis, lactobacillus casei, lactobacillus rhamnosus, lactococcus lactis, leuconostoc mesenteroides, and oenococcus oeni). furthermore, the sequence reads  associated with viral communities were of a restricted diversity, dominated by myoviridae and siphoviridae, and reflecting lactobacillus as the dominant host. to conclude, an accurate overview of all members of a cocoa bean fermentation process sample was revealed, indicating the superiority of metagenomic sequencing over previously used techniques.
+TIHT== 
+ABHT== 
+

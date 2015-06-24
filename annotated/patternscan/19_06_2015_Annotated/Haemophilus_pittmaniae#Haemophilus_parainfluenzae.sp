@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25976004
+TI  == genital carriage of the genus haemophilus in pregnancy: species distribution and  antibiotic susceptibility.
+AB  == recent reports have hypothesized that colonization of the maternal genital tract  with noncapsulated h. influenzae could result in neonatal invasive disease. in this study, genital carriage of the genus haemophilus was investigated in 510 pregnant women attending an italian hospital for routine controls. overall, vaginal carriage of the genus haemophilus was 9.0% (46/510). a high colonization  rate with h. parainfluenzae (37/510, 7.3%) was found; other species, such as h. pittmaniae (7/510, 1.4%) and h. haemolyticus (2/510, 0.4%), were detected for the first time in the genital flora by 16s rrna gene sequencing. notably, no h. influenzae was identified in agreement with previous investigations indicating that this species is rarely isolated from the genitourinary tract of pregnant women. no antibiotic resistance was detected in h. pittmaniae and h. haemolyticus, but quite a high degree of ampicillin (10/37, 27%) and ciprofloxacin (3/37, 8.1%) resistance was observed in h. parainfluenzae. five ampicillin-resistant isolates were beta-lactamase producers whereas 5 isolates exhibited a beta-lactamase-negative ampicillin-resistant (blnar) phenotype. sequencing of penicillin-binding protein (pbp)3 revealed that the val511ala, asn526ser, ala530ser and thr574ala changes were associated with blnar phenotypes. two ciprofloxacin-resistant isolates carried substitutions in both gyra (ser84phe and asp88tyr) and parc (ser84tyr and met198leu), the other ciprofloxacin-resistant isolate had substitutions in parc, only (ser138thr and met198leu). in conclusions, about ten per cent of pregnant women carried a species of haemophilus in their genital tract. the emergence of non-beta-lactamase-mediated resistance in genital h. parainfluenzae is a matter of concern because of the risk of mother-to-baby transmission.
+TIHT== 
+ABHT== 
+
+PMID== 22546325
+TI  == haemophilus pittmaniae respiratory infection in a patient with siderosis: a case  report.
+AB  == introduction: haemophilus pittmaniae was described in 2005 as a new species distantly related to haemophilus parainfluenzae. this member of the human saliva  microbiota has also been further isolated from various body fluids without formal description of the patients. case presentation: we report the case of h. pittmaniae isolate made from a sputum specimen collected from a 58-year-old caucasian man with a massive fibrotic form of siderosis who was awaiting lung transplantation. identification of the isolate was ascertained by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry and 16s rrna gene sequencing. h. pittmaniae was considered to be responsible for the worsening of the patient's chronic respiratory failure and was successfully treated with oral  amoxicillin. conclusion: h. pittmaniae should be regarded as a new pathogen responsible for respiratory tract infection in patients with chronic lung diseases.
+TIHT== 
+ABHT== 
+
+PMID== 15653917
+TI  == multilocus sequence phylogenetic study of the genus haemophilus with description  of haemophilus pittmaniae sp. nov.
+AB  == the phylogeny of human isolates of haemophilus species was estimated based on partial sequences of four separate housekeeping genes. the clustering of each set of sequences was in accordance with speciation of the strains with few exceptions: of 108 gene fragments examined, only three appeared to have been subject to recombination events across the species barrier. housekeeping gene similarity supported previous dna-dna hybridization data for the genus rather than the phylogeny inferred from 16s rrna gene sequence comparison. the similarity of sequences of haemophilus parainfluenzae with those of haemophilus influenzae suggested preservation of the former species in the genus haemophilus. three strains representing a novel taxon were unique with respect to the four investigated gene loci. 16s rrna gene sequence analysis suggested that this taxon belonged to the parainfluenzae cluster. dna-dna hybridization data supported this generic placement. nine strains of the novel taxon were available for analysis. they were distinct from representatives of all current species of the genus haemophilus by conventional phenotypic characterization. genotypic and phenotypic data show that the strains merit recognition as a novel species of haemophilus. the name haemophilus pittmaniae sp. nov. is proposed, with hk 85t (=ccug 48703t=nctc 13334t) as the type strain.
+TIHT== 
+ABHT== 
+

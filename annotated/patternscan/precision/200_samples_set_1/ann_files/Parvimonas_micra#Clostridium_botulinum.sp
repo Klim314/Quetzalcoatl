@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 0
+POS == 0
+NEG == 0
+@PAPERS
+PMID== 22099908
+TI  == persistent extraradicular infection in root-filled asymptomatic human tooth: scanning electron microscopic analysis and microbial investigation after apical microsurgery.
+AB  == introduction: procedural accidents have a negative effect on healing and might contribute to the persistence of infections in inaccessible apical areas, requiring surgical intervention. this report describes a case of persistent apical periodontitis of a lower left first molar associated with the sinus tract  and a periapical lesion that required nonsurgical endodontic retreatment and apical surgery for resolution. methods: the tooth had received endodontic treatment 3 years ago and had to be retreated using the crown-down technique with chemical auxiliary substance (2% chlorhexidine gel), foramen patency, and enlargement and was filled in a single appointment. the occlusal access cavity was immediately restored with composite resin. after 1 month, it could be observed that the sinus tract persisted and, radiographically, the lesion remained unaltered. therefore, endodontic microsurgery was indicated. apical microsurgery was performed under magnification with the use of a dental operating microscope including apicectomy, root end with ultrasound, and sealing with mineral trioxide aggregate. a microbiological sample was collected from the apical lesion. the resected distal root apex was observed by scanning electron microscopy. results: the following species were detected: actinomyces naeslundii  and actinomyces meyeri, propionibacterium propionicum, clostridium botullinum, parvimonas micra, and bacteroides ureolyticus; scanning electron microscopic analysis revealed bacterial biofilm surrounding the apical foramen and external radicular surface. gutta-percha overfilling at the apex because of a zip caused during initial endodontic treatment could be observed. a 6-month follow-up showed apparent radiographic periapical healing, which progressed after 24 months. conclusion: gram-positive anaerobic bacteria and extraradicular biofilm seem to participate in the maintenance of persistent periapical pathology, and endodontic retreatment followed by periapical microsurgery proved to be a successful alternative in the resolution of persistent extraradicular infections.
+TIHT== 
+ABHT== 
+

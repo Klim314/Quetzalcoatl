@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 10791707
+TI  == profile of subgingival microbiota in children with primary dentition.
+AB  == eruption of primary teeth has a great influence on the oral environment by providing suitable niches for bacterial colonization. the aim of the study was to investigate the composition of the subgingival microbiota of primary incisors, canines and molars in 40 systemically healthy children aged 4-5 yr, chosen randomly. subgingival plaque samples were taken from the mesiobuccal sites of primary incisors (61, 81), canines (53, 73) and molars (64, 84). the samples were cultured for bacterial isolation anaerobically and in 10% co2 plus air using selective and non-selective media. forty-one different microbial species were isolated. gemella morbillorum and peptostreptococcus magnus were statistically significantly more frequently detected in incisors while p. micros, streptococcus intermedius, bacteroides forsythus, fusobacterium nucleatum, prevotella loeschei, p. melaninogenica and selenomonas sputigena were more frequently detected in molars. the bacterial species s. constellatus, g. morbillorum and p. magnus were  isolated in greater numbers in incisors and p. micros, s. intermedius, campylobacter concisus, bacteroides egertheii, b. forsythus, p. oralis and s. sputigena were isolated in greater numbers in molars, respectively. cluster analysis revealed 4 clusters in which 6-7 bacterial species were elevated above mean levels. cluster i was predominated by s. constellatus, s. mitis, s. sanguis, g. morbillorum, p. melaninogenica and p. oralis; cluster ii was predominated by s. sanguis, actinomyces naeslundii, capnocytophaga gingivalis, c. ochracea and p. intermedia; cluster iii was predominated by s. mitis, c. ochracea, f. nucleatum,  p. loeschei, p. melaninogenica and p. oralis; and finally cluster iv was predominated by s. sanguis, c. gingivalis, veillonella parvula, campylobacter gracilis, f. nucleatum and p. intermedia. the bacterial species s. constellatus,  p. micros, pseudoramibacter alactolyticus, eikenella corrodens and f. nucleatum were associated with non-bleeding sites while s. intermedius, c. concisus, p. intermedia and p. loescheii were found more frequently in bleeding sites.
+TIHT== 
+ABHT== 
+

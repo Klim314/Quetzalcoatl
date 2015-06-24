@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19849869
+TI  == quantitative differences in intestinal faecalibacterium prausnitzii in obese indian children.
+AB  == gut bacteria contribute to energy conservation in man through their ability to ferment unabsorbed carbohydrate. the present study examined the composition of predominant faecal microbiota in obese and non-obese children. the participants (n 28) aged 11-14 years provided fresh faecal samples and completed a dietary survey consisting of 24 h diet recall and a ffq of commonly used foods taken over the previous 3 months. faecal bacteria were quantitated by real-time pcr using primers targeted at 16s rdna. of the participants, fifteen (seven female) were obese, with median bmi-for-age at the 99th percentile (range 97 to>99) while thirteen participants (seven female) were normal weight, with median bmi-for age  being at the 50th percentile (range 1-85). consumption of energy, carbohydrates,  fat and protein was not significantly different between the obese and non-obese participants. there was no significant difference between the two groups in faecal levels of bacteroides-prevotella, bifidobacterium species, lactobacillus acidophilus group or eubacterium rectale. levels of faecalibacterium prausnitzii  were significantly higher in obese children than in non-obese participants (p = 0.0253). we concluded that the finding of increased numbers of f. prausnitzii in  the faeces of obese children in south india adds to the growing information on alterations in faecal microbiota in obesity.
+TIHT== 
+ABHT== 
+
+PMID== 19064526
+TI  == bacterial succession in the colon during childhood and adolescence: molecular studies in a southern indian village.
+AB  == background: the colonic bacterial flora, largely anaerobic, is believed to establish and stabilize in the first 2 y of life. objective: this study was undertaken to determine whether the bacterial flora of the colon undergoes further changes (succession) during childhood and adolescence. design: this cross-sectional study examined fecal samples from 130 healthy children and adolescents in the age group 2-17 y and from 30 healthy adults (median age: 42 y) residing in a single village in southern india. dna was extracted and subjected to 16s rdna-targeted real-time polymerase chain reaction to determine the relative predominance of bifidobacterium genus, bacteroides-prevotella-porphyromonas group, lactobacillus acidophilus group, eubacterium rectale, and faecalibacterium prausnitzii. results: bifidobacterium species and bacteroides-prevotella group were dominant fecal bacteria overall. e. rectale and lactobacillus species were considerably less abundant. clear age-related differences emerged, with a steep decline in bifidobacterium species  in adults (p < 0.0001), a steep decline of lactobacillus species >5 y of age (p < 0.0001), an increase in bacteroides during late adolescence and in adults (p = 0.0040), an increase in e. rectale during childhood and adolescence followed by a steep decline in adults (p < 0.0001), and a late childhood peak of f. prausnitzii with decline in adolescents and adults (p < 0.0001). conclusions: changes in the  bacterial flora occur during childhood and adolescence characterized by reduction in lactobacillus and bifidobacterium species and an increase in bacteroides, e rectale, and f. prausnitzii peaked during late childhood in this population.
+TIHT== 
+ABHT== 
+

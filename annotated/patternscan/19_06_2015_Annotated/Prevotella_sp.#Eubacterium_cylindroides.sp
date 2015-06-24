@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25213025
+TI  == shifts in microbiota species and fermentation products in a dietary model enriched in fat and sucrose.
+AB  == the gastrointestinal tract harbours a 'superorganism' called the gut microbiota,  which is known to play a crucial role in the onset and development of diverse diseases. this internal ecosystem, far from being a static environment, can be manipulated by diet and dietary components. feeding animals with high-fat sucrose (hfs) diets entails diet-induced obesity, a model which is usually used in research to mimic the obese phenotype of western societies. the aim of the present study was to identify gut microbiota dysbiosis and associated metabolic changes produced in male wistar rats fed a hfs diet for 6 weeks and compare it with the basal microbial composition. for this purpose, dna extracted from faeces at baseline and after treatment was analysed by amplification of the v4-v6 region of the 16s ribosomal dna (rdna) gene using 454 pyrosequencing. short-chain fatty  acids, i.e. acetate, propionate and butyrate, were also evaluated by gas chromatography-mass spectrometry. at the end of the treatment, gut microbiota composition significantly differed at phylum level (firmicutes, bacteroidetes and proteobacteria) and class level (erisypelotrichi, deltaproteobacteria, bacteroidia and bacilli). interestingly, the class clostridia showed a significant decrease after hfs diet treatment, which correlated with visceral adipose tissue, and is likely mediated by dietary carbohydrates. of particular interest, clostridium cluster xiva species were significantly reduced and changes were identified in the relative abundance of other specific bacterial species (mitsuokella jalaludinii, eubacterium ventriosum, clostridium sp. fcb90-3, prevotella nanceiensis, clostridium fusiformis, clostridium sp. bnl1100 and eubacterium cylindroides) that, in some cases, showed opposite trends to their relative families. these results highlight the relevance of characterising gut microbial population differences at species level and contribute to understand the plausible link between diet and specific gut bacterial species that are able  to influence the inflammatory status, intestinal barrier function and obesity development.
+TIHT== 
+ABHT== 
+

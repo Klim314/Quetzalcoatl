@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 20963614
+TI  == clostridium perfringens bacteriophages phicp39o and phicp26f: genomic organization and proteomic analysis of the virions.
+AB  == poultry intestinal material, sewage and poultry processing drainage water were screened for virulent clostridium perfringens bacteriophages. viruses isolated from broiler chicken offal washes (o) and poultry feces (f), designated phicp39o  and phicp26f, respectively, produced clear plaques on host strains. both bacteriophages had isometric heads of 57 nm in diameter with 100-nm non-contractile tails characteristic of members of the family siphoviridae in the order caudovirales. the double-strand dna genome of bacteriophage phicp39o was 38,753 base pairs (bp), while the phicp26f genome was 39,188 bp, with an average  gc content of 30.3%. both viral genomes contained 62 potential open reading frames (orfs) predicted to be encoded on one strand. among the orfs, 29 predicted proteins had no known similarity while others encoded putative bacteriophage capsid components such as a pre-neck/appendage, tail, tape measure and portal proteins. other genes encoded a predicted dna primase, single-strand dna-binding  protein, terminase, thymidylate synthase and a transcription factor. potential lytic enzymes such as a fibronectin-binding autolysin, an amidase/hydrolase and a holin were encoded in the viral genomes. several orfs encoded proteins that gave  blastp matches with proteins from clostridium spp. and other gram-positive bacterial and bacteriophage genomes as well as unknown putative collinsella aerofaciens proteins. proteomics analysis of the purified viruses resulted in the identification of the putative pre-neck/appendage protein and a minor structural  protein encoded by large open reading frames. variants of the portal protein were identified, and several mycobacteriophage gp6-like protein variants were detected in large amounts relative to other virion proteins. the predicted amino acid sequences of the pre-neck/appendage proteins had major differences in the central portion of the protein between the two phage gene products. based on phylogenetic analysis of the large terminase protein, these phages are predicted to be pac-type, using a head-full dna packaging strategy.
+TIHT== 
+ABHT== 
+

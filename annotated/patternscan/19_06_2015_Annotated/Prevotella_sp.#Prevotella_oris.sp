@@ -1,0 +1,35 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22163302
+TI  == correlation network analysis applied to complex biofilm communities.
+AB  == the complexity of the human microbiome makes it difficult to reveal organizational principles of the community and even more challenging to generate  testable hypotheses. it has been suggested that in the gut microbiome species such as bacteroides thetaiotaomicron are keystone in maintaining the stability and functional adaptability of the microbial community. in this study, we investigate the interspecies associations in a complex microbial biofilm applying systems biology principles. using correlation network analysis we identified bacterial modules that represent important microbial associations within the oral community. we used dental plaque as a model community because of its high diversity and the well known species-species interactions that are common in the  oral biofilm. we analyzed samples from healthy individuals as well as from patients with periodontitis, a polymicrobial disease. using results obtained by checkerboard hybridization on cultivable bacteria we identified modules that correlated well with microbial complexes previously described. furthermore, we extended our analysis using the human oral microbe identification microarray (homim), which includes a large number of bacterial species, among them uncultivated organisms present in the mouth. two distinct microbial communities appeared in healthy individuals while there was one major type in disease. bacterial modules in all communities did not overlap, indicating that bacteria were able to effectively re-associate with new partners depending on the environmental conditions. we then identified hubs that could act as keystone species in the bacterial modules. based on those results we then cultured a not-yet-cultivated microorganism, tannerella sp. ot286 (clone bu063). after two rounds of enrichment by a selected helper (prevotella oris ot311) we obtained colonies of tannerella sp. ot286 growing on blood agar plates. this system-level  approach would open the possibility of manipulating microbial communities in a targeted fashion as well as associating certain bacterial modules to clinical traits (e.g.: obesity, crohn's disease, periodontal disease, etc).
+TIHT== 
+ABHT== 
+
+PMID== 18048753
+TI  == prevotella maculosa sp. nov., isolated from the human oral cavity.
+AB  == three strains of anaerobic gram-negative bacilli isolated from human oral sites were subjected to a comprehensive range of phenotypic and genotypic tests and were found to comprise a homogeneous group. 16s rrna gene sequence analysis revealed the strains to constitute a novel group within the genus prevotella, most closely related to prevotella oris and prevotella salivae. a novel species,  prevotella maculosa sp. nov., is proposed to accommodate these strains. prevotella maculosa is saccharolytic and produces acetic and succinic acids as end products of fermentation. the g+c content of the dna of the type strain is 48 mol%. the type strain of prevotella maculosa is w1609(t) (=dsm 19339(t) =ccug 54766(t)).
+TIHT== 
+ABHT== 
+
+PMID== 17392225
+TI  == prevotella timonensis sp. nov., isolated from a human breast abscess.
+AB  == gram-negative anaerobic rods were isolated from a human breast abscess. based on  genotypic and phenotypic characteristics, the novel strain belonged to the genus  prevotella. phylogenetic analysis based on 16s rrna gene sequence comparisons showed that it was closely related to prevotella buccalis (94 % 16s rrna gene sequence similarity), prevotella salivae (90 %) and prevotella oris (89.1 %). the major cellular fatty acid was c(14 : 0) (19.5 %). the new isolate represents a novel species in the genus prevotella, for which the name prevotella timonensis sp. nov. is proposed. the type strain is strain 4401737(t) (=cip 108522(t)=ccug 50105(t)).
+TIHT== 
+ABHT== 
+
+PMID== 16085394
+TI  == prevotella massiliensis sp. nov. isolated from human blood.
+AB  == we report a bacterial isolate (marseille isolate) recovered from the blood of a patient hospitalized in an intensive care unit, presenting with severe trauma, fever and mechanical ventilation. colonies appeared at 37 degrees c on blood agar after 72 h incubation. this isolate was a strictly anaerobic, gram-negative rod phenotypically related to other prevotella species described to date: non-motile, catalase-negative, oxidase-positive, non-glucose fermenting, resistant to vancomycin and susceptible to kanamycin. cells exhibited a trilamellar membrane under electron microscopy. the fatty acid methyl ester profile was marginally related to that of clostridium botulinum group a (distance: 26.27%) and bifidobacterium bifidum gc subgroup b (distance: 26.38%). 16s rrna gene sequence  similarity was 90.0% with that of prevotella oris and 89.1% with that of prevotella melaninogenica. partial rpob gene sequence similarity was 84.5 and 86.4% with p. oris and p. melaninogenica, respectively. according to current standards, phenotypic traits, 16s rrna and rpob gene sequence analyses indicated  that the marseille isolate belonged to a previously unrecognized species of the genus prevotella, and we propose classifying it in the new taxon "prevotella massiliensis" sp. nov.
+TIHT== 
+ABHT== 
+
+PMID== 15143039
+TI  == prevotella shahii sp. nov. and prevotella salivae sp. nov., isolated from the human oral cavity.
+AB  == two bacterial strains, ehs11(t) and epsa11(t), which were isolated from the human oral cavity, were characterized in terms of phenotypic and biochemical characteristics, cellular fatty acid profiles and phylogenetic position based on  16s rrna gene sequence analysis. 16s rrna gene sequence analysis showed that each of the isolates belonged to a novel species of the genus prevotella. strain ehs11(t) was related to prevotella loescheii (about 95 % similarity), whereas strain epsa11(t) was related to prevotella oris (about 94 % similarity). both strains were obligately anaerobic, non-pigmented, non-spore-forming, non-motile,  gram-negative rods. the cellular fatty acid composition of strain epsa11(t) was very similar to that of p. oris jcm 8540(t). on the other hand, the cellular fatty acid composition of strain ehs11(t) was significantly different from those  of other prevotella species. the predominant fatty acids in strain ehs11(t) are c(18 : 1)omega9c, c(16 : 0) and c(16 : 0) 3-oh, whereas other prevotella species, except for p. loescheii jcm 8530(t), possess anteiso-c(15 : 0), iso-c(17 : 0) 3-oh and c(18 : 1)omega9c. the predominant fatty acids in p. loescheii jcm 8530(t) are anteiso-c(15 : 0), c(16 : 0) and c(18 : 1)omega9c. dna-dna hybridization experiments revealed a genomic distinction of strains ehs11(t) and  epsa11(t) from p. loescheii jcm 8530(t) and p. oris jcm 8540(t). on the basis of  these data, two novel prevotella species are proposed: prevotella shahii sp. nov. and prevotella salivae sp. nov. the type strains of p. shahii and p. salivae are  ehs11(t) (=jcm 12083(t)=dsm 15611(t)) and epsa11(t) (=jcm 12084(t)=dsm 15606(t)), respectively.
+TIHT== 
+ABHT== 
+

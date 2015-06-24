@@ -1,0 +1,29 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 16819902
+TI  == comparison of the concentrations of phenolic compounds in olive oils and other plant oils: correlation with antimicrobial activity.
+AB  == the antimicrobial activity of different edible vegetable oils was studied. in vitro results revealed that the oils from olive fruits had a strong bactericidal  action against a broad spectrum of microorganisms, this effect being higher in general against gram-positive than gram-negative bacteria. thus, olive oils showed bactericidal activity not only against harmful bacteria of the intestinal  microbiota (clostridium perfringens and escherichia coli) also against beneficial microorganisms such as lactobacillus acidophilus and bifidobacterium bifidum. otherwise, most of the foodborne pathogens tested (listeria monocytogenes, staphylococcus aureus, salmonella enterica, yersinia sp., and shigella sonnei) did not survive after 1 h of contact with olive oils. the dialdehydic form of decarboxymethyl oleuropein and ligstroside aglycons, hydroxytyrosol and tyrosol,  were the phenolic compounds that statistically correlated with bacterial survival. these findings were confirmed by testing each individual phenolic compound, isolated by hplc, against l. monocytogenes. in particular, the dialdehydic form of decarboxymethyl ligstroside aglycon showed a potent antimicrobial activity. these results indicate that not all oils classified as "olive oil" had similar bactericidal effects and that this bioactivity depended on their content of certain phenolic compounds.
+TIHT== 
+ABHT== 
+
+PMID== 16085394
+TI  == prevotella massiliensis sp. nov. isolated from human blood.
+AB  == we report a bacterial isolate (marseille isolate) recovered from the blood of a patient hospitalized in an intensive care unit, presenting with severe trauma, fever and mechanical ventilation. colonies appeared at 37 degrees c on blood agar after 72 h incubation. this isolate was a strictly anaerobic, gram-negative rod phenotypically related to other prevotella species described to date: non-motile, catalase-negative, oxidase-positive, non-glucose fermenting, resistant to vancomycin and susceptible to kanamycin. cells exhibited a trilamellar membrane under electron microscopy. the fatty acid methyl ester profile was marginally related to that of clostridium botulinum group a (distance: 26.27%) and bifidobacterium bifidum gc subgroup b (distance: 26.38%). 16s rrna gene sequence  similarity was 90.0% with that of prevotella oris and 89.1% with that of prevotella melaninogenica. partial rpob gene sequence similarity was 84.5 and 86.4% with p. oris and p. melaninogenica, respectively. according to current standards, phenotypic traits, 16s rrna and rpob gene sequence analyses indicated  that the marseille isolate belonged to a previously unrecognized species of the genus prevotella, and we propose classifying it in the new taxon "prevotella massiliensis" sp. nov.
+TIHT== 
+ABHT== 
+
+PMID== 16887585
+TI  == the intestinal microflora during the first weeks of life.
+AB  == bacterial colonization of the neonatal gastrointestinal tract begins during birth when the neonate comes into contact with the maternal cervical and vaginal flora. in infants delivered by caesarean section, bacteria colonizing the neonate gastrointestinal tract are provided by the environment. the first bacteria encountered in the majority of healthy infants, are facultative anaerobes, which  remain predominant during the first 2 weeks of life. among them, staphylococcus,  enterobacteriaceae and streptococcus were the genera most commonly isolated from  the newborn faecal flora at birth. facultative anaerobic bacteria are followed closely by bifidobacterium sp. clostridium perfringens is present within 2 days with an increase incidence in newborns delivered by a caesarean section. clostridium perfringens seems to be the precursor for installation of other anaerobic putrefactive bacteria, as bacteroides and other clostridium sp. the impact of caesarean section and the period and quality of hospitalization are mainly implicated in changes of the normal newborn flora. feeding seems to modulate the colonization pattern. in humans, breast milk plays a role in passive immunization of the neonatal intestine, and contains factors that promote the growth of bifidobacterium bifidum in the intestinal flora. formula feeding seems  to promote implantation and persistence of clostridium perfringens, and clearly enhances intestinal colonization of c. difficile in newborns.
+TIHT== 
+ABHT== 
+
+PMID== 3818925
+TI  == bifidobacterium, bacteroides, and clostridium spp. in fecal samples from breast-fed and bottle-fed infants with and without iron supplement.
+AB  == bifidobacterium, bacteroides, and clostridium spp. isolated from the feces of 23  neonates during the first 3 months of life were identified. of the 23 neonates, 10 were breast fed, 6 received an infant formula with iron supplement (5 mg/liter), and 7 received the formula without iron supplement (iron concentration, less than 0.5 mg/liter). the bifidobacterium spp. most frequently  isolated from the three groups of infants were b. longum, b. breve, b. adolescentis, and b. bifidum. the bacteroides spp. most frequently isolated were  b. fragilis and b. vulgatus. the most common clostridium sp. in the three groups  of infants was c. perfringens. the type of milk did not select for species of bifidobacterium, bacteroides, or clostridium, except for clostridium butyricum, which was isolated significantly more often from bottle-fed infants with iron supplement than from the other groups, and clostridium tertium, which was more often isolated from breast-fed infants. the species of the three anaerobic genera did not persist for a long period of time in the three groups of infants.
+TIHT== 
+ABHT== 
+

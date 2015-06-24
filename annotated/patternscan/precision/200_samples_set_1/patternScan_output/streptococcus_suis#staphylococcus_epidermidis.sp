@@ -1,0 +1,11 @@
+@SUMMARY
+POS == 0
+NEG == 1
+INT == 1
+@PAPERS
+PMID== 21558006
+TI  == expression of plectasin in pichia pastoris and its characterization as a new antimicrobial peptide against staphyloccocus and streptococcus.
+AB  == recombinant plectasin, the first fungus defensin, was expressed in pichia pastoris and purified, and its physical, chemical and antimicrobial characteristics were studied. following a 120 h induction of recombinant yeast, the amount of total secreted protein reached 748.63 mug/ml. the percentage of recombinant plectasin was estimated to be 71.79% of the total protein. after purification with a sephadex g-25 column and rp-hplc, the identity of plectasin was verified by maldi-tof ms. plectasin exhibited strong antimicrobial activity against the gram-positive bacteria staphyloccocusaureus, staphylococcus epidermidis, streptococcus pneumoniae, and streptococcus suis. at a concentration of 2560 mug/ml, this peptide showed approximately equal activity against s. aureus, s. epidermidis, s. suis, and s. pneumoniae, when compared to 320 mug/ml vancomycin, 640 mug/ml penicillin, 320 mug/ml vancomycin and 160 mug/ml vancomycin, respectively. in addition, plectasin showed anti-s. aureus activity over a wide ph range of 2.0 and 10.0, a high thermal stability at 100 degrees c for 1h and remarkable resistance to papain and pepsin. the expression and characterization of recombinant plectasin in p. pastoris has potential to treat streptococcus and staphyloccocus infections when most traditional antibiotics show no effect on them. our results indicate that plectasin can be produced in large quantities, and that it has pharmaceutical importance for the prevention and clinical treatment of staphyloccocus and streptococcus infections.
+TIHT== 
+ABHT== ^#^activ sja against sjb:#:activ against the gram-posit bacteria staphyloccocusaureus , staphylococcus epidermidi , streptococcus pneumonia , and streptococcus sui . at a concentr of 2560 mug/ml , this peptid show approxim equal activ against s. aureus , s. epidermidi:#:activ against the gram-posit bacteria staphyloccocusaureus , staphylococcus epidermidi , streptococcus pneumonia , and streptococcus sui . at a concentr of 2560 mug/ml , this peptid show approxim equal activ against s. aureus , s. epidermidi , s. sui
+

@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23385241
+TI  == phylogenetic analysis of dysbiosis in ulcerative colitis during remission.
+AB  == background: presence of intestinal microbes is a prerequisite for the development of ulcerative colitis (uc), although deviation of the normal intestinal microbiota composition, dysbiosis, is presumably implicated in the etiology of uc. methods: the fecal microbiota of 30 uc samples obtained from 15 patients who  were sampled twice and from 15 healthy control subjects originating from 2 geographic locations was analyzed using highly reproducible phylogenetic microarray that has the capacity for detection and quantification of more than 1000 intestinal bacteria in a wide dynamic range. results: the fecal microbiota composition is not significantly influenced by geographic location, age, or gender, but it differs significantly between the patients with uc and the control subjects (p = 0.0004). uc-associated microbiota is stable during remission and similar among all patients with uc. significant reduction of bacterial diversity  of members of the clostridium cluster iv and significant reduction in the abundance of bacteria involved in butyrate and propionate metabolism, including ruminococcus bromii et rel. eubacterium rectale et rel., roseburia sp., and akkermansia sp. are markers of dysbiosis in uc. increased abundance of (opportunistic) pathogens including fusobacterium sp., peptostreptococcus sp., helicobacter sp., and campylobacter sp. as well as clostridium difficile were found to be associated with uc. conclusions: dysbiosis in uc is stable in time and shared between patients from different geographic locations. the microbial alterations offer a mechanistic insight into the pathogenesis of the disease.
+TIHT== 
+ABHT== 
+
+PMID== 7019318
+TI  == serum agglutinins to eubacterium and peptostreptococcus species in crohn's and other diseases.
+AB  == sera from patients suffering from crohn's and other diseases and from healthy subjects were tested for agglutinins to anaerobic, gram-positive coccoid rods belonging to species of eubacterium and peptostreptococcus. four strains labelled eubacterium contortum (two strains), eubacterium rectale and peptostreptococcus productus were agglutinated by a higher percentage of sera from patients with crohn's disease than from healthy subjects and from patients with liver and intestinal diseases (including ulcerative colitis), ankylosing spondylitis, granulomatous diseases, diseases of immunity and malignancies. the agglutinins were of the igg and igm classes and strain-specific; the titres were low. the results obtained with sera from patients with crohn's disease and healthy people  were subjected to discriminant analysis to estimate the probability, based on the combined results with the four strains, that a patient suffers from crohn's disease. when sera giving an a posteriori probability greater than or equal to 0.95 (a priori probability = 0.5) were considered positive, the test with four strains had a sensitivity of 54% and a specificity of nearly 100%. the results with sera submitted for diagnosis showed that positive reactions in patients with a diagnosis apparently incompatible with crohn's disease were within acceptable limits.
+TIHT== 
+ABHT== 
+
+PMID== 4595760
+TI  == predominant gram-positive bacteria in human feces: numbers, variety, and persistence.
+AB  == the predominant gram-positive bacteria in 47 fecal specimens from 10 healthy men  were studied by microscopic and cultural counts, by the characterization and tentative identification of isolates, and by the use of fluorescein isothiocyanate (fitc)-conjugated globulins prepared using some of the isolates. gram-positive bacteria averaged 10(10.5+/-0.4(sd)/g (wet weight) of feces with significant variation from host to host. characterization of 865 isolates, all strict anaerobes and carbohydrate fermenters, showed 12 to 39 distinguishable strains from each host and indicated that some strains were present the full period of about 18 months. sixty percent of the isolates belonged to one of five  types, tentatively identified with five species-bifidobacterium adolescentis, eubacterium aerofaciens, e. rectale, peptostreptococcus productus, and ruminococcus bromii. there was distinct host idiosyncrasy in the pattern of estimated counts of these five types. certain strains resembling b. adolescentis, e. aerofaciens, and p. productus, distinguished with fitc conjugates, were resident in their hosts for many months. in direct smears each strain constituted about 1% of the total bacteria.
+TIHT== 
+ABHT== 
+

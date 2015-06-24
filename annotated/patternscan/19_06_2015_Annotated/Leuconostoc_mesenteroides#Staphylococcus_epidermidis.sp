@@ -1,0 +1,29 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19170858
+TI  == microbial inactivation using plasma-activated water obtained by gliding electric  discharges.
+AB  == aim: to evaluate the microbial disinfection efficacy of a plasmachemical solution obtained by the activation of water with gliding electric discharges. methods and results: distilled water was activated for 5 min by a nonthermal quenched plasma  of the glidarc type operating in humid air and at atmospheric pressure. the plasma-activated water (paw) was then used to treat planktonic and adherent cells of staphylococcus epidermidis, leuconostoc mesenteroides (as models of gram-positive bacteria), hafnia alvei (a gram-negative bacteria) and saccharomyces cerevisiae (as a yeast model). the treatments were less efficient on adherent cells than on planktonic cells in the case of bacteria, but not of s. cerevisiae. inactivation was more effective for bacteria than for the yeast. conclusions: significant reductions in microbial populations were achieved in all cases, demonstrating the effectiveness of this new approach to treat contaminated media. significance and impact of the study: paw is a promising solution with potential application to the decontamination of equipment and surfaces.
+TIHT== 
+ABHT== 
+
+PMID== 17604934
+TI  == stability of microbial communities in goat milk during a lactation year: molecular approaches.
+AB  == the microbial communities in milks from one herd were evaluated during 1-year of  lactation, using molecular methods to evaluate their stability and the effect of  breeding conditions on their composition. the diversity of microbial communities  was measured using two approaches: molecular identification by 16s and 18s rdna sequencing of isolates from counting media (two milks), and direct identification using 16s rdna from clone libraries (six milks). the stability of these communities was evaluated by counting on selective media and by single strand conformation polymorphism (sscp) analysis of variable region v3 of the 16s rrna gene and variable region v4 of the 18s rrna gene. one hundred and eighteen milk samples taken throughout the year were analyzed. wide diversity among bacteria and yeasts in the milk was revealed. in addition to species commonly encountered  in milk, such as lactococcus lactis, lactococcus garvieae, enterococcus faecalis, lactobacillus casei, leuconostoc mesenteroides, staphylococcus epidermidis, staphylococcus simulans, staphylococcus caprae, staphylococcus equorum, micrococcus sp., kocuria sp., pantoea agglomerans and pseudomonas putida, sequences were affiliated to other species only described in cheeses, such as corynebacterium variabile, arthrobacter sp., brachybacterium paraconglomeratum, clostridium sp. and rothia sp. several halophilic species atypical in milk were found, belonging to jeotgalicoccus psychrophilus, salinicoccus sp., dietza maris, exiguobacterium, ornithinicoccus sp. and hahella chejuensis. the yeast community  was composed of debaryomyces hansenii, kluyveromyces lactis, trichosporon beigelii, rhodotorula glutinis, rhodotorula minuta, candida pararugosa, candida intermedia, candida inconspicua, cryptococcus curvatus and cryptococcus magnus. the analyses of microbial counts and microbial sscp profiles both distinguished four groups of milks corresponding to four periods defined by season and feeding  regime. the microbial community was stable within each period. milks from winter  were characterized by lactococcus and pseudomonas, those from summer by p. agglomerans and klebsiella and those from autumn by chryseobacterium indologenes, acinetobacter baumanii, staphylococcus, corynebacteria and yeasts. however, the composition of the community can vary according to factors other than feeding. this study opens new investigation fields in the field of raw milk microbial ecology.
+TIHT== 
+ABHT== 
+
+PMID== 10583686
+TI  == molecular and physiological characterization of dominant bacterial populations in traditional mozzarella cheese processing
+AB  == the development of the dominant bacterial populations during traditional mozzarella cheese production was investigated using physiological analyses and molecular techniques for strain typing and taxonomic identification. analysis of  rapd fingerprints revealed that the dominant bacterial community was composed of  25 different biotypes, and the sequence analysis of 16s rdna demonstrated that the isolated strains belonged to leuconostoc mesenteroides subsp. mesenteroides,  leuc. lactis, streptococcus thermophilus, strep. bovis, strep. uberis, lactococcus lactis subsp. lactis, l. garviae, carnobacterium divergens, c. piscicola, aerococcus viridans, staphylococcus carnosus, staph. epidermidis, enterococcus faecalis, ent. sulphureus and enterococcus spp. the bacterial populations were characterized for their physiological properties. two strains, belonging to strep. thermophilus and l. lactis subsp. lactis, were the most acidifying; thel. lactis subsp. lactis strain was also proteolytic and eight strains were positive to citrate fermentation. moreover, the molecular techniques allowed the identification of potential pathogens in a non-ripened cheese produced from raw milk.
+TIHT== 
+ABHT== 
+
+PMID== 24421184
+TI  == microbiology of controlled rotting of egusi (colocynthis citrullus l.) fruits for the harvesting of the seeds.
+AB  == microorganisms isolated from naturally rotting egusi fruits which are used as a source of dietary seeds, were mainly bacteria: bacillus subtilis, b. licheniformis, b. polymyxa, b. megaterium, b. pumilus, lactobacillus plantarum, la. brevis, leuconostoc mesenteroides, enterobacter aerogenes, e. cloacae, klebsiella aerogenes, k. pneumoniae, staphylococcus epidermidis, s. aureus, micrococcus and candida spp. the rotting period of egusi fruits could be decreased from 120 to 72 h by using a mixture of b. subtilis and b. licheniformis.
+TIHT== 
+ABHT== 
+

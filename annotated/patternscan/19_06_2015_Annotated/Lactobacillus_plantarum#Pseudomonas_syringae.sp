@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24194200
+TI  == distribution of epiphytic bacteria on olive leaves and the influence of leaf age  and sampling time.
+AB  == mesophilic heterotrophic, aerobic or facultatively anaerobic bacteria that grow on yeast tryptone glucose extract agar were isolated from the surface of olive leaves of 3 or 4 different ages in january, april, july, and october from 1984 to 1989. unweighted average linkage cluster analysis on either the jaccard coefficient or the simple matching coefficient recovered 1,701 representative strains in 32 phena defined at the 70% and 80% similarity level, respectively. of these, 25 were identified to genus or lower level. from the identity of the representative strains, the frequency of occurrence among the phylloplane bacteria over the 6-year period was estimated at 51% forpseudomonas syringae, followed byxanthomonas campestris (6.7%),erwinia herbicola (6%),acetobacter aceti (4.7%),gluconobacter oxydans (4.3%),pseudomonas fluorescens (3.9%),bacillus megaterium (3.8%),leuconostoc mesenteroides subsp.dextranicum (3.1%),lactobacillus plantarum (2.8%),curtobacterium plantarum (2.2%),micrococcus luteus (2.2%),arthrobacter globiformis (1.4%),klebsiella planticola (1.2%),streptococcus faecium (1.2%),clavibacter sp. (0.98%),micrococcus sp. (0.82%),serratia marcescens (0.81%),bacillus subtilis (0.57%),cellulomonas flavigena (0.4%),erwinia sp. (0.37%),zymomonas mobilis (0.3%),bacillus sp. (0.29%),alcaligenes faecalis (0.27%),erwinia carotovora (0.08%), andpseudomonas aeruginosa (0.04%). bacterial communities on leaves of a given age at a given time during any one year displayed a very similar structure but differed significantly from those on the leaves of the same age at a different time or on  the leaves of a different age at any time during any one year. communities on the leaves of a given age at a given time of the year were invariably dominated by one or another of only 9 taxa, which accounted for 22 to 98.5% of the isolates from those leaves. the communities on 10- and 13-month-old leaves were invariably made up of fewer taxa than those on younger leaves at the same time of the year.
+TIHT== 
+ABHT== 
+
+PMID== 16347150
+TI  == antagonism of lactic acid bacteria against phytopathogenic bacteria.
+AB  == a variety of lactic acid bacteria, isolated from plant surfaces and plant-associated products, were found to be antagonistic to test strains of the phytopathogens xanthomonas campestris, erwinia carotovora, and pseudomonas syringae. effective "in vitro" inhibition was found both on agar plates and in broth cultures. in pot trials, treatment of bean plants with a lactobacillus plantarum strain before inoculation with p. syringae caused a significant reduction of the disease incidence.
+TIHT== 
+ABHT== 
+

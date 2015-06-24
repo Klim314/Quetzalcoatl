@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24341731
+TI  == polysaccharide from seeds of plantago asiatica l. affects lipid metabolism and colon microbiota of mouse.
+AB  == polysaccharide from the seeds of plantago asiatica l. was given via oral administration to mice (0.4 g/kg body weight, 30 days) to observe its effects on  mouse nutrient metabolism and colon microbiota. it was found the polysaccharide intake could lower the apparent absorption of lipid. total triglyceride, cholesterol, and atherogenic index in blood serum with total lipid and cholesterol levels in liver of polysaccharide group mice were all significantly lower than those of the control group (p < 0.05). furthermore, the effect of the  polysaccharide intake on mouse colon bacterial communities was investigated. mice from the polysaccharide group showed a higher colon bacterial diversity than the  control group. bacteroides sp., eubacterium sp., butyrate-producing bacteria butyrivibrio sp., and probiotics bifidobacterium bifidum , lactobacillus fermentum , and lactobacillus reuteri in mouse colon were all increased after polysaccharide intake. these indicated that the intake of polysaccharide from p.  asiatica l. could be beneficial for lipid metabolism and colon microbiota.
+TIHT== 
+ABHT== 
+
+PMID== 11010862
+TI  == chemostat enrichments of human feces with resistant starch are selective for adherent butyrate-producing clostridia at high dilution rates.
+AB  == resistant starch (rs) enrichments were made using chemostats inoculated with human feces from two individuals at two dilution rates (d = 0.03 h(-1) and d = 0.30 h(-1)) to select for slow- and fast-growing amylolytic communities. the fermentations were studied by analysis of short-chain fatty acids, amylase and alpha-glucosidase activities, and viable counts of the predominant culturable populations and the use of 16s rrna-targeted oligonucleotide probes. considerable butyrate was produced at d = 0. 30 h(-1), which corresponded with reduced branched-chain fatty acid formation. at both dilution rates, high levels of extracellular amylase activity were produced, while alpha-glucosidase was predominantly cell associated. bacteroides and bifidobacteria predominated at the low dilution rate, whereas saccharolytic clostridia became more important at d =  0.30 h(-1). microscopic examination showed that within 48 h of inoculation, one particular bacterial morphotype predominated in rs enrichments at d = 0.30 h(-1). this organism attached apically to rs granules and formed rosette-like structures which, with glycocalyx formation, agglomerated to form biofilm networks in the planktonic phase. attempts to isolate this bacterium in pure culture were repeatedly unsuccessful, although a single colony was eventually obtained. on the basis of its 16s rdna sequence, this rs-degrading, butyrate-producing organism was identified as being a previously unidentified group i clostridium sp. a 16s rrna-targeted probe was designed using this sequence and used to assess the abundance of the population in the enrichments. at 240 h, its contributions to total rrna in the chemostats were 5 and 23% at d = 0.03 and 0.30 h(-1), respectively. this study indicates that bacterial populations with significant metabolic potential can be overlooked using culture-based methodologies. this may provide a paradigm for explaining the discrepancy between the low numbers of butyrate-producing bacteria that are isolated from fecal samples and the actual production of butyrate.
+TIHT== 
+ABHT== 
+
+PMID== 591630
+TI  == presumptive diagnosis of anaerobic bacteremia by gas-liquid chromatography of blood cultures.
+AB  == by quantitative gas-liquid chromatography of glucose-containing blood cultures at the moment of first signs of growth, a presumptive diagnosis of anaerobic bacteremia could be made in 24 out of 26 cultures yielding obligate anaerobes upon subsequent culture. with bacteroides sp. (20 strains isolated), elevated levels of isovaleric acid (greater than or equal to 0.1 mumol/ml) and/or succinic acid (greater than or equal to 5 mumol/ml) were detected in the medium used. an exception to this were two strains of bacteroides thetaiotaomicron that did not produce sufficient quantities of these acids. in the case of butyrate-producing gram-positive cocci (four strains), butyric acid in amounts of greater than or equal to 0.8 mumol/ml was detected. propionibacteria (five strains) produced propionic acid in amounts of greater than or equal to 3.9 mumol/ml. no false positive results were found in 103 blood cultures with growth of aerobic or facultatively anaerobic bacteria only.
+TIHT== 
+ABHT== 
+

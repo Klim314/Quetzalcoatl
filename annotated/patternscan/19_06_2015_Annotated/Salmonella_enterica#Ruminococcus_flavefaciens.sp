@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19783749
+TI  == effect of carbohydrate composition in barley and oat cultivars on microbial ecophysiology and proliferation of salmonella enterica in an in vitro model of the porcine gastrointestinal tract.
+AB  == the influence of the carbohydrate (cho) composition of cereal cultivars on microbial ecophysiology was studied using an in vitro model of the porcine gastrointestinal tract. ten hull-less barley cultivars, six barley cultivars with hulls, six oat cultivars, and six oat groats that differed in beta-glucan, nonstarch polysaccharide (nsp), and starch contents and starch type were hydrolyzed enzymatically and incubated for 72 h with pig feces. fermentation kinetics were modeled, and microbial compositions and short-chain fatty acid (scfa) profiles were analyzed using terminal restriction fragment length polymorphism and gas chromatography. cluster analysis and canonical ordination revealed different effects on fermentation and microbial ecology depending on the type of cho and cultivar. first, in cultivars of barley with hulls and oats, the  cellulose and insoluble nsp contents (i) increased ruminococcus flavefaciens-like and clostridium xylanolyticum-like phylotypes, (ii) increased acetate production, and (iii) decreased fermentation activity. second, in hull-less barley cultivars  the beta-glucan, amylose, amylopectin, crude protein, and soluble nsp contents determined the microbial community composition and activity as follows: (i) the amylose contents of the hull-less barley varieties increased the butyrate production and the abundance of clostridium butyricum-like phylotypes, (ii) the beta-glucan content determined the total amounts of scfa, and (iii) the amylopectin and starch contents affected the abundance of clostridium ramosum-like phylotypes, members of clostridium cluster xiva, and bacteroides-like bacteria. finally, the effect of cho on proliferation of salmonella enterica in the model was determined. salmonella cell counts were not  affected, but the relative proportion of salmonella decreased with hull-less barley cultivars and increased with oat cultivars as revealed by quantitative pcr. our results shed light on the complex interactions of cereal cho with intestinal bacterial ecophysiology and the possible impact on host health.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 2124667
+TI  == effect of granulocytopenia on oral microbial relationships in patients with acute leukemia.
+AB  == risk for acute infection increases as granulocyte levels decrease secondary to myelosuppressive chemotherapy in patients with acute nonlymphocytic leukemia (anll). acute exacerbations of concomitant inflammatory periodontal diseases can  result in systemic infections in these patients. however, host-oral bacterial relationships in the periodontium in patients with anll are not well understood.  twenty-one adult patients with anll with periodontal disease ranging from gingivitis to severe periodontitis were studied. supragingival and subgingival plaque specimens were collected before chemotherapy (prechemotherapy), and at a defined midpoint of myelosuppression (midchemotherapy; day 14). all specimens were extensively cultured both aerobically and anaerobically. data were submitted to a partial correlational analysis, controlling for covariation relation to oral hygiene intervention and antibiotic administration. levels of total yeast exhibited a significant association with staphylococcus sp. at supragingival sites midchemotherapy (r = 0.68, p less than or equal to 0.05). levels of total yeast also correlated positively with pseudomonas aeruginosa at subgingival sites both prechemotherapy (r = 0.70, p less than or equal to 0.01) and midchemotherapy (r = 0.61, p less than or equal to 0.05). significant correlations of levels of veillonella sp. with neisseria sp. and gram-negative enteric bacilli were observed in both supragingival (r = 0.95, 0.77, p values less than or equal to 0.01) and subgingival (r = 0.69, 0.61, p values less than or equal to 0.05) plaque specimens midchemotherapy but not prechemotherapy. these data suggest that potentially pathogenic bacteria occur in plaque simultaneous with granulocytopenia in these patients. multiple mechanisms, including intergeneric coaggregation and other symbiotic relationships, may influence infectivity of the mixed plaque flora and thus contribute to the oral ecology observed in these patients.
+TIHT== 
+ABHT== 
+
+PMID== 6825749
+TI  == transtracheal aspiration in pulmonary infection in children with cystic fibrosis.
+AB  == six transtracheal aspirations (tta) and expectorated sputum specimens were collected from four children suffering from cystic fibrosis who had pulmonary infection. specimens obtained from both sites were cultured for aerobic bacteria  and tta aspirates were also cultured for anaerobes. differences in bacteria isolated in tta and sputum aspirates were present in all instances. six isolates  were recovered in both sites (three pseudomonas aeruginosa, two staphylococcus aureus and one aspergillus flavus). five aerobic isolates were recovered only in  the expectorated sputum and not in tta aspirations (two klebsiella pneumoniae and one each of p. aeruginosa, escherichia coli and proteus mirabilis). nine organisms were isolated only from the tta (two each of veillonella parvula and alpha hemolytic streptococci, and one each of bacteroides fragilis, b. melaninogenicus, lactobacillus sp., haemophilus influenzae and gamma hemolytic streptococci). the recovery of anaerobic organisms from four of the six tta specimens suggests a possible role for these organisms in the etiology of pulmonary infection in cystic fibrosis. we found tta to be helpful in the bacterial diagnosis and management of pulmonary infections in cystic fibrosis.
+TIHT== 
+ABHT== 
+

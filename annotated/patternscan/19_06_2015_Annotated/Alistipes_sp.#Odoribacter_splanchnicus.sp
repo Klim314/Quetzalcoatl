@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19667375
+TI  == alistipes indistinctus sp. nov. and odoribacter laneus sp. nov., common members of the human intestinal microbiota isolated from faeces.
+AB  == two anaerobic, non-spore-forming, non-motile, gram-negative-staining bacteria, strains yit 12060(t) and yit 12061(t), were isolated from human faeces. cells of  strain yit 12060(t) were coccoid to rod-shaped with round ends, positive for catalase, negative for indole and oxidase production, produced succinic and acetic acids as end products of glucose metabolism in peptone/yeast extract/glucose medium and had a dna g+c content of 55.2 mol%. the main respiratory quinones were mk-10 (40%) and mk-11 (57%). fatty acid analysis demonstrated the presence of a high concentration of iso-c(15 : 0) (56%). following 16s rrna gene sequence analysis, this strain was found to be most closely related to species of the genus alistipes, with 90.9-92.6% gene sequence  similarities to type strains of this species. phylogenetic analysis and biochemical data supported the affiliation of strain yit 12060(t) to the genus alistipes of the family 'rikenellaceae'. strain yit 12060(t) therefore represents a novel species of the genus alistipes for which the name alistipes indistinctus  sp. nov. is proposed; the type strain is yit 12060(t) (=dsm 22520(t)=jcm 16068(t)). cells of the other isolate, strain yit 12061(t), were pleomorphic rods that were asaccharolytic, catalase- and oxidase-negative, positive for gelatin hydrolysis and indole production, produced small amounts of succinic, acetic and  iso-valeric acids as end products of metabolism in peptone/yeast extract medium and had a dna g+c content of approximately 42.4 mol%. on the basis of 16s rrna gene sequence similarity values, this strain was shown to belong to the family 'porphyromonadaceae' and related to the type strains of odoribacter splanchnicus  (89.6%) and odoribacter denticanis (86.2%); similarity values with strains of recognized species within the family 'porphyromonadaceae' were less than 84 %. biochemical data supported the affiliation of strain yit 12061(t) to the genus odoribacter. strain yit 12061(t) therefore represents a novel species for which the name odoribacter laneus sp. nov. is proposed; the type strain is yit 12061(t) (=dsm 22474(t)=jcm 16069(t)).
+TIHT== 
+ABHT== 
+

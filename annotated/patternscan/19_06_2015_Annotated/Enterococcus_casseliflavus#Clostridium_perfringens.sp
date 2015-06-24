@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24784934
+TI  == maldi-tof identification of the human gut microbiome in people with and without diarrhea in senegal.
+AB  == background: in africa, there are several problems with the specific identification of bacteria. recently, maldi-tof mass spectrometry has become a powerful tool for the routine microbial identification in many clinical laboratories. methodology/principal findings: this study was conducted using feces from 347 individuals (162 with diarrhea and 185 without diarrhea) sampled in health centers in dakar, senegal. feces were transported from dakar to marseille, france, where they were cultured using different culture conditions. the isolated colonies were identified using maldi-tof. if a colony was unidentified, 16s rrna sequencing was performed. overall, 2,753 isolates were tested, allowing for the identification of 189 bacteria from 5 phyla, including 2 previously unknown species, 11 species not previously reported in the human gut,  10 species not previously reported in humans, and 3 fungi. 2,718 bacterial isolates (98.8%) out of 2,750 yielded an accurate identification using mass spectrometry, as did the 3 candida albicans isolates. thirty-two bacterial isolates not identified by maldi-tof (1.2%) were identified by sequencing, allowing for the identification of 2 new species. the number of bacterial species per fecal sample was significantly higher among patients without diarrhea (8.6+/-3) than in those with diarrhea (7.3+/-3.4; p = 0.0003). a modification of  the gut microbiota was observed between the two groups. in individuals with diarrhea, major commensal bacterial species such as e. coli were significantly decreased (85% versus 64%), as were several enterococcus spp. (e. faecium and e.  casseliflavus) and anaerobes, such as bacteroides spp. (b. uniformis and b. vulgatus) and clostridium spp. (c. bifermentans, c. orbiscindens, c. perfringens, and c. symbosium). conversely, several bacillus spp. (b. licheniformis, b. mojavensis, and b. pumilus) were significantly more frequent among patients with  diarrhea. conclusions/significance: maldi-tof is a potentially powerful tool for  routine bacterial identification in africa, allowing for a quick identification of bacterial species.
+TIHT== 
+ABHT== 
+
+PMID== 12951241
+TI  == mechanism of metronidazole-resistance by isolates of nitroreductase-producing enterococcus gallinarum and enterococcus casseliflavus from the human intestinal  tract.
+AB  == enterococcus casseliflavus and enterococcus gallinarum strains resistant to metronidazole, nitrofurantoin and nitrofurazone were isolated from fecal samples  of a patient with recurrent ulcerative colitis treated with metronidazole. unlike other metronidazole-resistant bacteria, these strains produced nitroreductase but metabolized metronidazole to compounds that could not be detected by liquid chromatography with uv or mass spectral analysis. metronidazole-susceptible clostridium perfringens grew equally well in spent cultures of enterococcus spp.  incubated with or without metronidazole. these data indicate that the nitroreductases produced by these enterococcus strains did not activate metronidazole to bactericidal metabolites and these bacteria may reduce the effectiveness of metronidazole. we have indirect evidence for an alternative pathway that results in metronidazole resistance. these strains of enterococcus had nitroreductase so resistance should not have occurred.
+TIHT== 
+ABHT== 
+

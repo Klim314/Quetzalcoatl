@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 26018307
+TI  == antimicrobial and cytotoxic effects of phosphoric acid solution compared to other root canal irrigants.
+AB  == phosphoric acid has been suggested as an irrigant due to its effectiveness in removing the smear layer. objectives: the purpose of this study was to compare the antimicrobial and cytotoxic effects of a 37% phosphoric acid solution to other irrigants commonly used in endodontics. material and methods: the substances 37% phosphoric acid, 17% edta, 10% citric acid, 2% chlorhexidine (solution and gel), and 5.25% naocl were evaluated. the antimicrobial activity was tested against candida albicans, staphylococcus aureus, enterococcus faecalis, escherichia coli, actinomyces meyeri, parvimonas micra, porphyromonas gingivalis, and prevotella nigrescens according to the agar diffusion method. the cytotoxicity of the irrigants was determined by using the mtt assay. results: phosphoric acid presented higher antimicrobial activity compared to the other tested irrigants. with regard to the cell viability, this solution showed results similar to those with 5.25% naocl and 2% chlorhexidine (gel and solution), whereas 17% edta and 10% citric acid showed higher cell viability compared to other irrigants. conclusion: phosphoric acid demonstrated higher antimicrobial activity and cytotoxicity similar to that of 5.25% naocl and 2% chlorhexidine (gel and solution).
+TIHT== 
+ABHT== 
+
+PMID== 18582327
+TI  == comparative analysis of endodontic pathogens using checkerboard hybridization in  relation to culture.
+AB  == background/aim: the purpose of this study was to detect bacterial species and to  quantify the total number of bacteria from samples of infected root canals before (s1) and after chemo-mechanical preparation using 2% chlorhexidine (chx) gel as auxiliary chemical substance (s2) and after 7 days of intracanal dressing (s3) to compare microbial changes. method: twenty-four teeth were selected for this study. chemo-mechanical preparation was performed using 2% chx gel, then three different intracanal medicaments [m1: ca(oh)(2) paste; m2: 2% chx gel; and m3: ca(oh)(2) paste plus 2% chx gel] were used for 7 days. checkerboard dna-dna hybridization was performed to detect 40 bacterial species. aerobic and anaerobic culture techniques were used to determine the bacterial community by counting the colony-forming units (cfu). results: the species most frequently identified by checkerboard in s1 were: fusobacterium nucleatum ssp. polymorphum, treponema socranskii ssp. socranskii, parvimonas micra and enterococcus faecalis. in s2 and s3 a total of eight different species were identified; and only one of them was gram-positive (e. faecalis). microorganisms were not identified after use of m2 for 7 days. the quantification obtained on agar plates ranged from 4 x 10(5) to 2.6 x 10(6) cfu/ml in s1, mean cfu was reduced by 99.96% in s2, and there was no  statistical difference between the cfu in s2 and s3. conclusion: the antibacterial effect of the mechanical preparation supplemented by the use of an  antibacterial auxiliary substance greatly reduced the microorganisms in the main  root canal.
+TIHT== 
+ABHT== 
+

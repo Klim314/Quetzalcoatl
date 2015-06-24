@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 21073731
+TI  == ulcerative colitis and irritable bowel patients exhibit distinct abnormalities of the gut microbiota.
+AB  == background: previous studies suggest a link between gut microbiota and the development of ulcerative colitis (uc) and irritable bowel syndrome (ibs). our aim was to investigate any quantitative differences in faecal bacterial compositions in uc and ibs patients compared to healthy controls, and to identify individual bacterial species that contribute to these differences. methods: faecal microbiota of 13 uc patients, 11 ibs patients and 22 healthy volunteers were analysed by pcr-denaturing gradient gel electrophoresis (dgge) using universal and bacteroides specific primers. the data obtained were normalized using in-house developed statistical method and interrogated by multivariate approaches. the differentiated bands were excised and identified by sequencing the v3 region of the 16s rrna genes. results: band profiles revealed that number  of predominant faecal bacteria were significantly different between uc, ibs and control group (p < 10-4). by assessing the mean band numbers in uc (37 +/- 5) and ibs (39 +/- 6), compared to the controls (45 +/- 3), a significant decrease in bacterial species is suggested (p = 0.01). there were no significant differences  between ibs and uc. biodiversity of the bacterial species was significantly lower in uc (mu = 2.94, sigma = 0.29) and ibs patients (mu = 2.90, sigma = 0.38) than controls (mu = 3.25, sigma = 0.16; p = 0.01). moreover, similarity indices revealed greater biological variability of predominant bacteria in uc and ibs compared to the controls (median dice coefficients 76.1% (iqr 70.9 - 83.1), 73.8% (iqr 67.0 - 77.5) and 82.9% (iqr 79.1 - 86.7) respectively). dna sequencing of discriminating bands suggest that the presence of bacteroides vulgatus, b. ovatus, b. uniformis, and parabacteroides sp. in healthy volunteers distinguishes them from ibs and uc patients. dgge profiles of bacteroides species revealed a decrease of bacteroides community in uc relative to ibs and controls. conclusion: molecular profiling of faecal bacteria revealed abnormalities of intestinal microbiota in uc and ibs patients, while different patterns of bacteroides species loss in particular, were associated with uc and ibs.
+TIHT== 
+ABHT== 
+

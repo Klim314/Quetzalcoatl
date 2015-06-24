@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22703649
+TI  == a microbiological profile of unexposed and exposed pulp space of primary endodontic infections by checkerboard dna-dna hybridization.
+AB  == introduction: the aim of this study was to evaluate, by checkerboard dna-dna hybridization, the composition of the microbiota of primary endodontic infections in cases associated with exposed (n = 30) and unexposed (n = 30) pulp space. methods: samples were collected by means of a #15 h-type file and 2 sterile paper points from 60 single-rooted teeth with necrotic pulp and periapical lesions. the presence, levels, and proportions of 40 bacterial species were determined by checkerboard dna-dna hybridization. results: the species found in higher counts (x10(5)) in exposed pulp space cases were eubacterium saburreum, fusobacterium nucleatum ssp. vincentii, tannerella forsythia, enterococcus faecalis, neisseria  mucosa, campylobacter gracilis, and prevotella nigrescens, and in unexposed pulp  space cases they were f. nucleatum ssp. vincentii, n. mucosa, e. faecalis, e. saburreum, c. gracilis, and porphyromonas gingivalis. counts of f. nucleatum ssp. vincentii, campylobacter sputigena, capnocytophaga showae, treponema socrenskii,  porphyromonas endodontalis, eikenella corrodens, and capnocytophaga ochracea were significantly higher in unexposed pulp space cases (p < .05). conclusions: the data of the present investigation suggested specific differences between the composition of the microbiota in cases with exposed and unexposed pulp space and  an association between higher levels of some specific species and unexposed pulp  space cases.
+TIHT== 
+ABHT== 
+
+PMID== 18436031
+TI  == a microbiological profile of symptomatic teeth with primary endodontic infections.
+AB  == the aim of this study was to evaluate the composition of the microbiota of primary endodontic infections associated with symptomatic teeth. samples were collected by means of a #15 h-type file and 2 sterile paper points from 60 symptomatic (n = 30) or asymptomatic (n = 30) single-rooted teeth with necrotic pulp. the presence of 40 bacterial species was determined by the checkerboard dna-dna hybridization method. the species found in higher counts (x10(5)) in symptomatic cases were fusobacterium nucleatum ssp. vincentii, veillonella parvula, treponema socranskii, enterococcus faecalis, and campylobacter gracilis  and in asymptomatic cases were f. nucleatum ssp. vincentii, fusobacterium nucleatum ssp. nucleatum, e. faecalis, eubacterium saburreum, and neisseria mucosa. total bacterial counts and counts of tannerella forsythia were significant higher in symptomatic cases (p < 0.05), whereas levels of propionibacterium acnes were reduced in this group of teeth. the data of the present investigation suggested an association between higher total bacterial counts and levels of t. forsythia and the presence of pain.
+TIHT== 
+ABHT== 
+
+PMID== 17949342
+TI  == evaluation of the microbiota of primary endodontic infections using checkerboard  dna-dna hybridization.
+AB  == background/aims: the aim of this study was to evaluate the composition of the microbiota of primary endodontic infections in 111 selected cases of single-rooted teeth with necrotic pulp. methods: samples were collected from the  root canals using #15 hedstroen-type files and two sterile paper points, which were introduced 1 mm short of the apical foramen. the presence, levels, and proportions of 40 different bacterial species in each sample were determined using dna probes and checkerboard dna-dna hybridization techniques. results: the  mean number of species per sample was 22. enterococcus faecalis (89.3%), campylobacter gracilis (89.3%), leptotrichia buccalis (89.3%), neisseria mucosa (87.5%), prevotella melaninogenica (86.6%), fusobacterium nucleatum ssp. vincentii (85.7%), eubacterium saburreum (75.9%), streptococcus anginosus (75%),  and veillonella parvula (74.1%) were the most prevalent species. the species found in highest mean counts (over 10(5)) were f. nucleatum ssp. vincentii (13.14 x 10(5)), e. saburreum (5.67 x 10(5)), e. faecalis (5.38 x 10(5)), n. mucosa (4.19 x 10(5)), v. parvula (3.63 x 10(5)), c. gracilis (3.46 x 10(5)), treponema  socranskii (3.34 x 10(5)), porphyromonas endodontalis (2.96 x 10(5)), porphyromonas gingivalis (2.85 x 10(5)), micromonas micros (2.81 x 10(5)), prevotella nigrescens (2.68 x 10(5)) and fusobacterium nucleatum ssp. nucleatum (2.64 x 10(5)). most of these species were also found in high proportions. conclusions: our results suggest that several bacterial species considered to be  oral pathogens seem to be implicated in the etiology of primary endodontic infections.
+TIHT== 
+ABHT== 
+

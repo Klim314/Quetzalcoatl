@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 15025229
+TI  == specific antibiotics in the treatment of periodontitis--a proposed strategy.
+AB  == background: the purpose of the present study was to propose a strategy for the selection of antibiotics that specifically target complexes of periodontal pathogens present in patients with periodontitis. methods: seven hundred seventy-four (774) patients with various forms of periodontitis were included in  the study. subgingival plaque samples were taken from the deepest periodontal pockets in each quadrant using a sterile curet, and pooled. actinobacillus actinomycetemcomitans, porphyromonas gingivalis, eikenella corrodens, tannerella  forsythensis, prevotella intermedia, and prevotella nigrescens were identified by polymerase chain reaction, and the prevalence of combinations of these pathogens  was determined. to each pathogen complex (pc), i.e., combination of pathogens, those antibiotics were assigned that were most specific according to the published minimum inhibitory concentration (mic90) values and the gingival crevicular fluid (gcf) concentrations achievable in vivo. antibiotic gcf concentrations had to be at least 10 times the mic90 values, and the narrowest spectrum was selected with respect to the assessed periodontal pathogens. results: nine major pcs (each > or = 3% of all patients) were found in 73.4% of all patients, whereas 38 minor pcs (each < 3% of all patients) were distributed in 26.6% of all patients. ten different antibiotic regimens were found to be specific for the total of 46 pcs; i.e., metronidazole and amoxicillin in 11 pcs (55.0% of all patients), metronidazole and amoxicillin/clavulanic acid or metronidazole and ciprofloxacin in 13 pcs (18.9%), amoxicillin in 4 pcs (8.3%), doxycycline in 2 pcs (6.1%), metronidazole in 8 pcs (4.1%), amoxicillin/clavulanic acid in 3 pcs (2.9%), clindamycin in 2 pcs (1.5%), ciprofloxacin in 2 pcs (0.4%), and tetracycline in 1 pc (0.3%). conclusion: the results of the study indicate that there are at least 46 different combinations of the assessed periodontal pathogens in subjects with periodontitis, and at least 10 different antibiotic regimens might be required to specifically target the various pathogen complexes.
+TIHT== 
+ABHT== 
+

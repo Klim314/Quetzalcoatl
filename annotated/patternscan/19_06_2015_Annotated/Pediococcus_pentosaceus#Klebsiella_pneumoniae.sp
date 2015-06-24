@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19446352
+TI  == bacteriocin production by pediococcus pentosaceus isolated from marula (scerocarya birrea).
+AB  == strain st44am, isolated from marula, was identified as pediococcus pentosaceus based on biochemical tests, sugar fermentation reactions (api 50chl), pcr with species-specific primers and 16s rdna sequencing. strain st44am produces a 6.5 kda class iia bacteriocin, active against lactic acid bacteria, escherichia coli, pseudomonas aeruginosa, klebsiella pneumoniae, listeria innocua, listeria ivanovii subsp. ivanovii and listeria monocytogenes. the peptide is inactivated by proteolytic enzymes, but not when treated with alpha-amylase, triton x-100, triton x-114, sds, tween 20, tween 80, urea, nacl and edta. no change in activity was recorded after 2 h at ph values between 2.0 and 12.0, and after treatment at  100 degrees c for 120 min or 121 degrees c for 20 min. the mode of activity against l. ivanovii susbp. ivanovii atcc19119 and enterococcus faecium hklhs is bactericidal, resulting in cell lyses and enzyme- and dna-leakage. no significant differences in cell growth and bacteriocin production were observed when strain st44am was cultured in mrs broth at 26 degrees c, 30 degrees c and 37 degrees c for 24 h and tested against the same target strain. l. ivanovii subsp. ivanovii atcc 19119 and e. faecium hklhs did, however, differ in sensitivity to bacteriocin st44am (3.3x10(6) au/ml and 2.6x10(4) au/ml, respectively). peptide st44am adsorbs at high levels (1600 au/ml) to producer cells. bacteriocin st44am  may be a derivative of pediocin pa-1. this is the first report on the presence of p. pentosaceus in marula and a pediocin pa-1 derivative produced by this species. we are also the first to report on the synergetic effect ciprofloxacin has on a pediocin-like bacteriocin.
+TIHT== 
+ABHT== 
+
+PMID== 10063620
+TI  == study of the micro-organisms associated with the fermented bread (khamir) produced from sorghum in gizan region, saudi arabia.
+AB  == traditional bread (khamir) was made from sorghum flour of two local varieties, bayadh and hamra. the bread was prepared by mixing the sorghum flour with water and spices (onion, garlic, lemon juice and fenugreek) in a 1:0.8 (w/w) ratio and  fermented for 24 h at 30 degrees c. two other fermentations were carried out using an inoculum from the previous fermentation. the micro-organisms were isolated from different plates and identified using different characterization systems. both total bacterial populations and lactic acid bacteria increased with fermentation time and reached the highest number at 16 h (first fermentation) and at 8 h (second and third fermentation). the content of lactic acid was increased  with time to reach 1.2%, but the increase was higher for the second and third fermentations (1.6% each). the ph dropped with time from 6.77 to 4.35 in the first fermentation and from 6.65 to 4.18, and 6.57-3.93, in the second and third  fermentations, respectively. the microorganisms, which were isolated and characterized during the 24 h fermentation, included: bacteria (pediococcus pentosaceus, lactobacillus brevis, lact. lactis subsp. lactis, lact. cellobiosus, klebsiella oxytoca, kl. pneumoniae, enterobacter aerogenes, ent. sakazakii, serratia marcescens and ser. odourifera), moulds (penicillium sp., rhizopus sp.,  aspergillus niger, alternaria sp., fusarium sp. and mucor sp.) and yeasts (candida parapsilosis, c. orvegnsis and rhodotorula glutinis).
+TIHT== 
+ABHT== 
+
+PMID== 16348551
+TI  == isolation and characterization of microorganisms associated with the traditional  sorghum fermentation for production of sudanese kisra.
+AB  == sorghum flour obtained from sudan was mixed with water in a 1:2 (wt/vol) ratio and fermented at 30 degrees c for 24 h. the bacterial populations increased with  fermentation time and reached a plateau at approximately 18 h. at the end of 24 h, sorghum batter ph had dropped from 5.95 to 3.95 and the batter had a lactic acid content of 0.80%. the microbial population during the 24 h of fermentation consisted of bacteria (pediococcus pentosaceus, lactobacillus confusus, lactobacillus brevis, lactobacillus sp., erwinia ananas, klebsiella pneumoniae, and enterobacter cloacae), yeasts (candida intermedia and debaryomyces hansenii), and molds (aspergillus sp., penicillium sp., fusarium sp., and rhizopus sp.). p.  pentosaceus was the dominant microorganism at the end of the 24-h fermentation. when three consecutive fermentations using an inoculum from the previous fermentation were carried out, the bacterial population increase plateaued at 9 h. the microbial populations in these fermentations were dominated by p. pentosaceus.
+TIHT== 
+ABHT== 
+

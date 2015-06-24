@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 21204884
+TI  == bacterial and fungal communities of wilted italian ryegrass silage inoculated with and without lactobacillus rhamnosus or lactobacillus buchneri.
+AB  == aims: to understand the effects of lactic acid bacteria (lab) inoculation on fermentation products, aerobic stability and microbial communities of silage. methods and results: wilted italian ryegrass was stored in laboratory silos with  and without inoculation of lactobacillus rhamnosus and lactobacillus buchneri. the silos were opened after 14, 56 and 120 days and then subjected to aerobic deterioration for 7 days. intensive alcoholic fermentation was found in untreated silage; the sum of ethanol and 2,3-butanediol content at day 14 was about 7 times higher than that of lactic and volatile fatty acids. alcoholic fermentation was suppressed by l. rhamnosus and l. buchneri inoculation and lactic acid and acetic acid became the dominant fermentation products, respectively. silages were deteriorated in untreated and l. rhamnosus-inoculated silages, whereas no spoilage was found in l. buchneri-inoculated silage. enterobacteria such as erwinia persicina, pantoea agglomerans and rahnella aquatilis were detected in untreated silage, whereas some of these bacteria disappeared or became faint with l. rhamnosus treatment. when silage was deteriorated, lactobacillus brevis and bacillus pumilus were observed in untreated and l. rhamnosus-inoculated communities, respectively. the inoculated lab species was detectable in addition  to untreated bacterial communities. saccharomyces cerevisiae and pichia anomala were the main fungi in untreated and l. rhamnosus-inoculated silages; however, p. anomala was not visibly seen in l. buchneri-inoculated silage either at silo opening or after exposure to air. conclusion: inoculation with l. rhamnosus can suppress alcoholic fermentation of wilted grass silage with elimination of enterobacteria at the beginning of fermentation. addition of l. buchneri may improve aerobic stability, with distinct inhibitory effect observed on p. anomala after silo opening. significance and impact of the study: bacterial and fungal community analyses help us to understand how inoculated lab can function to improve the fermentation and aerobic stability of silage.
+TIHT== 
+ABHT== 
+

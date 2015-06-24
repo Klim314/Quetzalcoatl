@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 20082639
+TI  == individual and co-operative roles of lactic acid and hydrogen peroxide in the killing activity of enteric strain lactobacillus johnsonii ncc933 and vaginal strain lactobacillus gasseri ks120.1 against enteric, uropathogenic and vaginosis-associated pathogens.
+AB  == the mechanism underlying the killing activity of lactobacillus strains against bacterial pathogens appears to be multifactorial. here, we investigate the respective contributions of hydrogen peroxide and lactic acid in killing bacterial pathogens associated with the human vagina, urinary tract or intestine  by two hydrogen peroxide-producing strains. in co-culture, the human intestinal strain lactobacillus johnsonii ncc933 and human vaginal strain lactobacillus gasseri ks120.1 strains killed enteric salmonella enterica serovar typhimurium sl1344, vaginal gardnerella vaginalis dsm 4944 and urinary tract escherichia coli cft073 pathogens. the cell-free culture supernatants (cfcss) produced the same reduction in sl1344, dsm 4944 and cft073 viability, whereas isolated bacteria had no effect. the killing activity of cfcss was heat-stable. in the presence of dulbecco's modified eagle's minimum essential medium inhibiting the lactic acid-dependent killing activity, cfcss were less effective at killing of the pathogens. catalase-treated cfcss displayed a strong decreased activity. tested alone, hydrogen peroxide triggered a concentration-dependent killing activity against all three pathogens. lactic acid alone developed a killing activity only  at concentrations higher than that present in cfcss. in the presence of lactic acid at a concentration present in lactobacillus cfcss, hydrogen peroxide displayed enhanced killing activity. collectively, these results demonstrate that for hydrogen peroxide-producing lactobacillus strains, the main metabolites of lactobacillus, lactic acid and hydrogen peroxide, act co-operatively to kill enteric, vaginosis-associated and uropathogenic pathogens.
+TIHT== 
+ABHT== 
+
+PMID== 16907815
+TI  == in vitro antibacterial activity of lactobacillus helveticus strain ks300 against  diarrhoeagenic, uropathogenic and vaginosis-associated bacteria.
+AB  == aims: the purpose of this study was to investigate in vitro the antibacterial activity of the lactobacillus helveticus strain ks300 against vaginosis-associated bacteria including gardnerella vaginalis and prevotella bivia, uropathogenic escherichia coli, and diarrhoeagenic salmonella enterica serovar typhimurium. methods and results: the ks300 strain inhibited the growth of g. vaginalis, p. bivia, s. typhimurium, and pathogenic e. coli. after direct co-culture, data show that the lactobacillus strain decreased the viability of g. vaginalis, p. bivia, s. typhimurium, and pathogenic e. coli. the adhering ks300 strain inhibited the adhesion of g. vaginalis dsm 4944 and uropathogenic dr-positive e. coli ih11128 onto hela cells. moreover, the ks300 strain inhibited the internalization of uropathogenic dr-positive e. coli ih11128 within hela cells and s. typhimurium sl1344 within caco-2/tc7 cells. conclusions: the findings demonstrate that l. helveticus strain ks300 is adhesive onto cultured human cells and has antagonistic activities against vaginosis-associated, uropathogenic and diarrhoeagenic pathogens. significance and impact of the study: adhering l. helveticus strain ks300 is a potential probiotic strain displaying a  strain-specific array of in vitro antibacterial activities.
+TIHT== 
+ABHT== 
+

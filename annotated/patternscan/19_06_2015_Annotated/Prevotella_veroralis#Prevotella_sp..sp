@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 18676457
+TI  == prevotella histicola sp. nov., isolated from the human oral cavity.
+AB  == three strains of anaerobic, variably pigmenting, gram-negative bacilli isolated from human oral mucosal tissue were subjected to a comprehensive range of phenotypic and genotypic tests and were found to comprise a homogeneous group. 16s rrna gene sequence analysis and dna-dna hybridization revealed that the strains constituted a novel group within the genus prevotella, being most closely related to prevotella melaninogenica and prevotella veroralis. a novel species, prevotella histicola sp. nov., is proposed to accommodate these strains. prevotella histicola is saccharolytic and produces acetic acid and succinic acid  as major end products of fermentation and trace to minor amounts of isovaleric acid and lactic acid. the g+c content of the dna of the type strain is 43 mol%. the type strain of prevotella histicola is t05-04t (=dsm 19854t=ccug 55407t).
+TIHT== 
+ABHT== 
+
+PMID== 17684261
+TI  == prevotella paludivivens sp. nov., a novel strictly anaerobic, gram-negative, hemicellulose-decomposing bacterium isolated from plant residue and rice roots in irrigated rice-field soil.
+AB  == two strictly anaerobic bacterial strains, kb7(t) and a42, were isolated from rice plant residue and living rice roots, respectively, from irrigated rice-field soil in japan. these two strains were closely related to each other with 16s rrna gene sequence similarity of 99.8 %. both strains showed almost the same physiological  properties. cells were gram-negative, non-motile, non-spore-forming rods. growth  was remarkably stimulated by the addition of haemin to the medium. the strains utilized various saccharides including xylan, xylose, pectin and carboxymethylcellulose and produced acetate and succinate with small amounts of formate and malate. the strains grew at 10-40 degrees c; optimum growth was observed at 30 degrees c and ph 5.7-6.7. oxidase, catalase and nitrate-reducing activities were not detected. aesculin was hydrolysed. the major cellular fatty acids were anteiso-c(15 : 0), iso-c(15 : 0), c(15 : 0) and iso-c(17 : 0) 3-oh. menaquinones mk-11 and mk-11(h(2)) were the major respiratory quinones and the genomic dna g+c content was 39.2 mol%. phylogenetic analysis based on 16s rrna gene sequences placed both strains in the phylum bacteroidetes. 16s rrna gene sequence analysis showed that the most related species to both strains was prevotella oulorum (92.8-92.9 % similarity). prevotella veroralis and prevotella  melaninogenica were the next most closely related known species with sequence similarities of 91.9-92.4 %. based on differences in the phylogenetic, ecological, physiological and chemotaxonomic characteristics between the two isolates and related species, it is proposed that strains kb7(t) and a42 represent a novel species, prevotella paludivivens sp. nov. this is the first described prevotella species derived from a natural habitat; all other prevotella species are from mammalian sources. the type strain of prevotella paludivivens is kb7(t) (=jcm 13650(t)=dsm 17968(t)).
+TIHT== 
+ABHT== 
+
+PMID== 17473237
+TI  == prevotella copri sp. nov. and prevotella stercorea sp. nov., isolated from human  faeces.
+AB  == six strains (cb7(t), cb18, cb23, cb26, cb28 and cb35(t)) were isolated from human faeces. based on phylogenetic analysis, phenotypic characteristics, cellular fatty acid profiles and menaquinone profiles, these strains could be included within the genus prevotella and made up two clusters. 16s rrna gene sequence analysis indicated that five strains were most closely related to prevotella veroralis, sharing about 92 % sequence similarity; the remaining strain was most  closely related to prevotella shahii, sharing about 90 % sequence similarity. all six strains were obligately anaerobic, non-pigmented, non-spore-forming, non-motile, gram-negative rods. the cellular fatty acid compositions of the six strains differed significantly from those of other prevotella species. five strains (cb7(t), cb18, cb23, cb26 and cb28) contained dimethyl acetals and the major menaquinones of these strains were mk-11, mk-12 and mk-13. the major menaquinones of cb35(t) were mk-12 and mk-13. based on phenotypic and phylogenetic findings, two novel species, prevotella copri sp. nov. and prevotella stercorea sp. nov., are proposed, representing the two different strain clusters. the dna g+c contents of strains cb7(t) and cb35(t) were 45.3 and 48.2 mol%, respectively. the type strains of p. copri and p. stercorea are cb7(t) (=jcm 13464(t)=dsm 18205(t)) and cb35(t) (=jcm 13469(t)=dsm 18206(t)), respectively.
+TIHT== 
+ABHT== 
+

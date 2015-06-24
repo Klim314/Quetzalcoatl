@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 21752968
+TI  == reidentification of streptococcus bovis isolates causing bacteremia according to  the new taxonomy criteria: still an issue?
+AB  == all streptococcus bovis blood culture isolates recovered from january 2003 to january 2010 (n = 52) at the hospital universitario ramon y cajal were reidentified on the basis of their genetic traits using new taxonomic criteria. initial identification was performed by the semiautomatic wider system (fco. soria-melguizo, spain) and the api 20 strep system (biomerieux, france). all isolates were reidentified by pcr amplification and sequencing of both the 16s rrna and soda genes and by mass spectrometry using matrix-assisted laser desorption ionization-time of flight mass spectrometry (maldi-tof ms; bruker, germany). results of 16s rrna/soda gene sequencing were as follows: streptococcus gallolyticus subsp. gallolyticus, 14/14 (number of isolates identified by 16s rrna/number of isolates identified by soda gene sequencing); streptococcus gallolyticus subsp. pasteurianus, 24/24; streptococcus spp., 7/0; streptococcus infantarius subsp. infantarius, 0/2; streptococcus lutetiensis, 0/5; leuconostoc  mesenteroides, 4/0; and lactococcus lactis, 3/3. maldi-tof ms identified 27 s. gallolyticus isolates but not at the subspecies level, 4 l. mesenteroides isolates, 3 l. lactis isolates, and 6 s. lutetiensis isolates, whereas 12 isolates rendered a nonreliable identification result. pulsed-field gel electrophoresis grouped all s. gallolyticus subsp. gallolyticus isolates into 3 major clusters clearly different from those of the s. gallolyticus subsp. pasteurianus isolates, which, in turn, exhibited no clonal relationship. the percentages of resistance to the tested antimicrobials were 38% for erythromycin, 23% for fosfomycin, 10% for levofloxacin, 6% for tetracycline, and 4% for co-trimoxazole. the most frequent underlying diseases were hepatobiliary disorders (53%), endocarditis (17%), and malignancies (12%). we conclude that sequencing of the soda gene was the most discriminatory method and that s. gallolyticus subsp. pasteurianus appears to have a higher genetic diversity than  s. gallolyticus subsp. gallolyticus.
+TIHT== 
+ABHT== 
+

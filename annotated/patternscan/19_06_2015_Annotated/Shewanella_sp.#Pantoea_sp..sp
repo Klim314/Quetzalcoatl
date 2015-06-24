@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25635348
+TI  == arsenic biotransformation in solid waste residue: comparison of contributions from bacteria with arsenate and iron reducing pathways.
+AB  == arsenic- and iron-reducing bacteria play an important role in regulating as redox transformation and mobility. the motivation of this study was to compare the contributions of different as- and fe-reducing bacteria to as biotransformation.  in this work, three bacteria strains with different functional genes were employed including pantoea sp. imh with the arsc gene, alkaliphilus oremlandii ohilas possessing the arra gene, and shewanella oneidensis mr-1, an iron reducer. the incubation results showed that pantoea sp. imh aerobically reduced 100% of as(v) released from waste residues, though total as release was not enhanced. similarly, strain ohilas anaerobically reduced dissolved as(v) but could not enhance as release. in contrast, strain mr-1 substantially enhanced as mobilization because of iron reduction, but without changing the as speciation. the formation of the secondary iron mineral pyrite in the mr-1 incubation experiments, as evidenced by the x-ray absorption near-edge spectroscopy (xanes)  analysis, contributed little to the uptake of the freed as. our results suggest that the arsc gene carriers mainly control the as speciation in the aqueous phase in aerobic environments, whereas in anaerobic conditions, the as speciation should be regulated by arra gene carriers, and as mobility is greatly enhanced by iron reduction.
+TIHT== 
+ABHT== 
+
+PMID== 21559826
+TI  == a novel low-temperature-active beta-glucosidase from symbiotic serratia sp. tn49  reveals four essential positions for substrate accommodation.
+AB  == a 2,373-bp full-length gene (bgla49) encoding a 790-residue polypeptide (bgla49)  with a calculated mass of 87.8 kda was cloned from serratia sp. tn49, a symbiotic bacterium isolated from the gut of longhorned beetle (batocera horsfieldi) larvae. the deduced amino acid sequence of bgla49 showed the highest identities of 80.1% with a conceptually translated protein from pantoea sp. at-9b (eew02556), 38.3% with the identified glycoside hydrolase (gh) family 3 beta-glucosidase from clostridium stercorarium ncbi 11754 (cab08072), and <15.0%  with the low-temperature-active gh 3 beta-glucosidases from shewanella sp. g5 (abl09836) and paenibacillus sp. c7 (aax35883). the recombinant enzyme (r-bgla49) was expressed in escherichia coli and displayed the typical characteristics of low-temperature-active enzymes, such as low temperature optimum (showing apparent optimal activity at 35 degrees c), activity at low temperatures (retaining approximately 60% of its maximum activity at 20 degrees c and approximately 25% at 10 degrees c). compared with the thermophilic gh 3 beta-glucosidase, r-bgla49  had fewer hydrogen bonds and salt bridges and less proline residues. these features might relate to the increased structure flexibility and higher catalytic activity at low temperatures of r-bgla49. the molecular docking study of four gh  3 beta-glucosidases revealed five conserved positions contributing to substrate accommodation, among which four positions of r-bgla49 (r192, y228, d260, and e449) were identified to be essential based on site-directed mutagenesis analysis.
+TIHT== 
+ABHT== 
+
+PMID== 17944366
+TI  == [bacterial community structure in intestine of the white shrimp, litopenaeus vannamei].
+AB  == the composition of bacterial community in the intestine of the white shrimp, litopenaeus vannamei under laboratory culture condition was determined using the  16s rdna clone library. 16s rrna gene was amplified and a library was constructed by using the genomic dna extracted from the bacteria in the shrimp intestine as template. 12 different rflp patterns of the clones were obtained by restriction fragment length polymorphism analysis using afa i and msp i. compared with the published sequences in genbank database, sequencing results of cloned 16s rdna amplicons revealed a diverse community including gamma-proteobacteria and firmicutes in the intestine of artificial diet-fed shrimp. results showed that the firmicutes group can be a dominant component (75.4%) in the shrimp intestinal microflora and other clones belong to gamma-proteobacteria (24.6%) which were identified as shewanella sp., pantoea sp., aranicola sp., pseudomonas sp. and vibrio sp., respectively. these results provide the first comprehensive description of microbial diversity of the white shrimp intestine and suggest that most of the bacteria associated with shrimp intestine are uncultured and novel species.
+TIHT== 
+ABHT== 
+

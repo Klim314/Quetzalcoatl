@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 0
+POS == 0
+NEG == 0
+@PAPERS
+PMID== 25152409
+TI  == co-expression of d-glucose isomerase and d-psicose 3-epimerase: development of an efficient one-step production of d-psicose.
+AB  == d-psicose has been attracting attention in recent years because of its alimentary activities and is used as an ingredient in a range of foods and dietary supplements. to develop a one-step enzymatic process of d-psicose production, thermoactive d-glucose isomerase and the d-psicose 3-epimerase obtained from bacillus sp. and ruminococcus sp., respectively, were successfully co-expressed in escherichia coli bl21 strain. the substrate of one-step enzymatic process was  d-glucose. the co-expression system exhibited maximum activity at 65 degrees c and ph 7.0. mg(2+) could enhance the output of d-psicose by 2.32 fold to 1.6 g/l  from 10 g/l of d-glucose. when using high-fructose corn syrup (hfcs) as substrate, 135 g/l d-psicose was produced under optimum conditions. the mass ratio of d-glucose, d-fructose, and d-psicose was almost 3.0:2.7:1.0, when the reaction reached equilibrium after an 8h incubation time. this co-expression system approaching to produce d-psicose has potential application in food and beverage products, especially softdrinks.
+TIHT== 
+ABHT== 
+
+PMID== 15812029
+TI  == culture-dependent and -independent methods to investigate the microbial ecology of italian fermented sausages.
+AB  == in this study, the microbial ecology of three naturally fermented sausages produced in northeast italy was studied by culture-dependent and -independent methods. by plating analysis, the predominance of lactic acid bacteria populations was pointed out, as well as the importance of coagulase-negative cocci. also in the case of one fermentation, the fecal enterocci reached significant counts, highlighting their contribution to the particular transformation process. yeast counts were higher than the detection limit (> 100  cfu/g) in only one fermented sausage. analysis of the denaturing gradient gel electrophoresis (dgge) patterns and sequencing of the bands allowed profiling of  the microbial populations present in the sausages during fermentation. the bacterial ecology was mainly characterized by the stable presence of lactobacillus curvatus and lactobacillus sakei, but lactobacillus paracasei was also repeatedly detected. an important piece of evidence was the presence of lactococcus garvieae, which clearly contributed in two fermentations. several species of staphylococcus were also detected. regarding other bacterial groups, bacillus sp., ruminococcus sp., and macrococcus caseolyticus were also identified at the beginning of the transformations. in addition, yeast species belonging to  debaryomyces hansenii, several candida species, and willopsis saturnus were observed in the dgge gels. finally, cluster analysis of the bacterial and yeast dgge profiles highlighted the uniqueness of the fermentation processes studied.
+TIHT== 
+ABHT== 
+
+PMID== 9561824
+TI  == microbial production of hydrogen: an overview.
+AB  == production of hydrogen by anaerobes, facultative anaerobes, aerobes, methylotrophs, and photosynthetic bacteria is possible. anaerobic clostridia are  potential producers and immobilized c. butyricum produces 2 mol h2/mol glucose at 50% efficiency. spontaneous production of h2 from formate and glucose by immobilized escherichia coli showed 100% and 60% efficiencies, respectively. enterobactericiae produces h2 at similar efficiency from different monosaccharides during growth. among methylotrophs, methanogenes, rumen bacteria, and thermophilic archae, ruminococcus albus, is promising (2.37 mol/mol glucose). immobilized aerobic bacillus licheniformis optimally produces 0.7 mol h2/mol glucose. photosynthetic rhodospirillum rubrum produces 4, 7, and 6 mol of h2 from acetate, succinate, and malate, respectively. excellent productivity (6.2 mol h2/mol glucose) by co-cultures of cellulomonas with a hydrogenase uptake (hup) mutant of r. capsulata on cellulose was found. cyanobacteria, viz., anabaena, synechococcus, and oscillatoria sp., have been studied for photoproduction of h2. immobilized a. cylindrica produces h2 (20 ml/g dry wt/h) continually for 1 year.  increased h2 productivity was found for hup mutant of a. variabilis. synechococcus sp. has a high potential for h2 production in fermentors and outdoor cultures. simultaneous productions of oxychemicals and h2 by klebseilla sp. and by enzymatic methods were also attempted. the fate of h2 biotechnology is presumed to be dictated by the stock of fossil fuel and state of pollution in future.
+TIHT== 
+ABHT== 
+

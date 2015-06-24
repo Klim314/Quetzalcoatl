@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19494490
+TI  == the isolation of bifidobacteria from occlusal carious lesions in children and adults.
+AB  == the aim of this study was to enumerate and identify bifidobacteria from occlusal  carious lesions in permanent and deciduous teeth. samples of infected dentine were obtained from 24 active occlusal lesions in deciduous teeth and from 15 occlusal lesions in permanent teeth. plaque samples from sound occlusal surfaces  of 12 caries-free adults and 12 children were also obtained. the bifidobacterial  strains were isolated in mupirocin-containing selective media, gram-stained and subcultured for identification. total bacterial counts were determined using fastidious anaerobic agar, and isolates were identified using genus-specific pcr  primers and were confirmed by 16s rrna sequencing. bifidobacteria were isolated from 13 of the 15 occlusal lesions in the adults and formed 5.09 +/- 2.11% of the total cultivable flora. in the children, bifidobacteria were isolated from 16 of  the 24 occlusal lesions and formed 7.4 +/- 2.6% of the total flora. no bifidobacteria were isolated from the occlusal surfaces of caries-free adults or  children. a total of 424 bifidobacteria were identified and these were bifidobacteriumdentium, parascardovia denticolens, scardoviainopicata, bifidobacterium longum, scardovia genomosp. c1 and bifidobacterium breve. b. dentium was present in 14 out of the 16 bifidobacteria-positive samples from the  lesions on the deciduous teeth and in 7 out of the 13 positive lesions in adults  (p = 0.04). the present data suggest that bifidobacteria may play a role in the progression of occlusal caries lesions in both children and adults.
+TIHT== 
+ABHT== 
+
+PMID== 19121067
+TI  == association between bifidobacteriaceae and the clinical severity of root caries lesions.
+AB  == background/aims: the isolation of members of the family bifidobacteriaceae (bifids) from oral samples has been sporadic and a recent cloning study has suggested that they are not detectable in root caries lesions. methods: to better understand the presence of bifids in root caries we obtained clinical samples (15 of each) from sound exposed root surfaces, leathery remineralizing root lesions,  and soft active root lesions. we investigated each for the presence of bifids using a mupirocin-containing selective medium and identified the isolates using 16s recombinant rna sequencing. results: the proportion of bifids, as a percentage of the total anaerobic count, was significantly related to the clinical status of the sites sampled, being 7.88 +/- 1.93 in the infected dentine from soft lesions, 1.61 +/- 0.91 in leathery lesions, and 0.05 +/- 0.39 in plaque from sound exposed root surfaces. bifids were isolated from all soft lesions, 13  of 15 leathery lesions, and five of the plaque samples. bifidobacterium dentium was isolated from four of the plaque samples, from 13 samples from leathery lesions, and from 12 of the 15 samples of infected dentine from the soft active lesions. parascardovia denticolens and scardovia genomospecies c1 were each isolated from samples associated with all three clinical conditions whereas scardovia inopicata and bifidobacterium subtile were both isolated from the infected dentine of the leathery and soft lesions. bifidobacterium breve was isolated from the infected dentine of soft root caries lesions. conclusion: bifids may be routinely isolated from root caries lesions using appropriate cultural methods.
+TIHT== 
+ABHT== 
+

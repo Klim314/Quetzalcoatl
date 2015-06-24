@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24040367
+TI  == commensal akkermansia muciniphila exacerbates gut inflammation in salmonella typhimurium-infected gnotobiotic mice.
+AB  == excessive mucin degradation by intestinal bacteria may contribute to inflammatory bowel diseases because access of luminal antigens to the intestinal immune system is facilitated. this study investigated how the presence of a mucin degrading commensal bacterium affects the severity of an intestinal salmonella enterica typhimurium-induced gut inflammation. using a gnotobiotic c3h mouse model with a  background microbiota of eight bacterial species (sihumi) the impact of the mucin-degrading commensal bacterium akkermansia muciniphila (sihumi-a) on inflammatory and infectious symptoms caused by s. typhimurium was investigated. presence of a. muciniphila in s. typhimurium-infected sihumi mice caused significantly increased histopathology scores and elevated mrna levels of ifn-gamma, ip-10, tnf-alpha, il-12, il-17 and il-6 in cecal and colonic tissue. the increase in pro-inflammatory cytokines was accompanied by 10-fold higher s. typhimurium cell numbers in mesenteric lymph nodes of sihumi mice associated with a. muciniphila and s. typhimurium (sihumi-as) compared to sihumi mice with s. typhimurium only (sihumi-s). the number of mucin filled goblet cells was 2- to 3-fold lower in cecal tissue of sihumi-as mice compared to sihumi-s, sihumi-a or  sihumi mice. reduced goblet cell numbers significantly correlated with increased  ifn-gamma mrna levels (r(2) = -0.86, ***p<0.001) in all infected mice. in addition, loss of cecal mucin sulphation was observed in sihumi mice containing both a. muciniphila and s. typhimurium compared to other mouse groups. concomitant presence of a. muciniphila and s. typhimurium resulted in a drastic change in microbiota composition of sihumi mice: the proportion of b. thetaiotaomicron in sihumi-as mice was 0.02% of total bacteria compared to 78%-88% in the other mouse groups and the proportion of s. typhimurium was 94% in sihumi-as mice but only 2.2% in the sihumi-s mice. these results indicate that a. muciniphila exacerbates s. typhimurium-induced intestinal inflammation by its ability to disturb host mucus homeostasis.
+TIHT== 
+ABHT== 
+

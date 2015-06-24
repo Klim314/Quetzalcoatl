@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 18436031
+TI  == a microbiological profile of symptomatic teeth with primary endodontic infections.
+AB  == the aim of this study was to evaluate the composition of the microbiota of primary endodontic infections associated with symptomatic teeth. samples were collected by means of a #15 h-type file and 2 sterile paper points from 60 symptomatic (n = 30) or asymptomatic (n = 30) single-rooted teeth with necrotic pulp. the presence of 40 bacterial species was determined by the checkerboard dna-dna hybridization method. the species found in higher counts (x10(5)) in symptomatic cases were fusobacterium nucleatum ssp. vincentii, veillonella parvula, treponema socranskii, enterococcus faecalis, and campylobacter gracilis  and in asymptomatic cases were f. nucleatum ssp. vincentii, fusobacterium nucleatum ssp. nucleatum, e. faecalis, eubacterium saburreum, and neisseria mucosa. total bacterial counts and counts of tannerella forsythia were significant higher in symptomatic cases (p < 0.05), whereas levels of propionibacterium acnes were reduced in this group of teeth. the data of the present investigation suggested an association between higher total bacterial counts and levels of t. forsythia and the presence of pain.
+TIHT== 
+ABHT== 
+
+PMID== 14761124
+TI  == relationship between periodontal pocket sulfide levels and subgingival species.
+AB  == background: many species implicated in the pathogenesis of periodontal disease produce volatile sulfur compounds (vsc). this investigation examined the relationship between levels of sulfide and subgingival bacterial species in the same periodontal pockets. material and methods: twenty chronic periodontitis subjects were measured clinically at six sites per tooth for plaque, gingivitis,  bleeding on probing, suppuration, pocket depth and attachment level. subgingival  plaque samples, taken from the mesial aspect of each tooth, were individually analyzed for their content of 40 bacterial species using checkerboard dna-dna hybridization. sulfide levels were measured at the same sites using a diamond probe/perio 2000 system. clinical and microbiological data were averaged for sulfide-positive and -negative sites separately in each subject and then averaged across subjects. significance differences in clinical and microbial parameters between sulfide-positive and -negative sites were sought using the wilcoxon signed ranks test. results: mean total dna probe counts (x10(5), +/-sem) at sulfide-negative and -positive sites were 44.0 +/- 9.9 and 65.0 +/- 13.3, respectively (p < 0.01). seventeen species were found at significantly higher levels in sulfide-positive than -negative sites. these included abundant producers of vsc such as members of the genera fusobacterium, campylobacter, prevotella, treponema and eubacterium, and bacteriodes forsythus, selenomonas noxia and propionibacterium acnes. prevotella intermedia, bacteriodes forsythus,  prevotella nigrescens, fusobacterium nucleatum ss vincentii and treponema denticola exhibited the greatest difference in mean counts between sulfide-negative and -positive sites. orange and red complex species were at higher counts at shallow (< 4 mm) sulfide-positive than shallow sulfide-negative  sites. although not statistically significant, mean clinical parameters were somewhat higher at sulfide-positive than sulfide-negative sites. conclusions: intra-pocket sulfide levels reflect the levels of sulfide-producing species and may provide useful diagnostic information.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 10404337
+TI  == in-vitro antibacterial activity of levofloxacin against hospital isolates: a multicentre study.
+AB  == the objective of this study was to evaluate the activity of the fluoroquinolone,  levofloxacin, against hospital isolates of bacteria. mics of levofloxacin were determined for 2154 strains by agar dilution. breakpoints for susceptibility testing were calculated using the agar diffusion technique with 5 micrograms discs. the activity of levofloxacin against nalidixic acid- and pefloxacin-susceptible enterobacteriaceae (n = 668) was higher (mic50/90 0.06-0.12 mg/l) than previously reported for ofloxacin. as seen with other fluoroquinolones, this activity was reduced against nalidixic acid-resistant and  pefloxacin-intermediate and -resistant strains (mic 1-8 mg/l). mics for pseudomonas aeruginosa (n = 104) were between 0.12 and 128 mg/l. levofloxacin had good activity against nalidixic acid- and pefloxacin-susceptible acinetobacter baumannii (n = 12; mic 0.06-0.25 mg/l), but the activity was reduced against nalidixic acid- and pefloxacin-resistant strains (n = 80; mic 1-32 mg/l). haemophilus influenzae (n = 70), haemophilus parainfluenzae (n = 47) and moraxella catarrhalis (n = 64) were inhibited by low concentrations of levofloxacin (mics 0.016-0.03 mg/l, 0.03-0.12 mg/l) and 0.03-0.12 mg/l, respectively). clostridium perfringens (n = 23; mic 0.25-1 mg/l) was more susceptible than bacteroides fragilis (n = 60; mic 0.5-4 mg/l). levofloxacin showed superior activity compared with ofloxacin against methicillin-susceptible  staphylococci (n = 107; mic 0.03-0.5 mg/l); the resistant strains (mics 2-32 mg/l) were usually also resistant to methicillin. levofloxacin was less effective against enterococci (n = 105; mic 1-32 mg/l), but streptococci (n = 192) and pneumococci (n = 129), including 58 penicillin-non-susceptible strains, were inhibited by low concentrations (mics 0.5-2 mg/l). according to the regression curve, zone diameters were usually 20-22 mm, 17-19 mm and 15-16 mm for mics of 1, 2 and 4 mg/l, respectively. in conclusion, this study, performed on a large number of strains, confirms the superior anti-bacterial activity of levofloxacin  compared with ofloxacin, especially against pathogens isolated from respiratory tract infections.
+TIHT== 
+ABHT== 
+

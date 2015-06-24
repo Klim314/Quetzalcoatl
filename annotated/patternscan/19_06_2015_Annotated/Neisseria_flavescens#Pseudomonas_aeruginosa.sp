@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 7605398
+TI  == comparative in-vitro activities of the new quinolone, bay y 3118, and ciprofloxacin, sparfloxacin, tosufloxacin, ci-960 and ci-990.
+AB  == the in-vitro activity of the new quinolone, bay y 3118, was compared with that of ciprofloxacin, tosufloxacin, sparfloxacin, ci-960 and ci-990 against 1640 isolates belonging to 117 bacterial species. against members of the enterobacteriaceae, bay y 3118 was as active as ci-960 and ci-990, up to four-fold more active than ciprofloxacin and tosufloxacin and up to 16-fold more  active than sparfloxacin. the majority of enterobacteriaceae which were resistant to ciprofloxacin (mics > or = 2 mg/l) were sensitive to bay y 3118. with the exception of ciprofloxacin which was less active, the activities of bay y 3118 and the other comparator compounds were similar against acinetobacter baumannii,  acinetobacter genospecies 3 and acinetobacter strain 84. bay y 3118 inhibited pseudomonas aeruginosa isolates at concentrations comparable with those of ciprofloxacin. however, non-aeruginosa pseudomonas spp. were four times more susceptible to bay y 3118 than to ciprofloxacin. all of the agents tested were equally active against haemophilus, moraxella, neisseria and bordetella spp. against staphylococci, bay y 3118 was the most active compound, followed jointly  by ci-990, sparfloxacin, ci-960 and tosufloxacin, and then ciprofloxacin. bay y 3118 remained highly active against staphylococcus aureus strains resistant to ciprofloxacin; the mic90 (0.5 mg/l) was 16-fold less than that of ci-990 and sparfloxacin, 32-fold less than that of ci-960 and 128-fold less than that of tosufloxacin and ciprofloxacin. against haemolytic and non-haemolytic streptococci and enterococcus faecalis, bay y 3118 was two- to 16-fold more active than the other compounds. it had only moderate activity against listeria spp., but this was superior to that of all the other compounds tested. bay y 3118 was also the most active agent overall against anaerobic bacteria, although ci-960 and ci-990 had slightly better activity against gardnerella vaginalis. it  inhibited mycobacterium spp. other than mycobacterium tuberculosis (mycobacterium kansasii, mycobacterium scrofulaceum, mycobacterium gordonae, mycobacterium xenopi, mycobacterium flavescens, mycobacterium avium and mycobacterium fortuitum) at concentrations < or = 0.06-4 mg/l and was between two- and 128-fold more active than the other compounds against these isolates; the two strains each of mycobacterium terrae and mycobacterium nonchromogenicum were resistant to bay  y 3118. in this study, bay y 3118 was shown to be the most active and most broad-spectrum of the new quinolone and naphthyridine derivatives.
+TIHT== 
+ABHT== 
+
+PMID== 18132992
+TI  == a case of meningitis due to pseudomonas aeruginosa (bacillus pyocyaneus) and neisseria flavescens with recovery.
+AB  == 
+TIHT== 
+ABHT== 
+

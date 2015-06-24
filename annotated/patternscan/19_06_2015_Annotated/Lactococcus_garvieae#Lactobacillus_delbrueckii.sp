@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23764225
+TI  == diversity of thermophilic bacteria in raw, pasteurized and selectively-cultured milk, as assessed by culturing, pcr-dgge and pyrosequencing.
+AB  == thermophilic lactic acid bacteria (lab) species, such as streptococcus thermophilus, lactobacillus delbrueckii and lactobacillus helveticus, enjoy worldwide economic importance as dairy starters. to assess the diversity of thermophilic bacteria in milk, milk samples were enriched in thermophilic organisms through a stepwise procedure which included pasteurization of milk at 63 degrees c for 30 min (pm samples) and pasteurization followed by incubation at 42 degrees c for 24 h (ipm samples). the microbial composition of these samples was analyzed by culture-dependent (at 42 degrees c) and culture-independent (pcr-dgge and pyrosequencing of 16s rrna gene amplicons) microbial techniques. the results were then compared to those obtained for their corresponding starting raw milk counterparts (rm samples). twenty different species were scored by culturing among 352 isolates purified from the counting plates and identified by  molecular methods. mesophilic lab species (lactococcus lactis, lactococcus garvieae) were dominant (87% of the isolates) among the rm samples. however, s. thermophilus and lb. delbrueckii were found to be the dominant recoverable organisms in both pm and ipm samples. the dgge profiles of rm and pm samples were found to be very similar; the most prominent bands belonging to lactococcus, leuconostoc and streptococcus species. in contrast, just three dgge bands were obtained for ipm samples, two of which were assigned to s. thermophilus. the pyrosequencing results scored 95 operational taxonomic units (otus) at 3% sequence divergence in an rm sample, while only 13 were encountered in two ipm samples. this technique identified leuconostoc citreum as the dominant microorganism in the rm sample, while s. thermophilus constituted more than 98% of the reads in the ipm samples. the procedure followed in this study allowed to  estimate the bacterial diversity in milk and afford a suitable strategy for the isolation of new thermophilic lab strains, among which adequate starters might be selected.
+TIHT== 
+ABHT== 
+
+PMID== 18077039
+TI  == bacterial biodiversity of traditional zabady fermented milk.
+AB  == the aim of this work was to identify the bacterial biodiversity of traditional zabady fermented milk using pcr-temporal temperature gel electrophoresis (pcr-ttge) and pcr-denaturing gradient gel electrophoresis (pcr-dgge). most of the identified bacterial species in zabady samples belonged to lactic acid bacteria (lab), e.g., streptococcus thermophilus, lactococcus garvieae, lactococcus raffinolactis, lactococcus lactis, leuconostoc citreum, lactobacillus delbrueckii subsp. bulgaricus and lactobacillus johnsonii. using the culture-dependent and independent methods, the streptococcal and lactococcal groups appeared to be the major bacterial species in zabady fermented milk, whereas the lactobacilli were the minor ones. the main dominant species was st. thermophilus followed by lc. garvieae. other molecular tools, e.g., species-specific pcr assay and cloning and sequencing strategy were used to confirm the ttge and dgge results. lc. garvieae, lc. raffinolactis, ln. citreum,  and lb. johnsonii were identified for the first time in this type of egyptian fermented milk.
+TIHT== 
+ABHT== 
+

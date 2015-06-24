@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 7776158
+TI  == succession of putative peri-implant pathogens after root-form and plate-form implant placement in partially dentate adult monkeys.
+AB  == this report describes the succession of putative peri-implant pathogens in partially dentate monkeys after dental implantation and prosthetic reconstruction. tooth and implant (6 root-end form, 4 blade-vent implants) sites  in eight monkeys were monitored microbiologically and clinically during the pre-implant stage, abutment connection stage, bridge placement stage, and three and six months after the bridge placement stage. tooth and implant sites were cleaned monthly post-extraction. microbiological studies included dark field microscopy, selective and non-selective culture, and primary phenotypic characterization of culture isolates. after implant surgery, the median proportion of several putative peri-implant pathogens studied were significantly  elevated. following fixture placement, p. intermedia replaced p. melaninogenica as the predominant black pigmented anaerobic bacilli (bpab) in the mouth. after abutment connection stage, levels of p. intermedia, a. actinomycetemcomitans, f.  nucleatun, haemophilus sp. and spirochetes were significantly elevated at implant and tooth sites. three months after bridge installations, p. intermedia and a. actinomycetemcomitans remained significantly elevated at implant sites. at six months after bridge installation, levels of p. intermedia, f. nucleatum and a. actinomycetemcomitans declined significantly relative to levels at three months.  porphyromonas sp. and spirochetes were not significantly elevated although their  levels correlated with gingival redness. p. intermedia, porphyromonas sp. and spirochetes levels correlated significantly with probing depth. correlation was detected between p. gingivalis and spirochetes; and between a. actinomycetemcomitans and f. nucleatum. our studies show a transitional increase  in levels of several organisms resembling putative pathogens of human peri-implant infection, associated with implant placements in partially edentulous mouths and supports early prophylactic interventions to control their  levels.
+TIHT== 
+ABHT== 
+

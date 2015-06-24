@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23075782
+TI  == characterization of microbial community in the leachate associated with the decomposition of entombed pigs.
+AB  == foot and mouth disease (fmd) is one of the acute infectious diseases in hoofed and even-toed mammals, including pigs, and it occurs via acute infection by aphthovirus. when fmd is suspected, animals around the location of origin are typically slaughtered and buried. other methods such as rendering, composting, and incineration have not been verified in practice in korea. after the fmd incident, the regular monitoring of the microbial community is required, as microorganisms greatly modify the characteristics of the ecosystem in which they  live. this is the result of their metabolic activities causing chemical changes to take place in the surrounding environment. in this study, we investigated changes in the microbial community during a 24 week period with dna extracts from leachate, formed by the decomposition of buried pigs at a laboratory test site, using denaturing gradient gel electrophoresis (dgge) with a genomic dna. our results revealed that bacteroides coprosuis, which is common in pig excreta, and  sporanaerobacter acetigenes, which is a sulfur-reduced microbe, were continuously observed. during the early stages (0~2 weeks) of tissue decomposition, clostridium cochlearium, fusobacterium ulcerans, and fusobacterium sp., which are involved in skin decomposition, were also observed. in addition, various microbes such as turicibacter sanguinis, clostridium haemolyticum, bacteroides propionicifaciens, and comamonas sp. were seen during the later stages (16~24 weeks). in particular, the number of existing microbial species gradually increased during the early stages, including the exponential phase, decreased during the middle stages, and then increased again during the later stages. therefore, these results indicate that the decomposition of pigs continues for a  long period of time and leachate is created continuously during this process. it  is known that leachate can easily flow into the neighboring environment, so a long-term management plan is needed in burial locations for fmd-infected animals.
+TIHT== 
+ABHT== 
+

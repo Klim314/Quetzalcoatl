@@ -1,0 +1,29 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24146483
+TI  == antimicrobial efficacy and phytochemical analysis of indigofera trita linn.
+AB  == an in vitro antimicrobial activity and phytochemical analysis of various extracts of indigofera trita l. viz. petroleum ether, chloroform, acetone, ethanol and aqueous extracts were carried out. a total of 21 microorganisms (19 bacteria and  2 fungal strains) were used for antimicrobial activity by disc diffusion method and a standard procedure was used to identify the phytochemical constituents. petroleum ether extract showed moderate inhibitory activity against staphylococcus aureus (14.40 mm), s. epidermidis (14.20 mm), salmonella paratyphi a (12.80 mm), streptococcus mutans (12.20 mm), escherichia coli, proteus vulgaris, s. typhi and burkholderia cepacia (12.00 mm). the chloroform extract also showed antimicrobial activity against s. epidermidis (14.20 mm), s. typhimurium (12.60 mm), s. paratyphi a, s. brunei and yersinia enterocolitica (12.00 mm). the acetone extract of i. trita showed considerable inhibitory activity against s. epidermidis (18.20 mm), s. typhimurium (14.60 mm), s. infantis (13.80 mm), s. aureus (13.40 mm), y. enterocolitica (13.00 mm) and enterobacter aerogenes (12.00 mm) were documented. ethanol extract showed significant antimicrobial activity against s. epidermidis (18.60 mm), s. paratyphi a (14.60 mm), y. enterocolitica (13.40 mm), s. typhi (12.40 mm), s. aureus, e. aerogenes, s. typhimurium and s. infantis (12.00 mm). aqueous extract  of i. trita considerably inhibited s. epidermidis (13.80 mm), s. paratyphi a and  y. enterocolitica (12.20 mm), e. aerogenes and haemophilus parahaemolyticus (12.00 mm). all the five extracts showed a minimal antifungal activity when compared to antibacterial activity. the result revealed that the antimicrobial properties of i. trita might be associated with the presence of phenolic compounds, flavonoids, tannins, glycosides, saponins, phytosterols and alkaloids.
+TIHT== 
+ABHT== 
+
+PMID== 11500427
+TI  == conserved degp protease in gram-positive bacteria is essential for thermal and oxidative tolerance and full virulence in streptococcus pyogenes.
+AB  == the degp protease, a multifunctional chaperone and protease, has been shown to be essential for virulence in gram-negative pathogens such as salmonella enterica serovar typhimurium, brucella abortus, yersinia enterocolitica, and pseudomonas aeruginosa. the function of degp in pathogenesis appears to be the degradation of damaged proteins that accumulate as a result of the initial host response to infection, which includes the release of reactive oxygen intermediates. additionally, the degp protease plays a major role in monitoring and maintaining  the escherichia coli periplasm and influences e. coli pilus biogenesis. we report here the identification of highly homologous enzymes in streptococcus pyogenes, streptococcus gordonii, streptococcus mutans, staphylococcus aureus, and enterococcus faecalis. moreover, the phenotype of an insertionally inactivated degp allele in s. pyogenes is similar to that reported for e. coli, with temperature sensitivity for growth and enhanced sensitivity to reactive oxygen intermediates. virulence studies in a mouse model of streptococcal infection indicate that a functional degp protease is required for full virulence. these results suggest degp as an attractive broad-spectrum target for future anti-infective drug development.
+TIHT== 
+ABHT== 
+
+PMID== 8695066
+TI  == salivacin 140, a novel bacteriocin from lactobacillus salivarius subsp. salicinius t140 active against pathogenic bacteria.
+AB  == fifteen of 353 environmental isolates of lactic acid bacteria consistently showed activity against listeria monocytogenes, streptococcus mutans, actinomyces viscosus, and/or propionibacterium acnes. strain t140, isolated from the surface  of japanese pampas grass leaves and identified as lactobacillus salivarius subsp. salicinius, also had activity against several lactobacillus species, staphylococcus aureus and yersinia enterocolitica. since the antagonistic factor(s) produced by t140 was sensitive to a proteolytic enzyme, it was concluded that a bacteriocin (named salivacin 140) was involved in the inhibition activity. strain t140 required a high initial ph (7.5-8.5) in agar plates for bacteriocin production.
+TIHT== 
+ABHT== 
+
+PMID== 1490908
+TI  == antibacterial spectrum of lactoferricin b, a potent bactericidal peptide derived  from the n-terminal region of bovine lactoferrin.
+AB  == a physiologically diverse range of gram-positive and gram-negative bacteria was found to be susceptible to inhibition and inactivation by lactoferricin b, a peptide produced by gastric pepsin digestion of bovine lactoferrin. the list of susceptible organisms includes escherichia coli, salmonella enteritidis, klebsiella pneumoniae, proteus vulgaris, yersinia enterocolitica, pseudomonas aeruginosa, campylobacter jejuni, staphylococcus aureus, streptococcus mutans, corynebacterium diphtheriae, listeria monocytogenes and clostridium perfringens.  concentrations of lactoferricin b required to cause complete inhibition of growth varied within the range of 0.3 to 150 micrograms/ml, depending on the strain and  the culture medium used. the peptide showed activity against e. coli o111 over the range of ph 5.5 to 7.5 and was most effective under slightly alkaline conditions. its antibacterial effectiveness was reduced in the presence of na+, k+, mg2+ or ca2+ ions, or in the presence of various buffer salts. lactoferricin  b was lethal, causing a rapid loss of colony-forming capability in most of the species tested. pseudomonas fluorescens, enterococcus faecalis and bifidobacterium bifidum strains were highly resistant to this peptide.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 21210868
+TI  == tandem use of selenocysteine: adaptation of a selenoprotein glutaredoxin for reduction of selenoprotein methionine sulfoxide reductase.
+AB  == several engineered selenocysteine (sec)-containing glutaredoxins (grxs) and their enzymatic properties have been reported, but natural selenoprotein grxs have not  been previously characterized. we expressed a bacterial selenoprotein grx from clostridium sp. (also known as alkaliphilus oremlandii) ohilas in escherichia coli and characterized this selenoenzyme and its natural cys homologues in clostridium and e. coli. the selenoprotein grx had a 200-fold higher activity than its sec-to-cys mutant form, suggesting that sec is essential for catalysis by this thiol-disulfide oxidoreductase. kinetic analysis also showed that the selenoprotein grx had a 10-fold lower k(m) than cys homologues. interestingly, this selenoenzyme efficiently reduced a clostridium selenoprotein methionine sulfoxide reductase a (msra), suggesting that it is the natural reductant for the protein that is not reducible by thioredoxin, a common reductant for cys-containing msras. we also found that the selenoprotein grx could not efficiently reduce a cys version of clostridium msra, whereas natural clostridium and e. coli cys-containing grxs, which efficiently reduce cys-containing msras, poorly acted on the selenoprotein msra. this specificity for msra reduction could explain why sec is utilized in clostridium grx and more generally provides a novel example of the use of sec in biological systems.
+TIHT== 
+ABHT== 
+
+PMID== 18767149
+TI  == the selenoproteome of clostridium sp. ohilas: characterization of anaerobic bacterial selenoprotein methionine sulfoxide reductase a.
+AB  == selenocysteine (sec) is incorporated into proteins in response to uga codons. this residue is frequently found at the catalytic sites of oxidoreductases. in this study, we characterized the selenoproteome of an anaerobic bacterium, clostridium sp. (also known as alkaliphilus oremlandii) ohila, and identified 13  selenoprotein genes, five of which have not been previously described. one of the detected selenoproteins was methionine sulfoxide reductase a (msra), an antioxidant enzyme that repairs oxidatively damaged methionines in a stereospecific manner. to date, little is known about msra from anaerobes. we characterized this selenoprotein msra which had a single sec residue at the catalytic site but no cysteine (cys) residues in the protein sequence. its secis  (sec insertion sequence) element did not resemble those in escherichia coli. although with low translational efficiency, the expression of the clostridium selenoprotein msra gene in e. coli could be demonstrated by (75)se metabolic labeling, immunoblot analyses, and enzyme assays, indicating that its secis element was recognized by the e. coli sec insertion machinery. we found that the  sec-containing msra exhibited at least a 20-fold higher activity than its cys mutant form, indicating a critical role of sec in the catalytic activity of the enzyme. furthermore, our data revealed that the clostridium msra was inefficiently reducible by thioredoxin, which is a typical reducing agent for msra, suggesting the use of alternative electron donors in this anaerobic bacterium that directly act on the selenenic acid intermediate and do not require resolving cys residues.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23927597
+TI  == multi-centre evaluation of mass spectrometric identification of anaerobic bacteria using the vitek(r) ms system.
+AB  == accurate and timely identification of anaerobic bacteria is critical to successful treatment. classic phenotypic methods for identification require long  turnaround times and can exhibit poor species level identification. matrix-assisted laser desorption ionization time-of-flight mass spectrometry (maldi-tof ms) is an identification method that can provide rapid identification  of anaerobes. we present a multi-centre study assessing the clinical performance  of the vitek((r)) ms in the identification of anaerobic bacteria. five different  test sites analysed a collection of 651 unique anaerobic isolates comprising 11 different genera. multiple species were included for several of the genera. briefly, anaerobic isolates were applied directly to a well of a target plate. matrix solution (alpha-cyano-4-hydroxycinnamic acid) was added and allowed to dry. mass spectra results were generated with the vitek((r)) ms, and the comparative spectral analysis and organism identification were determined using the vitek((r)) ms database 2.0. results were confirmed by 16s rrna gene sequencing. of the 651 isolates analysed, 91.2% (594/651) exhibited the correct species identification. an additional eight isolates were correctly identified to genus level, raising the rate of identification to 92.5%. genus-level identification consisted of actinomyces, bacteroides and prevotella species. fusobacterium nucleatum, actinomyces neuii and bacteroides uniformis were notable for an increased percentage of no-identification results compared with the other  anaerobes tested. vitek((r)) ms identification of clinically relevant anaerobes is highly accurate and represents a dramatic improvement over other phenotypic methods in accuracy and turnaround time.
+TIHT== 
+ABHT== 
+
+PMID== 11120995
+TI  == comparative in vitro activities of abt-773 against 362 clinical isolates of anaerobic bacteria.
+AB  == the activity of abt-773, a novel ketolide antibiotic, against clinical isolates of anaerobic bacteria was determined and compared to the activities of other antimicrobial agents. mics at which 90% of isolates were inhibited (mic(90)s) were </=0.06 microg/ml for actinomyces spp., clostridium perfringens, peptostreptococcus spp., propionibacterium spp., and porphyromonas spp. the mic(50)s and mic(90)s were </=0.06 and >32 microg/ml, respectively, for eubacterium spp., lactobacillus spp., clostridium difficile, and clostridium ramosum. the mic(90) for bilophila wadsworthia, bacteroides ureolyticus, and campylobacter gracilis was 1 microg/ml, and that for prevotella bivia and other prevotella spp. was 0.5 microg/ml. the mic(90) for fusobacterium nucleatum was 8  microg/ml, and that for fusobacterium mortiferum and fusobacterium varium was >32 microg/ml. the mic(90)s for the bacteroides fragilis group were as follows: for b. fragilis, 8 microg/ml; for bacteroides thetaiotaomicron, bacteroides ovatus, bacteroides distasonis, and bacteroides uniformis, >32 microg/ml; and for bacteroides vulgatus, 4 microg/ml. telithromycin mics for the b. fragilis group were usually 1 to 2 dilutions higher than abt-773 mics. for all strains, abt-773  was more active than erythromycin by 4 or more dilutions, and for some strains this drug was more active than clindamycin.
+TIHT== 
+ABHT== 
+

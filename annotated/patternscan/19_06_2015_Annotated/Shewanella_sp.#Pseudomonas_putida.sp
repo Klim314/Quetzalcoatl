@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19336243
+TI  == characterization of a cryptic plasmid psfkw33 from shewanella sp. 33b.
+AB  == a cryptic plasmid psfkw33 from psychrotrophic bacterium shewanella sp. 33b, an isolate from the gulf of gdansk (the baltic sea), was sequenced and characterized. it is an 8021bp circular molecule with 38% gc content, which shows a distinctive nucleotide sequence without homology to other known plasmids. the nucleotide sequence analysis predicts eight open reading frames. the deduced amino acid sequence of orf-1 shared significant similarity with the phage integrase protein from pseudomonas putida gb-1. the orf2 product showed some similarity with the hypothetical protein shal_1786 from shewanella halifaxensis haw-eb4. the orf-3 product revealed high amino acid sequence homology with the escherichia coli replication initiation protein similar to pi protein of r6k plasmid. five repeat regions (three perfect 22-bp repeats and two imperfect motifs), a putative ribosome binding site, and -10 and -35 promotor sequences were identified upstream of the orf-3 (rep). the rep module is very similar to several theta replicating iteron family plasmids, suggesting that psfkw33 replication follows the same course. the orf-5 product revealed significant identity with the entry exclusion protein 1 of plasmid pis2 from enteropathogenic strain e. coli 0111:h. the orf-6 product showed significant identity with the putative transcriptional regulator protein from shewanella benthica kt99 belonging to hth-xre-family protein. the orf-8 encoded protein that showed some similarity with the hypothetical protein kt99_00146 from shewanella benthica kt99. the orf-4 and orf-7 encoded putative proteins of 189 and 118 amino acid residues, respectively, with no homologies to any known proteins. the absolute copy number of psfkw33 was estimated to be five copies per chromosome by real-time pcr.
+TIHT== 
+ABHT== 
+
+PMID== 9674134
+TI  == sensorial and microbial effects of gaseous ozone on fresh scad (trachurus trachurus).
+AB  == the bactericidal activity of gaseous ozone was investigated using a commercial ozone generator. five species of fish bacteria, pseudomonas putida, shewanella putrefaciens, brochothrix thermosphacta, enterobacter sp. and lactobacillus plantarum, were inoculated on agar surfaces and exposed to different ozonation times in a gas chamber. results showed ozone in relatively low concentrations (<  0.27 x 10(-3) g l-1) was an effective bactericide of vegetative cells of the five fish bacteria. the age of the cell culture was shown to influence the cell response following exposure. survival rate was not linearly related to ozonation  time, but exhibited biphasic death over an extended period. similar bactericidal  effects were observed on fish skin treated with ozone daily in the laboratory, with decreases of 1.0 log cfu cm-2 for the micro-organisms studied. whole fish treated daily in the laboratory using a commercial ozone generator showed improved scores for sensory analyses compared with the controls. the results were statistically significant. fish treated on board ships were also analysed for microbiological and sensory changes. controls were obtained from a similar vessel without the ozone facility in the hold. similar trends to those recorded in the laboratory for the microbiological and sensory results on ozonated fish were observed.
+TIHT== 
+ABHT== 
+

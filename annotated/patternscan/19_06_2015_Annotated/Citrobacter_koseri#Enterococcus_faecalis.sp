@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25583717
+TI  == in vitro spectrum of pexiganan activity when tested against pathogens from diabetic foot infections and with selected resistance mechanisms.
+AB  == pexiganan, a 22-amino-acid synthetic cationic peptide, is currently in phase 3 clinical trials as a topical antimicrobial agent for the treatment of mild infections associated with diabetic foot ulcers. bacterial isolates from the 2013 sentry antimicrobial surveillance program designated as pathogens from diabetic foot infections (dfi) and gram-negative and -positive pathogens from various infection types that harbored selected resistance mechanisms/phenotypes were tested against pexiganan in reference cation-adjusted mueller-hinton broth. the mic50 and mic90 against all organisms tested from dfi were 16 and 32 mug/ml, respectively. escherichia coli, klebsiella pneumoniae, citrobacter koseri, enterobacter cloacae, acinetobacter species, and pseudomonas aeruginosa mic values ranged from 8 to 16 mug/ml. pexiganan mic values among staphylococcus aureus (methicillin-resistant s. aureus [mrsa] and methicillin-susceptible s. aureus [mssa]), beta-hemolytic streptococci, and enterococcus faecium ranged from 8 to 32 mug/ml. pexiganan activity was not adversely affected for members of the  family enterobacteriaceae or p. aeruginosa that produced beta-lactamases or resistance mechanisms to other commonly used antimicrobial agents. decreased susceptibility to vancomycin did not affect pexiganan activity against s. aureus  or e. faecium. enterococcus faecalis appears to be intrinsically less susceptible to pexiganan (mic, 32 to 256 mug/ml). the "all organism" mic90 of 32 mug/ml for pexiganan in this study was >250-fold below the pexiganan concentration in the cream/delivery vehicle being developed for topical use.
+TIHT== 
+ABHT== 
+
+PMID== 16968290
+TI  == ft-ir microspectroscopy for early identification of some clinically relevant pathogens.
+AB  == aims: to investigate the potentials and limitations of fourier transform-infrared (ft-ir) microspectroscopy as a tool to identify, at the level of microcolonies, pathogenic bacteria frequently isolated in the clinical environment. methods and  results: a total of 1570 ft-ir spectra from 164 gram-positive and gram-negative bacteria isolated from patients were recorded from 6 to 10-h old microcolonies of 50-150 microm size. a classification of 100% was obtained for the most frequent gram-positive bacteria, such as staphylococcus aureus, staphylococcus epidermidis, enterococcus faecalis, and enterococcus faecium at the species level. an average accuracy of about 80% was reached with gram negative bacteria from the enterobacteriaceae and pseudomonaceae families; enterobacter aerogenes,  enterobacter cloacae, klebsiella spp., and citrobacter koseri; and proteus mirabilis and escherichia coli. results were comparable with ft-ir measurements on dried suspensions from 18-h cultures. conclusions: early identification of young microcolonies is feasible with ft-ir microscopy with a very high accuracy for gram-positive bacteria. some improvement in the transfer of microcolonies is  necessary to increase the accuracy for gram-negative bacteria. significance and impact of the study: combination of ft-ir microscopy and multivariate data analysis could be a complementary, rapid, and reliable tool for screening and discriminating, at species and subspecies level, micro-organisms of clinical, food-borne, or environmental origins.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 21447012
+TI  == monitoring the bacterial community of maize silage stored in a bunker silo inoculated with enterococcus faecium, lactobacillus plantarum and lactobacillus buchneri.
+AB  == aims: to monitor variations in the bacterial community and fermentation products  of maize silage within and between bunker silos. methods and results: silage samples were collected in 2008 and 2009 from three dairy farms, wherein the farmers arranged for a contractor to produce maize silage using bunker silos. silage was prepared using a lactic acid bacteria (lab) inoculant consisting of enterococcus faecium, lactobacillus plantarum and lactobacillus buchneri. eight samples were collected from each bunker silo; 4 'outer' and 4 'inner' samples were collected from near the top and the bottom of the silo. the dry matter, lactic acid, acetic acid, ethanol, 1-propanol and 1,2-propanediol contents differed between bunker silos in both sampling years. higher acetic acid, 1-propanol and 1,2-propanediol contents were found in the bottom than the top layers in the 2008 samples, and higher lactic acid content was found in the top than the bottom layers in the 2009 samples. the bacterial community varied more between bunker silos than within a bunker silo in the 2008 samples, whereas differences between the top and the bottom layers were seen across bunker silos in the 2009 samples. the inoculated lab were uniformly distributed, while several nonconventional silage bacteria were also detected. lactobacillus acetotolerans,  lactobacillus panis and acetobacter pasteurianus were detected in both years. stenotrophomonas maltophilia was detected in the 2008 samples, and lactobacillus  reuteri, acinetobacter sp. and rahnella sp. were detected in the 2009 samples. conclusions: although differences were seen within and between bunker silos, the  bacterial community may indicate a different relationship between bunker silos and sampling locations within a bunker silo from that indicated by the fermentation products. significance and impact of the study: analysis of bacterial community can help understand how diverse non-lab and lab species are involved in the ensiling process of bunker-made maize silage.
+TIHT== 
+ABHT== 
+

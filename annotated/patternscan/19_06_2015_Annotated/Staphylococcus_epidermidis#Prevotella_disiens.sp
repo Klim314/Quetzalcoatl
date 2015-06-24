@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 8907604
+TI  == a study of the anaerobic bacterial flora of the female genital tract in health and disease.
+AB  == semi-quantitative and qualitative bacterial assessment of the vaginal and cervical flora of a total of 202 women was carried out over a period of six months to determine the bacterial flora in three groups of women and changes caused by prior use of antibiotics. the number was made up of 32 healthy volunteers, 80 women with gynaecological problems and 90 women with gynaecological infections who had had antibiotic treatment prior to this study. standard methods were used for the investigations. five main genera of anaerobic  bacteria were isolated from all patients. they included, the bacteroides spp., prevotella spp., porphyromonas spp., peptostreptococcus spp. and clostridium spp. five non-sporing gram negative anaerobic bacteria constituted the bulk of the flora including prevotella bivia, p. disiens, p. melanogenica, p. asaccharolytica and b. fragilis. the predominant flora was p. bivia occurring in 61 pc of cervical swab specimens of the 80 women with proven gynaecological infections who had not used antibiotics and accounting for 27 pc of the total number of gram-negative anaerobic bacteria isolated. escherichia coli and staphylococcus epidermidis were the most frequently encountered aerobic bacteria. the semi-quantitative counts of the different bacterial species in the patient group  were significantly higher than in the control group of healthy individuals (p < 0,025). similarly, prior antibiotic administration significantly reduced the population and quantitative count of the anaerobic bacteria.
+TIHT== 
+ABHT== 
+
+PMID== 8205934
+TI  == in vitro antibacterial activity of fk037, a new parenteral broad-spectrum cephalosporin, against recent clinical isolates in the fields of obstetrics and gynecology.
+AB  == the antibacterial activity of a new parenteral cephalosporin, fk037 was assessed  against recent aerobic and anaerobic strains isolated from patients in the fields of obstetrics and gynecology during the period between january 1992 and june 1993. the mics of fk037 for 90% of the clinical isolates tested were 0.10 microgram/ml for escherichia coli and klebsiella pneumoniae, 0.20 microgram/ml for streptococcus agalactiae, 0.39 microgram/ml for gardnerella vaginalis, 0.78 microgram/ml for staphylococcus epidermidis, peptostreptococcus anaerobius and mobiluncus spp., 1.56 micrograms/ml for peptostreptococcus magnus, 3.13 micrograms/ml for methicillin-sensitive staphylococcus aureus, 25 micrograms/ml for methicillin-resistant s. aureus (mrsa), bacteroides fragilis and prevotella disiens, 100 micrograms/ml for bacteroides thetaiotaomicron and prevotella bivia; and > 100 micrograms/ml for enterococcus faecalis. fk037 was superior in potency  to ceftazidime against all strains except e. faecalis, p. anaerobius and p. bivia. it was 4- to 16-fold more active than cefotaxime against aerobic gram-positive bacteria and p. disiens, and its activity was similar to that of cefotaxime against the other strains. fk037 had 4- to 16-fold stronger activity than flomoxef against mrsa, s. agalactiae and e. coli and a similar activity to flomoxef against the other strains except g. vaginalis and b. fragilis that were  4-fold more sensitive to flomoxef than to fk037.
+TIHT== 
+ABHT== 
+

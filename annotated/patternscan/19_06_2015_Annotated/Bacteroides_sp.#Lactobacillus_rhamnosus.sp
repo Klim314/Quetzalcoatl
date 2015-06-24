@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22830611
+TI  == cell-free supernatants from probiotic lactobacillus casei and lactobacillus rhamnosus gg decrease colon cancer cell invasion in vitro.
+AB  == probiotics have been shown to have a preventative role in colorectal carcinogenesis but research concerning their prophylactic potential in the later  stages of colorectal cancer, specifically metastasis is limited. this study explored the potential of cell-free supernatants (cfs) from 2 probiotic lactobacillus sp., lactobacillus casei and lactobacillus rhamnosus gg, to inhibit colon cancer cell invasion by influencing matrix metalloproteinase-9 (mmp-9) activity and levels of the tight junction protein zona occludens-1 (zo-1) in cultured metastatic human colorectal carcinoma cells. hct-116 cells were treated  with cfs from l. casei, l. rhamnosus, or bacteroides thetaiotaomicron (a gut commensal); or with uninoculated bacterial growth media. treatment with cfs from  both lactobacillus sp. decreased colorectal cell invasion but treatment with cfs  from b. thetaiotaomicron did not. cfs from both lactobacillus sp. decreased mmp-9 and increased zo-1 protein levels. l. rhamnosus cfs also lowered mmp-9 activity.  to begin elucidating the secreted bacterial factor conveying these responses, lactobacillus sp. cfs were fractionated into defined molecular weight ranges and  cell invasion assessed. fractionation revealed that the inhibitory activity was contained primarily in the >100 kda and 50-100 kda fractions, suggesting the inhibitory compound may be a macromolecule such as a protein, nucleic acid, or a  polysaccharide.
+TIHT== 
+ABHT== 
+
+PMID== 17957115
+TI  == lactobacillus rhamnosus r11 consumed in a food supplement survived human digestive transit without modifying microbiota equilibrium as assessed by real-time polymerase chain reaction.
+AB  == the aim of this study was to evaluate the survival of lactobacillus rhamnosus r11 and lactobacillus acidophilus r52 in the human digestive tract and their effects  on the microbiota homeostasis. we designed an open human trial including 14 healthy volunteers. a 3-week exclusion period of fermented products was followed  by a 12-day consumption period of 4 capsules daily containing 2 x 10(9)l. rhamnosus r11 and 1 x 10(8)l. acidophilus r52, and a 12-day wash-out period. the  2 strains and dominant bacterial groups of the microbiota were quantified by real-time polymerase chain reaction. at the end of the capsule consumption period, high levels of l. rhamnosus r11 were detected in faecal samples from all  volunteers, reaching a mean value of 7.1 log(10) colony-forming unit (cfu) equivalents/g of stool. l. acidophilus r52 was detected in the stools of only 1 volunteer, reaching a maximum level of 6.1 log(10) cfu equivalents/g of stool. dilution plating enumerations performed in parallel provided less consistent and  generally lower levels. no significant effect of capsule consumption was observed on microbiota homeostasis for the dominant faecal populations. mean values of 8.8, 9.2, 9.9 and 10.6 log(10) cfu equivalents/g of stool were obtained for the clostridium coccoides, bifidobacterium sp., bacteroides sp. and clostridium leptum groups, respectively.
+TIHT== 
+ABHT== 
+
+PMID== 10865430
+TI  == [the range of antagonistic effects of lactobacillus bacterial strains on etiologic agents of bacterial vaginosis].
+AB  == bacterial vaginosis is caused by uncontrolled sequential overgrowth of some anaerobic bacteria: gardnerella vaginalis, prevotella bivia, bacteroides spp., peptostreptococcus spp., mobiluncus sp. usually occurring in stable numbers in the bacterial flora of healthy women. on the other hand, different species of bacteria belonging to the genus lactobacillus, most frequently l. plantarum, l. rhamnosus and l. acidophilus, form a group of aerobic bacteria dominating in the  same environment. the diversity and density of their populations depend on the age and health conditions. thanks to their antagonistic and adherence properties  bacteria of the genus lactobacillus can maintain a positive balance role in this  ecosystem. the aim of this study was to assess the antagonistic properties of lactobacillus strains isolated from the vagina of healthy women against most common agents of bacterial vaginosis. it was found that nearly all of the tested  lactobacillus strains exerted distinct antagonistic activity against anaerobic bacteria: gardnerella vaginalis, prevotella bivia and peptostreptococcus anaerobius and quite a number also against gram-negative rods, while only some of them were able to inhibit gram-positive aerobic cocci as enterococcus faecalis or staphylococcus aureus.
+TIHT== 
+ABHT== 
+

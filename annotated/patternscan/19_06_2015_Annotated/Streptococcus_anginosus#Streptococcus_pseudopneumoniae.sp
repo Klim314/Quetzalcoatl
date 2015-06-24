@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 21513842
+TI  == a specific polymerase chain reaction test for the identification of streptococcus pneumoniae.
+AB  == using an approach based on the comparison of arbitrary primer polymerase chain reaction (pcr) genomic profiles from oral streptococci and streptococcus pneumoniae strains, we identified a 434-bp genomic fragment apparently specific for s. pneumoniae. from the nucleotidic sequence of this common fragment, a pair  of primers was designed and tested on a set of strains comprising the major streptococcus species. one species, s. anginosus, gave an amplification product of the same length as s. pneumoniae. sequence comparison of the s. anginosus and  s. pneumoniae amplicons revealed several variations which were used to define a new set of primers giving a 181-bp s. pneumoniae-specific fragment. the amplified fragment contains the 5' terminal part of a gene encoding a putative sugar-specific permease and an intergenic sequence. the pcr test was evaluated on 257 strains of invasive s. pneumoniae corresponding to clinical isolates and on 153 non-pneumoniae oral streptococci strains; in addition, 3 s. pseudopneumoniae  strains were tested. with these primers, an amplification product was only obtained with the s. pneumoniae strains. moreover, the test was successfully evaluated on 10 atypical s. pneumoniae strains related to pneumococcal diseases.  in this study, we therefore established the capacity of a simple pcr test to discriminate s. pneumoniae from other streptococci (including s. pseudopneumoniae), thus allowing rapid and accurate diagnosis.
+TIHT== 
+ABHT== 
+
+PMID== 19880633
+TI  == partial recn gene sequencing: a new tool for identification and phylogeny within  the genus streptococcus.
+AB  == partial sequences of the recn gene (1249 bp), which encodes a recombination and repair protein, were analysed to determine the phylogenetic relationship and identification of streptococci. the partial sequences presented interspecies nucleotide similarity of 56.4-98.2 % and intersubspecies similarity of 89.8-98 %. the mean dna sequence similarity of recn gene sequences (66.6 %) was found to be  lower than those of the 16s rrna gene (94.1 %), rpob (84.6 %), soda (74.8 %), groel (78.1 %) and gyrb (73.2 %). phylogenetically derived trees revealed six statistically supported groups: streptococcus salivarius, s. equinus, s. hyovaginalis/s. pluranimalium/s. thoraltensis, s. pyogenes, s. mutans and s. suis. the 'mitis' group was not supported by a significant bootstrap value, but three statistically supported subgroups were noted: streptococcus sanguinis/s. cristatus/s. sinensis, s. anginosus/s. intermedius/s. constellatus (the 'anginosus' subgroup) and s. mitis/s. infantis/s. peroris/s. oralis/s. oligofermentans/s. pneumoniae/s. pseudopneumoniae. the partial recn gene sequence comparison highlighted a high percentage of divergence between streptococcus dysgalactiae subsp. dysgalactiae and s. dysgalactiae subsp. equisimilis. this observation is confirmed by other gene sequence comparisons (groel, gyrb, rpob and soda). a high percentage of similarity was found between s. intermedius and s. constellatus after sequence comparison of the recn gene. to study the genetic  diversity among the 'anginosus' subgroup, recn, groel, soda, gyrb and rpob sequences were determined for 36 clinical isolates. the results that were obtained confirmed the high genetic diversity within this group of streptococci.
+TIHT== 
+ABHT== 
+

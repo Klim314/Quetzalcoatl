@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25269440
+TI  == bifidobacterium animalis subsp. lactis decreases urinary oxalate excretion in a mouse model of primary hyperoxaluria.
+AB  == hyperoxaluria significantly increases the risk of calcium oxalate kidney stone formation. since several bacteria have been shown to metabolize oxalate in vitro, including probiotic bifidobacteria, we focused on the efficiency and possible mechanisms by which bifidobacteria can influence oxalate handling in vivo, especially in the intestines, and compared these results with the reported effects of oxalobacter formigenes. bifidobacterium animalis subsp. lactis dsm 10140 and b. adolescentis atcc 15703 were administered to wild-type (wt) mice and to mice deficient in the hepatic enzyme alanine-glyoxylate aminotransferase (agxt(-/-), a mouse model of primary hyperoxaluria) that were fed an oxalate-supplemented diet. the administration of b. animalis subsp. lactis led to a significant decrease in urinary oxalate excretion in wt and agxt(-/-) mice when compared to treatment with b. adolescentis. detection of b. animalis subsp. lactis in feces revealed that 3 weeks after oral gavage with the bacteria 64% of  wt mice, but only 37% of agxt(-/-) mice were colonized. examining intestinal oxalate fluxes showed there were no significant changes to net oxalate secretion  in colonized animals and were therefore not associated with the changes in urinary oxalate excretion. these results indicate that colonization with b. animalis subsp. lactis decreased urinary oxalate excretion by degrading dietary oxalate thus limiting its absorption across the intestine but it did not promote  enteric oxalate excretion as reported for o. formigenes. preventive or therapeutic administration of b. animalis subsp. lactis appears to have some potential to beneficially influence dietary hyperoxaluria in mice.
+TIHT== 
+ABHT== 
+
+PMID== 17040052
+TI  == [effect of oral lactosucrose supplementation on human enteric oxalate-degrading bacteria].
+AB  == a variety of oxalate-degrading bacteria including oxalobacter formigenes and some species of bifidobacterium are known to colonize the human intestinal tract. oral lactosucrose supplementation promotes the growth of bifidobacterium in the human  intestine. therefore, we investigated the effect of oral lactosucrose supplementation on enteric oxalate-degrading bacteria in twelve healthy men (age  ranging from 25 to 39 years). lactosucrose was orally administered 10 g daily for 2 weeks without restriction of dietary intake. the total number of oxalate-degrading bacteria in feces and the 24-hour urinary excretion of oxalate  were examined before and after lactosucrose supplementation. the total number of  oxalate degrading-bacteria was significantly increased by lactosucrose supplementation (9.20 +/- 0.44 versus 9.77 +/- 0.46, p<0.05), although there was  no significant change in the urinary oxalate excretion. the oxalate degrading-bacteria isolated from feces was biochemically identified as bifidobacterium adolescentis. in conclusion, oral supplementation of 10 g lactosucrose daily for 2 weeks was effective in multiplying oxalate-degrading bacteria, but not in reducing urinary oxalate excretion under free non-restricted dietary intake. in addition, it was suggested that various species of bifidobacterium were related to degradation of oxalate in the human intestine.
+TIHT== 
+ABHT== 
+

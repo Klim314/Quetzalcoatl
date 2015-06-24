@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25474262
+TI  == noma affected children from niger have distinct oral microbial communities based  on high-throughput sequencing of 16s rrna gene fragments.
+AB  == we aim to understand the microbial ecology of noma (cancrum oris), a devastating  ancient illness which causes severe facial disfigurement in>140,000 malnourished  children every year. the cause of noma is still elusive. a chaotic mix of microbial infection, oral hygiene and weakened immune system likely contribute to the development of oral lesions. these lesions are a plausible entry point for unidentified microorganisms that trigger gangrenous facial infections. to catalog bacteria present in noma lesions and identify candidate noma-triggering organisms, we performed a cross-sectional sequencing study of 16s rrna gene amplicons from sixty samples of gingival fluid from twelve healthy children, twelve children suffering from noma (lesion and healthy sites), and twelve children suffering from acute necrotizing gingivitis (ang) (lesion and healthy sites). relative to healthy individuals, samples taken from lesions in diseased mouths were enriched with spirochaetes and depleted for proteobacteria. samples taken from healthy sites of diseased mouths had proportions of spirochaetes and proteobacteria that were similar to healthy control individuals. samples from noma mouths did not have a higher abundance of fusobacterium, casting doubt on its role as a causative agent of noma. microbial communities sampled from noma and ang lesions were dominated by the same prevotella intermedia otu, which was much less abundant in healthy sites sampled from the same mouths. multivariate analysis confirmed that bacterial communities in healthy and lesion sites were significantly different. several otus in the orders erysipelotrichales, clostridiales, bacteroidales, and spirochaetales were identified as indicators of noma, suggesting that one or more microbes within these orders is associated with the development of noma lesions. future studies should include longitudinal sampling of viral and microbial components of this community, before and early in noma lesion development.
+TIHT== 
+ABHT== 
+

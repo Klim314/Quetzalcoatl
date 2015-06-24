@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 12051398
+TI  == mononuclear cell response to enterobacteria and gram-positive cell walls of normal intestinal microbiota in early rheumatoid arthritis and other inflammatory arthritides.
+AB  == objective: to study whether enterobacteria and gram-positive bacterial cell walls (bcw) derivedfrom normal intestinal microbiota are involved in the etiopathogenesis of early rheumatoid arthritis (ra). methods: peripheral blood mononuclear cells (pbmc) and synovial fluid mononuclear cells (sfmc) were isolatedfrom patients with early ra (the average duration of 5 months) and the controls (other types of inflammatory arthritis). the mononuclear cell proliferation and tumor necrosis factor-alpha (tnf-alpha) responses to heat-killed salmonella enteritidis (se). yersinia enterocolitica (ye), and escherichia coli (ec), and to gram-positive bcw derived from four common intestinal indigenous bacteria, eubacterium aerofaciens (ea), eubacterium limosum (el), lactobacillus casei (lc), and lactobacillus fermentum (lf), and a bcw derived from a pathogen, streptococcus pyogenes (sp) were investigated. results:  39% or 56% of patients with early ra showed significant proliferation responses by pbmc or sfmc against enterobacteria, respectively. in other types of arthritis, corresponding figures were 59% or 66%. when bcw were used as antigens, 8.1% or 23% of patients with early ra showed proliferation responses by pbmc or sfmc, respectively. in other types of arthritis the corresponding figures were 7.5% or 35%, respectively. however, tnf-alpha production by sfmc stimulated by ea bcw, se, ye or ec, was significantly higher in early ra than in other types of arthritis. conclusion: these results suggest that sfmc reacting with enterobacteria or bcw exist in some patients with early ra, but also in other types of inflammatory arthritis. intestinal bacterial agents may play a role in the etiopathogenesis of ra, but the effect appears to be non-specific.
+TIHT== 
+ABHT== 
+
+PMID== 10540188
+TI  == human cytokine responses induced by gram-positive cell walls of normal intestinal microbiota.
+AB  == the normal microbiota plays an important role in the health of the host, but little is known of how the human immune system recognizes and responds to gram-positive indigenous bacteria. we have investigated cytokine responses of peripheral blood mononuclear cells (pbmc) to gram-positive cell walls (cw) derived from four common intestinal indigenous bacteria, eubacterium aerofaciens  (eu.a. ), eubacterium limosum (eu.l.), lactobacillus casei (l.c.), and lactobacillus fermentum (l.f.). our results indicate that gram-positive cw of the normal intestinal microbiota can induce cytokine responses of the human pbmc. the profile, level and kinetics of these responses are similar to those induced by lipopolysaccharide (lps) or cw derived from a pathogen, streptococcus pyogenes (s.p.). bacterial cw are capable of inducing production of a proinflammatory cytokine, tumour necrosis factor-alpha (tnf-alpha), and an anti-inflammatory cytokine, il-10, but not that of il-4 or interferon-gamma (ifn-gamma). monocytes  are the main cell population in pbmc to produce tnf-alpha and il-10. induction of cytokine secretion is serum-dependent; both cd14-dependent and -independent pathways are involved. these findings suggest that the human cytokine responses induced by gram-positive cw of the normal intestinal microbiota are similar to those induced by lps or gram-positive cw of the pathogens.
+TIHT== 
+ABHT== 
+

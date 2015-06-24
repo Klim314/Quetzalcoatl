@@ -1,0 +1,29 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24551699
+TI  == polymicrobial endocarditis in intravenous heroin and fentanyl abuse.
+AB  == infective endocarditis is a life threatening condition with a high mortality rate. intravenous drug abusers (ivda) are more likely to acquire endocarditis. most of the cases of infective endocarditis are caused by a single pathogen; cases of polymicrobial endocarditis are rare and they are associated with a reported mortality rate of more than 30%. only 21 cases of n. sicca endocarditis  have been described in the literature since 1918, and only 15 reported cases of endocarditis which involved actinomyces species have been reported since 1939. we are reporting a case of a 49-year-old male with intravenous heroin and fentanyl abuse, who presented with infective endocarditis caused by neisseria sicca/subflava(n. sicca), actinomyces, streptococcus mitis, and haemophilus parainfluenzae, complicated by septic emboli to the lungs and skin, ards , splenic infarct and immunocomplex mediated proliferative glomerulonephritis.
+TIHT== 
+ABHT== 
+
+PMID== 12171293
+TI  == haemophilus segnis polymicrobial and monomicrobial bacteraemia identified by 16s  ribosomal rna gene sequencing.
+AB  == this paper reports a case of haemophilus segnis polymicrobial bacteraemia and a case of h. segnis monomicrobial bacteraemia identified by 16s ribosomal rna gene  sequencing. in the first case, a gram-negative aerobic coccobacillus was isolated with streptococcus intermedius and s. sanguis from the blood culture of a 32-year-old intravenous drug addict with left thoracic empyema. in the second case, a gram-negative aerobic coccobacillus was isolated from the blood culture of an 82-year-old woman with clostridium difficile colitis and septicaemic shock. both gram-negative coccobacilli grew on chocolate agar as colonies of 1 mm in diameter after incubation for 24 h at 37 degress c in air with co2 5%, but only to pinpoint sizes on blood agar under the same incubation conditions. both strains were factor v-dependent, but not factor x-dependent. for the first isolate, the vitek system (nhi) showed that it was 56% likely to be actinobacillus actinomycetemcomitans and 40% neisseria subflava; whereas the api  system (nh) showed that it was 58% likely to be h. aphrophilus/paraphrophilus and 42% h. parainfluenzae. for the second isolate, the vitek system (nhi) showed that it was 95% likely to be h. influenzae viii; whereas the api system (nh) showed that it was 58% likely to be h. aphrophilus/paraphrophilus and 42% h. parainfluenzae. 16s rrna gene sequencing showed that there were four base differences between isolate 1 and h. segnis and two base differences between isolate 2 and h. segnis, indicating that both isolates most closely resembled a strain of h. segnis. only two cases of h. segnis bacteraemia were found in the english scientific literature, one in a case of infective endocarditis and the other in a case of pancreatic abscess. including the present two cases, the overall mortality of h. segnis bacteraemia was 50%.
+TIHT== 
+ABHT== 
+
+PMID== 3357192
+TI  == nitrate- and nitrite-reducing bacteria in the achlorhydric stomach.
+AB  == the microbial composition of samples of gastric juice from eight achlorhydric patients was determined by aerobic and rigorously anaerobic culture techniques. bacteria from 16 genera were commonly isolated, but representatives of only three genera, (streptococci, neisseriae and haemophili) were isolated from every patient. nitrate and nitrite were both reduced by veillonellae, haemophili, staphylococci, corynebacteria, lactobacilli, flavobacteria and fusobacteria, but  the potential rate of nitrate reduction by suspensions of veillonellae, haemophilus parainfluenzae and members of the enterobacteriaceae were up to ten times more rapid than the rate of nitrite reduction. conversely, although all neisseria spp. reduced nitrite only some strains reduced nitrate. streptococci did not reduce nitrate. streptococcus sanguis reduced nitrite when grown with haematin; other streptococci did not reduce nitrite. bacterial nitrate and nitrite reduction were active over the ph range 6-8, similar to the ph range of the achlorhydric stomach. from a knowledge of the composition of the bacterial flora and their potential rates of nitrate and nitrite reduction under prevailing conditions, predictions were made about the tendency of nitrite to accumulate during nitrate reduction. studies of the transient accumulation of nitrite by mixed cultures of h. parainfluenzae and n. subflava were consistent with these predictions. haemophili and veillonellae could be responsible for the accumulation of nitrite in the gastric juice of some patients, whereas streptococci and neisseriae would tend to remove nitrite from the stomach as rapidly as it formed.
+TIHT== 
+ABHT== 
+
+PMID== 3117970
+TI  == nitrite accumulation during anaerobic nitrate reduction by binary suspensions of  bacteria isolated from the achlorhydric stomach.
+AB  == binary suspensions of bacteria isolated from the gastric juice of achlorhydric patients were used to determine conditions which favour nitrite accumulation during nitrate reduction. suspensions of veillonella parvula and haemophilus parainfluenzae accumulated nitrite during nitrate reduction in the absence of nitrite-reducing neisseria subflava or streptococcus sanguis. the maximum concentration of nitrite that transiently accumulated decreased predictably as the ratio of nitrite-removing bacteria to nitrite-accumulating bacteria increased. this ratio, but more importantly the bacterial density, determined the duration of nitrite accumulation. these results are correlated with the previously reported tendency of nitrite to accumulate in the gastric juice of hypogammaglobulinaemic and pernicious anaemic patients, and with the extremely high incidence of gastric cancer in the two groups.
+TIHT== 
+ABHT== 
+

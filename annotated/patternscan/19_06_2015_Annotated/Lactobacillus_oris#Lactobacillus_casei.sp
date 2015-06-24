@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22298522
+TI  == acid production and growth by oral lactobacillus species in vitro.
+AB  == aim: to analyze the acid-producing and growth abilities of different oral lactobacillus species. methods: thirty-nine oral clinical strains and type strains of lactobacillus, representing nine species, including lactobacillus casei/paracasei, lactobacillus fermentum, lactobacillus gasseri, lactobacillus mucosae, lactobacillus oris, lactobacillus plantarum, lactobacillus rhamnosus, lactobacillus salivarius, and lactobacillus vaginalis were studied. anaerobically-grown bacterial cells were inoculated overnight in de man, rogosa,  and sharpe broth containing 2% glucose (ph 7.0). acid production and growth were  measured at 0, 1.5, 3, 5, 7, and 24 h. results: lactobacillus salivarius, lactobacillus rhamnosus, lactobacillus casei/paracasei, and lactobacillus plantarum grew rapidly and reached an optical density higher than other species.  they also produced more acid than the others. lactobacillus vaginalis showed the  lowest rate of growth and acid production. these findings demonstrated that the different species of lactobacillus showed different abilities to generate acid, allowing the species to be categorized into three groups: strongly, moderately, and weakly acidogenic. conclusion: there was variation in acid production and growth between the lactobacillus species. the strongest acid producers were lactobacillus salivarius, lactobacillus rhamnosus, lactobacillus plantarum, and lactobacillus casei/paracasei, respectively. it seems possible that these species might play a more important role in caries development than the others.
+TIHT== 
+ABHT== 
+
+PMID== 21801186
+TI  == inhibitory effect of oral lactobacillus against oral pathogens.
+AB  == aims: to determine the inhibitory effect of oral lactobacillus against putative oral pathogens. methods and results: total 357 strains comprising 10 species of oral lactobacillus, lactobacillus fermentum (195), lactobacillus salivarius (53), lactobacillus casei (20), lactobacillus gasseri (18), lactobacillus rhamnosus (14), lactobacillus paracasei (12), lactobacillus mucosae (12), lactobacillus oris (12), lactobacillus plantarum (11) and lactobacillus vaginalis (10) were used as producer strains. inhibitory effect against a panel of indicators, periodontitis- and caries-related pathogens, was assessed. most oral lactobacillus was able to inhibit the growth of both periodontitis- and caries-related pathogens. the strongest inhibitory activity was associated with lact. paracasei, lact. plantarum, lact. rhamnosus, lact. casei and lact. salivarius. lactobacillus sd1-sd6, representing the six species with the strong inhibitory effect, inhibited growth of streptococcus mutans atcc 25175 in the biofilm model. also, it was demonstrated that growth of strep. mutans was inhibited in a mixture with lact. paracasei sd1. the inhibition was enhanced in acidic condition and 5% glucose. conclusions: the results have shown that oral lactobacillus sd1-sd6 showed a strong inhibitory effect against strep. mutans and streptococcus sobrinus, as well as, gram-negative periodontal pathogens porphyromonas gingivalis and aggregatibacter actinomycetemcomitans. significance  and impact of the study: the results indicated that lactobacillus may be of benefit as probiotics for the prevention of oral diseases.
+TIHT== 
+ABHT== 
+

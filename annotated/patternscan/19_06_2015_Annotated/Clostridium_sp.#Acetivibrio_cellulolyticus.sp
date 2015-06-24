@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 20061495
+TI  == saccharofermentans acetigenes gen. nov., sp. nov., an anaerobic bacterium isolated from sludge treating brewery wastewater.
+AB  == a spore-forming anaerobic bacterium, designated strain p6(t), was isolated from the sludge of an up-flow anaerobic sludge blanket reactor treating brewery wastewater. cells were gram-positive, oval and 0.6-0.9 mum by 1.2-1.8 mum in size. growth was observed at 20-42 degrees c and at ph 5.0-7.5. it fermented several hexoses, polysaccharides and alcohols. sucrose and aesculin could also be fermented. the main end products of fermentation from glucose were acetate, lactate and fumarate; trace co(2) and h(2) were also produced. the dna g+c content of strain p6(t) was 55.6 mol%. the major cellular fatty acids were iso-c(15 : 0), anteiso-c(15 : 0) and iso-c(14 : 0) 3-oh. phylogenetic analysis based on 16s rrna gene sequences revealed that strain p6(t) represented a novel phyletic sublineage in clostridial cluster iii, and showed <91 % similarity to the type strains of recognized species in this cluster. phenotypically, the new isolate was distinguished from its phylogenetic relatives (e.g. clostridium straminisolvens, clostridium thermocellum, acetivibrio cellulolyticus and clostridium aldrichii) by producing acid from glucose and its inability to degrade cellulose. on the basis of evidence from this polyphasic study, strain p6(t) is considered to represent a novel species of a new genus, for which the name saccharofermentans acetigenes gen. nov., sp. nov. is proposed. the type strain of saccharofermentans acetigenes is p6(t) (=jcm 14006(t) =as 1.5064(t)).
+TIHT== 
+ABHT== 
+
+PMID== 16315983
+TI  == [clostridium alkalicellum sp. nov., an obligately alkaliphilic cellulolytic bacterium from a soda lake in the baikal region].
+AB  == the first anaerobic alkaliphilic cellulolytic microorganism has been isolated from the verkhnee beloe soda lake (buryatiya, russia) with ph 10.2 and a salt content of up to 24 g/l. five strains were characterized. strain z-7026 was chosen as the type strain. the cells of the isolate are gram-positive spore-forming rods. a mucous external capsule is produced. the microorganism is obligately alkaliphilic, growing in a ph range of 8.0-10.2, with an optimum at ph 9.0. sodium ions and, in carbonate-buffered media, sodium chloride are obligately required. the microorganism is slightly halophilic; it grows at 0.017-0.4 m na+ with an optimum at 0.15-0.3 m na+. the metabolism is fermentative and strictly anaerobic. cellulose, cellobiose, and xylan can be used as growth substrates. plant and algal debris can be fermented. lactate, ethanol, acetate, hydrogen, and traces of formate are produced during cellulose or cellobiose fermentation. yeast extract or vitamins are required for anabolic purposes. the microorganism fixes dinitrogen and is nitrogenase-positive. it is tolerant to up to 48 mm na2s. growth is not inhibited by kanamycin or neomycin. chloramphenicol, streptomycin,  penicillin, ampicillin, ampiox, bacillin, novobiocin, and bacitracin suppress growth. the dna g+c content is 29.9 mol %. according to the nucleotide sequence of its 16s rrna gene, strain z-7026 is phylogenetically close to the neutrophilic cellulolytic bacteria clostridium thermocellum (95.5%), c. aldrichii (94.9%), and acetivibrio cellulolyticus (94.8%). it is proposed as a new species: clostridium  alkalicellum sp. nov.
+TIHT== 
+ABHT== 
+

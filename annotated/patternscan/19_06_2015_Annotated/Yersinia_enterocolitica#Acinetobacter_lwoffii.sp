@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23082625
+TI  == diversity and antibiograms of bacterial organisms isolated from samples of household drinking-water consumed by hiv-positive individuals in rural settings,  south africa.
+AB  == diarrhoea is a hallmark of hiv infections in developing countries, and many diarrhoea-causing agents are often transmitted through water. the objective of the study was to determine the diversity and antibiotic susceptibility profiles of bacterial organisms isolated from samples of household drinking-water consumed by hiv-infected and aids patients. in the present study, household water stored for use by hiv-positive patients was tested for microbial quality, and isolated bacterial organisms were analyzed for their susceptibility profiles against 25 different antibiotics. the microbial quality of water was generally poor, and about 58% of water samples (n=270) were contaminated with faecal coliforms, with  counts varying from 2 colony-forming unit (cfu)/100 ml to 2.4x10(4) cfu/100 ml. values of total coliform counts ranged from 17 cfu/100 ml to 7.9x10(5)/100 ml. in total, 37 different bacterial species were isolated, and the major isolates included acinetobacter lwoffii (7.5%), enterobacter cloacae (7.5%), shigella spp. (14.2%), yersinia enterocolitica (6.7%), and pseudomonas spp. (16.3%). no vibrio  cholerae could be isolated; however, v. fluvialis was isolated from three water samples. the isolated organisms were highly resistant to cefazolin (83.5%), cefoxitin (69.2%), ampicillin (66.4%), and cefuroxime (66.2%). intermediate resistance was observed against gentamicin (10.6%), cefepime (13.4%), ceftriaxone (27.6%), and cefotaxime (29.9%). levofloxacin (0.7%), ceftazidime (2.2%), meropenem (3%), and ciprofloxacin (3.7%) were the most active antibiotics against all the microorganisms, with all recording less than 5% resistance. multiple drug resistance was very common, and 78% of the organisms were resistant to three or more antibiotics. education on treatment of household water is advised for hiv-positive patients, and measures should be taken to improve point-of-use water treatment as immunosuppressed individuals would be more susceptible to opportunistic infections.
+TIHT== 
+ABHT== 
+

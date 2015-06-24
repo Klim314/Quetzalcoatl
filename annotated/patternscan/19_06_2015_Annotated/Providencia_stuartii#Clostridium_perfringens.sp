@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 9630405
+TI  == men 10700, a new penem antibiotic: in-vitro activity and its correlation with beta-lactamase stability, pbp affinity and diffusion through the bacterial cell wall.
+AB  == the in-vitro activity of men 10700, a novel penem, was compared with that of imipenem, ritipenem, ampicillin/sulbactam, cefotaxime, ciprofloxacin and amikacin against 1088 strains taken from 21 genera, including gram-negative, gram-positive and anaerobic bacteria. mic data showed that men 10700 was very active against staphylococci and streptococci (mic90 < or = 0.5 mg/l) and against most members of the enterobacteriaceae (mic90 < or = 2 mg/l), with reduced activity only against providencia stuartii (mic90 = 8 mg/l). men 10700 was also active against  anaerobic species such as clostridium perfringens and bacteroides fragilis as well as moraxella catarrhalis. it was moderately active against enterococcus faecalis and inactive against pseudomonas aeruginosa, stenotrophomonas maltophilia, aeromonas spp. and acinetobacter spp. its antibacterial spectrum was thus slightly narrower than that of imipenem, but compared favourably with those  of a third-generation cephalosporin and ritipenem. men 10700 was highly stable to a number of beta-lactamases and was a poor inducer of class i enzymes. it bound penicillin-binding protein 2 with the highest affinity and easily permeated the outer membrane of escherichia coli.
+TIHT== 
+ABHT== 
+
+PMID== 2074248
+TI  == the in-vitro activity of cefodizime: a review.
+AB  == for enterobacteriaceae, mic50s and mic90s of cefodizime (mg/l), respectively, were as follows, for naturally non-beta-lactamase-producing species: escherichia  coli 0.12 and 0.5, salmonella spp. and shigella spp. 0.25 and 0.5, proteus mirabilis 0.016 and 0.03; for chromosomal penicillinase-producing species. klebsiella spp. 0.25 and 64, and for chromosomal cephalosporinase-producing species. enterobacter cloacae 1 and 64, citrobacter freundii 1 and 128, serratia  marcescens 2 and 8: indole-positive proteus spp. 0.06 and 0.5; and providencia stuartii 0.5 and 1. the activity of cefodizime was not modified by plasmid-mediated penicillinase-producing strains but cefodizime was inactive against cephalosporinase hyper-producing strains and against expanded broad-spectrum beta-lactamase-producing strains. cefodizime was noticeably less active against pseudomonas aeruginosa and acinetobacter baumannii with mics ranging from 32 to more than 128 mg/l. haemophilus spp. and neisseria gonorrhoeae, regardless of beta-lactamase producing status, as well as n. meningitidis, were highly susceptible (mic50s and mic90s less than or equal to 0.008 mg/l). cefodizime was moderately active against methicillin-susceptible staphylococci (mic50 and mic90 8 mg/l) but failed to inhibit methicillin-resistant strains. enterococci were generally resistant: streptococcus pyogenes and str. pneumoniae were inhibited by low concentrations (mic50 and mic90 0.12 and 0.5 mg/l). a fairly wide range of mics was found for anaerobes, with lower values for clostridium perfringens (mic50 and mic90 0.5 and 1 mg/l) than for bacteroides fragilis (8- greater than 128 mg/l). these results show that cefodizime has similar properties to other third generation cephalosporins and suggest that cefodizime would find a role in the management of hospital infections.
+TIHT== 
+ABHT== 
+

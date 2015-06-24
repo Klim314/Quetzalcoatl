@@ -1,0 +1,29 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25666178
+TI  == purification and identification of an antibacterial protein from the symbiotic bacteria associated with novel entomopathogenic nematode, rhabditis (oscheius) sp.
+AB  == entomopathogenic nematodes (epn) belonging to the families steinernematidae and heterorhabditidae and their symbiotic bacteria xenorhabdus and photorhabdus are well-known as biological control agents and are found to produce a wide range of  bioactive secondary metabolites. studies carried out at the central tuber crops research institute (ctcri) on entomopathogenic nematodes resulted in the identification of novel epn belonging to the family rhabditidae. this study reports the purification of a high molecular weight antibacterial protein from culture filtrates of a bacterium (bacillus cereus) symbiotically associated with  a novel entomopathogenic nematode rhabditis (oscheius) species, maintained at ctcri laboratory. fermentation conditions were standardized and optimum antibacterial activity was observed in tryptic soy broth after 48 h incubation at 30 degrees c. the aqueous extracts yielded antibacterial proteins which were purified by ammonium sulfate precipitation followed by ion exchange chromatography and size exclusion chromatography. native gel electrophoresis indicated an active protein of molecular mass 220kda which resolved into a major  band of 90 kda and a minor band of about 40 kda on sds-page. the 90 kda protein showed antibacterial activity and was further analysed by maldi tof-ms/ms. the protein was identified as a tqxa (threonine-glutamine dipeptide) domain containing protein from bacillus cereus. the protein was found to be active against bacillus subtilis mtcc2756, staphylococus aureus mtcc902 and escherichia  coli mtcc 2622 and was thermally stable.
+TIHT== 
+ABHT== 
+
+PMID== 24673206
+TI  == antiparasitic chaiyaphumines from entomopathogenic xenorhabdus sp. pb61.4.
+AB  == a new class of four depsipentapeptides called chaiyaphumines a-d (1-4) was isolated from xenorhabdus sp. pb61.4. their structures were elucidated by detailed 1d and 2d nmr experiments and by a marfey's analysis following flash hydrolysis of the peptide. verification of the structure was achieved by three-dimensional modeling using noe-derived distance constraints, molecular dynamics, and energy minimization. chaiyaphumine a (1) showed good activity against plasmodium falciparum (ic50 of 0.61 mum), the causative agent of malaria, and was active against other protozoal tropical disease causing agents.
+TIHT== 
+ABHT== 
+
+PMID== 15748211
+TI  == protein kinase a affects galleria mellonella (insecta: lepidoptera) larval haemocyte non-self responses.
+AB  == we used the protein kinase a (pka) specific activator sp-8-br-camps and type i inhibitor rp-8-br-camps alone and in combination to define the role of pka in the non-self responses of larval galleria mellonella haemocytes in vitro and in vivo. active pka depressed haemocyte responses whereas pka inhibition enhanced activities, including bacterial phagocytosis, the number of haemocytes with adherent bacteria, bacterial-induced haemocytic protein release and haemocyte adhesion to slides in vitro, as well as in vivo bacterial removal from the haemolymph. non-attached haemocytes had more pka activity than attached haemocytes; therefore, active pka limited haemocyte response to foreign materials. we found that (i) pka inhibitor alone induced non-self responses, including haemocyte protein discharge and lowered haemocyte counts in vivo, and induced nodulation; (ii) the enzyme activator produced effects opposite to those  of the inhibitor; and (iii) together, the modulators offset each others' effects  and influenced haemocyte lysate pka activity. these findings establish pka as a mediator of haemocytic non-self responses.
+TIHT== 
+ABHT== 
+
+PMID== 9765850
+TI  == universal ribotyping method using a chemically labelled oligonucleotide probe mixture.
+AB  == some of the present problems in ribotyping are associated with a lack of uniform  reactivity of probes when bacterial dnas are of phylogenetically diverse origins. to overcome these problems, a set of five oligonucleotides (referred to as oligomix5) was selected to react with conserved sequences located near both extremities of rrs (16s rrna gene) and near both extremities and the middle of rrl (23s rrna gene). dna samples from 13 bacterial species selected to represent  various phylogenetic branches within the eubacteria were cleaved by a restriction endonuclease and electrophoresed in 0.8% agarose, and the fragments were vacuum-transferred to nylon membranes and hybridized with digoxigenin-labelled oligomix5, plasmid dna from pkk3535 (cloned rrn operon from escherichia coli) or  pba2 (cloned rrs from bacillus subtilis), or acetylamino-fluorene-labelled e. coli 16 + 23s rrna. the results showed oligomix5 to visualize patterns in dna from phylogenetically diverse bacteria with comparable intensity. banding patterns (not band intensity) obtained with oligomix5 were identical with those obtained with 16 + 23s rrna or plasmid pkk3535 for each strain studied and represented complete ribotypes. for dna from gram-positive bacteria, complete ribotypes were observed after prolonged enzymatic detection of bands when probes  were either e. coli 16 + 23s rrna or pkk3535. patterns given by plasmid pba2 were subsets of the complete ribotypes for 9/13 strains. each oligonucleotide of the oligomix5 set was used as a probe to determine its contribution to the complete ribotype. the five oligonucleotide probes, used individually, visualized one to four patterns per dna sample. use of dna from xenorhabdus sp. cip 105189 cleaved  by ecori is suggested to control the quality of the oligonucleotide probes composing oligomix5. probe oligomix5 was found to be an essential tool for ribotyping phylogenetically diverse eubacteria.
+TIHT== 
+ABHT== 
+

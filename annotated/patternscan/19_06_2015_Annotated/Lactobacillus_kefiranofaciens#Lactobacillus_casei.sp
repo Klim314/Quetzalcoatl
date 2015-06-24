@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25542841
+TI  == selection of lactic acid bacteria from brazilian kefir grains for potential use as starter or probiotic cultures.
+AB  == brazilian kefir is a homemade fermented beverage that is obtained by incubating milk or a brown sugar solution with kefir grains that contribute their different  microbiological compositions. it is highly important to isolate and characterize  microorganisms from brazilian kefir grains to obtain starter cultures for the industrial production of a standardized commercial kefir. thus, the present study aimed to isolate lactic acid bacteria from eight kefir grains that were propagated in milk or sugar solutions from five different locations in brazil and to select lactobacillus isolates based on desirable in vitro probiotic properties. one hundred eight isolates from both substrates were identified by amplified ribosomal dna restriction analysis and/or 16s rrna gene sequencing and  were determined to belong to the following 11 species from the genera: lactococcus, leuconostoc, lactobacillus (l.), and oenococcus. leuconostoc mesenteroides, lactobacillus kefiri, and lactobacillus kefiranofaciens were isolated only from milk grains, whereas lactobacillus perolens, lactobacillus parafarraginis, lactobacillus diolivorans, and oenococcus oeni were isolated exclusively from sugar water grains. when the microbial compositions of four kefir grains were evaluated with culture-independent analyses, l. kefiranofaciens was observed to predominant in milk grains, whereas lactobacillus hilgardii was most abundant in sugar water kefir. unfortunately, l. hilgardii was not isolated  from any grain, although this bacteria was detected with a culture-independent methodology. fifty-two isolated lactobacilli were tested for gastric juice and bile salt tolerance, antagonism against pathogens, antimicrobial resistance, and  surface hydrophobicity. three lactobacillus strains (l. kefiranofaciens 8u, l. diolivorans 1z, and lactobacillus casei 17u) could be classified as potential probiotics. in conclusion, several lactic acid bacteria that could be used in combination with yeasts as starter cultures for both milk kefir and sugar water kefir were characterized, and the functional properties of several of the lactobacilli isolated from the kefir grains were suggestive of their possible use as probiotics in both kefir and other dairy products.
+TIHT== 
+ABHT== 
+
+PMID== 19835760
+TI  == analysis of the microflora in tibetan kefir grains using denaturing gradient gel  electrophoresis.
+AB  == the microflora of tibetan kefir grains was investigated by culture- independent methods. denaturing gradient gel electrophoresis (dgge) of partially amplified 16s rrna for bacteria and 26s rrna for yeasts, followed by sequencing of the most intense bands, showed that the dominant microorganisms were pseudomonas sp., leuconostoc mesenteroides, lactobacillus helveticus, lactobacillus kefiranofaciens, lactococcus lactis, lactobacillus kefiri, lactobacillus casei, kazachstania unispora, kluyveromyces marxianus, saccharomyces cerevisiae, and kazachstania exigua. the bacterial communities between three kinds of tibetan kefir grains showed 78-84% similarity, and yeasts 80-92%. the microflora is held  together in the matrix of fibrillar material composed largely of a water-insoluble polysaccharide.
+TIHT== 
+ABHT== 
+
+PMID== 19219898
+TI  == isolation and preliminary probiotic selection of lactobacilli from koumiss in inner mongolia.
+AB  == from 16 samples of traditional fermented koumiss collected in inner mongolia autonomous region of china, forty-eight lactobacilli strains were isolated and phenotypically characterized by their abilities to ferment different carbohydrates and by additional biochemical tests. the dominant lactobacilli species were identified as l. casei (17 strains), l. helveticus (10 strains) and  l. plantarum (8 strains), with a lower frequency of isolation for l. coryniformis subsp. coryniformis (5 strains), l. paracasei (3 strains), l. kefiranofaciens (2  strains), l. curvatus (1 strain), l. fermentum (1 strain) and w. kandleri (1 strain). the ph values of all these samples were ranging from 3.37 to 3.94. in isolates, l. casei zhang, l. helveticus zl12-1, and l. plantarum bx6-6 were selected as potentially probiotic strains through the preliminary tests including resistance to low acid, abilities to grow in mrs with bile salts, antimicrobial activities and the viabilities during prolonged cold storage in fermented milk. moreover 16s rdna was conducted to confirm the identification.
+TIHT== 
+ABHT== 
+

@@ -51,7 +51,7 @@ for i in os.listdir(args.folder):
 		continue
 	if isEmpty(fName):
 		os.remove(fName)
-	elif isOdd(lineCount(fName)):
+	elif args.fix and isOdd(lineCount(fName)):
 		holder = fixer.execute(fName)
 		print("MOVING: ", fName)
 		os.rename(fName, oddDir + i)

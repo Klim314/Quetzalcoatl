@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23829836
+TI  == bacillus subtilis natto: a non-toxic source of poly-gamma-glutamic acid that could be used as a cryoprotectant for probiotic bacteria.
+AB  == it is common practice to freeze dry probiotic bacteria to improve their shelf life. however, the freeze drying process itself can be detrimental to their viability. the viability of probiotics could be maintained if they are administered within a microbially produced biodegradable polymer - poly-gamma-glutamic acid (gamma-pga) - matrix. although the antifreeze activity of gamma-pga is well known, it has not been used for maintaining the viability of probiotic bacteria during freeze drying. the aim of this study was to test the effect of gamma-pga (produced by b. subtilis natto atcc 15245) on the viability of probiotic bacteria during freeze drying and to test the toxigenic potential of b. subtilis natto. 10% gamma-pga was found to protect lactobacillus paracasei significantly better than 10% sucrose, whereas it showed comparable cryoprotectant activity to sucrose when it was used to protect bifidobacterium breve and bifidobacterium longum. although gamma-pga is known to be non-toxic, it is crucial to ascertain the toxigenic potential of its source, b. subtilis natto. presence of six genes that are known to encode for toxins were investigated: three component hemolysin (hbl d/a), three component non-haemolytic enterotoxin (nheb), b. cereus enterotoxin t (bcet), enterotoxin fm (entfm), sphingomyelinase  (sph) and phosphatidylcholine-specific phospholipase (piplc). from our investigations, none of these six genes were present in b. subtilis natto. moreover, haemolytic and lecithinase activities were found to be absent. our work contributes a biodegradable polymer from a non-toxic source for the cryoprotection of probiotic bacteria, thus improving their survival during the manufacturing process.
+TIHT== 
+ABHT== 
+
+PMID== 22968373
+TI  == functional properties of some new zealand fruit extracts towards selected probiotic and pathogenic bacteria.
+AB  == the functional properties of aqueous extracts of four fruits commonly consumed in new zealand, namely blueberry, strawberry, green kiwifruit and feijoa, towards the growth of probiotic and pathogenic bacteria were investigated in this study.  a concentration range of 0.1-30.0 g/l was evaluated in a high-throughput assay to determine their effects. in general, the four fruit extracts exerted growth-stimulating effects on the probiotic bacteria, except with bifidobacterium longum, whereas they were found to inhibit all pathogens tested. feijoa extract inhibited listeria monocytogenes and bacillus cereus even at the lowest concentrations tested. selected combinations of extracts (blueberry/feijoa and strawberry/kiwifruit) exerted effects that were less than additive compared to the individual extracts. these results are relevant for potential application of  fruit extracts not only as functional ingredients in food but also for controlling growth of pathogens and for propagation of probiotic bacteria during  food production and storage.
+TIHT== 
+ABHT== 
+
+PMID== 20846331
+TI  == exopolysaccharides produced by lactobacillus and bifidobacterium strains abrogate in vitro the cytotoxic effect of bacterial toxins on eukaryotic cells.
+AB  == aims: to evaluate the capability of the exopolysaccharides (eps) produced by lactobacilli and bifidobacteria from human and dairy origin to antagonize the cytotoxic effect of bacterial toxins. methods and results: the cytotoxicity of bacillus cereus extracellular factors on caco-2 colonocytes in the presence/absence of the eps was determined by measuring the integrity of the tissue monolayer and the damage to the cell membrane (extracellular lactate dehydrogenase activity). additionally, the protective effect of eps against the haemolytic activity of the streptolysin-o was evaluated on rabbit erythrocytes. the eps produced by bifidobacterium animalis ssp. lactis a1 and ipla-r1, bifidobacterium longum nb667 and lactobacillus rhamnosus gg were able to counteract the toxic effect of bacterial toxins on the eukaryotic cells at 1mg ml(-1) eps concentration. the eps a1 was the most effective in counteracting the  effect of b. cereus toxins on colonocytes, even at lower doses (0.5mg ml(-1) ), whereas eps nb667 elicited the highest haemolysis reduction on erythrocytes. conclusions: the production of eps by lactobacilli and bifidobacteria could antagonize the toxicity of bacterial pathogens, this effect being eps and biological marker dependent. significance and impact of the study: this work allows gaining insight about the mechanisms that probiotics could exert to improve the host health.
+TIHT== 
+ABHT== 
+

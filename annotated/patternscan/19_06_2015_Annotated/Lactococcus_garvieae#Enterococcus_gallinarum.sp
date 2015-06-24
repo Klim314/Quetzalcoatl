@@ -1,0 +1,35 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22695175
+TI  == cultivable microbiota of lithobates catesbeianus and advances in the selection of lactic acid bacteria as biological control agents in raniculture.
+AB  == the cultivable microbiota of skin and cloaca of captive lithobates catesbeianus includes microorganisms generally accepted as beneficial and potentially pathogenic bacteria. in order to select a group of potentially probiotic bacteria, 136 isolates were evaluated for their surface properties and production of antagonistic metabolites. then, 11 lactic acid bacteria (lab) strains were selected and identified as lactobacillus plantarum, lb. brevis, pediococcus pentosaceus, lactococcus lactis, l. garvieae and enterococcus gallinarum. studies of compatibility indicate that all the strains could be included in a multi-strain probiotic, with the exception of ent. gallinarum crl 1826 which inhibited lab species through a bacteriocin-like metabolite. these results contribute to the design of a probiotic product to improve the sanitary status of bullfrogs in intensive culture systems, to avoid the use of antibiotics and thus  to reduce production costs. it could also be an alternative to prevent infectious diseases during the ex situ breeding of amphibian species under threat of extinction.
+TIHT== 
+ABHT== 
+
+PMID== 22515692
+TI  == identification and characterization of lactic acid bacteria isolated from mixed pasture of timothy and orchardgrass, and its badly preserved silage.
+AB  == in order to understand the relationship between lactic acid bacteria (lab) species and silage fermentation, a total of 65 lab strains isolated from mixed pasture of timothy (phleum pratense l.) and orchardgrass (dactylis glomerata l.), and its badly preserved silages were subjected to phenotypic and genetic analysis. according to these analyses, the isolates were divided into 13 groups,  including enterococcus gallinarum, lactobacillus acidipiscis, l. coryniformis subsp. coryniformis, l. coryniformis subsp. torquens, l. curvatus, l. paraplantarum, l. plantarum subsp. argentoratensis, l. plantarum subsp. plantarum, l. sakei subsp. carnosus, lactococcus garvieae, lactococcus lactis subsp. cremoris, leuconostoc pseudomesenteroides, pediococcus acidilactici, pediococcus pentosaceus, weissella hellenica, weissella paramesenteroides and carnobacterium divergens. this is the first report to document that c. divergens, l. acidipiscis, l. sakei subsp. carnosus, l. garvieae, phenotypically novel l. lactis subsp. cremoris, e. gallinarum and w. hellenica are present in vegetative  forage crops. l. plantarum group strains were most frequently isolated from the badly preserved silages. some isolates showed a wide range of growth preferences  for carbohydrate utilization, optimal growth ph and temperature in vitro, indicating that they have a high growth potential. these results are useful in understanding the diversity of lab associated with decayed silage of timothy and  orchardgrass.
+TIHT== 
+ABHT== 
+
+PMID== 11060051
+TI  == identification of enterococcus species and phenotypically similar lactococcus and vagococcus species by reverse checkerboard hybridization to chaperonin 60 gene sequences.
+AB  == data from four recent studies (s. h. goh et al., j. clin. microbiol. 36:2164-2166, 1998; s. h. goh et al., j. clin. microbiol. 34:818-823, 1996; s. h. goh et al., j. clin. microbiol. 35:3116-3121, 1997; a. y. c. kwok et al., int. j. syst. bacteriol. 49:1181-1192, 1999) suggest that an approximately 600-bp region  of the chaperonin 60 (cpn60) gene, amplified by pcr with a single pair of degenerate primers, has utility as a potentially universal target for bacterial identification (id). this cpn60 gene id method correctly identified isolates representative of numerous staphylococcal species and streptococcus iniae, a human and animal pathogen. we report herein that this method enabled us to distinguish clearly between 17 enterococcus species (enterococcus asini, enterococcus rattus, enterococcus dispar, enterococcus gallinarum, enterococcus hirae, enterococcus durans, enterococcus cecorum, enterococcus faecalis, enterococcus mundtii, enterococcus casseliflavus, enterococcus faecium, enterococcus malodoratus, enterococcus raffinosus, enterococcus avium, enterococcus pseudoavium, enterococcus new sp. strain facklam, and enterococcus saccharolyticus), and vagococcus fluvialis, lactococcus lactis, and lactococcus garvieae. from 123 blind-tested samples, only two discrepancies were observed between the facklam and collins phenotyping method (r. r. facklam and m. d. collins, j. clin. microbiol. 27:731-734, 1989) and the cpn60 id method. in each case, the discrepancies were resolved in favor of the cpn60 id method. the species distributions of the 123 blind-tested isolates were enterococcus new sp.  strain facklam (atcc 700913), 3; e. asini, 1; e. rattus, 4; e. dispar, 2; e. gallinarum, 20; e. hirae, 9; e. durans, 9; e. faecalis, 12; e. mundtii, 3; e. casseliflavus, 8; e. faecium, 25; e. malodoratus, 3; e. raffinosus, 8; e. avium,  4; e. pseudoavium, 1; an unknown enterococcus clinical isolate, sp. strain r871;  vagococcus fluvialis, 4; lactococcus garvieae, 3; lactococcus lactis, 3; leuconostoc sp., 1; and pediococcus sp., 1. the cpn60 gene id method, coupled with reverse checkerboard hybridization, is an effective method for the identification of enterococcus and related organisms.
+TIHT== 
+ABHT== 
+
+PMID== 9620381
+TI  == use of tests for acidification of methyl-alpha-d-glucopyranoside and susceptibility to efrotomycin for differentiation of strains of enterococcus and  some related genera.
+AB  == a total of 107 enterococcus strains, 10 vagococcus fluvialis strains, and 8 lactococcus garvieae strains were tested for acidification of methyl-alpha-d-glucopyranoside (mgp) and susceptibility to 100-microg efrotomycin (efro) disks. all 26 strains of enterococcus casseliflavus, including 3 nonmotile and 2 nonpigmented strains, acidified mgp and were resistant to efro. all 22 strains of enterococcus gallinarum, including 5 nonmotile strains, also acidified mgp and were resistant to efro. none of the 26 strains of enterococcus faecium acidified mgp, and all were susceptible to efro. although all 12 enterococcus faecalis strains were also negative in the mgp test, they were resistant to efro. other enterococcal strains gave variable results. all 10 strains of v. fluvialis  and all 8 strains of l. garvieae gave positive and negative results, respectively, in the mgp test and were, respectively, resistant and susceptible to efro. these results indicate that tests of the production of acid from mgp and susceptibility to efro can be used as adjunct tests in the identification of typical and atypical strains of enterococci in the clinical microbiology laboratory.
+TIHT== 
+ABHT== 
+
+PMID== 9331680
+TI  == molecular analysis of lactococcus garvieae and enterococcus gallinarum isolated from water buffalos with subclinical mastitis.
+AB  == 
+TIHT== 
+ABHT== 
+

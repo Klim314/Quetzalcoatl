@@ -1,104 +1,104 @@
-#!/usr/bin/env python 3
+#!/usr/bin/env python3
+from modules import paperparse as pp
+import argparse
+import os
 
-def loadAnn(target):
-	ann = []
-	with open(target) as f:
-		for i in f:
-			ann.append(i.strip())
-	split = []
-	for i in range(0, len(ann), 3):
-		try:
-			split.append((ann[i], ann[i+1], ann[i+2]))
-			if ann[i][0] not in ["@", ">", "?"]:#quick debug hardcode
-				print(ann[i-3:i+3])
-				print(ann[i])
-				raise Exception("Missing Padding. File blocks of uneven size")
-		except:
-			#print(ann[i-1:])
-			raise
+parser = argparse.ArgumentParser()
+parser.add_argument( "target", help ="Target directory for evaluation")
+parser.add_argument( "annotated", help ="Directory containing annotated files")
+parser.add_argument( "-o", "--outdir", help ="Override output directory. Default = output/patternscan/evaluate/", default = "output/patternscan/evaluate/")
+args = parser.parse_args()
+
+trueHitDir = args.outdir + "true_hits/"
+falseHitDir = args.outdir + "false_hits/"
+missedHitDir = args.outdir + "missed_hits/"
+
+if not os.path.exists(args.outdir) :
+	os.makedirs(args.outdir)
+
+if not os.path.exists(trueHitDir) :
+	os.makedirs(trueHitDir)
+
+if not os.path.exists(falseHitDir) :
+	os.makedirs(falseHitDir)
+	
+if not os.path.exists(missedHitDir) :
+	os.makedirs(missedHitDir)
+
+if args.target[-1] != '/':
+	args.target += '/'
+
+if args.annotated[-1] != '/':
+	args.annotated += '/'
+print("Reading Directory")
+tester = [args.target + i for i in sorted(os.listdir(args.target))]
+annotated = [args.annotated + i for i in  sorted(os.listdir(args.annotated))]
+
+holder = dict()
+
+for i in tester:
+	holder[os.path.basename(i).lower()] = [i]
+
+for i in annotated:
+	holder[os.path.basename(i).lower()].append(i)
+	
+totalPos = 0
+totalNeg = 0
+
+testerPos = 0
+testerPosHit = 0
+testerNeg = 0
+testerNegHit = 0
+
+for i in holder:
+	temp = holder[i]
+	testerPath = pp.spFile(temp[0])
+	annPath = pp.spFile(temp[1])
+	print(annPath.summary)
+	print(testerPath.summary)
+	print("----------------------")
+	if annPath.summary["POS "].strip() == '1':
+		totalPos += 1
+	elif annPath.summary["POS "].strip() == '0':
+		pass
+	else:
+		print("ERROR1: ", temp[1])
+
+	if annPath.summary["NEG "].strip() == '1':
+		totalNeg += 1
+	elif annPath.summary["NEG "].strip() == '0':
+		pass
+	else:
+		print("ERROR2: ", temp[1])
+
+	if testerPath.summary["POS "].strip() == '1':
+		testerPos += 1
+		if annPath.summary["POS "].strip() == '1':
+			testerPosHit +=1
+	elif testerPath.summary["POS "].strip() == '0':
+		pass
+	else:
+		print("ERROR3: ", temp[0])
+
+	if testerPath.summary["NEG "].strip() == '1':
+		testerNeg += 1
+		if annPath.summary["NEG "].strip() == '1':
+			testerNegHit +=1
+			testerPath.writeSpFile(trueHitDir + testerPath.fileName)
+		else:
+			testerPath.writeSpFile(falseHitDir + testerPath.fileName)
+	elif testerPath.summary["NEG "].strip() == '0':
+		if annPath.summary["NEG "].strip() == "1":
+			annPath.writeSpFile(missedHitDir + annPath.fileName)
+	else:
+		print("ERROR4: ", temp[0])
+		print(annPath.summary)
+
+print("TotalPos: ", totalPos)
+print("TotalNeg: ", totalNeg)
+print("testerPos",testerPos)
+print("testerPosHit",testerPosHit)
+print("testerNeg",testerNeg)
+print("testerNegHit",testerNegHit)
 
 
-	return split
-
-def eva(inp, ann, u = 0, logging = 0):
-	total = len(inp)
-	correct = 0
-	TP = 0
-	FP = 0
-	FN = 0
-
-	#Keep track of index
-	count = 0
-
-	if logging:
-		print("LOGGING")
-		fpLog, fnLog, tpLog = [],[], []
-
-	for i,j in zip(inp, ann ):
-		#print(i, j[0][1] )
-		try:
-			if u == True and (j[0][0] == "?" or j[0][0] == "@"):
-				count +=1
-				total -=1
-				continue
-			if i == j[0][1]:
-				if i == "T":
-					TP += 1
-					if logging:
-						tpLog.append(str(count) + " " +  str(j))
-				correct += 1
-			else:
-				if i == "T":
-					FP += 1
-					if logging:
-						fpLog.append(j)
-				if i == "F":
-					FN += 1
-					if logging:
-						fnLog.append(j)
-			count +=1
-
-		except:
-			print("i :", i)
-			print("j :", j)
-			raise
-
-	print("Total samples analyzed:", total)
-	print("Correctly Assigned: ", correct)
-	print("True Positives: ", TP)
-	print("True Negatives: ", correct - TP)
-	print("False Positives: ", FP)
-	print("False Negatives: ", FN)
-	if logging:
-		with open(logging + ".log", 'w') as f:
-			f.write("TRUE POSITIVES:\n")
-			for i in tpLog:
-				f.write(str(i) + '\n\n')
-
-			f.write("FALSE POSITIVES:\n")
-			for i in fpLog:
-				f.write(str(i) + '\n\n')
-
-			f.write("FALSE NEGATIVES:\n")
-			for i in fnLog:
-				f.write(str(i) + '\n\n')
-	return TP
-def evaluate(inp, annPath, u = 0, logging = None):
-	return( eva(inp,loadAnn(annPath), u = u, logging = logging))
-
-
-
-if __name__ == "__main__":
-	a = "annotated/lactobacillus_acidophilus#escherichia_coli.ann"
-	b = loadAnn(a)
-	print(len(b))
-
-	#print(a)
-	testresults = ['T', 'T', 'F', 'F', 'T', 'T', 'T', 'T', 'F', 'F', 'T', 'F', 'T', 'T', 'F', 'T', 'T', 'F', 'F', 'T', 'T', 'F', 'T', 'F', 'T', 'F', 'T', 'F', 'F', 'F']
-
-	print("BEGINNING")
-	evaluate(testresults, "annotated/lactobacillus_acidophilus#escherichia_coli.ann", "testlog")
-
-
-
-#eva(testresults, a, logging = "testlog")*

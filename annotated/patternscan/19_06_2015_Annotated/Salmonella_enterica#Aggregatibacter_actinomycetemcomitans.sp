@@ -1,0 +1,35 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19455616
+TI  == polyethylene sebacate: genotoxicity, mutagenicity evaluation and application in periodontal drug delivery system.
+AB  == the objective of the present study is to evaluate polyethylene sebacate (pes) for its toxicity profile including oral toxicity, genotoxicity and mutagenicity. pes  was synthesised, and characterised by gel permeation chromatography, ftir, (1)h-nmr, differential scanning calorimetry and x-ray diffraction. oral toxicity  studies revealed pes to be nontoxic up to 3000 mg/kg body weight with no significant changes in serum biochemistry. the standard battery of genotoxicity tests including micronucleus test, chromosomal aberration and comet assay revealed pes as nongenotoxic. mutagenicity of pes was evaluated using the ames microplate format mutagenicity assay sample kit using ta98 and ta100 strains of salmonella typhimurium, both in presence and absence of aroclor 1254 induced rat  liver s9. ames assay confirmed pes to be nonmutagenic. periodontal implants of pes of varying roxithromycin/pes ratios and different diameter were prepared. a decrease in in vitro drug release was seen with increase in diameter of the implants. release rates, however, increased with increase in pes concentration, and were attributed to decreased crystallinity of roxithromycin, confirmed by the dsc thermographs and xrd spectra. roxithromycin release from the implants followed higuchi kinetics and exhibited controlled release. the results suggest pes as a safe polymer for biomedical and pharmaceutical applications.
+TIHT== 
+ABHT== 
+
+PMID== 17526716
+TI  == differential interaction of aggregatibacter (actinobacillus) actinomycetemcomitans lsrb and rbsb proteins with autoinducer 2.
+AB  == our previous studies showed that the aggregatibacter actinomycetemcomitans rbsb protein interacts with cognate and heterologous autoinducer 2 (ai-2) signals and  suggested that the rbsdabck operon encodes a transporter that may internalize ai-2 (d. james et al., infect. immun. 74:4021-4029, 2006.). however, a. actinomycetemcomitans also possesses genes related to the lsr operon of salmonella enterica serovar typhimurium which function to import ai-2. here, we show that a. actinomycetemcomitans lsrb protein competitively inhibits the interaction of the vibrio harveyi ai-2 receptor (luxp) with ai-2 from either a. actinomycetemcomitans or v. harveyi. interestingly, lsrb was a more potent inhibitor of luxp interaction with ai-2 from v. harveyi whereas rbsb competed more effectively with luxp for a. actinomycetemcomitans ai-2. inactivation of lsrb in wild-type a. actinomycetemcomitans or in an isogenic rbsb-deficient strain reduced the rate by which intact bacteria depleted a. actinomycetemcomitans ai-2 from solution. consistent with the results from the luxp competition experiments, the lsrb-deficient strain depleted ai-2 to a lesser extent than the rbsb-deficient organism. inactivation of both lsrb and rbsb virtually eliminated the ability of the organism to remove ai-2 from the extracellular environment. these results suggest that a. actinomycetemcomitans possesses two proteins that differentially interact with ai-2 and may function to inactivate or facilitate internalization of ai-2.
+TIHT== 
+ABHT== 
+
+PMID== 11799736
+TI  == mouthrinses: a comparative microbiological study.
+AB  == this study was performed in order to evaluate the efficacy of different mouthrinses whose use is extended in spain. six different antiseptic mouthrinses  were studied by means of determination of minimal inhibitory concentration (mic)  values against klebsiella pneumoniae, serratia marcescens, escherichia coli, pseudomonas aeruginosa, staphylococcus aureus, salmonella typhimurium, bacillus subtilis, streptococcus mutans, prevotella intermedia, porphyromonas gingivalis and actinobacillus actinomycetemcomitans. also in vivo experiments were carried out in volunteers by the use of mouthrinses and evaluation of bacterial populations before and after the treatment. finally, the kinetics of bacterial death was determined. results suggested that the determination of mic values is not a reliable method to evaluate the antibacterial effect of such products. on the other hand those rinsing solutions based on the effect of oxygen, such as those containing carbamide peroxide have a greater efficacy against anaerobic bacteria compared with rinses whose active molecule is a disinfectant. finally, the kinetics of bacterial death demonstrates that the essential oil rinse kills bacteria much faster. all tested mouthrinses were active as antibacterial although those based on oxygen production or essential oils were more active than solutions based on chlorhexidine and triclosan.
+TIHT== 
+ABHT== 
+
+PMID== 11355267
+TI  == environmental cues and gene expression in porphyromonas gingivalis and actinobacillus actinomycetemcomitans.
+AB  == microorganisms typically adapt to environmental cues by turning on and off the expression of virulence genes which, in turn, allows for optimal growth and survival within different environmental niches. this adaptation strategy includes sensing and responding to changes in nutrients, ph, temperature, oxygen tension,  redox potential, microbial flora, and osmolarity. for a bacterium to adhere to, penetrate, replicate in, and colonize host cells, it is critical that virulence genes are expressed during certain periods of the infection process. thus, throughout the different stages of an infection, different sets of virulence factors are turned on and off in response to different environmental signals, allowing the bacterium to effectively adapt to its varying niche. in this review, we focus on the regulation of virulence gene expression in two pathogens which have been implicated as major etiological agents in adult and juvenile periodontal diseases: porphyromonas gingivalis and actinobacillus actinomycetemcomitans. understanding the mechanisms of virulence gene expression  in response to the local environment of the host will provide crucial information in the development of effective treatments targeted at eradication of these periodontal disease pathogens.
+TIHT== 
+ABHT== 
+
+PMID== 1763976
+TI  == lipopolysaccharide stimulation of hyaluronate synthesis by human gingival fibroblasts in vitro.
+AB  == exposure of gingival fibroblasts to lps caused a dose-dependent increase in hyaluronate synthesis. stimulation of hyaluronate synthesis by lps was significantly greater 24 h after exposure and by 48 h an approx. 50% increase was evident. in parallel, there was an increase in the activity of the hyaluronate synthetase enzyme. inhibition of pge2 synthesis by indomethacin abolished the stimulatory effect of lps on hyaluronate synthesis. thus, this stimulatory effect of lps on hyaluronic acid synthesis may be a secondary response to the induction  of pge2. the molecular size of newly synthesized hyaluronate was not affected by  lps. the metabolic changes observed may be a primary response of the cells to bacterial toxins and may aid extracellular matrix repair.
+TIHT== 
+ABHT== 
+

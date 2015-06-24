@@ -1,0 +1,29 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 15765758
+TI  == [urinary tract infections in children--etiologic agents and susceptibility to antibiotics].
+AB  == urinary tract infections (utis) are common clinical problem in pediatric hospitals. the aim of this study was to compare the incidence of utis during two  different time periods (from february 1999 to march 2000, and from april 2000 to  september 2001) in pediatric patients treated in ambulatory or hospitalized in new children hospital. the frequency of occurrence of esbl--producing gram-negative rods increased during second period study. the isolated esbl--producing strains were resistant also to aminoglicosides and trimethoprim/sulfamethoxazol gram-negative rods were predominant microorganisms.  isolated organisms from urine samples included escherichia coli, klebsiella pneumoniae, klebsiella oxytoca, proteus mirabilis, proteus penneri, proteus vulgaris, morganella morganii, citrobacter freundi, serratia spp., enterobacter cloacae, pseudomonas aeruginosa, staphylococcus aureus, cns, enterococcus spp. streptococcus spp, and candida spp. enterococcus spp. were isolated from urine samples in 20% of cases. only 9.4% of isolated enterococcus spp. were high-level  aminoglicoside resistant (hlar) strains. no vancomycin-resistant enterococcus spp. were isolated. among coagulase-negative staphylococci (cns) methicillin resistant strains (mrcns) were isolated in 43.3%.
+TIHT== 
+ABHT== 
+
+PMID== 9106365
+TI  == potential virulence factors of proteus bacilli.
+AB  == the object of this review is the genus proteus, which contains bacteria considered now to belong to the opportunistic pathogens. widely distributed in nature (in soil, water, and sewage), proteus species play a significant ecological role. when present in the niches of higher macroorganisms, these species are able to evoke pathological events in different regions of the human body. the invaders (proteus mirabilis, p. vulgaris, and p. penneri) have numerous factors including fimbriae, flagella, outer membrane proteins, lipopolysaccharide, capsule antigen, urease, immunoglobulin a proteases, hemolysins, amino acid deaminases, and, finally, the most characteristic attribute of proteus, swarming growth, enabling them to colonize and survive in higher organisms. all these features and factors are described and commented on in detail. the questions important for future investigation of these facultatively pathogenic microorganisms are also discussed.
+TIHT== 
+ABHT== 
+
+PMID== 8961557
+TI  == the prevalence of gentamicin 2'-n-acetyltransferase in the proteeae and its role  in the o-acetylation of peptidoglycan.
+AB  == the prevalence of aac(2')-ia, a gene coding for gentamicin 2'-n-acetyltransferase in providencia stuartii, among species of the proteeae was investigated to determine if it is a common resistance factor and whether the correlation observed in p. stuartii between its expression and the levels of peptidoglycan o-acetylation represents a general feature of bacteria producing this form of modified peptidoglycan. an evaluation of the mics of gentamicin for each of the species of the proteeae did not reveal any apparent relationship between resistance and the degree of o-acetylation of peptidoglycan. the entire aac(2')-ia gene was used as a probe in southern hybridization experiments against genomic dna from each species of the proteeae. a sequence with strong homology to aac(2')-ia was present only in proteus penneri while weak hybridization was also  observed to the restriction digested dna from providencia rettgeri. other bacteria that o-acetylate peptidoglycan were also screened with this probe and a  homologous dna sequence was only found in neisseria subflava. these data suggest  that aac(2')-ia may contribute to the o-acetylation of peptidoglycan in p. stuartii, but a more specific enzyme must also be produced for this function.
+TIHT== 
+ABHT== 
+
+PMID== 8486569
+TI  == the activity of cefpirome and ten other antibacterial agents against 2858 clinical isolates collected from 20 centres.
+AB  == two thousand eight hundred and fifty-eight aerobic clinical isolates of enterobacteriaceae, pseudomonas species, staphylococci, streptococci and haemophilus species were collected in 19 geographically separated centres in the  uk and one in ireland. the identity of each isolate was confirmed at southmead hospital and the mic of cefpirome, cefotaxime, ceftazidime, cefuroxime, cephradine, amoxycillin, piperacillin, imipenem, gentamicin, ciprofloxacin and trimethoprim was determined by an agar dilution method. against species of enterobacteriaceae not associated with producing an inducible cephalosporinase, cefpirome had a similar degree of activity to cefotaxime and was more active than ceftazidime and earlier cephalosporins. against species with a high prevalence of inducible beta-lactamase production, cefpirome was superior to other cephalosporins; imipenem was also active against these isolates. cefpirome was active against pseudomonas aeruginosa, methicillin-sensitive staphylococci, non-enterococcal streptococci and haemophilus spp. when the isolates were exposed to 0.1 mg/l of imipenem in agar plus the test agent, cefpirome had superior activity compared with the other cephalosporins tested for the enterobacteriaceae, except proteus vulgaris and proteus penneri. 8.7% of enterobacter spp., 7% of citrobacter spp. and 6.7% of morganella morganii had susceptibilities to beta-lactams suggesting constitutive hyperproduction of chromosomal cephalosporinase; cefpirome, unlike the other cephalosporins tested,  was active against these isolates, although to a lesser degree than against the wild-type inducible isolates. no isolates were thought to produce an extended-spectrum beta-lactamase.
+TIHT== 
+ABHT== 
+

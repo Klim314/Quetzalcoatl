@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22719852
+TI  == bacterial communities in women with bacterial vaginosis: high resolution phylogenetic analyses reveal relationships of microbiota to clinical criteria.
+AB  == background: bacterial vaginosis (bv) is a common condition that is associated with numerous adverse health outcomes and is characterized by poorly understood changes in the vaginal microbiota. we sought to describe the composition and diversity of the vaginal bacterial biota in women with bv using deep sequencing of the 16s rrna gene coupled with species-level taxonomic identification. we investigated the associations between the presence of individual bacterial species and clinical diagnostic characteristics of bv. methodology/principal findings: broad-range 16s rrna gene pcr and pyrosequencing were performed on vaginal swabs from 220 women with and without bv. bv was assessed by amsel's clinical criteria and confirmed by gram stain. taxonomic classification was performed using phylogenetic placement tools that assigned 99% of query sequence  reads to the species level. women with bv had heterogeneous vaginal bacterial communities that were usually not dominated by a single taxon. in the absence of  bv, vaginal bacterial communities were dominated by either lactobacillus crispatus or lactobacillus iners. leptotrichia amnionii and eggerthella sp. were  the only two bv-associated bacteria (bvabs) significantly associated with each of the four amsel's criteria. co-occurrence analysis revealed the presence of several sub-groups of bvabs suggesting metabolic co-dependencies. greater abundance of several bvabs was observed in black women without bv. conclusions/significance: the human vaginal bacterial biota is heterogeneous and  marked by greater species richness and diversity in women with bv; no species is  universally present. different bacterial species have different associations with the four clinical criteria, which may account for discrepancies often observed between amsel and nugent (gram stain) diagnostic criteria. several bvabs exhibited race-dependent prevalence when analyzed in separate groups by bv status which may contribute to increased incidence of bv in black women. tools developed in this project can be used to study microbial ecology in diverse settings at high resolution.
+TIHT== 
+ABHT== 
+

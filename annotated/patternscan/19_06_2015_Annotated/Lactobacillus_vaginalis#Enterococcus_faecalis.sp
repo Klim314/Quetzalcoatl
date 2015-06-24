@@ -1,0 +1,71 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 21212956
+TI  == characterization and transfer of antibiotic resistance in lactic acid bacteria from fermented food products.
+AB  == the study provides phenotypic and molecular analyses of the antibiotic resistance in lactic acid bacteria (lab) from fermented foods in xi'an, china. lab strains (n = 84) belonging to 16 species of lactobacillus (n = 73), and streptococcus thermophilus (n = 11) were isolated and identified by sequencing their 16s rrna gene. all strains were susceptible to ampicillin, bacitracin, and cefsulodin, and intrinsically resistant to nalidixic acid, kanamycin, and vancomycin (except l. bulgaricus, l. acidophilus, and s. thermophilus, which were susceptible to vancomycin). some strains had acquired resistance for penicillin (n = 2), erythromycin (n = 9), clindamycin (n = 5), and tetracycline (n = 14), while resistance to gentamycin, ciprofloxacin, streptomycin, and chloramphenicol was species dependent. minimum inhibitory concentrations presented in this study will help to review microbiological breakpoints for some of the species of lactobacillus. the erm(b) gene was detected from two strains of each of l. fermentum and l. vaginalis, and one strain of each of l. plantarum, l. salivarius, l. acidophilus, l. animalis, and s. thermophilus. the tet genes were  identified from 12 strains of lactobacilli from traditional foods. this is the first time, the authors identified tet(s) gene from l. brevis and l. kefiri. the  erm(b) gene from l. fermentum nwl24 and l. salivarius nwl33, and tet(m) gene from l. plantarum nwl22 and l. brevis nwl59 were successfully transferred to enterococcus faecalis 181 by filter mating. it was concluded that acquired antibiotic resistance is well dispersed in fermented food products in xi'an, china and its transferability to other genera should be monitored closely.
+TIHT== 
+ABHT== 
+
+PMID== 18176534
+TI  == analysis of vaginal lactic acid producing bacteria in healthy women.
+AB  == vaginal lactic acid-producing bacteria of 80 pre-menopausal women were studied by isolation on blood and deman-rogosa-sharpe agar, pcr with group-specific primers  for lactobacillus-denaturing gradient gel electrophoresis (dgge), and pcr with specific primers for v3 region in 16s rrna-temporal temperature gel electrophoresis (ttge). conventional isolation method on media detected only one  lactobacillus (lactobacillus brevis) while ttge detected only lactobacillus sp. dgge detected seven lactobacillus species; l. coleohominis, l. crispatus, l. iners, l. reuteri, l. rhamnosus, l. vaginalis, and leuconostoc lactis. l. acidophilus and l. gasseri, which are prevalent in western women, were not detected in korean women. furthermore, l. rhamnosus, leuc. lactis, l. coleohominis, and weissella cibaria, which were not previously reported in the vaginal microbiota of korean women, were detected. the five most prevalent labs in vaginal microbiota in korean women were l. iners, enterococcus faecalis, l. crispatus, leuc. lactis, and w. cibaria.
+TIHT== 
+ABHT== 
+
+PMID== 11838310
+TI  == in vitro antagonistic effect of lactobacillus on organisms associated with bacterial vaginosis.
+AB  == objective: to assess antagonistic properties of lactobacillus strains isolated from the vaginas of healthy women as compared to the most common bacterial agents related to vaginosis. study design: antagonistic activity of different lactobacillus strains isolated from the vaginas of healthy women not treated for  infections with an antibiotic for the previous three months was screened using an agar slab method. the activity was tested against test organisms associated with  bacterial vaginosis and/or urinary tract infections: staphylococcus aureus, enterococcus faecalis, streptococcus agalactiae, escherichia coli, gardnerella vaginalis, peptostreptococcus anaerobius and prevotella bivia. results: many of the 146 lactobacillus strains tested exerted apparent antagonistic activities against gram-positive aerobic cocci and gram-negative rods, such as s aureus and  e coli, and a marked number of lactobacillus strains inhibited facultative bacteria, such as gardnerella vaginalis and the anaerobes p anaerobius and p bivia. only a few lactobacilli were able to inhibit growth of e faecalis and s agalactiae. indicator bacteria growth inhibition probably relies upon several different complementary mechanisms. the specific indicator bacteria species determines which mechanism predominates. conclusion: lactobacillus strains taken  from normal vaginal flora demonstrated antagonistic activity against a variety of bacteria related to vaginal and urinary tract infections. the specific occurrence rates of active lactobacillus strains are different, and this difference is dependent on the indicator bacteria species.
+TIHT== 
+ABHT== 
+
+PMID== 11234615
+TI  == detection of cervical immunoglobulin a in normal pregnancy.
+AB  == the aim of our study was to evaluate a feasible method to quantify the immunoglobulin a concentration in the cervical mucus of women with a normal singleton pregnancy. in 60 immunologic healthy pregnant women cervical mucus samples were taken at a random time in pregnancy using an absorbing cylindrical cotton-swab stick. in this cervical mucus immunoglobulin a concentration was measured by radial immunodiffusion. a vaginal bacterial swab was taken from each  woman. concentration of immunoglobulins in maternal serum was estimated. there was no statistically significant difference of cervical immunoglobulin a concentration between the investigated groups (p = 0.952): 18-24 gestational weeks (gw): 52.8 (6.6-258.4) mg/l; 25-29 gw: 89.3 (4.8-193.8) mg/l; 30-34 gw: 55  (1.4-326) mg/l; 35-40 gw: 59.2 (4-400.9) mg/l. women with a normal vaginal flora  showed a significantly higher cervical immunoglobulin a concentration than those  with a pathological colonization: 92.2 (6.6-400.9) mg/l vs. 42.5 (1.4-326) mg/l (p < 0.05). the serum levels of immunoglobulins a, a1, a2, m and g do not correlate to cervical immunoglobulin a levels nor to gestational age. in normal pregnancy, cervical immunoglobulin a concentration does not change with advancing gestational age, but a pathological vaginal colonization seems to be associated with decreased immunoglobulin a levels.
+TIHT== 
+ABHT== 
+
+PMID== 10865430
+TI  == [the range of antagonistic effects of lactobacillus bacterial strains on etiologic agents of bacterial vaginosis].
+AB  == bacterial vaginosis is caused by uncontrolled sequential overgrowth of some anaerobic bacteria: gardnerella vaginalis, prevotella bivia, bacteroides spp., peptostreptococcus spp., mobiluncus sp. usually occurring in stable numbers in the bacterial flora of healthy women. on the other hand, different species of bacteria belonging to the genus lactobacillus, most frequently l. plantarum, l. rhamnosus and l. acidophilus, form a group of aerobic bacteria dominating in the  same environment. the diversity and density of their populations depend on the age and health conditions. thanks to their antagonistic and adherence properties  bacteria of the genus lactobacillus can maintain a positive balance role in this  ecosystem. the aim of this study was to assess the antagonistic properties of lactobacillus strains isolated from the vagina of healthy women against most common agents of bacterial vaginosis. it was found that nearly all of the tested  lactobacillus strains exerted distinct antagonistic activity against anaerobic bacteria: gardnerella vaginalis, prevotella bivia and peptostreptococcus anaerobius and quite a number also against gram-negative rods, while only some of them were able to inhibit gram-positive aerobic cocci as enterococcus faecalis or staphylococcus aureus.
+TIHT== 
+ABHT== 
+
+PMID== 9449814
+TI  == characterization of the bacterial flora of sudanese sorghum flour and sorghum sourdough.
+AB  == the microflora of a sudanese sorghum flour, a spontaneously fermented sourdough and a long-term sourdough produced in a sudanese household by consecutive re-inoculations, was studied. the dominant contaminants of sorghum flour were gram-negative, catalase-positive, rod-shaped bacteria with counts of about 10(5)  cfu g-1. the spontaneously fermented sorghum sourdough showed a bacterial succession from gram-negative, catalase-positive contaminants to enterococcus faecalis, lactococcus lactis, lactobacillus fermentum and lact. reuteri. the total bacterial count reached about 10(10) cfu g-1 and the ph dropped from 6.4 to 3.35 in about 42 h. in this phase, only the latter two species remained dominant  in a ratio of 1:1. from the sudanese long-term dough, seven strains of lactobacillus were isolated, representing the dominant flora. sequence comparison of partial 16s rrna gene sequences were used to clarify their phylogenetic positions. five strains were classified as lact. vaginalis and could be regarded  as heterogeneous biovars of this species. the other two strains could be assigned to lact. helveticus. rapd-pcr and sugar fermentation patterns were useful in differentiation of these strains.
+TIHT== 
+ABHT== 
+
+PMID== 8309297
+TI  == [gardnerella vaginalis in infections of reproductive organs].
+AB  == the study was aimed at multidirectional studies on bacteria isolated from smears  from vagina and cervix uteri in 226 patients with inflammatory states of their reproductive organs. most frequently isolated aerobic bacteria were gram-negative--27%, mainly e. coli, and enterococcus faecalis--in 18% of cases. anaerobic bacteria were isolated in 81% of cases: gardnerella vaginalis was isolated in 28% and lactobacillus in 53% of cases. other anaerobic bacteria were: peptococcus asaccharolyticus (15.5%), streptococcus sp. (15.9%), and bacteroides  melaninogenicus (14.1%). gardnerella vaginalis was most frequently found in chronic cases of vaginosis (41.7%). all strains of g. vaginalis were susceptible  to cefotaxime, while 15-40% of them were resistant to gentamycin, tetracycline and metronidazole.
+TIHT== 
+ABHT== 
+
+PMID== 2031518
+TI  == susceptibility of female pelvic pathogens to oral antibiotic agents in patients who develop postpartum endometritis.
+AB  == fifteen hundred patients were enrolled in a prospective, randomized study on the  effect of antibiotic prophylaxis during cesarean section. two hundred thirty-one  patients developed postpartum endometritis, and the isolates obtained from the endometrium were tested for sensitivity to ampicillin, cefuroxime, ofloxacin, ciprofloxacin, and clindamycin. minimum inhibitory concentrations of 50% and 90%  of ampicillin, cefuroxime, and clindamycin were similar to previously reported values; however, slight differences were noted in the activity of the two quinolones to common pelvic isolates. the minimum inhibitory concentrations of 90% of ofloxacin and ciprofloxacin to 119 isolates of enterococcus faecalis were  4.0 and 2.0, to 17 isolates of staphylococcus aureus 1.0 and 0.5, to 39 isolates  of escherichia coli 0.5 and 1.0, to 46 isolates of bacteroides bivius 4.0 and 8.0, to 57 isolates of gardnerella vaginalis 1.0 and 2.0, to 71 isolates of staphylococcus epidermidis 0.5 and 0.5, to 16 isolates of proteus mirabilis 0.25  and 0.12, and to 50 isolates of lactobacillus species 32.0 and 8.0 micrograms/ml, respectively. in summary, the quinolones have activity comparable with a variety  of other oral agents versus female pelvic pathogens, with the quinolones ofloxacin and ciprofloxacin having better activity against most of the gram-negative isolates. anaerobic activities were comparable with the beta-lactams, but inferior to clindamycin and metronidazole as expected.
+TIHT== 
+ABHT== 
+
+PMID== 2327774
+TI  == genetic basis of tetracycline resistance in urogenital bacteria.
+AB  == the distributions of the nucleotide sequences related to the tetracycline resistance determinants tet k, tet l, tet m, and tet o were studied by dot blot hybridization with randomly chosen clinical urogenital tract isolates of viridans group streptococci, streptococcus agalactiae, enterococcus faecalis, gardnerella  vaginalis, lactobacillus spp., fusobacterium nucleatum, peptostreptococcus spp.,  and veillonella parvula. among the peptostreptococcus spp., 79% of the isolates hybridized with one (64%) or more (36%) of the probes for tet k (27%), tet l (30%), tet m (75%) and tet o (13%). of the viridans group streptococci, 82% of the strains hybridized with one (34%) or more (66%) of the four probes. the distribution of the four determinants in this group was as follows: tet k, 36%; tet l, 31%; tet m, 43%; tet o, 61%. twenty-nine percent of the enterococci and forty-six percent of the group b streptococci hybridized with the probes; however, the tet k, tet l, and tet o determinants were found in only a few strains, while the tet m determinant predominated. a total of 29% of the f. nucleatum isolates, 55% of the g. vaginalis isolates, and 26% of the v. parvula isolates hybridized with the tet m determinant. in contrast, 43% of the lactobacillus spp. hybridized with the tet o determinant. the data indicate that  tetracycline resistance determinants are common to many of the microorganisms isolated from the urogenital tract.
+TIHT== 
+ABHT== 
+
+PMID== 3109958
+TI  == the midcycle cervical microbial flora as studied by the weighed-swab method, and  its possible correlation with results of sperm cervical mucus penetration tests.
+AB  == infertile couples undergoing routine investigation for infertility were randomly  selected for the study. a quantitative method using weighed swabs was found satisfactory for the study of microbial flora in the midcycle cervical mucus. in  6 of the 20 women, the midcycle cervical mucus was hostile in the sperm cervical  mucus penetration tests. the total bacterial counts and the number of species (average, 2.5) isolated from the hostile mucus were significantly greater than those from the receptive mucus (average, 1.3). only normal vaginal/cervical flora was isolated. ureaplasma urealyticum was found more frequently in patients undergoing clomiphene citrate therapy (6/10 versus 0/9, p less than 0.03, fischer's exact test).
+TIHT== 
+ABHT== 
+
+PMID== 812101
+TI  == ecological studies of the microbial flora of the female lower genital tract.
+AB  == 
+TIHT== 
+ABHT== 
+

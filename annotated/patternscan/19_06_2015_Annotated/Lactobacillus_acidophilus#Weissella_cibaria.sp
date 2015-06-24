@@ -1,0 +1,29 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25080006
+TI  == superior prebiotic and physicochemical properties of novel dextran from weissella cibaria jag8 for potential food applications.
+AB  == the dextran produced by dextransucrase from weissella cibaria jag8 was subjected  to physicochemical characterization and assessment of its prebiotic potential. dextran displayed a solubility of 24.5% and a water holding capacity of 352%. the emulsion and flocculation activity of dextran were 89% and 92%, respectively. the degradation temperature (td) of dextran was 353 degrees c. dextran exhibited 33-  and 12-fold less hydrolysis than inulin, in simulated gastric juice (ph 1.0) and  alpha-amylase (ph 7.0), respectively. dextran stimulated the growth of probiotic  bacteria such as bifidobacterium animalis subspecies lactis, bifidobacterium infantis and lactobacillus acidophilus significantly and was comparable to that of commercial inulin. however, the growth of e. coli was not enhanced by dextran  or inulin. the dextran used in this study can be used as a potential prebiotic for health benefits.
+TIHT== 
+ABHT== 
+
+PMID== 23933743
+TI  == stress response of some lactic acid bacteria isolated from romanian artisan dairy products.
+AB  == understanding the mechanisms of stress response and adaptation to stress in the case of lactic acid bacteria (lab), especially in the case of strains with functional properties, is very important when such strains are potential candidates for starter cultures or probiotics. in this context, our study shows the response of some lab [four exopolysaccharide (eps)-producing strains and one  strain with potential probiotic effect] to the stresses induced by low and high incubation temperatures, acidity, nacl, and bile salts, often encountered during  the technological processes in food or during the passage through the human gastro-intestinal tract. the strains were able to grow at temperatures up to 40 degrees c (the mesophilic strains) and 47 degrees c (the thermophilic strain), in medium with an initial ph of at least 4.0 (lactobacillus acidophilus ibb801), or  in the presence of nacl up to 10% (weissella confusa/cibaria 38.2), or bile salts up to 0.2% (l. acidophilus ibb801). the protein and isoenzyme patterns of the strains subjected to various stress conditions presented several differences compared with the control patterns, among which the overexpression of some proteins of about 50-60 kda, differences in the bands intensity in the case of the intracellular enzymes, or the complete loss of some of these bands. the best  survival to low ph values and high temperatures was observed for strain l. acidophilus ibb801, the candidate probiotic strain. the eps production of the four tested strains was, in general, directly related to the growth, the highest  yields being obtained when strains were incubated at 24 degrees c.
+TIHT== 
+ABHT== 
+
+PMID== 23568210
+TI  == sequence analysis of a cryptic plasmid pkw2124 from weissella cibaria klc140 and  construction of a surface display vector.
+AB  == plasmid isolation of kimchi-derived weissella cibaria klc140 revealed six different plasmids. the smallest plasmid, pkw2124, was dna sequenced and characterized, showing 2,124 bp with a gc content of 36.39% and five putative open reading frames (orfs). in silico analysis of these orfs showed orf1 encodes  a putative replication protein similar to rolling circular replication proteins from other lactic acid bacteria. however, a single-stranded intermediate was not  detected when s1 nuclease was treated, suggesting it may follow theta replication. interestingly, the replication initiation site of this plasmid is 100% identical to other plasmids from lactic acid bacteria, suggesting it may function for replication initiation. to construct a surface layer expression vector, ptslgfp, slpa encoding the surface layer protein from lactobacillus acidophilus was pcr amplified and fused with the gfp gene, forming a slgfp fused  gene. the plasmid pkw2124 was cloned into the xbai site of puc19, forming an weissella-e. coli shuttle vector pkuw22. nhei-linearized ptslgfp was ligated into pkuwcat containing pkuw22 and the chloramphenicol acetyltransferase gene from pek104, resulting in an 8.6 kb pkwcslgfp surface layer expression vector. after transformation of this vector into w. cibaria klc140, a gfp fluorescence signal was detected on the surface of the transformant, substantiating production of slgfp fused protein and its secretion. this is the first report for construction  of a weissella surface layer expression vector, which may be useful for surface layer production of beneficial proteins in weissella.
+TIHT== 
+ABHT== 
+
+PMID== 18176534
+TI  == analysis of vaginal lactic acid producing bacteria in healthy women.
+AB  == vaginal lactic acid-producing bacteria of 80 pre-menopausal women were studied by isolation on blood and deman-rogosa-sharpe agar, pcr with group-specific primers  for lactobacillus-denaturing gradient gel electrophoresis (dgge), and pcr with specific primers for v3 region in 16s rrna-temporal temperature gel electrophoresis (ttge). conventional isolation method on media detected only one  lactobacillus (lactobacillus brevis) while ttge detected only lactobacillus sp. dgge detected seven lactobacillus species; l. coleohominis, l. crispatus, l. iners, l. reuteri, l. rhamnosus, l. vaginalis, and leuconostoc lactis. l. acidophilus and l. gasseri, which are prevalent in western women, were not detected in korean women. furthermore, l. rhamnosus, leuc. lactis, l. coleohominis, and weissella cibaria, which were not previously reported in the vaginal microbiota of korean women, were detected. the five most prevalent labs in vaginal microbiota in korean women were l. iners, enterococcus faecalis, l. crispatus, leuc. lactis, and w. cibaria.
+TIHT== 
+ABHT== 
+

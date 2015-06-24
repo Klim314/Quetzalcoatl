@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 11004172
+TI  == characterization and expression of hmur, a tonb-dependent hemoglobin receptor of  porphyromonas gingivalis.
+AB  == the gram-negative pathogen porphyromonas gingivalis requires hemin for growth. hemoglobin bound to haptoglobin and hemin complexed to hemopexin can be used as heme sources, indicating that p. gingivalis must have a means to remove the hemin from these host iron-binding proteins. however, the specific mechanisms utilized  by p. gingivalis for the extraction of heme from heme-binding proteins and for iron transport are poorly understood. in this study we have determined that a newly identified tonb-dependent hemoglobin-hemin receptor (hmur) is involved in hemoglobin binding and utilization in p. gingivalis a7436. hmur shares amino acid homology with tonb-dependent outer membrane receptors of gram-negative bacteria involved in the acquisition of iron from hemin and hemoglobin, including hemr of  yersinia enterocolitica, shua of shigella dysenteriae, hpub of neisseria gonorrhoeae and n. meningitidis, hmbr of n. meningitidis, hgba of haemophilus ducreyi, and hgpb of h. influenzae. southern blot analysis confirmed the presence of the hmur gene and revealed genetic variability in the carboxy terminus of hmur in p. gingivalis strains 33277, 381, w50, and 53977. we also identified directly  upstream of the hmur gene a gene which we designated hmuy. upstream of the hmuy start codon, a region with homology to the fur binding consensus sequence was identified. reverse transcription-pcr analysis revealed that hmur and hmuy were cotranscribed and that transcription was negatively regulated by iron. inactivation of hmur resulted in a decreased ability of p. gingivalis to bind hemoglobin and to grow with hemoglobin or hemin as sole iron sources. escherichia coli cells expressing recombinant hmur were shown to bind hemoglobin and hemin. furthermore, purified recombinant hmur was demonstrated to bind hemoglobin. taken together, these results indicate that hmur serves as the major tonb-dependent outer membrane receptor involved in the utilization of both hemin and hemoglobin  in p. gingivalis.
+TIHT== 
+ABHT== 
+

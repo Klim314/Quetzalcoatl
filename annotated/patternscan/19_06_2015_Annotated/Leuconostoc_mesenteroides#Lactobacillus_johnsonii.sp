@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 21034840
+TI  == diversity of lactobacillus and bifidobacterium in feces of herbivores, omnivores  and carnivores.
+AB  == the lactobacillus and bifidobacterium population in the feces of 26 animals (16 species) were studied by culture-dependent and culture-independent techniques. lactobacilli were detected from a few herbivores, all carnivores and some omnivores. lactobacillus johnsonii, lactobacillus reuteri, lactobacillus salivarius, lactobacillus vaginalis and lactobacillus ingluviei were the most dominant lactobacilli in carnivores. these species were, however, not predominant in herbivores and omnivores. lactobacillus brevis, lactobacillus casei, lactobacillus parabuchneri, lactobacillus plantarum, lactobacillus sakei, leuconostoc mesenteroides and leuconostoc pseudomesenteroides, usually present in raw plant material, were present in omnivores but not in carnivores. bifidobacteria were detected in only four herbivores and two omnivores. bifidobacterium pseudolongum was the only bifidobacterium species detected in herbivores. bifidobacteria detected in the two omnivores are phylogenetically not closely related to known species and are possible novel species in the genus.
+TIHT== 
+ABHT== 
+
+PMID== 15808363
+TI  == a dynamic model that simulates the human upper gastrointestinal tract for the study of probiotics.
+AB  == a dynamic model of the human upper gastrointestinal (gi) tract was designed to better simulate conditions of ingestion and digestion, by including a food matrix as part of the model design. the dynamic model consisted of two reactors maintained at 37 degrees c, one simulating stomach conditions and the other simulating duodenum conditions. the model was tested by comparing survival of bacteria isolated from humans (bifidobacterium infantis, lactobacillus johnsonii, lactobacillus rhamnosus, and lactobacillus acidophilus) animals (bifidobacterium  animalis, 2 strains), and fermented dairy products (bifidobacterium longum, lactobacillus kefir, lactobacillus kefirgranum, and leuconostoc mesenteroides) with their survival as determined by conventional methods. five strains were not  able to survive (>3 log reduction) 15 min in a medium acidified at ph 2.0 using the conventional testing method, but survival was improved significantly for some strains in the dynamic model. two strains (bifidobacterium animalis atcc 25527 and lactobacillus johnsonii la-1 ncc 533) showed good survival with both methods. the dynamic model was shown to better represent the events during upper gi tract  transit than the conventional methods, by incorporation of a food matrix to buffer the gastric acidity and therefore expose bacteria to ph levels found in vivo before, during, and after a meal.
+TIHT== 
+ABHT== 
+
+PMID== 7551032
+TI  == mesentericin y105 gene clusters in leuconostoc mesenteroides y105.
+AB  == because of their potential usefulness as natural food preservatives, increased interest has focused on bacteriocins from lactic acid bacteria. mesentericin y105 is a small non-lantibiotic bacteriocin (class ii) encoded within a 35 kb plasmid  from leuconostoc mesenteroides y105 and it is active against listeria monocytogenes. using reverse genetic methodologies, an 8 kb draii fragment has been cloned that contains the mesentericin y105 structural gene, mesy, which encodes a precursor of the bacteriocin with a 24 amino acid n-terminal extension  ending with a gly-gly motif upstream of the cleavage site, which is typical of class ii bacteriocins. four other putative genes are associated with mesy within  two divergent putative operons. in addition to mesy, the first putative operon is predicted to encode a protein, similar to that encoded by orf2 in the leucocin a  operon, whose function remains to be elucidated. the second putative operon contains three orfs, two of which, mesd and mese, encode proteins that resemble atp-dependent transporters and accessory factors, respectively. for three other class ii bacteriocin systems (lactococcin a, pediocin pa-1, colicin v), these proteins have been shown to be involved in bacteriocin secretion independently of the general sec-dependent secretion pathway. the last putative gene (mesc) does not resemble any previously characterized gene. results concerning the heterologous expression of the cloned mesy in lactobacillus johnsonii nck64 suggest that the maturation and secretion functions dedicated to lactacin f (another class ii bacteriocin) are efficient for mesentericin y105 as well. this  characteristic may be of great interest in the development of industrial fermentation starters producing multiple bactericidal activities.
+TIHT== 
+ABHT== 
+

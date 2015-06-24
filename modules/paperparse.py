@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+	#!/usr/bin/env python3
 
 """
 paperparse.py
@@ -27,7 +27,9 @@ getNames(filePath):
 	Resultant getNames output:
 		[['escherichia coli', 'e. coli', 'escherichia'], ['pseudomonas aeruginosa', 'p. aeruginosa', 'pseudomonas']]
 """
-def getNames(filePath):	
+
+
+def getNames(filePath):
 	def shorten(tup):
 		return tup[0][0] + '. ' + tup[1]
 	filePath = os.path.basename(filePath)
@@ -36,6 +38,7 @@ def getNames(filePath):
 	# print(name)
 	name = [i.split('_') for i in name.split('#')]
 	name = [[i.lower() for i in j] for j in name]
+
 	#check if genus only
 	# print(name)
 	if len(name[0]) ==1:
@@ -86,35 +89,66 @@ spFile():
 	NOTE: For all future pubcrawl outputs, pmid is NECESSARY
 """
 class spFile():
-	def __init__(self, spFilePath):
+	def __init__(self, spFilePath, purge = False):
+		self.fileName = os.path.basename(spFilePath)
+	
 		loaded = self.readSpFile(spFilePath)
+		#print(loaded)
 		self.summary = self.loadSection(loaded["SUMMARY"])
+		if purge:
+			for i in self.summary:
+				self.summary[i] = '0'
 		papers = loaded['PAPERS'].split('\n\n')
 		self.papers = [self.loadSection(i) for i in papers]
+		#print(self.papers)
+		if purge:
+			for i in self.papers:
+				if i == {}:
+					continue
+				i["TIHT"] = ''
+				i["ABHT"] = ""
 		self.papers = [i for i in self.papers if i != {}]
 
 
+
+
 	def loadSection(self, section):
-		holder = [i.split("==") for i in section.split('\n') if i != '' and i != '\n']
-		result = {i:j.strip() for i,j in holder}
+		#holder = [i.split("==") for i in section.split('\n') if i != '' and i != '\n']
+		#HARDCODING 
+		holder = []
+		for i in section.split('\n'):
+			if i == '' or i == '\n':
+				continue
+			holder.append((i[:4], i[6:].strip()))
+		try:
+			result = {i:j.strip() for i,j in holder}
+		except ValueError:
+			print("ERROR")
+			print(holder)
+			print(section)
+			raise
 		return result
 
 
 	def readSpFile(self, spFilePath):
+
 		holder = {}
-		with open(spFilePath) as f:
-			for i in f:
-				#find the first section
-				if i[0] == '#':
-					continue
-				if i[0] == '@':
-					current = i[1:].strip()
-					holder[current] = ''
-				else:
-					#account for empty lines
-					if i == '':
+		try:
+			with open(spFilePath) as f:
+				for i in f:
+					#find the first section
+					if i[0] == '#':
 						continue
-					holder[current] += i
+					if i[0] == '@':
+						current = i[1:].strip()
+						holder[current] = ''
+					else:
+						#account for empty lines
+						if i == '':
+							continue
+						holder[current] += i
+		except:
+			print(spFilePath)
 		return holder
 
 	#reads the list of papers, converts them into paper tuples

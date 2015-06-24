@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 0
+POS == 0
+NEG == 0
+@PAPERS
+PMID== 25809116
+TI  == acetaldehyde production by major oral microbes.
+AB  == objectives: to assess acetaldehyde (ach) production by bacteria constituting the  oral microbiota and the inhibitory effects of sugar alcohols on ach production. materials and methods: the predominant bacterial components of the salivary microbiota of 166 orally healthy subjects were determined by barcoded pyrosequencing analysis of the 16s rrna gene. bacterial ach production from ethanol or glucose was measured using gas chromatography. in addition, inhibition by four sugars and five sugar alcohols of ach production was assayed. results: forty-one species from 16 genera were selected as predominant and prevalent bacteria based on the following criteria: identification in >/=95% of the subjects, >/=1% of mean relative abundance or >/=5% of maximum relative abundance. all neisseria species tested produced conspicuous amounts of ach from  ethanol, as did rothia mucilaginosa, streptococcus mitis and prevotella histicola exhibited the ability to produce ach. in addition, xylitol and sorbitol inhibited ach production by neisseria mucosa by more than 90%. conclusions: the oral microbiota of orally healthy subjects comprises considerable amounts of bacteria  possessing the ability to produce ach, an oral carcinogen. consumption of sugar alcohols may regulate ach production by oral microbes.
+TIHT== 
+ABHT== 
+
+PMID== 23714165
+TI  == the cultivable human oral gluten-degrading microbiome and its potential implications in coeliac disease and gluten sensitivity.
+AB  == coeliac disease is characterized by intestinal inflammation caused by gluten, proteins which are widely contained in the western diet. mammalian digestive enzymes are only partly capable of cleaving gluten, and fragments remain that induce toxic responses in patients with coeliac disease. we found that the oral microbiome is a novel and rich source of gluten-degrading organisms. here we report on the isolation and characterization of the cultivable resident oral microbes that are capable of cleaving gluten, with special emphasis on the immunogenic domains. bacteria were obtained by a selective culturing approach and enzyme activities were characterized by: (i) hydrolysis of paranitroanilide-derivatized gliadin-derived tripeptide substrates; (ii) gliadin  degradation in-gel (gliadin zymography); (iii) gliadin degradation in solution; (iv) proteolysis of the highly immunogenic alpha-gliadin-derived 33-mer peptide.  for selected strains ph activity profiles were determined. the culturing strategy yielded 87 aerobic and 63 anaerobic strains. species with activity in at least two of the four assays were typed as: rothia mucilaginosa hot-681, rothia aeria hot-188, actinomyces odontolyticus hot-701, streptococcus mitis hot-677, streptococcus sp. hot-071, neisseria mucosa hot-682 and capnocytophaga sputigena  hot-775, with rothia species being active in all four assays. cleavage specificities and substrate preferences differed among the strains identified. the approximate molecular weights of the enzymes were ~75 kd (rothia spp.), ~60 kd (a. odontolyticus) and ~150 kd (streptococcus spp.). in conclusion, this study identified new gluten-degrading microorganisms in the upper gastrointestinal tract. a cocktail of the most active oral bacteria, or their isolated enzymes, may offer promising new treatment modalities for coeliac disease.
+TIHT== 
+ABHT== 
+

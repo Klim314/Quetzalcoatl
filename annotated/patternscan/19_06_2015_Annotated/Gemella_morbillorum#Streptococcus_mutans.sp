@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19322715
+TI  == association of streptococcus pluranimalium with valvular endocarditis and septicaemia in adult broiler parents.
+AB  == the genus streptococcus consists of more than 60 species, but only streptococcus  equi subspecies zooepidemicus, streptococcus gallolyticus ssp. gallolyticus, streptococcus gallinaceus, streptococcus dysgalactiae, streptococcus mutans and streptococcus suis have been isolated from poultry. during investigations of the  aetiology of increased mortality in broiler parent stock at the end of production, pure cultures of streptococcal-like organisms that could not be classified among these six species were obtained from 24 cases of septicaemia or  valvular endocarditis and septicaemia. phenotypic characterization using the api20 strep kit identified the isolates as aerococcus viridans (10), aerococcus urinae (2), leuconostoc species (4), streptococcus salivarius (2), streptococcus  bovis ii 3 (1), enterococcus avium (3), enterococcus faecium (1) or gemella morbillorum (1). however, this identification was misleading as subsequent genetic investigations using pulse field gel electrophoresis and sequencing of 16s rrna genes showed that 19 isolates were classified as streptococcus pluranimalium, while the remaining isolates were e. avium (3), e. faecium (1) or  lactobacillus species (1). misidentification by api20 strep was related to the database provided by the manufacturer, as the phenotypic characteristics could identify these organisms as s. pluranimalium. the isolates of s. pluranimalium belonged to at least three different clones as determined by pulsed field gel electrophoresis of smai-digested genomic dna. the capacity that these isolates had to colonize the valvular endothelium was suggested by the occurrence of valvular endocarditis in 12 of 19 cases. demonstration of the same clone in all four houses on a farm suggested the pathogenic potential of this organism.
+TIHT== 
+ABHT== 
+
+PMID== 16133715
+TI  == in vitro activity of daptomycin against clinical isolates of gram-positive bacteria.
+AB  == we determined the activity of daptomycin, a recently fda-approved antimicrobial agent, against clinical isolates of gram-positive bacteria, including viridans group streptococci (16 streptococcus mitis species group, 12 s. mutans species group, 9 s. anginosus species group, 8 s. sanguinis species group, 5 s. salivarius species group) from patients with infective endocarditis, 32 methicillin-resistant staphylococcus aureus, 32 high-level penicillin-resistant streptococcus pneumoniae, 38 vancomycin-resistant enterococci (including 1 linezolid-resistant isolate), and the following unusual gram-positive bacteria: 3 listeria monocytogenes, 4 erysipelothrix rhusiopathiae, 9 corynebacterium species, 10 abiotrophia/granulicatella species, 2 rothia (stomatococcus) mucilaginosus, and 4 gemella morbillorum. daptomycin minimum inhibitory concentration (mic)(90) values for the viridans group streptococci, methicillin-resistant s. aureus, penicillin-resistant s. pneumoniae, and enterococcus species were 0.5, 0.5, < or =0.125, and 4 microg/ml, respectively. the daptomycin mic range for the unusual gram-positive bacteria was < or =0.125-2 microg/ml. we conclude that daptomycin has in vitro activity against viridans group streptococci associated with endocarditis as well as against several types  of unusual gram-positive bacteria that can cause endocarditis.
+TIHT== 
+ABHT== 
+

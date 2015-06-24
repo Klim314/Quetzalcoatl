@@ -1,0 +1,29 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24981220
+TI  == a synthetic o2 -tolerant butanol pathway exploiting native fatty acid biosynthesis in escherichia coli.
+AB  == several synthetic metabolic pathways for butanol synthesis have been reported in  escherichia coli by modification of the native coa-dependent pathway from selected clostridium species. these pathways are all dependent on the o2 -sensitive adhe2 enzyme from clostridium acetobutylicum that catalyzes the sequential reduction of both butyryl-coa and butyraldehyde. we constructed an o2  -tolerant butanol pathway based on the activities of an acp-thioesterase, acting  on butyryl-acp in the native fatty acid biosynthesis pathway, and a promiscuous carboxylic acid reductase. the pathway was genetically optimized by screening a series of bacterial acyl-acp thioesterases and also by modification of the physical growth parameters. in order to evaluate the potential of the pathway for butanol production, the acp-dependent butanol pathway was compared with a previously established coa-dependent pathway. the effect of (1) o2 -availability, (2) media, and (3) co-expression of aldehyde reductases was evaluated systematically demonstrating varying and contrasting functionality between the acp- and coa-dependent pathways. the yield of butanol from the acp-dependent pathway was stimulated by enhanced o2 -availability, in contrast to the coa-dependent pathway, which did not function well under aerobic conditions. similarly, whilst the coa-dependent pathway only performed well in complex media, the acp-dependent pathway was not influenced by the choice of media except in the absence of o2 . a combination of a thioesterase from bacteroides fragilis and the aldehyde reductase, ahr, from e. coli resulted in the greatest yield of butanol.  a product titer of ~300 mg/l was obtained in 24 h under optimal batch growth conditions, in most cases exceeding the performance of the reference coa-pathway  when evaluated under equivalent conditions.
+TIHT== 
+ABHT== 
+
+PMID== 9648740
+TI  == cloning of an ef-p homologue from bacteroides fragilis that increases b. fragilis glutamine synthetase activity in escherichia coli.
+AB  == investigations of possible regulators of bacteroides fragilis glutamine synthetase (gs) activity were done in escherichia coli using a compatible dual-plasmid system. the b. fragilis glna gene, together with upstream and downstream flanking regions, was cloned onto the low copy number plasmid pacyc184 and expressed in the e. coli glna ntrb ntrc deletion strain, ymc11. gs activity was monitored following co-transformation with a b. fragilis genomic library carried on the compatible plasmid pecor251. a gene was cloned that caused a twofold increase in b. fragilis gs activity but did not affect the activity of the e. coli gs enzyme or the b. fragilis sucrase (scrl). deletion of the b. fragilis glna downstream region decreased basal levels of gs activity, but did not affect the ability of the cloned gene to increase the b. fragilis gs activity. reporter gene analysis, using the b. fragilis glna promoter region fused to the promoterless clostridium acetobutylicum endoglucanase gene, showed no increase in reporter gene activity. this demonstrated that the increase in gs  activity was not regulated at the transcriptional level, and that the cloned gene product was not affecting the copy number of the plasmid in trans. sequence data  indicated that the cloned gene had good amino acid identity to a range of elongation factor p (ef-p) proteins, the highest being to that of a synechocystis sp (48%), and the least to mycobacterium genitalium (27%). amino acid identity to the e. coli ef-p was intermediate (37%). a possible role for ef-p in enhancing translation of the b. fragilis glna mrna is proposed.
+TIHT== 
+ABHT== 
+
+PMID== 7680708
+TI  == a reporter gene vector to investigate the regulation of glutamine synthetase in bacteroides fragilis bf1.
+AB  == the clostridium acetobutylicum egla gene, encoding a beta-1,4-endoglucanase (eg), was shown to be a useful reporter gene for the study of gene expression in bacteroides fragilis. the egla reporter gene has the advantages that it can be easily identified in both escherichia coli and b. fragilis on agar media containing carboxymethylcellulose, and eg production can be rapidly quantified in liquid medium. since the b. fragilis glutamine synthetase (gs) is inactivated in  permeabilized cells and cell extracts, the egla reporter gene was used to study the regulation of gs production in b. fragilis. gene fusions containing the gs glna promoter region fused to the promoterless egla gene showed that glna expression was regulated by nitrogen in b. fragilis at the transcriptional level. a glna upstream region containing a near-perfect direct repeat sequence was essential for efficient gs expression and for regulation by nitrogen.
+TIHT== 
+ABHT== 
+
+PMID== 6177280
+TI  == inhibition of ribonucleic acid polymerase by a bacteriocin from bacteroides fragilis.
+AB  == the bacteroides fragilis bacteriocin which inhibits ribonucleic acid (rna) polymerase activity had a narrow activity spectrum in vivo and only inhibited the growth of certain b. fragilis strains. in vitro the bacteriocin was not specific  and inhibited rna polymerases from widely diverse bacterial genera. rna polymerases from rifampin-resistant strains of bacteroides thetaiotaomicron and clostridium acetobutylicum were resistant to the bacteriocin in vitro. purified bacteriocin bound to partially purified rna polymerase, and both proteins were cosedimented in a glycerol gradient. in the rna polymerase reaction, the bacteriocin acted as a competitive inhibitor for adenosine, cytidine, and uridine 5'-triphosphates and as a noncompetitive inhibitor for guanosine 5'-triphosphate. the bacteriocin did not inhibit rna polymerase from chicken embryos.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24018615
+TI  == lactobacillus reuteri and escherichia coli in the human gut microbiota may predict weight gain associated with vancomycin treatment.
+AB  == background: antibiotics, used for 60 years to promote weight gain in animals, have been linked to obesity in adults and in children when administered during early infancy. lactobacillus reuteri has been linked to obesity and weight gain in children affected with kwashiorkor using ready-to-use therapeutic food. in contrast, escherichia coli has been linked with the absence of obesity. both of these bacteria are resistant to vancomycin. objectives and methods: we assessed vancomycin-associated weight and gut microbiota changes, and tested whether bacterial species previously linked with body mass index (bmi) predict weight gain at 1 year. all endocarditis patients treated with vancomycin or amoxicillin  in our center were included from january 2008 to december 2010. bacteroidetes, firmicutes, lactobacillus and methanobrevibacter smithii were quantified using real-time pcr on samples obtained during the 4-6 weeks antibiotic regimen. l. reuteri, l. plantarum, l. rhamnosus, bifidobacterium animalis and e. coli were quantified on stool samples obtained during the first week of antibiotics. results: of the193 patients included in the study, 102 were treated with vancomycin and 91 with amoxicillin. vancomycin was associated with a 10% bmi increase (odds ratio (or) 14.1; 95% confidence interval (ci; 1.03-194); p=0.047)  and acquired obesity (4/41 versus 0/56, p=0.01). in patients treated with vancomycin, firmicutes, bacteroidetes and lactobacillus increased, whereas m. smithii decreased (p<0.05). the absence of e. coli was an independent predictor of weight gain (or=10.7; 95% ci (1.4-82.0); p=0.02). strikingly, a patient with an 18% bmi increase showed a dramatic increase of l. reuteri but no increase of e. coli. conclusion: the acquired obesity observed in patients treated with vancomycin may be related to a modulation of the gut microbiota rather than a direct antibiotic effect. l. reuteri, which is resistant to vancomycin and produces broad bacteriocins, may have an instrumental role in this effect.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24278920
+TI  == analysis of bacterial flora associated with peri-implantitis using obligate anaerobic culture technique and 16s rdna gene sequence.
+AB  == purpose: to analyze and characterize the predominant bacterial flora associated with peri-implantitis by using culture techniques under obligate anaerobic conditions and 16s rdna gene sequences. materials and methods: subgingival bacterial specimens were taken from 30 patients: control (n = 15), consisting of  patients with only healthy implants; and test (n = 15), consisting of patients with peri-implantitis. in both groups, subgingival bacterial specimens were taken from the deepest sites. an anaerobic glove box system was used to cultivate bacterial strains. the bacterial strains were identified by 16s rdna genebased polymerase chain reaction and comparison of the gene sequences. results: peri-implantitis sites had approximately 10-fold higher mean colony forming units (per milliliter) than healthy implant sites. a total of 69 different bacterial species were identified in the peri-implantitis sites and 53 in the healthy implant sites. the predominant bacterial species in the peri-implantitis sites were eubacterium nodatum, e. brachy, e. saphenum, filifactor alocis, slackia exigua, parascardovia denticolens, prevotella intermedia, fusobacterium nucleatum, porphyromonas gingivalis, centipeda periodontii, and parvimonas micra. the predominant bacteria in healthy implant sites apart from streptococcus were pseudoramibacter alactolyticus, veillonella species, actinomyces israelii, actinomyces species, propionibacterium acnes, and parvimonas micra. conclusion: these results suggest that the environment in the depths of the sulcus showing peri-implantitis is well suited for growth of obligate anaerobic bacteria. the present study demonstrated that the sulcus around oral implants with peri-implantitis harbors high levels of asaccharolytic anaerobic gram-positive rods (aagprs) such as e. nodatum, e. brachy, e. saphenum, filifactor alocis, slackia exigua, and gram-negative anaerobic rods, suggesting that conventional periodontopathic bacteria are not the only periodontal pathogens active in peri-implantitis, and that aagprs may also play an important role.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 15383024
+TI  == photochemical treatment of platelet concentrates with amotosalen and long-wavelength ultraviolet light inactivates a broad spectrum of pathogenic bacteria.
+AB  == background: bacterial contamination of platelet (plt) concentrates can result in  transfusion-transmitted sepsis. a photochemical treatment (pct) process with amotosalen hcl and long-wavelength ultraviolet light (uva), which cross-links nucleic acids, was developed to inactivate bacteria and other pathogens in plt concentrates. study design and methods: high titers of pathogenic aerobic and anaerobic gram-positive bacteria (10 species), aerobic gram-negative bacteria (7  species), and spirochetes (2 species) were added to single-donor plt concentrates containing 3.0 x 10(11) to 6.0 x 10(11) plts in approximately 300 ml of 35 percent plasma and 65 percent plt additive solution (intersol, baxter healthcare) or saline. after pct with 150 micro mol per l amotosalen and 3 j per cm(2) uva, residual bacterial levels were detected by sensitive microbiologic methods. results: the level of inactivation of viable bacteria was expressed as log reduction. log reduction of gram-positive bacteria for staphylococcus epidermidis was > 6.6; for staphylococcus aureus, 6.6; for streptococcus pyogenes, > 6.8; for listeria monocytogenes, > 6.3; for corynebacterium minutissimum, > 6.3; for bacillus cereus (vegetative), > 5.5; for lactobacillus sp., > 6.4; for bifidobacterium adolescentis, > 6.0; for propionibacterium acnes, > 6.2; and for  clostridium perfringens, > 6.5. log reduction of gram-negative bacteria for escherichia coli was > 6.4; for serratia marcescens, > 6.7; for klebsiella pneumoniae, > 5.6; for pseudomonas aeruginosa, 4.5; for salmonella choleraesuis,  > 6.2; for yersinia enterocolitica, > 5.9; and for enterobacter cloacae, 5.9. log reduction of spirochetes for treponema pallidum was 6.8 to 7.0, and for borrelia  burgdorferi, > 6.9. conclusion: pct inactivates high levels of a broad spectrum of pathogenic bacteria. the inactivation of bacteria in plt concentrates offers the potential to prospectively prevent plt-transfusion-associated bacteremia.
+TIHT== 
+ABHT== 
+
+PMID== 3818925
+TI  == bifidobacterium, bacteroides, and clostridium spp. in fecal samples from breast-fed and bottle-fed infants with and without iron supplement.
+AB  == bifidobacterium, bacteroides, and clostridium spp. isolated from the feces of 23  neonates during the first 3 months of life were identified. of the 23 neonates, 10 were breast fed, 6 received an infant formula with iron supplement (5 mg/liter), and 7 received the formula without iron supplement (iron concentration, less than 0.5 mg/liter). the bifidobacterium spp. most frequently  isolated from the three groups of infants were b. longum, b. breve, b. adolescentis, and b. bifidum. the bacteroides spp. most frequently isolated were  b. fragilis and b. vulgatus. the most common clostridium sp. in the three groups  of infants was c. perfringens. the type of milk did not select for species of bifidobacterium, bacteroides, or clostridium, except for clostridium butyricum, which was isolated significantly more often from bottle-fed infants with iron supplement than from the other groups, and clostridium tertium, which was more often isolated from breast-fed infants. the species of the three anaerobic genera did not persist for a long period of time in the three groups of infants.
+TIHT== 
+ABHT== 
+

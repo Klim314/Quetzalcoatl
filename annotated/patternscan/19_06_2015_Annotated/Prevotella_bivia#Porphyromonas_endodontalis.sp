@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 18315434
+TI  == tannerella forsythia and pseudomonas aeruginosa in subgingival bacterial samples  from parous women.
+AB  == background: information on the subgingival microbiota in parous women is limited. the present study assessed 74 bacterial species at periodontal sites. methods: subgingival bacterial plaque was collected from women > or =6 months after delivery. bacteria were assessed by the checkerboard dna-dna hybridization method. gingivitis was defined as > or =20% of sites with bleeding on probing (bop), and periodontitis was defined as radiographic evidence of bone loss and probing depths > or =5.0 mm. results: a total of 197 women (mean age: 29.4 +/- 6.8 years; range: 18 to 46 years) were included in the study. gingivitis was identified in 82 of 138 subjects without evidence of periodontitis (59.4%). periodontitis was found in 59 women (32%). higher bacterial levels in subjects with gingivitis compared to those without evidence of gingivitis were observed for actinomyces neuii, bifidobacterium bifidum, corynebacterium pseudogenitalis,  porphyromonas endodontalis, prevotella bivia, and pseudomonas aeruginosa (p <0.001 for each). higher bacterial levels in subjects with periodontitis compared to those without periodontitis (bop not accounted for) were found for 32 of 79 species (p <0.001) including lactobacillus iners, haemophilus influenzae, porphyromonas gingivalis, tannerella forsythia (previously t. forsythensis), prevotella bivia, p. aeruginosa, and staphylococcus aureus. binary univariate logistic regression analysis identified that p. aeruginosa (p <0.001) and t. forsythia (p <0.05) were independently predictive of periodontal status. the odds ratio of having p. aeruginosa at levels > or =1 x 10(5) in the sample and periodontitis was 3.1 (95% confidence interval: 1.6 to 5.9; p <0.001). conclusion: in addition to p. gingivalis and t. forsythia, a diverse microbiota,  including p. aeruginosa, p. endodontalis, p. bivia, and s. aureus, can be found in subgingival plaque samples from women of child-bearing age with periodontitis.
+TIHT== 
+ABHT== 
+
+PMID== 11771577
+TI  == antibacterial activity of fifth-generation dentin bonding systems.
+AB  == past concepts that the pulp does not become infected until an actual carious exposure takes place have been challenged. the antibacterial effects of the dentin bonding systems single bond, prime&bond nt, and excite were evaluated using the bacteria streptococcus mutans atcc 25175, streptococcus intermedius, lactobacillus acidophilus, prevotella oris, prevotella bivia, prevotella denticola, porphyromonas gingivalis, porphyromonas endodontalis, and clostridium  ramosum with a disk diffusion method. chlorhexidine (0.2%) was used as a positive control. after incubation zones of inhibited bacterial growth were measured. prime&bond nt showed growth inhibition for all bacterial strains. lactobacillus acidophilus and streptococcus mutans were remarkably resistant to single bond, whereas ex produced no inhibitory effect on porphyromonas endodontalis, although  the adhesive produced the maximum halo inhibition to streptococcus mutans (15+/-1 mm), showing an antibacterial effect closest to chlorhexidine. the variety of results obtained in this study suggest that antibacterial properties of current dentin adhesives may depend on components that are originally incorporated to promote adhesion.
+TIHT== 
+ABHT== 
+

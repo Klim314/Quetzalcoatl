@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25979885
+TI  == a versatile family 3 glycoside hydrolase from bifidobacterium adolescentis hydrolyzes beta-glucosides of the fusarium mycotoxins deoxynivalenol, nivalenol and ht-2 toxin in cereal matrix.
+AB  == glycosylation plays a central role in plant defense against xenobiotics including mycotoxins. glucoconjugates of fusarium toxins such as deoxynivalenol-3-o-beta-d-glucoside (don-3g) often co-occur with their parental toxins in cereal based food and feed. to date, only limited information exists on occurrence of glucosylated mycotoxins and their toxicological relevance. due to a lack of analytical standards and the requirement of high end analytical instrumentation for their direct determination, hydrolytic cleavage of beta-glucosides followed by analysis of the released parental toxins has been proposed as an indirect determination approach. this study compares the abilities of several fungal and recombinant bacterial beta-glucosidases to hydrolyze the model analyte don-3g. furthermore, substrate specificities of two fungal and two  bacterial (lactobacillus brevis, bifidobacterium adolescentis) glycoside hydrolase family 3 beta-glucosidases were evaluated on a broader range of substrates. the purified recombinant enzyme from b. adolescentis (babgl) displayed high flexibility in substrate specificity and exerted the highest hydrolytic activity towards 3-o-beta-d-glucosides of the trichothecenes deoxynivalenol (don), nivalenol and ht-2 toxin. a km of 5.4 mm and a vmax of 16 mumol min-1 mg-1 were determined with don-3g. due to low product inhibition (don, glucose) and sufficient activity in several extracts of cereal matrices, this enzyme has the potential to be used for indirect analyses of trichothecene-beta-glucosides in cereal samples.
+TIHT== 
+ABHT== 
+
+PMID== 23822770
+TI  == xylooligosaccharides from hardwood and cereal xylans produced by a thermostable xylanase as carbon sources for lactobacillus brevis and bifidobacterium adolescentis.
+AB  == to compare xylans from forestry with agricultural origins, hardwood xylan (birch) and cereal arabinoxylan (rye) were hydrolyzed using two variants of the xylanase  rmxyn10a, full-length enzyme and catalytic module only, from rhodothermus marinus . cultivations of four selected bacterial species, using the xylooligosaccharide  (xos) containing hydrolysates as carbon source, showed selective growth of lactobacillus brevis dsmz 1264 and bifidobacterium adolescentis atcc 15703. both  strains were confirmed to utilize the xos fraction (dp 2-5), whereas putative arabinoxylooligosaccharides from the rye arabinoxylan hydrolysate were utilized by only b. adolescentis. escherichia coli did not grow, despite its capability to grow on the monosaccharides arabinose and xylose. it was also shown that pediococcus parvulus strain 2.6 utilized neither xylose nor xos for growth. in summary, rmxyn10a or its catalytic module proved suitable for high-temperature hydrolysis of hardwood xylan and cereal arabinoxylan, producing xos that could qualify as prebiotics for use in functional food products.
+TIHT== 
+ABHT== 
+
+PMID== 8645949
+TI  == influence of two infant formulas and human milk on the development of the faecal  flora in newborn infants.
+AB  == the establishment of the faecal flora of 39 full-term infants fed exclusively on  breast milk (n = 20) or with two different modern adapted cow's milk formulas (n  = 19) was studied during the first 3 months of life. one formula investigated was based on 100% bovine casein as the protein source whereas the other formula contained bovine milk proteins with a whey/casein ratio of 60:40. a faecal flora  rich in bifidobacteria was found in all study groups; the growth of putrefactive  bacteria (especially bacteroides spp.), however, was limited. in formula-fed infants, significantly higher bacterial counts of enterococci and clostridia were detected compared to breast milk-fed infants. similarities and differences due to the feeding regimen were particularly reflected in the pattern of the anaerobic bacterial species. bifidobacterium bifidum, b. infantis and b. breve constituted  the majority of the bifidobacterial flora independent of the type of milk feeding. other bifidobacterial species such as b. longum, b. adolescentis, b. parabifidum and b. pseudo-catenulatum were detected in high numbers and at low frequencies in breastfed infants. the latter three were observed in infants fed the whey/casein formula as well. it seems that infants fed a casein formula develop a faecal flora more like that of breastfed infants concerning lactobacillus spp. (especially l. fermentum and l. brevis).
+TIHT== 
+ABHT== 
+

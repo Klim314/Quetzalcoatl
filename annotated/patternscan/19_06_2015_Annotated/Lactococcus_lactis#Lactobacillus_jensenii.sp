@@ -1,0 +1,35 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 20412906
+TI  == identification of the bacterial biodiversity in koumiss by denaturing gradient gel electrophoresis and species-specific polymerase chain reaction.
+AB  == bacterial biodiversity in traditional koumiss fermented milk was studied by denaturing gradient gel electrophoresis (dgge). target dna bands were identified  according to the reference species ladder, constructed in this study. comigrating bands present in the dgge profiles were resolved by species-specific pcr. the results revealed a novel bacterial profile and extensive bacterial biodiversity in koumiss. the dominant lactic acid bacteria included lactobacillus acidophilus, lactobacillus helveticus, lactobacillus fermentum, and lactobacillus kefiranofaciens. frequently encountered bacterial species were enterococcus faecalis, lactococcus lactis, lactobacillus paracasei, lactobacillus kitasatonis, and lactobacillus kefiri. leuconostoc mesenteroides, streptococcus thermophilus,  lactobacillus buchneri, and lactobacillus jensenii were occasionally found in this product. in addition, l. buchneri, l. jensenii, and l. kitasatonis, which were never previously isolated by culture-dependent methods, were identified for  the first time in the xinjiang koumiss. furthermore, conventional cultivation was performed by plating samples on m17, de man-rogosa-sharpe, halligan-pearce, and kenner fecal media. the results revealed that lactobacilli were the dominant species in the koumiss ecosystem, which was consistent with the results obtained  by the dgge analysis. this is the first systematic study of the microbial composition in koumiss, and our findings will be helpful in selecting appropriate strains for the manufacture of this product at the industrial level.
+TIHT== 
+ABHT== 
+
+PMID== 24031520
+TI  == identification of lactic acid bacteria associated with traditional cachaca fermentations.
+AB  == during the production of traditional cachaca (alembic s cachaca), contamination of the fermented must is one of the factors leading to economic losses in the beverage manufacturing industry. the diversity of bacterial populations and the role of these microorganisms during the cachaca production process are still poorly understood in brazil. in our work, the fermentation process was followed in two distilleries located in the state of minas gerais. the objective of this work was to identify the populations of lactic acid bacteria present during cachaca fermentation using physiological and molecular methods. lactic acid bacteria were isolated in high frequencies during all of the fermentative processes, and lactobacillus plantarum and l. casei were the most prevalent species. other lactic acid bacteria were found in minor frequencies, such as l. ferintoshensis, l. fermentum, l. jensenii, l. murinus, lactococcus lactis, enterococcus sp. and weissella confusa. these bacteria could contribute to the increase of volatile acidity levels or to the production of compounds that could  influence the taste and aroma of the beverage.
+TIHT== 
+ABHT== 
+
+PMID== 15954663
+TI  == use of lactic and propionic acid bacteria in the production of fermented parsley  juice.
+AB  == taking into consideration the proliferation rate of propionibacterium sp. cells,  ph changes and sensory properties of the fermented product obtained, selection of propionic acid bacteria (pab) was made in order to determine their usefulness for the production of fermented parsley juice. the analysis included 12 strains, belonging to the following species: p. thoenii (4 strains), p. jensenii (6 strains), p. freudenreichii (1 strain) and p. acidipropionici (1 strain). the experiments show that many strains of propionic acid rods develop well in parsley juice, allowing to achieve the desired taste qualities of the product. the propionibacterium strains selected by elimination were used as components of vaccine containing: lactobacillus plantarum, lactococcus lactis ssp. lactis, saccharomyces cerevisiae.
+TIHT== 
+ABHT== 
+
+PMID== 7501585
+TI  == in vitro fructooligosaccharide utilization and inhibition of salmonella spp. by selected bacteria.
+AB  == in vitro experiments were conducted to determine: 1) inhibitory capacities of potential direct-fed microbial bacteria against salmonella serotypes; and 2) the  ability of bifidobacterium bifidum, enterococcus faecium, lactobacillus casei, lactococcus lactis, pediococcus sp., and salmonella spp. to grow in media containing fructooligosaccharides (fos-50 or fos pure formulation) as the only carbohydrate source. thirteen bacteria (two strains of bacillus coagulans, bacillus licheniformis, bacillus subtilis, b. bifidum, e. faecium, two strains of lactobacillus acidophilus, l. casei, pediococcus sp., propionibacterium acidopropionici, p. jensenii, and propionibacterium sp.) were tested for inhibition of six salmonella serotypes (s. california, s. enteritidis, s. heidelberg, s. mission, s. senftenberg, and s. typhimurium) using a spot-the-lawn technique. bifidobacterium bifidum, e. faecium, all lactobacilli, and pediococcus sp. clearly inhibited growth of all salmonella serotypes. in the growth experiments, e. faecium, l. lactis, and pediococcus sp. grew in media with either fos-50 or the pure formulation of fos as the sole carbohydrate source. all tested salmonella serotypes utilized fos-50 for growth; however growth varied among the  serotypes. in contrast, none of the salmonella serotypes grew in media containing the pure formulation of fos as the only carbohydrate source.
+TIHT== 
+ABHT== 
+
+PMID== 1539976
+TI  == jenseniin g, a heat-stable bacteriocin produced by propionibacterium jensenii p126.
+AB  == the genus propionibacterium includes cutaneous species typically found on human skin and the dairy or classical species (propionibacterium freudenreichii, p. jensenii, p. thoenii, and p. acidipropionici) used industrially for the production of swiss cheese and propionic acid. grinstead (1989, m.s. thesis, iowa state university, ames) has previously observed that some dairy propionibacteria  inhibit other species in the classical grouping. we further investigated the inhibitor(s) produced by p. jensenii p126 (atcc 4872). an antagonist(s) from anaerobic agar cultures of p126 strongly inhibited two closely related strains of propionibacteria, p. acidipropionici p5 and p. jensenii p54, and lactobacillus bulgaricus ncdo 1489, lactobacillus delbrueckii subsp. lactis atcc 4797, lactococcus cremoris ncdo 799, and lactococcus lactis subsp. lactis c2. the inhibitor, designated jenseniin g, was active at ph 7.0; inactivated by treatment with pronase e, proteinase k, and type 14 protease; insensitive to catalase; and  stable to freezing, cold storage (4 degrees c, 3 days), and heat (100 degrees c,  15 min). classification of the inhibitor as a bacteriocin is supported by its proteinaceous nature and its bactericidal activity against l. delbrueckii subsp.  lactis atcc 4797. the lack of detectable plasmids suggests a chromosomal location for the determinant(s) of jenseniin g.
+TIHT== 
+ABHT== 
+

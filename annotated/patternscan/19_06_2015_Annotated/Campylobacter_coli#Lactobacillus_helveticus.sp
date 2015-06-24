@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23234730
+TI  == screening for lactic acid bacteria capable of inhibiting campylobacter jejuni in  in vitro simulations of the broiler chicken caecal environment.
+AB  == thermotolerant campylobacter spp., specifically campylobacter jejuni and campylobacter coli, are the most common bacterial causes of human gastroenteritis in developed countries. consumption of improperly prepared poultry products and cross contamination are among the main causes of human campylobacteriosis. the aim of this study was to identify lactic acid bacterial (lab) strains capable of  inhibiting c. jejuni growth in initial in vitro trials ('spot-on-lawn' method), as well as in batch fermentation studies mimicking the broiler caecal environment. these experiments served as an indication for using these strains to decrease the capability of campylobacter to colonise and grow in the chicken caeca during primary production, with the aim of reducing the number of human campylobacteriosis cases. a total of 1,150 lab strains were screened for anti-campylobacter activity. six strains were selected: members of the species lactobacillus reuteri, lactobacillus agilis, lactobacillus helveticus, lactobacillus salivarius, enterococcus faecalis and enterococcus faecium. after treatment with catalase, proteinase k and a-chymotrypsin, anti-campylobacter activity of cell-free culture supernatant fluid (csf) for all six strains was retained, which indicated that activity was probably not exerted by bacteriocin production. based on the activity found in csf, the compounds produced by the selected strains are secreted and do not require presence of live bacterial producer cells for activity. during initial in vitro fermentation experiments, the e. faecalis strain exhibited the highest inhibitory activity for c. jejuni and was selected for further fermentation experiments. in these experiments we tested for therapeutic or protective effects of the e. faecalis strain against c. jejuni mb 4185 infection under simulated broiler caecal growth conditions. the best inhibition results were obtained when e. faecalis was inoculated before the  c. jejuni strain, lowering c. jejuni counts at least one log compared to a positive control. this effect was already observed 6 h after c. jejuni inoculation.
+TIHT== 
+ABHT== 
+

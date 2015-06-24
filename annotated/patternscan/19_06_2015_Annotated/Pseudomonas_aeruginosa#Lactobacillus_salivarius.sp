@@ -1,0 +1,35 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23852236
+TI  == antibacterial effect of different concentrations of garlic (allium sativum) extract on dental plaque bacteria.
+AB  == background: allium sativum, commonly known as garlic, exhibits antibacterial effects against a wide range of bacteria. aim: the objective of this in vitro study was to assess the antibacterial effect of different concentrations of garlic extract against human dental plaque microbiota. materials and methods: antibacterial activities of four different concentrations of garlic extract (5%,  10%, 20%, and 100%) were evaluated against streptococcus mutans, streptococcus sanguis, streptococcus salivarius, pseudomonas aeruginosa, and lactobacillus spp. using the disk diffusion method. papers soaked in 0.2% concentration chlorhexidine gluconate and saline were used as positive and negative controls, respectively. the data were subjected to one-way anova and the tukey multiple comparisons test at a 5% significance level. results: all bacterial strains were  inhibited by all test materials. the inhibition zones of the different concentrations of garlic extract were not significantly different for s. mutans,  s. sanguis, and s. salivarius. for p. aeruginosa and lactobacillus spp. the inhibition zones of 5%, 10% and 20% concentrations were not significantly different from one another, but they were significantly more than that of the 100% extract. conclusion: the 5%, 10%, 20%, and 100% concentrations of garlic extract had similar effects, so further studies seem to be indicated on the usefulness of the 5% extract.
+TIHT== 
+ABHT== 
+
+PMID== 23122647
+TI  == in vitro evaluation of the probiotic potential of lactobacillus salivarius smxd51.
+AB  == lactobacillus salivarius smxd51 was previously isolated from the cecum of a tunisian poultry and found to produce a bacteriocin-like substance highly active  against the foodborne pathogen campylobacter jejuni. the aim of this study was to examine some probiotic properties of the strain: acid and bile tolerance, capacity of adhesion, stimulation of immune defences (il-6, il-8, il-10 and beta-defensin 2), and modulation of the barrier integrity. the results showed that l. salivarius smxd51 can tolerate gastrointestinal conditions (acid and bile), adhere to intestinal cells and stimulate the immune system. the bacterium  strengthened the intestinal barrier functions through the increase of the transepithelial electrical resistance (teer) and reinforcement of the f-actin cytoskeleton. one hour pretreatment with l. salivarius smxd51 protected against pseudomonas aeruginosa pao1-induced decrease of teer and damage of the f-actin cytoskeleton. our results highlight that l. salivarius smxd51 fulfils the principle requirements of an efficient probiotic and may be seen as a reliable candidate for further validation studies in chicken.
+TIHT== 
+ABHT== 
+
+PMID== 16332887
+TI  == cell adsorption and selective desorption for separation of microbial cells by using chitosan-immobilized silica.
+AB  == cell adsorption and selective desorption for separation of microbial cells were conducted by using chitosan-immobilized silica (cis). when chitosan was immobilized onto silica surfaces with glutaraldehyde, bacterial cells adsorbed well and retained viability. testing of the adsorption and desorption ability of  cis using various microbes such as escherichia coli, aeromonas hydrophila, pseudomonas aeruginosa, bacillus subtilis, micrococcus luteus, staphylococcus aureus, staphylococcus epidermidis, lactobacillus casei, streptococcus mutans, streptococcus sobrinus, streptococcus salivarius, saccharomyces cerevisiae, saccharomyces ludwigii, and schizosaccharomyces pombe revealed that most microbes could be adsorbed and selectively desorbed under different conditions. in particular, recovery was improved when l-cysteine was added. a mixture of two bacterial strains adsorbed onto cis could also be successfully separated by use of specific solutions for each strain. most of the desorbed cells were alive. thus, quantitative and selective fractionation of cells is readily achievable by  employing chitosan, a known antibacterial material.
+TIHT== 
+ABHT== 
+
+PMID== 15530005
+TI  == screening of lactic-acid bacteria from south african barley beer for the production of bacteriocin-like compounds.
+AB  == strains of lactobacillus paracasei subsp. paracasei (strain st11br), l. pentosus  (strain st151br), l. plantarum (strain st13br), and lactococcus lactis subsp. lactis (strain st34br) producing bacteriocin-like peptides were isolated from barley beer produced in the western, northern and eastern provinces of south africa. the peptides (bacst11br, bacst151br, bacst13br and bacst34br) lost their  activity after treatment with proteinase k, a proteinase, papain, chymotrypsin, trypsin, pepsin and pronase, but not when they were treated with alpha-amylase, suggesting that the peptides are not glycosylated. the peptides inhibited the growth of lactobacillus casei, l. sakei, pseudomonas aeruginosa, escherichia coli and enterococcus faecalis, but not enterobacter cloacae, lactobacillus bulgaricus subsp. delbrueckii, l. plantarum, l. salivarius, listeria innocua, staphylococcus aureus, streptococcus uberis, s. agalactiae, s. caprinus and s. pneumoniae. peptides bacst11br and bacst13br differed from the other 2 peptides by failing to kill klebsiella pneumoniae and one of the e. coli strains. peptides were stable after 2 h of incubation at ph 2.0-12.0, and after 90 min at 100 degrees c. when autoclaved (121 degrees c, 20 min), only bacst13br lost its activity. the bacteriocin-like peptides were produced at a growth temperature of 30 degrees c,  but not at 37 degrees c.
+TIHT== 
+ABHT== 
+
+PMID== 8110603
+TI  == antimicrobial activity of neutralized extracellular culture filtrates of lactic acid bacteria isolated from a cultured indian milk product ('dahi').
+AB  == neutralized extracellular culture filtrate obtained from isolates of lactobacillus acidophilus, lactobacillus delbruecki ssp. bulgaricus, lactobacillus salivarius and lactococcus lactis ssp. lactis from 'dahi' showed weak to moderate inhibition of staphylococcus aureus, bacillus cereus, escherichia coli, bacillus brevis, bacillus circulans, bacillus coagulans, bacillus laterosporus, bacillus subtilis and pseudomonas aeruginosa when tested by the diffusion agar well assay method. the effective minimum quantity of lactic culture filtrates required to obtain complete inhibition of an inoculum of 10(3)  cfu/ml of the bacteria tested was between 20 and 26% (vol/vol), as determined by  the agar incorporation method. neutralized extracellular culture filtrate of these lactic cultures added at a level of 10% in sterile, 10% reconstituted non-fat dry milk was able to either suppress or retard growth of selected bacterial cultures when incubated at 37 degrees c for 24 h. this study indicated  the antimicrobial activity of dahi and the potential of using neutralized extracellular culture filtrate of lactic acid bacteria in the biopreservation of  foods.
+TIHT== 
+ABHT== 
+

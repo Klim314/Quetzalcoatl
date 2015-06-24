@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 20118380
+TI  == molecular indicators used in the development of predictive models for microbial source tracking.
+AB  == a number of chemical, microbial, and eukaryotic indicators have been proposed as  indicators of fecal pollution sources in water bodies. no single one of the indicators tested to date has been able to determine the source of fecal pollution in water. however, the combined use of different indicators has been demonstrated to be the best way of defining predictive models suitable for determining fecal pollution sources. molecular methods are promising tools that could complement standard microbiological water analysis. in this study, the feasibility of some proposed molecular indicators for microbial source tracking (mst) was compared (names of markers are in parentheses): host-specific bacteroidetes (hf134, hf183, cf128, and cf193), bifidobacterium adolescentis (ado), bifidobacterium dentium (den), the gene esp of enterococcus faecium, and host-specific mitochondrial dna associated with humans, cattle, and pigs (humito, bomito, and pomito, respectively). none of the individual molecular markers tested enabled 100% source identification. they should be combined with other markers to raise sensitivity and specificity and increase the number of sources that are identified. mst predictive models using only these molecular markers were developed. the models were evaluated by considering the lowest number of molecular indicators needed to obtain the highest rate of identification of fecal sources. the combined use of three molecular markers (ado, bomito, and pomito) enabled correct identification of 75.7% of the samples, with differentiation between human, swine, bovine, and poultry sources. discrimination between human and nonhuman fecal pollution was possible using two markers: ado and pomito (84.6% correct identification). the percentage of correct identification increased with the number of markers analyzed. the best predictive model for distinguishing human from nonhuman fecal sources was based on 5 molecular markers (hf134, ado, den, bomito, and pomito) and provided 90.1% correct classification.
+TIHT== 
+ABHT== 
+

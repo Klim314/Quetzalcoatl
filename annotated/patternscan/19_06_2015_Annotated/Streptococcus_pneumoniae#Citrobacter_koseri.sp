@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19762956
+TI  == prognostic serum tumor necrosis factor-alpha in paediatric patients with sepsis.
+AB  == objective: to study the association of tumor necrosis factor-alpha (tnf-alpha) in paediatric patients with different etiological agents and levels of sepsis. methodology: seventy-nine patients with sepsis were studied. blood cultures, along with other relevant specimens, were processed for bacterial and fungal etiology. tnf-alpha was detected by enzyme immunoassay. results: in total, 42 (53.2%) of the patients had a microbiologically documented cause for sepsis. of the gram-negative bacilli, escherichia coli was the most common isolate followed  by klebsiella pneumoniae. enterobacter spp. serratia marscecens as well as citrobacter koseri. streptococcus pneumoniae and staphylococcus aureus predominated among the gram-positive cocci. patients with a positive culture had  significantly higher tnf-alpha levels than patients with a negative culture (70 pg/ml vs. 33 pg/ml p = 0.01). patients with a pure gram-negative infection had significantly higher tnf-alpha levels than those with pure gram-positive infection (83 pg/ml vs.52 pg/ml). the geometric mean tnf-alpha concentrations in  patients with severe sepsis and those with late septic shock were 47 pg/ml (range 5-2720) and 59 pg/ml (range 5-3310) respectively. conclusion: tnf-alpha was significantly raised in culture-positive cases in general and in gram-negative infections in particular. it can be used as a surrogate marker of sepsis and aggressive treatment initiated in patients with elevated levels of tnf alpha.
+TIHT== 
+ABHT== 
+
+PMID== 8986558
+TI  == [antimicrobial activity of cefodizime against clinical isolates].
+AB  == in order to evaluate antimicrobial activity of cefodizime (cdzm), minimum inhibitory concentrations (mics) of cdzm and control drugs were determined against clinical isolates collected from nation-wide medical institutions and in  our laboratory from september to december of 1992 and from september to december  of 1995. the results are summarized as follows: 1. bacterial species with no or few strains resistant to cdzm included streptococcus pyogenes, haemophilus influenzae, citrobacter koseri, proteus mirabilis and neisseria gonorrhoeae. the  range of mic values of cdzm against klebsiella pneumoniae was spread. other strains, streptococcus pneumoniae, moraxella subgenus branhamella catarrhalis, escherichia coli, citrobacter freundii, enterobacter spp., serratia marcescens, proteus vulgaris, morganella morganii, providencia spp., peptostreptococcus spp.  and bacteroides fragilis group were resistant to cephems including cdzm. 2. the mic90's of cdzm were 0.05 approximately 3.13 micrograms/ml against streptococcus  spp., h. influenzae, m. (b.) catarrhalis, e. coli, klebsiella spp., p. mirabilis, n. gonorrhoeae and peptostreptococcus spp. obtained in 1995 that were frequently  found in daily treatment of infections. it appears that the effectiveness of cdzm was still relatively high against community-acquired infections. 3. among h. influenzae isolates included imipenem (ipm)-resistant and norfloxacin (nflx)-resistant strains. the mic-range of cdzm against strains collected in 1995 including ipm-resistant and nflx-resistant strains was < or = 0.025 approximately 0.1 microgram/ml, and mic90 against these strains was 0.05 microgram/ml. cdzm showed strong antimicrobial activities against h. influenzae strains resistant to carbapenems and new-quinolones.
+TIHT== 
+ABHT== 
+

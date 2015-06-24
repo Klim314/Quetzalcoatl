@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 16698847
+TI  == antimicrobial susceptibility of bifidobacterium strains from humans, animals and  probiotic products.
+AB  == objectives: the aim of this study was to assess the antimicrobial susceptibility  of a taxonomically diverse set of bifidobacterium strains to different classes of antimicrobial agents using a recently described medium. methods: the susceptibility of 100 strains encompassing 11 bifidobacterial species originating from humans, animals and probiotic products to 12 antimicrobial agents was tested by agar overlay disc diffusion. based on these results, one or two strains per species were selected for susceptibility testing to nine antibiotics by broth microdilution using the lactic acid bacteria susceptibility test medium (lsm) supplemented with cysteine. the genotypic basis of atypical tetracycline resistance was further characterized using pcr, southern blotting and partial sequencing. results: based on the distribution of inhibition zone diameters and mic values, all strains tested were susceptible to amoxicillin, chloramphenicol,  erythromycin, quinupristin/dalfopristin, rifampicin and vancomycin. our data also reinforce earlier observations indicating that bifidobacteria are intrinsically resistant to gentamicin, sulfamethoxazole and polymyxin b. susceptibility to trimethoprim, trimethoprim/sulfamethoxazole, ciprofloxacin, clindamycin, tetracycline and minocycline was variable. the tet(w) gene was responsible for tetracycline resistance in 15 strains including 7 probiotic isolates belonging to the taxa bifidobacterium animalis subsp. lactis and bifidobacterium bifidum. this gene was present in a single copy on the chromosome and did not appear to be associated with the conjugative transposon tnb1230 previously found in tet(w)-containing butyrivibrio fibrisolvens. conclusions: the use of the lsm + cysteine medium allowed us to discriminate between intrinsic and atypical resistance properties of bifidobacteria and sets the scene for future definition  of epidemiological cut-off values for all important bifidobacterium species. the  presence of an acquired tet(w) gene in several probiotic product isolates stresses the need for a minimal safety evaluation during the selection of bifidobacterium strains for probiotic use.
+TIHT== 
+ABHT== 
+

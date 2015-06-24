@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24151583
+TI  == application of universal stress proteins in probing the dynamics of potent degraders in complex terephthalate metagenome.
+AB  == the culture-independent strategies to study microbial diversity and function have led to a revolution in environmental genomics, enabling fundamental questions about the distribution of microbes and their influence on bioremediation to be addressed. in this research we used the expression of universal stress proteins as a probe to determine the changes in degrading microbial population from a highly toxic terephthalate wastewater to a less toxic activated sludge bioreactor. the impact of relative toxicities was significantly elaborated at the levels of genus and species. the results indicated that 23 similar prokaryotic phyla were represented in both metagenomes irrespective of their relative abundance. furthermore, the following bacteria taxa micromonosporaceae, streptomyces, cyanothece sp. pcc 7822, alicyclobacillus acidocaldarius, bacillus  halodurans, leuconostoc mesenteroides, lactococcus garvieae, brucellaceae, ralstonia solanacearum, verminephrobacter eiseniae, azoarcus, acidithiobacillus ferrooxidans, francisella tularensis, methanothermus fervidus, and methanocorpusculum labreanum were represented only in the activated sludge bioreactor. these highly dynamic microbes could serve as taxonomic biomarkers for toxic thresholds related to terephthalate and its derivatives. this paper, highlights the application of universal stress proteins in metagenomics analysis. dynamics of microbial consortium of this nature can have future in biotechnological applications in bioremediation of toxic chemicals and radionuclides.
+TIHT== 
+ABHT== 
+
+PMID== 17850573
+TI  == the development of probiotics for the control of multiple bacterial diseases of rainbow trout, oncorhynchus mykiss (walbaum).
+AB  == jb-1 and gc2, which were equated with bacillus sp. and aeromonas sobria respectively, were recovered from the digestive tract of rainbow trout, oncorhynchus mykiss and ghost carp, cyprinus sp. respectively, and demonstrated effectiveness as probiotics for the control of infections caused by aeromonas salmonicida, lactococcus garvieae, streptococcus iniae, vibrio anguillarum, vibrio ordalii and yersinia ruckeri. when administered to rainbow trout (average  weight = 12 g) for 14 days in feed dosed at 2 x 10(8) cells g(-1) of feed, jb-1 led to a reduction in mortalities to 0-13% after challenge with a range of bacterial pathogens compared to 80-100% mortalities of the controls. similarly, use of gc2 reduced mortalities to 0-16% following the challenge compared to 80-100% mortalities of the controls. the mode of action reflected nutrition, production of inhibitory substances and stimulation of the innate immune responses. specifically, jb-1 and especially gc2 were positive for siderophore and chitinase production, and increased lysozyme, phagocytic and respiratory burst activity.
+TIHT== 
+ABHT== 
+
+PMID== 15812029
+TI  == culture-dependent and -independent methods to investigate the microbial ecology of italian fermented sausages.
+AB  == in this study, the microbial ecology of three naturally fermented sausages produced in northeast italy was studied by culture-dependent and -independent methods. by plating analysis, the predominance of lactic acid bacteria populations was pointed out, as well as the importance of coagulase-negative cocci. also in the case of one fermentation, the fecal enterocci reached significant counts, highlighting their contribution to the particular transformation process. yeast counts were higher than the detection limit (> 100  cfu/g) in only one fermented sausage. analysis of the denaturing gradient gel electrophoresis (dgge) patterns and sequencing of the bands allowed profiling of  the microbial populations present in the sausages during fermentation. the bacterial ecology was mainly characterized by the stable presence of lactobacillus curvatus and lactobacillus sakei, but lactobacillus paracasei was also repeatedly detected. an important piece of evidence was the presence of lactococcus garvieae, which clearly contributed in two fermentations. several species of staphylococcus were also detected. regarding other bacterial groups, bacillus sp., ruminococcus sp., and macrococcus caseolyticus were also identified at the beginning of the transformations. in addition, yeast species belonging to  debaryomyces hansenii, several candida species, and willopsis saturnus were observed in the dgge gels. finally, cluster analysis of the bacterial and yeast dgge profiles highlighted the uniqueness of the fermentation processes studied.
+TIHT== 
+ABHT== 
+

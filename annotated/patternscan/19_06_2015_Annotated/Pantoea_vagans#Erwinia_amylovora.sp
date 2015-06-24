@@ -1,0 +1,35 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22504810
+TI  == characterization of the biosynthetic operon for the antibacterial peptide herbicolin in pantoea vagans biocontrol strain c9-1 and incidence in pantoea species.
+AB  == pantoea vagans c9-1 is a biocontrol strain that produces at least two antibiotics inhibiting the growth of erwinia amylovora, the causal agent of fire blight disease of pear and apple. one antibiotic, herbicolin i, was purified from culture filtrates of p. vagans c9-1 and determined to be 2-amino-3-(oxirane-2,3-dicarboxamido)-propanoyl-valine, also known as n(ss)-epoxysuccinamoyl-dap-valine. a plasposon library was screened for mutants that had lost the ability to produce herbicolin i. it was shown that mutants had  reduced biocontrol efficacy in immature pear assays. the biosynthetic gene cluster in p. vagans c9-1 was identified by sequencing the flanking regions of the plasposon insertion sites. the herbicolin i biosynthetic gene cluster consists of 10 coding sequences (cds) and is located on the 166-kb plasmid ppag2. sequence comparisons identified orthologous gene clusters in pantoea agglomerans  cu0119 and serratia proteamaculans 568. a low incidence of detection of the biosynthetic cluster in a collection of 45 pantoea spp. from biocontrol, environmental, and clinical origins showed that this is a rare trait among the tested strains.
+TIHT== 
+ABHT== 
+
+PMID== 21789243
+TI  == metabolic versatility and antibacterial metabolite biosynthesis are distinguishing genomic features of the fire blight antagonist pantoea vagans c9-1.
+AB  == background: pantoea vagans is a commercialized biological control agent used against the pome fruit bacterial disease fire blight, caused by erwinia amylovora. compared to other biocontrol agents, relatively little is currently known regarding pantoea genetics. better understanding of antagonist mechanisms of action and ecological fitness is critical to improving efficacy. principal findings: genome analysis indicated two major factors contribute to biocontrol activity: competition for limiting substrates and antibacterial metabolite production. pathways for utilization of a broad diversity of sugars and acquisition of iron were identified. metabolism of sorbitol by p. vagans c9-1 may be a major metabolic feature in biocontrol of fire blight. biosynthetic genes for the antibacterial peptide pantocin a were found on a chromosomal 28-kb genomic island, and for dapdiamide e on the plasmid ppag2. there was no evidence of potential virulence factors that could enable an animal or phytopathogenic lifestyle and no indication of any genetic-based biosafety risk in the antagonist. conclusions: identifying key determinants contributing to disease suppression allows the development of procedures to follow their expression in planta and the genome sequence contributes to rationale risk assessment regarding the use of the biocontrol strain in agricultural systems.
+TIHT== 
+ABHT== 
+
+PMID== 20952567
+TI  == genome sequence of the biocontrol agent pantoea vagans strain c9-1.
+AB  == pantoea vagans is a gram-negative enterobacterial plant epiphyte of a broad range of plants. here we report the 4.89-mb genome sequence of p. vagans strain c9-1 (formerly pantoea agglomerans), which is commercially registered for biological control of fire blight, a disease of pear and apple trees caused by erwinia amylovora.
+TIHT== 
+ABHT== 
+
+PMID== 20839963
+TI  == control of fire blight by pseudomonas fluorescens a506 and pantoea vagans c9-1 applied as single strains and mixed inocula.
+AB  == the biological control agents pseudomonas fluorescens a506 and pantoea vagans c9-1 were evaluated individually and in combination for the suppression of fire blight of pear or apple in 10 field trials inoculated with the pathogen erwinia amylovora. the formulation of pathogen inoculum applied to blossoms influenced establishment of the pathogen and the efficacy of biological control. pantoea vagans c9-1 suppressed fire blight in all five trials in which the pathogen was applied as lyophilized cells but in none of the trials in which the pathogen was  applied as freshly harvested cells. in contrast, pseudomonas fluorescens a506 reduced disease significantly in only one trial. a mixture of the two strains also suppressed fire blight, but the magnitude of disease suppression over all field trials (averaging 32%) was less than that attained by c9-1 alone (42%). the two biological control agents did not antagonize one another on blossom surfaces, and application of the mixture of a506 and c9-1 to blossoms resulted in a greater proportion of flowers having detectable populations of at least one bacterial antagonist than the application of individual strains. therefore, the mixture of  a506 and c9-1 provided less disease control than expected based upon the epiphytic population sizes of the antagonists on blossom surfaces. we speculate that the biocontrol mixture was less effective than anticipated due to incompatibility between the mechanisms by which a506 and c9-1 suppress disease.
+TIHT== 
+ABHT== 
+
+PMID== 20839962
+TI  == mechanistically compatible mixtures of bacterial antagonists improve biological control of fire blight of pear.
+AB  == mixtures of biological control agents can be superior to individual agents in suppressing plant disease, providing enhanced efficacy and reliability from field to field relative to single biocontrol strains. nonetheless, the efficacy of combinations of pseudomonas fluorescens a506, a commercial biological control agent for fire blight of pear, and pantoea vagans strain c9-1 or pantoea agglomerans strain eh252 rarely exceeds that of individual strains. a506 suppresses growth of the pathogen on floral colonization and infection sites through preemptive exclusion. c9-1 and eh252 produce peptide antibiotics that contribute to disease control. in culture, a506 produces an extracellular protease that degrades the peptide antibiotics of c9-1 and eh252. we hypothesized that strain a506 diminishes the biological control activity of c9-1 and eh252, thereby reducing the efficacy of biocontrol mixtures. this hypothesis was tested  in five replicated field trials comparing biological control of fire blight using strain a506 and a506 aprx::tn5, an extracellular protease-deficient mutant, as individuals and combined with c9-1 or eh252. on average, mixtures containing a506 aprx::tn5 were superior to those containing the wild-type strain, confirming that the extracellular protease of a506 diminished the biological control activity of  c9-1 and eh252 in situ. mixtures of a506 aprx::tn5 and c9-1 or eh252 were superior to oxytetracycline or single biocontrol strains in suppressing fire blight of pear. these experiments demonstrate that certain biological control agents are mechanistically incompatible, in that one strain interferes with the mechanism by which a second strain suppresses plant disease. mixtures composed of mechanistically compatible strains of biological control agents can suppress disease more effectively than individual biological control agents.
+TIHT== 
+ABHT== 
+

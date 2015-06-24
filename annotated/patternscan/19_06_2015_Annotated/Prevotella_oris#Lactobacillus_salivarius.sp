@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 18279182
+TI  == characterization of oral lactobacilli as potential probiotics for oral health.
+AB  == introduction: intestinal lactobacilli have been successfully used as probiotics to treat gastrointestinal disorders, but only limited data are available for the  probiotic properties of oral lactobacilli to combat oral diseases. we aimed to characterize oral lactobacilli for their potential probiotic properties according to the international guidelines for the evaluation of probiotics, and to select potential probiotic strains for oral health. methods: the study included 67 salivary and subgingival lactobacilli of 10 species, isolated from healthy humans. all strains were identified using amplified ribosomal dna restriction analysis, tested for antimicrobial activity against oral pathogens, tolerance of  low ph and bile content. thereafter, the lysozyme tolerance and antibiotic susceptibility of 22 potential probiotic strains were assessed. results: the majority of strains suppressed the growth of aggregatibacter actinomycetemcomitans, porphyromonas gingivalis, prevotella intermedia, and streptococcus mutans, but none inhibited candida albicans. the lowest ph tolerated by lactobacilli following 4 h of incubation was ph 2.5, but none of the strains grew at this ph. all strains tolerated a high concentration of lysozyme (10 mg/ml) and half of the strains tolerated a high concentration of human bile [5% volume/volume (v/v)]. four lactobacillus plantarum and two lactobacillus oris strains expressed resistance to tetracycline and/or doxycycline. conclusions: strains of l. plantarum, lactobacillus paracasei, lactobacillus salivarius, and lactobacillus rhamnosus expressed both high antimicrobial activity and high tolerance of environmental stress. the absence of transferable antibiotic-resistance genes in l. plantarum strains remains to be confirmed. these results suggest a potential for oral lactobacilli to be used as probiotics  for oral health.
+TIHT== 
+ABHT== 
+
+PMID== 8816129
+TI  == bacteriologic findings in tonsillitis and pericoronitis.
+AB  == bacteriologic samples from 31 young men were cultured quantitatively for aerobes  and anaerobes; these samples included 31 specimens of tonsils (16 infected and 15 healthy), 16 specimens from pericoronal pockets of lower third molars (11 infected and 5 symptom-free), and 6 postoperative specimens from lower-third-molar extraction sockets. anaerobes were isolated more often from infected third molars than from infected tonsils (14.5 isolates vs. 8.4 isolates, respectively; p < .001). infected tonsil samples contained significantly more anaerobic species if an adjacent partly erupted lower third molar was present rather than absent (10.3 isolates vs. 6.9 isolates, respectively; p < .05). eubacterium aerofaciens, clostridium species, peptostreptococcus micros, and prevotella oris were frequently isolated. streptococcus salivarius was found more frequently in tonsillar specimens, whereas corynebacterium species, prevotella denticola, capnocytophaga species, peptostreptococcus anaerobius, and lactobacillus species were more common in pericoronal pocket samples. thus, partial eruption of lower third molars increases the number of anaerobic bacterial species on tonsils and many species can be isolated simultaneously from both tonsils and lower third molars.
+TIHT== 
+ABHT== 
+

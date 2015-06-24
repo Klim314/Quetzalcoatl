@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25898134
+TI  == changes in cystic fibrosis airway microbial community associated with a severe decline in lung function.
+AB  == cystic fibrosis (cf) is a genetic disease resulting in chronic polymicrobial infections of the airways and progressive decline in lung function. to gain insight into the underlying causes of severe lung diseases, we aimed at comparing the airway microbiota detected in sputum of cf patients with stable lung function (s) versus those with a substantial decline in lung function (sd). microbiota composition was investigated by using culture-based and culture-independent methods, and by performing multivariate and statistical analyses. culture-based methods identified some microbial species associated with a worse lung function,  i.e. pseudomonas aeruginosa, rothia mucilaginosa, streptococcus pneumoniae and candida albicans, but only the presence of s. pneumoniae and r. mucilaginosa was  found to be associated with increased severe decline in forced expiratory volume  in 1 second (fev1). terminal-restriction fragment length polymorphism (t-rflp) analysis revealed a higher bacterial diversity than that detected by culture-based methods. molecular signatures with a statistically significant odds ratio for sd status were detected, and classified as pseudomonas, burkholderia and shewanella, while for other terminal restriction fragments (t-rfs) no species assignation was achieved. the analysis of t-rflp data using ecological biodiversity indices showed reduced evenness in sd patients compared to s ones, suggesting an impaired ecology of the bacterial community in sd patients. statistically significant differences of the ecological biodiversity indices among the three sub-groups of fev1 (normal/mild vs moderate vs severe) were also  found, suggesting that the patients with moderate lung disease experienced changes in the airway assembly of taxa. overall, changes in cf airway microbial community associated with a severe lung function decline were detected, allowing  us to define some discriminatory species as well as some discriminatory t-rfs that represent good candidates for the development of predictive biomarkers of substantial decline in lung function.
+TIHT== 
+ABHT== 
+

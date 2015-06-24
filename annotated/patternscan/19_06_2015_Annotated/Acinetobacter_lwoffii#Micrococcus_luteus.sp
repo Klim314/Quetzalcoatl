@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22869264
+TI  == evaluation of potential environmental contamination sources for the presence of multidrug-resistant bacteria linked to wound infections in combat casualties.
+AB  == objective: to determine whether multidrug-resistant (mdr) gram-negative organisms are present in afghanistan or iraq soil samples, contaminate standard deployed hospital or modular operating rooms (ors), or aerosolize during surgical procedures. design: active surveillance. setting: us military hospitals in the united states, afghanistan, and iraq. methods: soil samples were collected from sites throughout afghanistan and iraq and analyzed for presence of mdr bacteria.  environmental sampling of selected newly established modular and deployed or high-touch surfaces and equipment was performed to determine the presence of bacterial contamination. gram-negative bacteria aerosolization during or surgical procedures was determined by microbiological analysis of settle plate growth. results: subsurface soil sample isolates recovered in afghanistan and iraq included various pansusceptible members of enterobacteriaceae, vibrio species, pseudomonas species, acinetobacter lwoffii, and coagulase-negative staphylococcus (cns). or contamination studies in afghanistan revealed 1 surface with a micrococcus luteus. newly established us-based modular ors and the colocated fixed-facility ors revealed no gram-negative bacterial contamination prior to the opening of the modular or and 5 weeks later. bacterial aerosolization during surgery in a deployed fixed hospital revealed a mean gram-negative bacteria colony count of 12.8 colony-forming units (cfu)/dm(2)/h (standard deviation [sd], 17.0) during surgeries and 6.5 cfu/dm(2)/h (sd, 7.5; [formula: see text]) when the or was not in use. conclusion: this study demonstrates no significant gram-negative bacilli colonization of modular and fixed-facility ors or dirt and  no significant aerosolization of these bacilli during surgical procedures. these  results lend additional support to the role of nosocomial transmission of mdr pathogens or the colonization of the patient themselves prior to injury.
+TIHT== 
+ABHT== 
+
+PMID== 12625885
+TI  == microbial contamination of non-disposable instruments in otolaryngology out-patients.
+AB  == nosocomial infections are an important cause of morbidity and contaminated equipment may contribute to this. there has been little work concerning contamination of non-disposable equipment in otolaryngology. this study investigates the efficacy of the cleaning regimen for non-disposable instruments  in an otolaryngology out-patients clinic. instruments were swabbed before each clinic, when they had been autoclaved, then after use on patients, when they had  been washed with detergent and chlorhexidine. swabs of 86 instruments were cultured using standardized microbiological techniques. fifteen instruments (17 per cent) were contaminated, most with coagulase negative staphylococci. two specimens of micrococcus luteus were cultured and one each of pseudomonas aeruginosa, acinetobacter lwoffii and aureobacterium spp. micrococcus luteus and  coagulase negative staphylococci may represent skin contaminants, but aureobacterium spp. and acinetobacter lwoffii can be sources of nosocomial infection. pseudomonas aeruginosa is a potentially serious pathogen and is implicated in the aetiology of otitis externa. these findings question the efficacy of the current cleaning techniques.
+TIHT== 
+ABHT== 
+

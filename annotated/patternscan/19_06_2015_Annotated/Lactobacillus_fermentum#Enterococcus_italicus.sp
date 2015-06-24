@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23541194
+TI  == taxonomic and molecular characterization of lactic acid bacteria and yeasts in nunu, a ghanaian fermented milk product.
+AB  == produced from raw unpasteurized milk, nunu is a spontaneously fermented yoghurt-like product made in ghana and other parts of west africa. despite the importance of nunu in the diet of many africans, there is currently only limited  information available on the microorganisms associated with nunu processing. with the aim of obtaining a deeper understanding of the process and as a first step towards developing starter cultures with desired technological properties for nunu production, a microbiological characterization of nunu processing in three different towns in the upper east region of ghana, namely bolgatanga, paga and navrongo, was carried out. lactic acid bacteria (lab) and yeasts associated with  nunu processing were isolated and identified using a combination of pheno- and genotypic methods including morphological and carbohydrate fermentation tests, (gtg)5-based rep-pcr, multiplex pcr, and 16s and 26s rrna gene sequencing. the lab counts during nunu processing increased from 4.5 +/- 0.4 log cfu/ml at 0 h to 8.7 +/- 1.8 log cfu/ml at 24 h of fermentation while yeasts counts increased from 2.8 +/- 1.2 log cfu/ml at 0 h to 5.8 +/- 0.5 log cfu/ml by the end of fermentation. lactobacillus fermentum was the dominant lab throughout the fermentations with lactobacillus plantarum and leuconostoc mesenteroides playing  prominent roles during the first 6-8 h of fermentation as well. less frequently isolated lab included lactobacillus helveticus, enterococcus faecium, enterococcus italicus, weissella confusa and a putatively novel lactococcus spp.  the yeasts involved were identified as candida parapsilosis, candida rugosa, candida tropicalis, galactomyces geotrichum, pichia kudriavzevii and saccharomyces cerevisiae with p. kudriavzevii and s. cerevisiae being the dominant yeast species.
+TIHT== 
+ABHT== 
+
+PMID== 21914968
+TI  == phenotypic and genotypic characteristics of lactic acid bacteria isolated from sour congee in inner mongolia of china.
+AB  == sour congee is a popular food in the western regions of inner mongolia in china.  it has a complex microbial population, which contributes to its unique flavor and functional properties. in this study, we chose 28 sour congee samples that were collected from different areas in inner mongolia for analysis of the microbial community of lactic acid bacteria (lab) by classical biochemical tests, 16s rrna  gene sequencing, multiplex pcr assay of reca gene and restriction fragment length polymorphism (rflp) analysis of the tuf gene (encoding elongation factor tu). the results revealed that all the isolates were identified as lactobacillus (l.) paracasei (38 strains), l. fermentum (28 strains), l. plantarum (7 strains), l. brevis (4 strains), l. reuteri (2 strains), l. amylolyticus (1 strain), enterococcus (e.) faecalis (3 strains), e. italicus (2 strains) or lactococcus lactis subsp. lactis (1 strain). the predominant lab were l. casei and l. fermentum in sour congee samples. the diversity of lab derived from sour congee could offer useful information for further research on sour congee, and the results demonstrated that the combination of tuf gene and rflp patterns can be considered as a useful tool for differentiation of the l. casei group.
+TIHT== 
+ABHT== 
+

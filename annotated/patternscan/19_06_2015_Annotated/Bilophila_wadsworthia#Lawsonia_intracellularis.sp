@@ -1,0 +1,29 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 14535543
+TI  == preparation and characterization of polyclonal and monoclonal antibodies against  lawsonia intracellularis.
+AB  == proliferative enteropathy is an intestinal infectious disease caused by the obligate intracellular bacterium lawsonia intracellularis. immunohistochemistry staining has superior sensitivity over hematoxylin and eosin and silver staining  for detecting l. intracellularis in histological sections. a l. intracellularis-specific monoclonal antibody (mab) produced in the uk (ig4 mab) has been described in the literature. however, no monoclonal or polyclonal antibodies are commercially available. therefore, the objective of this study was to produce and characterize new polyclonal and monoclonal antibodies against l. intracellularis that are suitable for diagnostic use. the new monoclonal (2001 mab) and polyclonal antibodies (1999 pab) were compared with the ig4 mab using western blot analysis of outer membrane proteins (omps) of 6 l. intracellularis isolates, bilophila wadsworthia and brachyspira hyodysenteriae and using immunohistochemistry of known positive and negative histologic samples and pure cultures of l. intracellularis, b. wadsworthia, b. hyodysenteriae, salmonella choleraesuis, s. typhimurium, and escherichia coli k88. immunogold staining using 2001 mab was performed to show the specificity of the antibody against an l. intracellularis surface protein. western blot analysis showed that the 2001 mab targeted an omp of 77 kd, which made it different from the ig4 mab that targeted  an 18-kd omp. the immunogold stain demonstrated the specificity of the 2001 mab to a surface protein of l. intracellularis. the polyclonal antibody (1999 pab) targeted 5 omps (77, 69, 54, 42, and 36 kd). both the 2001 mab and 1999 pab stained known positive, but not negative, histologic samples. both the 2001 mab and 1999 pab reacted with a pure culture of l. intracellularis but not with any other common enteric pathogens. these two new antibodies will be useful for immunodiagnosis of l. intracellularis.
+TIHT== 
+ABHT== 
+
+PMID== 12889732
+TI  == search for lawsonia intracellularis and bilophila wadsworthia in malabsorption-diseased chickens.
+AB  == proliferative enteropathy is an important enteric disease caused by lawsonia intracellularis. a wide range of host species can be infected by the same bacterium, yet the clinico-pathologic features among these hosts remains almost identical. the disease has been recognized regularly among ratites, but not in other avian families, such as galliforms, even though these suffer uncharacterized enteric conditions. fresh ileum-colon contents were obtained from 228, 3- to 8-week-old chickens with enteric disease, kept at 14 large commercial  farms in the southern usa. dna was extracted from each sample and subjected to polymerase chain reactions (pcr) with primers specific to eubacterial dna, l. intracellularis, and bilophila wadsworthia. all chicken samples were positive for eubacterial dna, 29 chickens (13%) were positive for b. wadsworthia dna, and none were positive for l. intracellularis dna. given the ubiquitous nature of l. intracellularis, we consider it likely that some avian families do not carry the  necessary mechanism for l. intracellularis viability. bilophila wadsworthia appears to be a consistent member of the colonic flora of some host animals. neither bacterium appears to be associated with malabsorption syndromes in chickens.
+TIHT== 
+ABHT== 
+
+PMID== 11283090
+TI  == colonic infection by bilophila wadsworthia in pigs.
+AB  == bilophila wadsworthia is a common inhabitant of the human colon and has been associated with appendicitis and other local sites of inflammation in humans. challenge-exposure or prevalence studies in laboratory and other animals have not been reported. b. wadsworthia is closely related phylogenetically to desulfovibrio sp. and lawsonia intracellularis, which are considered colon pathogens. we developed a pcr specific for b. wadsworthia dna. samples of bacterial dna extracted from the feces of pigs on six farms in australia and four farms in venezuela were examined. specific dna of b. wadsworthia was detected in  the feces of 58 of 161 australian and 2 of 45 venezuelan pigs, results comprising 100% of the neonatal pigs, 15% of the weaned grower pigs, and 27% of the adult sows tested. single-stranded conformational polymorphism analysis of pcr product  dna derived from pigs or from known human strains showed an identical pattern. histologic examination of the intestines of weaned b. wadsworthia-positive pigs found no or minor specific lesions in the small and large intestines, respectively. b. wadsworthia is apparently a common infection in neonatal pigs, but its prevalence decreases after weaning. the possible role of b. wadsworthia as an infection in animals and in human colons requires further study.
+TIHT== 
+ABHT== 
+
+PMID== 11158153
+TI  == a member of the delta subgroup of proteobacteria from a pyogenic liver abscess is a typical sulfate reducer of the genus desulfovibrio.
+AB  == strain fh26001/95 (atcc 700045) was previously isolated from a pyogenic liver abscess from a human. comparative 16s rrna gene sequence analysis showed that this strain is related to members of the delta subgroup of the proteobacteria, within a cluster of sulfate-reducing bacteria (desulfovibrio spp.) and non-sulfate-reducing bacteria (bilophila wadsworthia and lawsonia spp.). the phenotype of strain fh26001/95 was found to be typical of members of the genus desulfovibrio. growth and substrate transformations were possible at oxygen concentrations of 2 to 5% (vol/vol) but not at oxygen concentrations of 21% (vol/vol) in air. its isolation from an infection in a human suggests that some members of the genus desulfovibrio can be considered opportunistic pathogens.
+TIHT== 
+ABHT== 
+

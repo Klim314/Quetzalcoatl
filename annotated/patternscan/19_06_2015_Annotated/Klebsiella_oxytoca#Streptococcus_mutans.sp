@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25093179
+TI  == antimicrobial effect of the triterpene 3beta,6beta,16beta-trihydroxylup-20(29)-ene on planktonic cells and biofilms from gram positive and gram negative bacteria.
+AB  == this study evaluated the antimicrobial effect of 3beta,6beta,16beta-trihydroxylup-20(29)-ene (clf1), a triterpene isolated from combretum leprosum mart., in inhibiting the planktonic growth and biofilms of gram positive bacteria streptococcus mutans and s. mitis. the antimicrobial activity was assessed by determining the minimum inhibitory concentration (mic) and minimum bactericidal concentration (mbc). the antibiofilm potential was determined by quantifying total biomass and enumerating biofilm-entrapped viable  bacteria. in addition, the acute toxicity of clf1 on artemia sp. nauplii was also determined. the results showed that clf1 was able in inhibiting the growth of s.  mutans and s. mitis with mic and mbc of 7.8 mug/ml and 15.6 mug/ml, respectively. clf1 was highly effective on biofilms of both bacteria. only 7.8 mug/ml clf1 was  enough to inhibit by 97% and 90% biomass production of s. mutans and s. mitis, respectively. on the other hand, such effects were not evident on gram negative pseudomonas aeruginosa and klebsiella oxytoca. the toxicity tests showed that the lc50 of clf1 was 98.19 mug/ml. therefore, clf1 isolated from c. leprosum may constitute an important natural agent for the development of new therapies for caries and other infectious diseases caused by s. mutans and s. mitis.
+TIHT== 
+ABHT== 
+
+PMID== 23835180
+TI  == duodenal-mucosal bacteria associated with celiac disease in children.
+AB  == celiac disease (cd) is an immune-mediated enteropathy triggered by the ingestion  of cereal gluten proteins. this disorder is associated with imbalances in the gut microbiota composition that could be involved in the pathogenesis of cd. the aim  of this study was to characterize the composition and diversity of the cultivable duodenal mucosa-associated bacteria of cd patients and control children. duodenal biopsy specimens from patients with active disease on a gluten-containing diet (n = 32), patients with nonactive disease after adherence to a gluten-free diet (n = 17), and controls (n = 8) were homogenized and plated on plate count agar, wilkins-chalgren agar, brain heart agar, or yeast, casitone, and fatty acid agar. the isolates were identified by partial 16s rrna gene sequencing. renyi diversity profiles showed the highest diversity values for active cd patients, followed by  nonactive cd patients and control individuals. members of the phylum proteobacteria were more abundant in patients with active cd than in the other child groups, while those of the phylum firmicutes were less abundant. members of the families enterobacteriaceae and staphylococcaceae, particularly the species klebsiella oxytoca, staphylococcus epidermidis, and staphylococcus pasteuri, were more abundant in patients with active disease than in controls. in contrast, members of the family streptococcaceae were less abundant in patients with active cd than in controls. furthermore, isolates of the streptococcus anginosus and streptococcus mutans groups were more abundant in controls than in both cd patient groups, regardless of inflammatory status. the findings indicated that the disease is associated with the overgrowth of possible pathobionts that exclude symbionts or commensals that are characteristic of the healthy small intestinal microbiota.
+TIHT== 
+ABHT== 
+

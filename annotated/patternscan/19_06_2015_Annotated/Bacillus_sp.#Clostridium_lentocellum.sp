@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22721417
+TI  == the genomic basis for the evolution of a novel form of cellular reproduction in the bacterium epulopiscium.
+AB  == background: epulopiscium sp. type b, a large intestinal bacterial symbiont of the surgeonfish naso tonganus, does not reproduce by binary fission. instead, it forms multiple intracellular offspring using a process with morphological features similar to the survival strategy of endospore formation in other firmicutes. we hypothesize that intracellular offspring formation in epulopiscium evolved from endospore formation and these two developmental programs share molecular mechanisms that are responsible for the observed morphological similarities. results: to test this, we sequenced the genome of epulopiscium sp.  type b to draft quality. comparative analysis with the complete genome of its close, endospore-forming relative, cellulosilyticum lentocellum, identified homologs of well-known sporulation genes characterized in bacillus subtilis. of the 147 highly conserved b. subtilis sporulation genes used in this analysis, we  found 57 homologs in the epulopiscium genome and 87 homologs in the c. lentocellum genome. conclusions: genes coding for components of the central regulatory network which govern the expression of forespore and mother-cell-specific sporulation genes and the machinery used for engulfment appear best conserved. low conservation of genes expressed late in endospore formation, particularly those that confer resistance properties and encode germinant receptors, suggest that epulopiscium has lost the ability to form a mature spore. our findings provide a framework for understanding the evolution of a novel form of cellular reproduction.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 0
+POS == 0
+NEG == 0
+@PAPERS
+PMID== 8932305
+TI  == a bifunctional urease enhances survival of pathogenic yersinia enterocolitica and morganella morganii at low ph.
+AB  == to infect a susceptible host, the gastrointestinal pathogen yersinia enterocolitica must survive passage through the acid environment of the stomach.  in this study, we showed that y. enterocolitica serotype o8 survives buffered acidic conditions as low as ph 1.5 for long periods of time provided urea is available. acid tolerance required an unusual cytoplasmically located urease that was activated 780-fold by low-ph conditions. acid tolerance of helicobacter species has also been attributed to urease activity, but in that case urease was  not specifically activated by low-ph conditions. a ure mutant strain of y. enterocolitica was constructed which was hypersensitive to acidic conditions when urea was available and, unlike the parental strain, was unable to grow when urea  was the sole nitrogen source. examination of other urease-producing gram-negative bacteria indicated that morganella morganii survives in acidic conditions but escherichia coli 1021, klebsiella pneumoniae, proteus mirabilis, providencia stuartii, and pseudomonas aeruginosa do not. consistent with these results, biochemical evidence demonstrated that y. enterocolitica and m. morganii ureases  were activated in vitro by low ph with an unusually low activity optimum of ph 5.5. in whole cells activation occurred as medium values decreased below ph 3.0 for y. enterocolitica and ph 5.5 for m. morganii, suggesting that in vivo activation occurs as a result of cytoplasmic acidification. dna sequence analysis of portions of the m. morganii ure locus showed that the predicted primary structure of the enzyme structural subunits is most similar to those of y. enterocolitica urease. one region of similarity between these two ureases located near the active site is distinct from most other ureases but is present in the urease of lactobacillus fermentum. this region of similarity may be responsible for the unique properties of the y. enterocolitica and m. morganii ureases since  the l. fermentum urease also has been shown to have a low ph optimum for activity.
+TIHT== 
+ABHT== 
+

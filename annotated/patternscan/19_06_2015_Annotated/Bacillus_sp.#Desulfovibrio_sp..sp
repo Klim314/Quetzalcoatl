@@ -1,0 +1,41 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25508646
+TI  == [lectin-binding analysis of the biofilm exopolymeric matrix carbohydrate composition of corrosion-aggressive bacteria].
+AB  == the carbohydrate components of biofilms of corrosion-aggressive bacteria were studied by transmisstion electron microscopy using lectins labeled with colloidal gold. n-acetyl-d-glucosamine, n-acetyl-d-galactosamine, and neutral carbohydrates d-glucose and d-mannose were found within the exopolymeric matrix. lectins with equal carbohydrate specificity demonstrated different degrees of interaction with the carbohydrate components of bacterial biofilms. to identify n-acetyl-d-galactosamine in biofilms of desulfovibrio sp. 10 and bacillus subtilis 36, the lba lectin appeared to be most specific; in the case of n-acetyl-d-glucosamine in biofilms of b. subtilis 36 and pseudomonas aeruginosa 27, the wga lectin. during visualization of neutral carbohydrates in the studied  cultures, the psa lectin was most specific. we have shown that lectins labeled with colloidal gold could be used as an express method for the identification and localization of carbohydrates in glycopolymers of the biofilm exopolymeric matrix.
+TIHT== 
+ABHT== 
+
+PMID== 25474867
+TI  == [lectin-binding analysis of the biofilm exopolymeric matrix carbohydrate composition of corrosion-aggressive bacteria].
+AB  == the carbohydrate components of biofilms of corrosion-aggressive bacteria were studied by transmisstion electron microscopy using lectins labeled with colloidal gold. n-acetyl-d-glucosamine, n-acetyl-d-galactosamine, and neutral carbohydrates d-glucose and d-mannose were found within the exopolymeric matrix. lectins with equal carbohydrate specificity demonstrated different degrees of interaction with the carbohydrate components of bacterial biofilms. to identify n-acetyl-d-galactosamine in biofilms of desulfovibrio sp. 10 and bacillus subtilis 36, the lba lectin appeared to be most specific; in the case of n-acetyl-d-glucosamine in biofilms of b. subtilis 36 and pseudomonas aeruginosa 27, the wga lectin. during visualization of neutral carbohydrates in the studied  cultures, the psa lectin was most specific. we have shown that lectins labeled with colloidal gold could be used as an express method for the identification and localization of carbohydrates in glycopolymers of the biofilm exopolymeric matrix.
+TIHT== 
+ABHT== 
+
+PMID== 22834300
+TI  == [role of polymer complexes in the formation of biofilms by corrosive bacteria on  steel surfaces].
+AB  == the composition of exopolymer complexes (epcs), synthesized by the monocultures desulfovibrio sp. 10, bacillus subtilis 36, and pseudomonas aeruginosa 27 and by  microbial associations involved in the corrosion of metal surfaces has been studied. an analysis of the monosaccharide composition of carbohydrate components, as well as the fatty acid composition of the lipid part of epcs, was  carried out by gas-liquid chromatography (glc). it was found that bacteria in biofilms synthesized polymers; this process was dominated by glucose, while the growth of bacteria in a suspension was marked by a high rhamnose content. hexouronic acids and hexosamine have been revealed as a part of b. subtilis 36 and p. aeruginosa 27 epcs. qualitative differences were revealed in the fatty acid composition ofexopolymers in biofilms and in a bacterial suspension. it was  shown that the transition to a biofilm form of growth led to an increase in the unsaturation degree of fatty acids in the exopolymers of associative cultures. the results can be used to develop methods to control microbial corrosion of metal surfaces.
+TIHT== 
+ABHT== 
+
+PMID== 21442946
+TI  == [role of exopolymeric substances of corrosion-aggressive bacteria in the biofilm  formation on the steel surface].
+AB  == it had been done the comparative study of the exopolymeric substances (eps) synthesized by the sulfidogenic microbial community and monocultures of desulfovibrio sp. 10, bacillus subtilis 36 and pseudomonas aeruginosa 27 under various growth models as biofilm and plankton was performed. it was established that biofilm-produced exopolymers contained increased amount of glucose and fucose, while planktonic ones had more amount of mannose and rhamnose. the amount of rhamnose was 24% of the total amount of carbohydrates in the planktonic-produced exopolymers synthesized by pseudomonas aeruginosa 27 and bacillus subtilis 36. glucuronic acid, galactosamine and glucosamine along with neutral carbohydrates were found in the composition of eps synthesized by associative cultures, while only galactosamine was found in eps synthesized by desulfovibrio sp. 10. the amount of hexuronic acids and hexozamines was, respectively, 4.6 and 1.6 times higher in the biofilm formed by pseudomonas aeruginosa 27 on the steel surface, than in the planktonic exopolymers. it is discussed the role in the biofilm formation of dominative members of the corrosion-aggressive microbial community.
+TIHT== 
+ABHT== 
+
+PMID== 16535097
+TI  == acetogenesis from dichloromethane by a two-component mixed culture comprising a novel bacterium.
+AB  == a strictly anaerobic two-component culture able to grow exponentially with a doubling time of 20 h on a medium containing dichloromethane as the carbon and energy source was characterized. on a medium without sulfate, we observed (per mol of dichloromethane) a mass balance of 2 mol of chloride, 0.26 mol of acetate, 0.05 mol of formate, and 0.25 mol of carbon in biomass. one component of the culture, strain dmb, was identified by a 16s ribosomal dna analysis as a desulfovibrio sp. the other component, the gram-positive organism strain dmc, could not be isolated. it was possible, however, to associate strain dmc on a medium containing dichloromethane in a coculture with acetobacterium woodii or methanospirillum hungatei. coculture of strain dmc with the archaeon m. hungatei  allowed us to specifically amplify by pcr the 16s rrna gene of strain dmc. a phylogenetic analysis of the 16s ribosomal dna sequence revealed that this organism groups within the radiation of the clostridium-bacillus subphylum and exhibits the highest levels of sequence similarity (89%) with desulfotomaculum orientis and desulfitobacterium dehalogenans. since the novel organism strain dmc was able to grow acetogenically with dichloromethane when it was associated with  one of three metabolically different partners and since, in contrast to strain dmb, strain dmc contained carbon monoxide dehydrogenase activity, this bacterium  is responsible for both the dehalogenation of dichloromethane and the acetogenesis observed in the original two-component culture. the obligatory dependence of strain dmc on a partner during growth with dichloromethane is thought to stem from the need for a growth factor produced by the associated organism.
+TIHT== 
+ABHT== 
+
+PMID== 836818
+TI  == nmr characterization of three forms of ferredoxin from desulphovibrio gigas, a sulphate reducer.
+AB  == a nmr and magnetic susceptibility study of the oxidized and reduced states of three different oligomers (forms) of a [4fe-4s] ferrodoxin protein from desulphovibrio gigas, fdi, fdi', and fdii was carried out. fdi and fdi' are different trimers and fdii a tetramer of the same basic subunit. a probable assignment of the contact shifted resonances is indicated. since the temperature  dependences of the contact shifted responances associated with each [4fe-4s] are  not all similar a delocalized model for the spin densities on the 4fe does not apply. the exchange rate between oxidized and reduced states is slow on the nmr time scale. the three oligomers are not magnetically equivalent. using the "three state hypothesis" terminology it is shown that fdiox is predominantly in the c2-  state and changes upon reduction into the c3- state, while fdiiox is in the c- state and changes into the c2- state. fdi' does not easily fit into this classification. this study shows a similarity of magnetic behaviour between fdi and bacterial ferredoxins (e.g. bacillus polymyxa) and between fdii and hipip from chromatium sp. the influence of the quaternary structure on the stabilization of the different oxidation states of ferredoxins as well as on their redox potentials is discussed.
+TIHT== 
+ABHT== 
+

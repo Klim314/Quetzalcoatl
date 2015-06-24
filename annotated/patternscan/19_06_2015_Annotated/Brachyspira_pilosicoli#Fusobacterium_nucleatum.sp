@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 18212108
+TI  == genetic and biochemical characterization of oxa-63, a new class d beta-lactamase  from brachyspira pilosicoli bm4442.
+AB  == brachyspira pilosicoli bm4442, isolated from the feces of a patient with diarrhea at the hospital saint-michel in paris, was resistant to oxacillin (mic > 256 microg/ml) but remained susceptible to cephalosporins and to the combination of amoxicillin and clavulanic acid. cloning and sequencing of the corresponding resistance determinant revealed a coding sequence of 807 bp encoding a new class  d beta-lactamase named oxa-63. the bla oxa-63 gene was chromosomally located and  not part of a transposon or of an integron. oxa-63 shared 54% identity with fus-1 (oxa-85), an oxacillinase from fusobacterium nucleatum subsp. polymorphum, and 25 to 44% identity with other class d beta-lactamases (dbls) and contained all the conserved structural motifs of dbls. escherichia coli carrying the bla oxa-63 gene exhibited resistance to benzylpenicillin and amoxicillin but remained susceptible to amoxicillin in combination with clavulanic acid. mature oxa-63 consisted of a 31.5-kda polypeptide and appeared to be dimeric. kinetic analysis  revealed that oxa-63 exhibited a narrow substrate profile, hydrolyzing oxacillin, benzylpenicillin, and ampicillin with catalytic efficiencies of 980, 250, and 150 mm(-1) s(-1), respectively. the enzyme did not apparently interact with oxyimino-cephalosporins, imipenem, or aztreonam. unlike fus-1 and other dbls, oxa-63 was strongly inhibited by clavulanic acid (50% inhibitory concentration [ic50] of 2 microm) and tazobactam (ic50 of 0.16 microm) and exhibited low susceptibility to nacl (ic50 of >2 m). oxa-63 is the first dbl described for the  anaerobic spirochete b. pilosicoli.
+TIHT== 
+ABHT== 
+
+PMID== 16870757
+TI  == genetic and biochemical characterization of fus-1 (oxa-85), a narrow-spectrum class d beta-lactamase from fusobacterium nucleatum subsp. polymorphum.
+AB  == previous studies have reported beta-lactamase-mediated penicillin resistance in fusobacterium nucleatum, but no beta-lactamase gene has yet been identified in this species. an f. nucleatum subsp. polymorphum strain resistant to penicillin and amoxicillin was isolated from a human periodontitis sample. dna cloning and sequencing revealed a 765-bp open reading frame encoding a new class d beta-lactamase named fus-1 (oxa-85). a recombinant escherichia coli strain carrying the bla(fus-1) gene exhibited resistance to amoxicillin with a moderate  decrease in the mics with clavulanic acid. the bla(fus-1) gene was found in two additional clonally unrelated f. nucleatum subsp. polymorphum isolates. it was located on the chromosome in a peculiar genetic environment where a gene encoding a putative transposase-like protein is found, suggesting a possible acquisition of this class d beta-lactamase gene. the fus-1 enzyme showed the closest ancestral relationship with oxa-63 from brachyspira pilosicoli (53% identity) and with putative chromosomal beta-lactamases of campylobacter spp. (40 to 42% identity). fus-1 presents all of the conserved structural motifs of class d beta-lactamases. kinetic analysis revealed that fus-1 exhibits a narrow substrate profile, efficiently hydrolyzing benzylpenicillin and oxacillin. fus-1 was poorly inactivated by clavulanate and nacl. fus-1 is the first example of a class d beta-lactamase produced by a gram-negative, anaerobic, rod-shaped bacterium to be characterized.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 1629902
+TI  == characterisation of non-pigmented species of the genus prevotella by polyacrylamide gel electrophoresis.
+AB  == gram-negative anaerobic bacilli previously known as the melaninogenicus-oralis group of bacteroides have been assigned to a new genus, prevotella. the non-pigmented members of this genus share several general characteristics and cannot be readily distinguished by routine tests. a polyacrylamide slab gel electrophoresis procedure, with visual analysis of protein patterns, was used to  compare cellular protein patterns from clinical isolates with those from collection (reference) strains. reference strains of p. oralis, p. veroralis, p.  buccalis, p. oris, p. buccae, p. zoogleoformans, p. bivia, p. disiens, p. oulora, b. (p.) capillus and b. (p.) pentosaceus, and 91 non-pigmented isolates from patients with adult periodontal disease were examined by conventional biochemical tests, gas-liquid chromatography (glc) and enzyme tests, and whole-cell protein profiles were obtained by sds-page. there was close correlation between patterns  of results in biochemical and glc tests and the sds-page profiles, and the species were readily distinguished in sds-page. the periodontal isolates were assigned to 10 groups by conventional test reaction patterns and nine groups by sds-page; the profiles of 79 isolates corresponded to those of seven species reference strains. by sds-page, clinical isolates of p. buccae (42 isolates) and  p. oralis (eight isolates) showed good similarity with reference strains. however, for p. veroralis (15), p. oris (7), p. bivia (4), p. zoogleoformans (2)  and p. buccalis (1), clinical isolates showed some minor variations from reference strains. twelve isolates remained undesignated in sds-page analysis. variant sds-page profiles divided clinical isolates of p. buccae into two subgroups and those of p. veroralis into five subgroups.
+TIHT== 
+ABHT== 
+
+PMID== 1800380
+TI  == comparative in vitro activity of cefpodoxime against anaerobes other than bacteroides fragilis.
+AB  == to assess the in vitro activity of cefpodoxime against anaerobic respiratory tract and oropharyngeal pathogens 77 strains belonging to 18 gram-negative and 7  gram-positive species were studied by means of agar dilution tests. for comparison cefuroxime, amoxicillin, amoxicillin + clavulanic acid and clindamycin were also tested. cefpodoxime was found to be active at concentrations of less than or equal to 0.125 mg/l against prevotella oralis, prevotella buccalis, prevotella bivia, porphyromonas asaccharolytica, bacteroides corporis, bacteroides gracilis, fusobacterium necrophorum, fusobacterium naviforme and propionibacterium acnes. prevotella oris, prevotella buccae, fusobacterium nucleatum, peptostreptococcus asaccharolyticus, and ruminococcus bromii were inhibited at concentrations of less than or equal to 1 mg/l and prevotella denticola, prevotella melaninogenica, prevotella intermedia, porphyromonas gingivalis, bacteroides pneumosintes, and peptostreptococcus micros at concentrations of less than or equal to 4 mg/l. strains of veillonella parvula were inhibited by cefpodoxime at 0.25-8 mg/l, and single strains of peptostreptococcus anaerobius and peptostreptococcus magnus showed mics of 32 and 64 mg/l, respectively. the results obtained warrant the use of cefpodoxime in therapy of anaerobic and mixed aerobic-anaerobic infections of the upper and lower respiratory tract and similar infections not involving bacteroides fragilis.
+TIHT== 
+ABHT== 
+

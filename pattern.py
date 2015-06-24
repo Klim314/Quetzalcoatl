@@ -4,19 +4,14 @@ from nltk.stem.snowball import SnowballStemmer
 from modules import papers
 from modules import modfile
 import os
-import evaluate
 import re
-
-"""
-TODO
-
-"""
-
+from modules import paperparse as pp
+import copy
 
 """
 pattern.py
-	Takes a paper file (.compiled) produced by pubcrawl, checks if any of the preloaded patterns are present. All members of patterns must be present and in order. 
-	Patterns may be spaced out
+	Takes an .sp file produced by pubcrawl, checks if any of the preloaded patterns are present. All members of patterns must 
+	be present and in order. Patterns may be spaced out
 
 ALL PATTERNS USED
 
@@ -63,7 +58,8 @@ if not os.path.exists(outDir):
 patterns = ["Activity sjA against sjB",
 "containing sjA inhibited sjB",
 "sjA decreased sjB",
-"bacteriocin sjA sjB",
+"bacteriocin sjA against sjB",
+"bacteriocin sjA inhibit sjB",
 "sjA compet sjB",
 "Antagonistic sjA on sjB",
 "sjA antimicrobial sjB",
@@ -71,9 +67,25 @@ patterns = ["Activity sjA against sjB",
 "sjA antagonistic sjB",
 "sjA bacteriocin sjB",
 "sjA inhibit sjB",
+"sjA inhibitory effect sjB",
+"sjA inhibitory activity sjB",
 "inhibit sjA by sjB"]
 
+#nPatterns
+nPatterns = [
+["bacteriocins produced by sja","antagonistic effect sjb"],
+["bacteriocins produced by sja","inhibit sjb"]
+]
+#antiPatterns
+antiPatterns = [
+"(Fluoroquinolone|Lipoglycopeptides|Cephalosporin|Macrocyclics|Penicillins|Amoxicillin|Ampicillin|Bacampicillin|Carbenicillin|Cloxacillin|Dicloxacillin|Flucloxacillin|Mezlocillin|Nafcillin|Oxacillin|Penicillin|Penicillin|Piperacillin|Pivampicillin|Pivmecillinam|Ticarcillin|Cefacetrile|Cefadroxil|Cefalexin|Cefaloglycin|Cefalonium|Cefaloridine|Cefalotin|Cefapirin|Cefatrizine|Cefazaflur|Cefazedone|Cefazolin|Cefradine|Cefroxadine|Ceftezole|Cefaclor|Cefamandole|Cefmetazole|Cefonicid|Cefotetan|Cefoxitin|Cefprozil|Cefuroxime|Cefuzonam|Cefcapene|Cefdaloxime|Cefdinir|Cefditoren|Cefetamet|Cefixime|Cefmenoxime|Cefodizime|Cefotaxime|Cefpimizole|Cefpodoxime|Cefteram|Ceftibuten|Ceftiofur|Ceftiolene|Ceftizoxime|Ceftriaxone|Cefoperazone|Ceftazidime|Cefclidine|Cefepime|Cefluprenam|Cefoselis|Cefozopran|Cefpirome|Cefquinome|Ceftobiprole|Ceftaroline|Cefaclomezine|Cefaloram|Cefaparole|Cefcanel|Cefedrolor|Cefempidone|Cefetrizole|Cefivitril|Cefmatilen|Cefmepidium|Cefovecin|Cefoxazole|Cefrotil|Cefsumide|Cefuracetime|Ceftioxide|Aztreonam|Imipenem|cilastatin|Doripenem|Meropenem|Ertapenem|Azithromycin|Erythromycin|Clarithromycin|Dirithromycin|Roxithromycin|Ketolides|Telithromycin|Lincosamides|Clindamycin|Lincomycin|Pristinamycin|Quinupristin|dalfopristin|Amikacin|Gentamicin|Kanamycin|Neomycin|Netilmicin|Paromomycin|Streptomycin|Tobramycin|Flumequine|Nalidixic|Oxolinic|Piromidic|Pipemidic|Rosoxacin|Ciprofloxacin|Enoxacin|Lomefloxacin|Nadifloxacin|Norfloxacin|Ofloxacin|Pefloxacin|Rufloxacin|Balofloxacin|Gatifloxacin|Grepafloxacin|Levofloxacin|Moxifloxacin|Pazufloxacin|Sparfloxacin|Temafloxacin|Tosufloxacin|Besifloxacin|Clinafloxacin|Gemifloxacin|Sitafloxacin|Trovafloxacin|Prulifloxacin|Sulfonamides|Sulfamethizole|Sulfamethoxazole|Sulfisoxazole|Trimethoprim-Sulfamethoxazole|Demeclocycline|Doxycycline|Minocycline|Oxytetracycline|Tetracycline|Glycylcyclines|Tigecycline|Chloramphenicol|Metronidazole|Tinidazole|Nitrofurantoin|Glycopeptides|Vancomycin|Teicoplanin|Lipoglycopeptides|Telavancin|Oxazolidinones|Linezolid|Cycloserine|Rifamycins|Rifampin|Rifabutin|Rifapentine|Polypeptides|Bacitracin|Polymyxin|Tuberactinomycins|Viomycin|Capreomycin)"
+]
 
+
+#lowercase them all
+patterns = [i.lower() for i in patterns]
+nPatterns = [[i.lower() for i in j]for j in nPatterns]
+antiPatterns = [i.lower() for i in antiPatterns]
 
 """""""""""""""""""""
 #####################
@@ -86,10 +98,15 @@ Paper():
 	Class representation of a single paper. Contains the title, abstract, and their respective stemmed and tokenized forms
 """
 class Paper():
-	def __init__(self, title, abstract, spSet = {}):
+	def __init__(self, spFilePaper, spSet = {}):
+
 		self.spSet = spSet
-		self.title = title
-		self.abstract = abstract
+		try:
+			self.title = spFilePaper["TI  "]
+		except:
+			print("ERRORSPFILE: ", spFilePaper)
+			raise
+		self.abstract = spFilePaper["AB  "]
 		self.sTitle = self.tokStem(self.title)
 		self.sAbstract = self.tokStem(self.abstract)
 
@@ -113,48 +130,49 @@ Pair():
 	Takes in a filePath to a set of line-separated, initalizer-tagged papers
 	from that pair and packages them into Paper() objects
 
-	paperSplit:
-		takes a list of papers and converts them into a list of (Title, abstract) tuples. Currently discards any anomalous data
-		TODO: Implement logging of discarded data
+
 """
 class Pair():
 	def __init__(self, filePath):
 		#initalize the species sets
-		sja, sjb = papers.getNames(filePath)[0], papers.getNames(filePath)[1]
+		sja, sjb = pp.getNames(filePath)[0], pp.getNames(filePath)[1]
 		self.spSet1 = set(sja)
 		self.spSet2 = set(sjb)
 		self.spSet = self.spSet1.union(self.spSet2)
 
 		#Load the papers
-		self.rawPapers = papers.loadFile(filePath)
-		self.papers = [Paper(i,j, self.spSet) for i,j in self.paperSplit(self.rawPapers) ]
+		self.spFile = pp.spFile(filePath, purge = True)
+		#unified is a tuple: (spFile.papers[i], Paper)
+		self.unified = [(i, Paper(i, self.spSet)) for i in self.spFile.papers]
 
-	#Splits the papers into (Title, Abstract) 2-tuples
-	def paperSplit(self, paperList):
-		#Handle Missing Dat ahere
-		holder, res = [], []
-		for i in paperList:
-			if i[:2] == "TI" or i[:2] == "ti":
-				if holder == []:
-					holder.append(i)
-				elif len(holder) != 2:
-					print("Warning: Erronous data detected")
-					print(holder)
-					print(i)
-					holder = [i]
-				else:
-					res.append(holder)
-					holder = [i]
-			else:
-				holder.append(i)
-		if len(holder) == 0:
-			pass
-		elif len(holder) != 2:
-			print("Warning2: Erronous data detected")
-			print(holder)
-		else:
-			res.append(holder)
-		return res	
+	def test(self, unifiedObject, patternList, antiPatternList):
+		flag = 0
+		for pattern in patternList:
+			titleCheck = pattern.pCheck(unifiedObject[1].sTitle)
+			if titleCheck:
+				unifiedObject[0]['TIHT'] += ":#:".join(["^#^" + pattern.text] + [i.group(0) for i in titleCheck])
+				flag = 1
+			abstractCheck = pattern.pCheck(unifiedObject[1].sAbstract)	
+			if abstractCheck:
+				unifiedObject[0]['ABHT'] +=  ":#:".join(["^#^" + pattern.text] + [i.group(0) for i in abstractCheck])
+				flag = 1
+		#antiPatternChecker
+		for antiPattern in antiPatternList:
+			if antiPattern.pCheck(unifiedObject[1].sTitle):
+				unifiedObject[0]['TIHT'] = ""
+				flag = 0
+			if antiPattern.pCheck(unifiedObject[1].sTitle):
+				unifiedObject[0]['ABHT'] = ""
+				flag = 0
+		return flag
+	def testAll(self, patternList, antiPatternList, outPath):
+		for unifiedObject in self.unified:
+			isTrue = self.test(unifiedObject, patternList, antiPatternList)
+			if isTrue:
+				self.spFile.summary["INT "] = '1'
+				self.spFile.summary["NEG "] = '1'
+			self.spFile.writeSpFileHits(outPath)
+
 
 """
 pattern:
@@ -172,20 +190,21 @@ class Pattern():
 	def __init__(self, text):
 		self.text = text
 		self.regexes = []
-	def check(self, sentence):
-		for regex in self.regexes:
-			if regex.search(sentence):
-				return True
-		return False
+	def export(self):
+		return self.text
+
 	def initialize(self, sja, sjb):
 		#cleanup
 		self.regexes = []
 		sja, sjb = sja.lower(), sjb.lower()
 
-		sp1 = [sja, abb(sja)]
-		sp2 = [sjb, abb(sjb)]
-
+		sp1 = [sja, abb(sja, regex = 1)]
+		sp2 = [sjb, abb(sjb, regex = 1)]
+		
+		#initialize base regexes
 		flags = self.text.split(' ')
+		rFlags = copy.deepcopy(flags)
+		#create forward match
 		for j in sp1:
 			for k in sp2:
 				for i in range(len(flags)):
@@ -195,18 +214,61 @@ class Pattern():
 						flags[i] = k
 					else:
 						flags[i] = flags[i]
-				self.regexes.append(re.compile(".*".join(flags)))
+				try:
+					self.regexes.append(re.compile("(" + "[ -\\.].*".join(flags) + ")"))
+				except:
+					print("RegexError: ",flags)
+					print("sja: ",sja)
+					print("sjb: ",sjb)
+					raise
 				flags = self.text.split(' ')
+		#create reverse match
+		for j in sp2:
+			for k in sp1:
+				for i in range(len(flags)):
+					if flags[i] == "sja":
+						flags[i] = j
+					elif flags[i] == "sjb":
+						flags[i] = k
+					else:
+						flags[i] = flags[i]
+				try:
+					self.regexes.append(re.compile("(" + "[ -\\.].*".join(flags) + ")"))
+				except:
+					print("RegexError: ",flags)
+					print("sja: ",sja)
+					print("sjb: ",sjb)
+					raise
+				flags = self.text.split(' ')
+
 		return
+
+	def check(self, sentence):
+		holder = []
+		for regex in self.regexes:
+			# print("REGEX: ", regex)
+			temp = regex.search(sentence)
+			if temp:
+				holder.append(temp)
+				# print("HIT")
+		return holder
+	
 	def pCheck(self, paragraph):
+		# print(paragraph)
+		# print(self.regexes)
+		holder = []
 		for sentence in paragraph:
-			if self.check(sentence):
-				return True
-		return False
+			# print("CHECKING: ", sentence)
+
+			temp = self.check(sentence)
+			if temp:
+				holder.extend(temp)
+		return holder
 
 class nPattern():
-	def __init__(textList):
+	def __init__(self, textList):
 		self.patterns = [Pattern(i)	for i in textList]
+		self.text = "|||".join([pattern.text for pattern in self.patterns])
 
 	def initialize(self, sja, sjb):
 		for pattern in self.patterns:
@@ -214,12 +276,22 @@ class nPattern():
 
 	def pCheck(self, paragraph):
 		temp = [i for i in self.patterns]
-		for pattern in self.patterns:
-			if pattern.pCheck(paragraph):
+		enum = enumerate(self.patterns)
+		holder = [[] for i in self.patterns]
+		for index, pattern in enum:
+			checkData = pattern.pCheck(paragraph)
+			if checkData:
+				holder[index]=checkData[0]
 				temp.remove(pattern)
+
+		# print("HOLDER", holder)
+		# print(temp)
 		if len(temp) == 0:
-			return True
-		return False
+			return holder
+		return []
+	def export(self):
+		for i in self.patterns:
+			print(i.regexes)
 
 
 
@@ -228,8 +300,11 @@ abb
 	Takes in a string of format A B, where A is the genus and B the Species. Returns abbreviated species name
 """
 
-def abb(spec):
+def abb(spec, regex = 0):
 	temp = spec.split(' ')
+	if regex == True:
+		spec =  temp[0][0] + '. ' + temp[1]
+		return spec.replace(".", "\.")
 	return temp[0][0] + '. ' + temp[1]
 
 """
@@ -239,7 +314,7 @@ makeName
 def makeName(sja, sjb):
 	sja = '_'.join(sja.split(" "))
 	sjb = '_'.join(sjb.split(" "))
-	return sja+'#' + sjb + ".compiled"
+	return sja+'#' + sjb + ".sp"
 """
 makePatterns(patternStringList):
 	takes in a list of pattern strings and processes them (tokenizing, stemming) into Pattern objects
@@ -249,6 +324,13 @@ def makePatterns(patternStringList):
 	patterns = [[stemmer.stem(j) for j in i ] for i in patterns]
 	patterns = [" ".join(i) for i in patterns]
 	return [Pattern(i) for i in patterns]	
+
+def makeNpatterns(nPatternStringList):
+	patterns = [[st.preprocess(i)[0] for i in j] for j in nPatternStringList]
+	# print(patterns)
+	patterns = [[[stemmer.stem(word) for word in sentence ] for sentence in sentenceTup] for sentenceTup in patterns]
+	patterns = [[" ".join(i) for i in j] for j in patterns]
+	return [nPattern(i) for i in patterns]	
 
 def test(paperObject, patternList):
 	for pattern in patternList:
@@ -265,60 +347,51 @@ execute(filePath):
 
 def execute(filePath, postOutDir = ""):
 	#Extraction of subject names
-	names = papers.getNames(filePath)
-	sja, sjb = names[0][0], names[1][0]
+	names = pp.getNames(filePath)
+	sja, sjb = stemmer.stem(names[0][0]), stemmer.stem(names[1][0])
 	#Creation of 
 	if postOutDir != "" and postOutDir[-1] != "/":
 		postOutDir += "/"
-	outPath = outDir + postOutDir + makeName(sja, sjb)
+	outPath = outDir + postOutDir + makeName(names[0][0], names[1][0])
 
 	patternList = makePatterns(patterns)
-	reverseList = makePatterns(patterns)
+	patternList += makeNpatterns(nPatterns)
+	antiPatternList = makePatterns(antiPatterns)
+	# reverseList = makePatterns(patterns)
 	for pattern in patternList:
 		pattern.initialize(sja, sjb)
-	for pattern in reverseList:
-		pattern.initialize(sjb, sja)
+	for pattern in antiPatternList:
+		pattern.initialize(sja, sjb)
+
 
 
 
 	pairPapers = Pair(filePath)
 
-	for paper in pairPapers.papers:
-		
-		if test(paper, patternList) or test(paper, reverseList):
-			with open (outPath, 'a') as f:
-				f.write(paper.title + '\n')
-				f.write(paper.abstract + '\n')
-
+	pairPapers.testAll(patternList, antiPatternList, outPath)
 
 def debug(filePath):
-	names = papers.getNames(filePath)
+	#Extraction of subject names
+	names = pp.getNames(filePath)
 	sja, sjb = names[0][0], names[1][0]
-	patternList = makePatterns(patterns)
-	reverseList = makePatterns(patterns)
+
+	#patternList = makePatterns(patterns)
+	patternList = makeNpatterns(nPatterns)
+	# reverseList = makePatterns(patterns)
 	for pattern in patternList:
 		pattern.initialize(sja, sjb)
-	for pattern in reverseList:
-		pattern.initialize(sjb, sja)
+	pairPapers = Pair(filePath)
+	print(pairPapers.spFile.papers[0])
+	print(pairPapers.unified[0][1].sAbstract)
+	print(patternList[0].pCheck(pairPapers.unified[0][1].sAbstract))
 
-	paper = Paper("ti  - cocktails of probiotics pre-adapted to multiple stress factors are more robust under simulated gastrointestinal conditions than their parental counterparts and exhibit enhanced antagonistic capabilities against escherichia coli and staphylococcus aureus.", "ab  - background: the success of the probiotics in delivery of health benefits depends  on their ability to withstand the technological and gastrointestinal conditions; hence development of robust cultures is critical to the probiotic industry. combinations of probiotic cultures have proven to be more effective than the use of single cultures for treatment and prevention of heterogeneous diseases. we investigated the effect of pre- adaptation of probiotics to multiple stresses on their stability under simulated gastrointestinal conditions and the effect of their singular as well as their synergistic antagonistic effect against selected enteric pathogens. methods: probiotic cultures were inoculated into mrs broth adjusted to ph 2 and incubated for 2 h at 37 degrees c. survivors of ph 2 were subcultured into 2% bile acid for 1 h at 37 degrees c. cells that showed growth after exposure to 2% bile acid for 1 h were finally inoculated in fresh mrs broth and incubated at 55 degrees c for 2 h. the cells surviving were then used as stress adapted cultures. the adapted cultures were exposed to simulated gastrointestinal conditions and their non- adapted counterparts were used to compare the effects of stress adaptation. the combination cultures were tested for their antipathogenic effects on escherichia coli and staphylococcus aureus. results: acid and bile tolerances of most of the stress-adapted cells were higher than of the non-adapted cells. viable counts of all the stress-adapted lactobacilli and bifidobacterium longum lmg 13197 were higher after sequential exposure to simulated gastric and intestinal fluids. however, for b. longum bb46 and b. bifidum lmg 13197, viability of non-adapted cells was higher than for adapted cells after exposure to these fluids. a cocktail containing l. plantarum + b. longum bb46 + b. longum lmg 13197 best inhibited s. aureus while e. coli was best inhibited by a combination containing l. acidophilus la14 150b + b. longum bb46 + b. bifidum lmg 11041. a cocktail containing the six non- adapted cultures was the least effective in inhibiting the pathogens. conclusion: multi-stress pre-adaptation enhances viability of probiotics under simulated gastrointestinal conditions; and formulations containing a mixture of multi stress-adapted cells exhibits enhanced synergistic effects against foodborne pathogens.")
-	temp = patternList[1].regexes
-	temp2= reverseList[1].regexes
-	target = paper.sAbstract[9]
-	print(target)
-	for i in temp:
-		for j in temp2:
-			print(i)
-			print(i.search(target))
-			print(j)
-			print(j.search(target))
-	print(paper.title)
-	print(paper.sTitle)
 
 
 if __name__ == "__main__":
 
-	target = "input/pattern/tester/Lactobacillus_acidophilus#Escherichia_coli.compiled"
+	#target = "annotated/patternscan/Escherichia_coli#Lactobacillus_acidophilus.sp"
+	target = "annotated/patternscan/precision/200_samples_set_2/evaluate/missed_hits/Lactobacillus_fermentum#Gardnerella_vaginalis.sp"
+	#target = "annotated/patternscan/precision/200_samples_set_2/evaluate/false_hits/acinetobacter_sp.#acinetobacter_baumannii.sp"
 	#debug(target)
 	execute(target)
 	

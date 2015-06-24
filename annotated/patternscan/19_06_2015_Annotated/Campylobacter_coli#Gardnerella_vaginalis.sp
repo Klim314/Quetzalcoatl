@@ -1,0 +1,41 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 1684981
+TI  == a comparison of the in-vitro activity of clarithromycin, a new macrolide antibiotic, with erythromycin and other oral agents.
+AB  == on the basis of minimum inhibitory concentrations clarithromycin (6-o-methylerythromycin), a new macrolide, was found to be slightly more active than erythromycin against staphylococcus aureus, enterococci. moraxella catarrhalis, gardnerella vaginalis, bacteroides fragilis (sensu stricto) and b. ureolyticus and slightly less active against coagulase-negative staphylococci, alpha- and beta-haemolytic streptococci, haemophilus influenzae, campylobacter coli/jejuni and the b. melaninogenicus/oralis groups. there was complete cross-resistance between the two agents. reports of potentiation of the activity  against haemophilus influenzae of clarithromycin by its own metabolite and by human serum appear to operate in vivo, and therefore the new agent shows great promise, especially for the treatment of respiratory tract infections.
+TIHT== 
+ABHT== 
+
+PMID== 1657855
+TI  == the in-vitro activity of temafloxacin compared with other antimicrobial agents.
+AB  == temafloxacin, like other 4-quinolones, was highly active against most isolates of enterobacteriaceae. it was slightly less active than ciprofloxacin but approximately as active as ofloxacin and enoxacin. it was the most active of the  quinolones against acinetobacter spp. and xanthomonas maltophilia but was slightly less active than ciprofloxacin against pseudomonas spp. temafloxacin was highly active against haemophilus influenzae, moraxella catarrhalis and neisseria gonorrhoeae and was the most active of the quinolones against gardnerella vaginalis and campylobacter coli/jejuni. it was more active than ciprofloxacin against most staphylococci and equally active against streptococci and enterococci. temafloxacin was the most active quinolone against anaerobic bacteria and, with the exception of a few isolates of bacteroides spp. and some clostridia, all anaerobes were within the sensitive range (mic less than or equal to 2 mg/l).
+TIHT== 
+ABHT== 
+
+PMID== 2226498
+TI  == comparative in vitro activity of cefpirome and cefepime, two new cephalosporins.
+AB  == in in vitro tests the broad-spectrum cephalosporins cefpirome and cefepime were highly active against enterobacteriaceae, although often less so against strains  resistant to amoxicillin-clavulanate and ticarcillin-clavulanate, and against most strains of acinetobacter spp. and aeromonas hydrophila. they were also active against pseudomonas aeruginosa, although strains with non-plasmid mediated beta-lactam resistance were sometimes less sensitive. other pseudomonas spp. varied in their sensitivity. both agents were highly active against haemophilus influenzae, but beta-lactamase-producing branhamella catarrhalis were somewhat less sensitive. neisseria gonorrhoeae were susceptible, although non-beta-lactamase producing penicillin-resistant strains had higher mics. gardnerella vaginalis was also susceptible and campylobacter coli/jejuni usually  susceptible. both antibiotics had good activity against staphylococcus aureus and coagulase-negative staphylococci except for methicillin-resistant strains and staphylococcus haemolyticus which were of borderline sensitivity. all streptococci were sensitive, with the exception of highly penicillin-resistant pneumococci and enterococci against which cefpirome had greater activity than cefepime. both antibiotics had little useful activity against the bacteroides fragilis group or bacteroides oralis group but were active against most other anaerobes. clostridium difficile and some other clostridium species were resistant.
+TIHT== 
+ABHT== 
+
+PMID== 2808214
+TI  == comparative in-vitro activity of meropenem on clinical isolates from the united kingdom.
+AB  == mics of meropenem were determined for a wide range of common bacteria of clinical importance. for enterobacteriaceae, aeromonas spp., haemophilus influenzae, branhamella catarrhalis, neisseria gonorrhoeae, gardnerella vaginalis, campylobacter coli/jejuni, beta-haemolytic streptococci and anaerobes other than  clostridium difficile, mics were almost always within the range 0.002-0.5 mg/l. the activity of meropenem for these organisms was always greater than that of imipenem and piperacillin, and was similar to that of ceftazidime and cefotaxime  except that strains resistant to these latter, and to piperacillin, were usually  sensitive to imipenem and meropenem. meropenem was also active against most non-fermentative gram-negative bacilli, with mics in the range 0.12-4 mg/l but pseudomonas (xanthomonas) maltophilia was often resistant, as it was to all the other drugs tested. staphylococci, strreptococcus pneumoniae and other alpha-haemolytic streptococci were usually more sensitive to imipenem than to meropenem, but even methicillin-resistant staphylococci were sensitive to both drugs (mics less than 4 mg/l). enterococci were also less sensitive to meropenem  than to imipenem, and enterococcus faecium was invariably highly resistant to all the drugs tested except ciprofloxacin, which had marginal activity. results for ps. maltophilia and haem. influenzae were affected by media used for sensitivity  testing.
+TIHT== 
+ABHT== 
+
+PMID== 3182416
+TI  == the in-vitro activity of pd127,391, a new quinolone.
+AB  == mics of pd127,391 a new 4-quinolone, and of ci934 and ciprofloxacin, two previously reported 4-quinolones, were determined for common clinical bacterial isolates by an agar-dilution method. pd127,391 was the most active drug against enterobacteriaceae and acinetobacter spp (mics less than 0.12 mg/l) and as active as ciprofloxacin against aeromonas spp. (mics less than 0.008 mg/l) and pseudomonas aeruginosa (mics less than 1 mg/l). it was more active than ciprofloxacin against pseudomonas spp. including ps. maltophilia (mics less than  0.25 mg/l). all three drugs had high activity, with pd129,391 again the best, against haemophilus influenzae brahmamella catarrhalis, and neisseria gonorrhoeae. pd127,391 was much more active than the other drugs against campylobacter coli/jejuni (pd127,391 mics less than 0.03 mg/l) and gardnerella vaginalis (pd127,391 mics less than 0.25 mg/l). pd127,391 inhibited all staphylococci at less than 0.06 mg/l and streptococci at less than 0.5 mg/l, thus being more active than ci934 or ciprofloxacin. pd127,391 was much more active against anaerobic cocci, bacteroides spp. and clostridia (including clostridium difficile) (mics less than 1 mg/l) than was ci934 (mics less than 16 mg/l) or ciprofloxacin (mics less than 64 mg/l). no bacterium that we examined required more than 1 mg/l of pd127,391 for inhibition, and there was no cross resistance with unrelated antibiotics.
+TIHT== 
+ABHT== 
+
+PMID== 3517036
+TI  == two-dimensional thin-layer chromatography for the specific detection of hippurate hydrolysis by microorganisms.
+AB  == glycine, one of the end products of hippurate hydrolysis by microorganisms, was detected by a rapid, specific technique utilizing two-dimensional thin-layer chromatography. a loopful of growth of each organism from its suitable agar medium was washed, suspended, and incubated with 0.1% sodium hippurate for 30 min at 37 degrees c. the supernatant of the incubated suspension from each organism was then dansylated, and the dansyl derivatives were separated by two-dimensional thin-layer chromatography on polyamide sheets. glycine, a product of hippurate hydrolysis, was detected under uv light. this technique does not require prolonged incubation and was found to be more specific and reliable than the standard ninhydrin reaction. in addition, it is inexpensive and can be easily conducted in a clinical microbiological reference laboratory. by this method, 100% (22/22) of campylobacter jejuni and 0% (0/9) of campylobacter coli reference strains were positive. in addition, 100% (13/13) of group b streptococci, 100% (24/24) of group d streptococci, and 90% (18/20) of gardenerella vaginalis clinical isolates were positive for hippurate hydrolysis. this method is useful for the identification to the species level of campylobacter organisms and the biotyping of gardnerella organisms and for the detection of hippurate hydrolysis  by unknown microorganisms.
+TIHT== 
+ABHT== 
+

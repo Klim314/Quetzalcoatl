@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 15943771
+TI  == microarrays complement culture methods for identification of bacteria in endodontic infections.
+AB  == the aim of this study was to investigate the microbial composition of necrotic root canals using culture methods and microarray technology. twenty uniradicular  teeth with radiographic evidence of periapical bone loss and with no previous endodontic treatment were selected for this study. for molecular diagnosis a dna  chip with 20 different species-specific, 16s-rdna-directed catcher probes was used. the microorganisms most frequently detected by the dna chip were: micromonas micros, fusobacterium nucleatum ssp., tannerella forsythia, treponema  denticola, veillonella parvula, eubacterium nodatum, porphyromonas gingivalis, actinomyces odontolyticus, and streptococcus constellatus. as expected, additional important bacterial taxa were found by culture analysis, but microorganisms such as t. forsythia and t. denticola could not be identified. in  conclusion, microarrays may provide significant additional information regarding  the endodontic microbiota by detecting bacterial species that are otherwise difficult or impossible to culture.
+TIHT== 
+ABHT== 
+
+PMID== 10674959
+TI  == the effect of scaling and root planing on the clinical and microbiological parameters of periodontal diseases: 12-month results.
+AB  == background/aims: previously, we reported that srp resulted in a decrease in mean  pocket depth and attachment level and reduced prevalence and levels of bacteroidesforsythus, porphyromonas gingivalis, and treponema denticola at 3 and  6 months post-srp in 57 subjects with adult periodontitis. 32 of the 57 subjects  were monitored at 9 and 12 months. thus, the purpose of the present investigation was to evaluate the microbial and clinical effects of srp in 32 (mean age 48+/-11) subjects over a 12-month period. method: clinical assessments of plaque, gingival redness, suppuration, bleeding on probing, pocket depth and attachment level were made prior to srp and at 3, 6, 9, and 12 months post-therapy. subgingival plaque samples were taken at each visit and analyzed using the checkerboard dna-dna hybridization technique for the presence and levels of 40 subgingival species. each subject also received maintenance scaling at each of the subsequent monitoring visits. differences in clinical parameters and prevalence and levels of bacterial species were analyzed pre- and post-therapy using the wilcoxon signed ranks test. the quade test for related samples was used for analysis of multiple visits. results: mean pocket depth (mm+/-sem) decreased  from 3.2+/-0.3 at baseline to 2.9+/-0.3 at 12 months (p<0.01). mean attachment level showed significant reduction at 6 months, but did not diminish further. bleeding on probing and plaque were significantly reduced at 12 months (p<0.001,  p<0.05, respectively). p. gingivalis, b. forsythus and t. denticola decreased in  prevalence and levels up to the 6-month visit and remained at these lower levels  at 9 and 12 months. significant increases in levels and prevalence were noted at  12 months for actinomyces naeslundii genospecies 2, actinomyces odontolyticus, fusobacterium nucleatum ss polymorphum, streptococcus mitis, capnocytophaga sp, and veillonella parvula. conclusions: the data suggest that the maintenance phase of therapy may be essential in consolidating clinical and microbiological improvements achieved as a result of initial therapy.
+TIHT== 
+ABHT== 
+

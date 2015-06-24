@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 20663617
+TI  == microbial communities in the tonsils of healthy pigs.
+AB  == the tonsils of mammals such as humans and pigs are colonized with an extensive microbiota and are frequently the site for asymptomatic carriage of bacterial pathogens. the goal of this study was to determine the composition of the microbial community of the tonsils in healthy pigs. tonsils were collected from eight pigs from two different healthy herds. samples of the tonsils from each pig were used for culture dependent and culture independent identification of the microbial community. aerobic cultivation identified pasteurella multocida, actinobacillus spp., staphylococcus aureus, staphylococcus epidermidis, streptococcus suis, streptococcus dysgalactiae, and escherichia coli from >/= 50% of the pigs in both herds. for culture independent studies, microbial community members were identified by 16s rrna sequences using the ribosomal database project pipeline programs developed at michigan state university. dominant genera identified by 16s rrna analysis in pigs from both herds included actinobacillus,  haemophilus, pasteurella, porphyromonas, fusobacterium, bacteroides, and prevotella. these genera were detected in nearly every pig regardless of herd. in contrast, there was an asymmetric distribution of minor genera between the two herds, suggesting herd-specific differences in the microbial communities. in addition, we demonstrated primer bias between two frequently used forward primers when targeting the tonsillar community. our results suggest that the major bacterial community members found in porcine tonsils are the same regardless of herd, while the minor species are unique to each herd. this is the first analysis using 16s rrna sequence libraries of the composition of microbial communities in  the porcine upper respiratory tract.
+TIHT== 
+ABHT== 
+
+PMID== 16643869
+TI  == pectin-like acidic polysaccharide from panax ginseng with selective antiadhesive  activity against pathogenic bacteria.
+AB  == previous studies have revealed the inhibitory effects of an acidic polysaccharide purified from the root of panax ginseng against the adhesion of helicobacter pylori to gastric epithelial cells and the ability of porphyromonas gingivalis to agglutinate erythrocytes. in this study, this acidic polysaccharide from p. ginseng, pg-f2, was investigated further, in order to characterize its antiadhesive effects against actinobacillus actinomycetemcomitans, propionibacterium acnes, and staphylococcus aureus. the minimum inhibitory concentrations (mic) were found to be in a range of 0.25-0.5mg/ml. however, results showed no inhibitory effects of pg-f2 against lactobacillus acidophilus,  escherichia coli, or staphylococcus epidermidis. pg-f2 is a pectin-type polysaccharide with a mean mw of 1.2 x 10(4) da, and consists primarily of galacturonic and glucuronic acids along with rhamnose, arabinose, and galactose as minor components. the complete hydrolysis of pg-f2 via chemical or carbohydrolase enzyme treatment resulted in the abrogation of its antiadhesive activity, but limited hydrolysis via treatment with pectinase (ec. 3.2.1.15) yielded an oligosaccharide fraction, with activity comparable to the precursor pg-f2 (the mic of ca. 0.01 mg/ml against h. pylori and p. gingivalis). our results suggest that pg-f2 may exert a selective antiadhesive effect against pathogenic bacteria, while having no effects on beneficial and commensal bacteria.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 11401721
+TI  == accumulation of manganese in neisseria gonorrhoeae correlates with resistance to  oxidative killing by superoxide anion and is independent of superoxide dismutase  activity.
+AB  == as a facultative aerobe with a high iron requirement and a highly active aerobic  respiratory chain, neisseria gonorrhoeae requires defence systems to respond to toxic oxygen species such as superoxide. it has been shown that supplementation of media with 100 microm mn(ii) considerably enhanced the resistance of this bacterium to oxidative killing by superoxide. this protection was not associated  with the superoxide dismutase enzymes of n. gonorrhoeae. in contrast to previous  studies, which suggested that some strains of n. gonorrhoeae might not contain a  superoxide dismutase, we identified a sodb gene by genome analysis and confirmed  its presence in all strains examined by southern blotting, but found no evidence  for soda or sodc. a sodb mutant showed very similar susceptibility to superoxide  killing to that of wild-type cells, indicating that the fe-dependent sod b did not have a major role in resistance to oxidative killing under the conditions tested. the absence of a soda gene indicated that the mn-dependent protection against oxidative killing was independent of mn-dependent sod a. as a sodb mutant also showed mn-dependent resistance to oxidative killing, then it is concluded that this resistance is independent of superoxide dismutase enzymes. resistance to oxidative killing was correlated with accumulation of mn(ii) by the bacterium. we hypothesize that this bacterium uses mn(ii) as a chemical quenching agent in a similar way to the already established process in lactobacillus plantarum. a search for putative mn(ii) uptake systems identified an abc cassette-type system  (mntabc) with a periplasmic-binding protein (mntc). an mntc mutant was shown to have lowered accumulation of mn(ii) and was also highly susceptible to oxidative  killing, even in the presence of added mn(ii). taken together, these data show that n. gonorrhoeae possesses a mn(ii) uptake system that is critical for resistance to oxidative stress.
+TIHT== 
+ABHT== 
+

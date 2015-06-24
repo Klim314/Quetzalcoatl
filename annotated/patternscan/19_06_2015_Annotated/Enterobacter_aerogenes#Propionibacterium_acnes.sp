@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 9410064
+TI  == [meropenem: microbiologic perspective].
+AB  == meropenem is a beta-lactamic carbapenem derived from thienamycin and is structurally characterized by the presence of a beta-methyl group in position c1  which confers stability to the molecule versus renal dehydropeptidase 1 (dhp-1),  thereby making the coadministration of an enzyme inhibitor unnecessary. its esterochemical configuration of the lateral chain in c2 (dimethyl carbomoilpyrrolidenethium) increases the activity versus gram negative bacteria (enterobacteria and pseudomonas) and moreover, may explain the reduction in the proconvulsive effect observed in imipenem/cilastatin. meropenem has great bactericide power and has a very wide spectrum of activity depending on it low molecular weight and zwiterionic structure, stability versus almost all the clinically important beta-lactamases and high affinity for the pbps. it covers gram positive aerobes (staphylococcus aureus, coagulase negative staphylococci, streptococci including streptococcus pneumoniae resistant to penicillin, enterococcus faecalis, rhodococcus equi, listeria monocytogenes) and gram negative bacteria (enterobacteria, p. aeruginosa, acinetobacter, aeromonas, plesiomonas, vibrio, haemophilus influenzae, neisseria, moraxella) and anaerobes  (bacteroides, prevotella, porphyromonas, fusobacterium, clostridium, peptostreptococcus, and propionibacterium acnes), being more active than imipenem versus gram negatives: p. aeruginosa (2-4-fold), enterobacteria (2-32-fold) and h. influenzae (4-8-fold) and less active versus the gram positives (enterococci,  streptococci and staphylococci). meropenem has no activity on enterococcus faecium, s. aureus resistant to methycillin, stenotrophomonas maltophilia and other genera producers of chromosomic methalo-beta-lactamases (carbapenemases). resistance may be due to impermeability given the loss of the oprd porin (oprd2 in enterobacteria and p. aeruginosa) loss of different membrane proteins (proteus mirabilis, proteus rettgeri, enterobacter cloacae, enterobacter aerogenes), modifications of the pbps (gram positive) and the production of carbapenemases (chromosomic methalo-beta-lactamases).
+TIHT== 
+ABHT== 
+
+PMID== 6788707
+TI  == phagocytic and chemiluminescent responses of mouse peritoneal macrophages to living and killed salmonella typhimurium and other bacteria.
+AB  == in the presence of luminol, resident as well as thioglycolate-induced and immunized macrophages emitted chemiluminescence more efficiently when the cells were exposed to living salmonella typhimurium than when they were exposed to the  same bacterium killed by ultraviolet light or heat. this phenomenon was observed  whether or not the bacterium was opsonized. the different response to living and  killed bacteria was also found with escherichia coli, pseudomonas aeruginosa, proteus morganii, and enterobacter aerogenes, but not with shigella sonnei, klebsiella pneumoniae, and propionibacterium acnes. the results suggest that macrophages respond better to living, motile bacteria than to nonmotile or killed bacteria. the experimental results obtained with motility mutants of s. typhimurium, e. coli, and p. aeruginosa confirm that macrophages exposed to the motile bacteria emit chemiluminescence more efficiently and ingest the motile bacteria at a much faster rate than the nonmotile bacteria.
+TIHT== 
+ABHT== 
+

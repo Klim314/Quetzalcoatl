@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19228092
+TI  == does pregnancy have an impact on the subgingival microbiota?
+AB  == background: we investigated clinical and subgingival microbiologic changes during pregnancy in 20 consecutive pregnant women > or =18 years not receiving dental care. methods: bacterial samples from weeks 12, 28, and 36 of pregnancy and at 4  to 6 weeks postpartum were processed for 37 species by checkerboard dna-dna hybridization. clinical periodontal data were collected at week 12 and at 4 to 6  weeks postpartum, and bleeding on probing (bop) was recorded at sites sampled at  the four time points. results: the mean bop at week 12 and postpartum was 40.1% +/- 18.2% and 27.4% +/- 12.5%, respectively. the corresponding mean bop at microbiologic test sites was 15% (week 12) and 21% (postpartum; not statistically significant). total bacterial counts decreased between week 12 and postpartum (p  <0.01). increased bacterial counts over time were found for neisseria mucosa (p <0.001). lower counts (p <0.001) were found for capnocytophaga ochracea, capnocytophaga sputigena, eubacterium saburreum, fusobacterium nucleatum naviforme, fusobacterium nucleatum polymorphum, leptotrichia buccalis, parvimonas micra (previously peptostreptococcus micros or micromonas micros), prevotella intermedia, prevotella melaninogenica, staphylococcus aureus, streptococcus anginosus, streptococcus intermedius, streptococcus mutans, streptococcus oralis, streptococcus sanguinis, selenomonas noxia, and veillonella parvula. no changes occurred between weeks 12 and 28 of pregnancy. counts of aggregatibacter actinomycetemcomitans (previously actinobacillus actinomycetemcomitans), porphyromonas gingivalis, tannerella forsythia (previously t. forsythensis), and  treponema denticola did not change. counts of p. gingivalis and t. forsythia at week 12 were associated with gingivitis (p <0.001). conclusions: subgingival levels of bacteria associated with periodontitis did not change. p. gingivalis and t. forsythia counts were associated with bop at week 12. a decrease was found in 17 of 37 species from week 12 to postpartum. only counts of n. mucosa increased.
+TIHT== 
+ABHT== 
+

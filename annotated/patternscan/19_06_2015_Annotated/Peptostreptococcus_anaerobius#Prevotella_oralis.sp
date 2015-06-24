@@ -1,0 +1,41 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 17475517
+TI  == in vitro antimicrobial activity of propolis samples from different geographical origins against certain oral pathogens.
+AB  == propolis is an agent having antimicrobial properties, however, its composition can vary depending on the area where it is collected. in the present study, the antimicrobial activity of five propolis samples, collected from four different regions in turkey and from brazil, against nine anaerobic strains was evaluated.  ethanol extracts of propolis (eep) were prepared from propolis samples and we determined minimum inhibitory concentrations (mic) and minimum bactericidal concentrations (mbc) of eep on the growth of test microorganisms by using agar dilution method. all strains were susceptible and mic values ranged from 4 to 512 microg/ml for propolis activity. propolis from kazan-ankara showed most effective mic values to the studied microorganisms. mbc values of kazan-ankara eep samples  were ranged from 8 to 512 microg/ml. death was observed within 4 h of incubation  for peptostreptococcus anaerobius and micros and lactobacillus acidophilus and actinomyces naeslundii, while 8 h for prevotella oralis and prevotella melaninogenica and porphyromonas gingivalis, 12 h for fusobacterium nucleatum, 16 h for veillonella parvula. it was shown that propolis samples were more effective against gram positive anaerobic bacteria than gram negative ones. the organic chemical compositions of eeps were determined by high-resolution gas chromatography coupled to mass spectrometry (gc-ms). the main compounds of eeps were flavonoids such as pinobanksin, quercetin, naringenin, galangine, chrysin and aromatic acids such as cafeic acid. because of increased antimicrobial resistance, propolis may be kept in mind in the treatment of oral cavity diseases.
+TIHT== 
+ABHT== 
+
+PMID== 16982270
+TI  == coaggregation interactions between oral and endodontic enterococcus faecalis and  bacterial species isolated from persistent apical periodontitis.
+AB  == interactions between enterococcus faecalis and other species found in root canal  infections might be important for the development and persistence of periapical disease. the aim of this study was to investigate the coaggregation interactions  between e. faecalis clinical isolates and species previously shown to survive and induce apical periodontitis in monkeys: peptostreptococcus anaerobius, prevotella oralis, fusobacterium nucleatum, and streptococcus anginosus. intergeneric coaggregation assays were conducted in duplicate with observations scored immediately at 0 h, 1 h and 24 h after mixing of combinations of strains. all e.  faecalis strains (n = 53) coaggregated with f. nucleatum; e. faecalis did not coaggregate with p. anaerobius or s. anginosus. one strain, e. faecalis e1, coaggregated with p. oralis, with aggregates visible at 1 h. coaggregation interactions between e. faecalis and f. nucleatum observed in this study suggest  a potential role for this combination in endodontic infections.
+TIHT== 
+ABHT== 
+
+PMID== 15154917
+TI  == apical periodontitis development and bacterial response to endodontic treatment.  experimental root canal infections in monkeys with selected bacterial strains.
+AB  == in six monkeys, 160 root canals were inoculated with a combination of four bacterial strains belonging to species streptococcus milleri, peptostreptococcus  anaerobius, prevotella oralis, and fusobacterium nucleatum. in two other monkeys, 24 root canals were inoculated with a five-strain combination consisting of these strains and a strain of enterococcus faecalis. all strains were previously isolated from an infected monkey root canal. after 8-12 months, survival of the strains was recorded bacteriologically, and the reaction in the periapical region was radiographed. from 180 of 184 root canals, one or more of the bacterial strains were reisolated. the two facultative strains were more frequently reisolated than the anaerobic strains. apical periodontitis was registered in the periapical region of more than 96% of root canals with reisolated bacteria but in none of those without reisolated bacteria. endodontic treatment was carried out in two sessions with an interval of 14 d without interappointment dressings, and  the effect was evaluated bacteriologically before and after each treatment. the chemo-mechanical treatment reduced significantly the number of strains and bacterial cells. the facultative bacteria were more resistant to the treatment than the anaerobic bacteria. the five-strain combination had a higher survival rate than the four-strain combination.
+TIHT== 
+ABHT== 
+
+PMID== 8100851
+TI  == cytotoxicity versus antibacterial activity of some antiseptics in vitro.
+AB  == through the development of new techniques for bacterial growth and isolation, obligate anaerobes have been shown to be more prevalent than previously thought in the pathogenesis of periapical and pulpal diseases. a follow-up study was conducted to examine the germicidal effect of 0.05% naocl, 10 mg/ml metronidazole and supernatant of ca (oh)2 (0.025 ml) on four anaerobic microorganisms commonly  found in root canals, and to compare the toxicity of these substances on cell cultures. in vitro testing revealed that 0.05% naocl and ca (oh)2 were both equally effective on these anaerobes. also, metronidazole was found to be germicidally effective against bacteroides melaninogenicus, bacteroides oralis and peptostreptococcus anaerobius, but ineffective against veillonella alcalescens. furthermore, it was found that naocl and ca (oh)2 had a very destructive effect on cell cultures compared with their antimicrobial effect, whereas metronidazole was less toxic among the agents tested.
+TIHT== 
+ABHT== 
+
+PMID== 1800380
+TI  == comparative in vitro activity of cefpodoxime against anaerobes other than bacteroides fragilis.
+AB  == to assess the in vitro activity of cefpodoxime against anaerobic respiratory tract and oropharyngeal pathogens 77 strains belonging to 18 gram-negative and 7  gram-positive species were studied by means of agar dilution tests. for comparison cefuroxime, amoxicillin, amoxicillin + clavulanic acid and clindamycin were also tested. cefpodoxime was found to be active at concentrations of less than or equal to 0.125 mg/l against prevotella oralis, prevotella buccalis, prevotella bivia, porphyromonas asaccharolytica, bacteroides corporis, bacteroides gracilis, fusobacterium necrophorum, fusobacterium naviforme and propionibacterium acnes. prevotella oris, prevotella buccae, fusobacterium nucleatum, peptostreptococcus asaccharolyticus, and ruminococcus bromii were inhibited at concentrations of less than or equal to 1 mg/l and prevotella denticola, prevotella melaninogenica, prevotella intermedia, porphyromonas gingivalis, bacteroides pneumosintes, and peptostreptococcus micros at concentrations of less than or equal to 4 mg/l. strains of veillonella parvula were inhibited by cefpodoxime at 0.25-8 mg/l, and single strains of peptostreptococcus anaerobius and peptostreptococcus magnus showed mics of 32 and 64 mg/l, respectively. the results obtained warrant the use of cefpodoxime in therapy of anaerobic and mixed aerobic-anaerobic infections of the upper and lower respiratory tract and similar infections not involving bacteroides fragilis.
+TIHT== 
+ABHT== 
+
+PMID== 10336
+TI  == bacterial interference by oropharynegeal and clinical isolates of anaerobic bacteria.
+AB  == anaerobic isolates were tested for bacterial inhibitory activity. of 144 isolates, 102 were from oropharynegeal washings, and 42 were from clinical specimens. thirteen facultative bacterial species (seven members of the enterobacteriaceae and six species of gram-positive cocci) were used as indicators of inhibition. eleven anaerobic species were isolated from oral secretions. all isolates of bacteroides melaninogenicus, the most commonly recovered species, consistently inhibited several species of indicator bacteria.  bacteroides fragilis, bacteroides oralis, and peptostreptococcus anaerobius had unprecictable inhibitory activity, whereas most of the other oral anaerobes were  noninhibitory. the 42 clinical species were generally noninhibitory.
+TIHT== 
+ABHT== 
+

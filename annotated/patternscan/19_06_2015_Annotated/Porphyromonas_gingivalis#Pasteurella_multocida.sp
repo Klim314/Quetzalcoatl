@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22209121
+TI  == bactericidal properties of pradofloxacin against veterinary pathogens.
+AB  == pradofloxacin is a new veterinary 8-cyano-fluoroquinolone developed for use against bacterial infections in dogs and cats involving both aerobic and anaerobic bacteria. the minimal bactericidal concentrations have been determined  against clinical isolates of staphylococcus pseudintermedius, staphylococcus aureus, escherichia coli, pasteurella multocida, streptococcus canis, proteus spp., fusobacterium spp., porphyromonas gingivalis and prevotella species. a subset of these species was selected, and the in vitro rate of kill by pradofloxacin was determined. for 27 of the 30 tested aerobic strains the pradofloxacin mbc was within two doubling dilutions of the mic. for the remaining strains, the mic and mbc were within three to four doubling dilutions. pradofloxacin also demonstrated bactericidal activity against all anaerobic strains, and the mbc was equal to the mic for four of the strains, within 1 doubling dilution for three strains, within 2 dilutions for a further 3 strains and within 3 dilutions for the remaining five strains. as pradofloxacin concentration was increased, a faster rate of killing was observed; bactericidal  effects were seen in all cases at concentrations </= 0.25 mug/ml. the bactericidal activity against the anaerobic strains was marked, of particular relevance was the complete absence of regrowth even at 48 h at concentrations as  low as 0.125 mug/ml. in conclusion, pradofloxacin exhibits clear bactericidal activity in terms of mbc and kill kinetics against aerobic and anaerobic clinical isolates from dogs and cats at concentrations that are greatly exceeded within the systemic circulation after administration of the recommended therapeutic doses to the target animals. it is expected that such a rapid rate of kill will play a significant role in clinical efficacy. these data demonstrate the complete and rapid killing of anaerobic bacteria by a veterinary 8-cyano-fluoroquinolone.
+TIHT== 
+ABHT== 
+
+PMID== 17286127
+TI  == evaluation of subgingival bacteria in the dog and susceptibility to commonly used antibiotics.
+AB  == the aim of the present investigation was to evaluate the subgingival aerobic and  anaerobic flora of 13 dogs with periodontal disease and the susceptibility of these bacteria to antibiotics currently approved in italy for treatment of canine infections. of the anaerobic bacteria, bacteroides fragilis was most frequently isolated, followed by peptostreptococcus + porphyromonas gingivalis and prevotella intermedia. of the aerobic bacteria, alpha-hemolytic streptococcus was most frequently isolated, often associated with escherichia coli or pasteurella multocida. resistance of anaerobic and aerobic bacteria to various antibiotics was generally high. anaerobic bacteria appeared to be susceptible to amoxicillin  + clavulanic acid, doxycycline, and erythromycin; aerobic bacteria appeared to be susceptible to amoxicillin + clavulanic acid, erythromycin, gentamycin, and sulfa-trimethoprim. bacteroides fragilis was resistant to all of the antibiotics  tested. the emerging worldwide problem of bacterial resistance to antibiotics resulting from overuse and misuse of antibiotics is discussed.
+TIHT== 
+ABHT== 
+

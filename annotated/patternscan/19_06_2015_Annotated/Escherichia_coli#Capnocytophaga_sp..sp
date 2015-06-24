@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 15621454
+TI  == detection and characterization of beta-lactamase genes in subgingival bacteria from patients with refractory periodontitis.
+AB  == fifty-three beta-lactamase-producing strains of oral bacteria isolated from patients with refractory periodontitis in norway and usa were screened for the presence of the bla(tem), bla(shv), bla(oxa), bla(ampc), bla(cfxa), and bla(cepa/cbla) genes by the polymerase chain reaction (pcr). the pcr products were characterized by direct sequencing of the amplified dna. thirty-four of the  53 enzyme-producing strains (64%) were positive in one of the pcr assays. all beta-lactamase-producing prevotella and capnocytophaga spp. were cfxa positive. tem-type beta-lactamases were identified in one strain each of escherichia coli and neisseria sp., and one strain of citrobacter freundii possessed an ampc-type  beta-lactamase. screening for gene cassettes and genes known to be associated with integrons did not reveal the presence of integrons in these oral bacteria. sequence analyses showed that most cfxa positive prevotella and capnocytophaga isolates from patients with refractory periodontitis harboured variants of the cfxa2 and cfxa3 enzyme. the present study also showed that many different genetic determinants of beta-lactamase production are found in bacteria isolated from refractory periodontitis, many of which remain to be characterized.
+TIHT== 
+ABHT== 
+
+PMID== 12037085
+TI  == prevalent bacterial species and novel phylotypes in advanced noma lesions.
+AB  == the purpose of this study was to determine the bacterial diversity in advanced noma lesions using culture-independent molecular methods. 16s ribosomal dna bacterial genes from dna isolated from advanced noma lesions of four nigerian children were pcr amplified with universally conserved primers and spirochetal selective primers and cloned into escherichia coli. partial 16s rrna sequences of approximately 500 bases from 212 cloned inserts were used initially to determine  species identity or closest relatives by comparison with sequences of known species or phylotypes. nearly complete sequences of approximately 1,500 bases were obtained for most of the potentially novel species. a total of 67 bacterial  species or phylotypes were detected, 25 of which have not yet been grown in vitro. nineteen of the species or phylotypes, including propionibacterium acnes,  staphylococcus spp., and the opportunistic pathogens stenotrophomonas maltophilia and ochrobactrum anthropi were detected in more than one subject. other known species that were detected included achromobacter spp., afipia spp., brevundimonas diminuta, capnocytophaga spp., cardiobacterium sp., eikenella corrodens, fusobacterium spp., gemella haemoylsans, and neisseria spp. phylotypes that were unique to noma infections included those in the genera eubacterium, flavobacterium, kocuria, microbacterium, and porphyromonas and the related streptococcus salivarius and genera sphingomonas and treponema: since advanced noma lesions are infections open to the environment, it was not surprising to detect species not commonly associated with the oral cavity, e.g., from soil. several species previously implicated as putative pathogens of noma, such as spirochetes and fusobacterium spp., were detected in at least one subject. however, due to the limited number of available noma subjects, it was not possible at this time to associate specific species with the disease.
+TIHT== 
+ABHT== 
+

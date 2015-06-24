@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23664257
+TI  == hanseniaspora opuntiae, saccharomyces cerevisiae, lactobacillus fermentum, and acetobacter pasteurianus predominate during well-performed malaysian cocoa bean box fermentations, underlining the importance of these microbial species for a successful cocoa bean fermentation process.
+AB  == two spontaneous malaysian cocoa bean box fermentations (one farm, two plantation  plots) were investigated. physical parameters, microbial community dynamics, yeast and bacterial species diversity [mainly lactic acid bacteria (lab) and acetic acid bacteria (aab)], and metabolite kinetics were monitored, and chocolates were produced from the respective fermented dry cocoa beans. similar microbial growth and metabolite profiles were obtained for the two fermentations. low concentrations of citric acid were found in the fresh pulp, revealing low acidity of the raw material. the main end-products of the catabolism of the pulp  substrates glucose, fructose, and citric acid by yeasts, lab, and aab were ethanol, lactic acid, acetic acid, and/or mannitol. hanseniaspora opuntiae, lactobacillus fermentum, and acetobacter pasteurianus were the prevalent species  of the two fermentations. saccharomyces cerevisiae, lactobacillus plantarum, lactobacillus pentosus, and acetobacter ghanensis were also found during the mid-phase of the fermentation processes. leuconostoc pseudomesenteroides and acetobacter senegalensis were among the prevailing species during the initial phase of the fermentations. tatumella saanichensis and enterobacter sp. were present in the beginning of the fermentations and they could be responsible for the degradation of citric acid and/or the production of gluconic acid and lactic  acid, respectively. the presence of facultative heterofermentative lab during the fermentations caused a high production of lactic acid. finally, as these fermentations were carried out with high-quality raw material and were characterised by a restricted microbial species diversity, resulting in successfully fermented dry cocoa beans and good chocolates produced thereof, it is likely that the prevailing species h. opuntiae, s. cerevisiae, lb. fermentum,  and a. pasteurianus were responsible for it.
+TIHT== 
+ABHT== 
+

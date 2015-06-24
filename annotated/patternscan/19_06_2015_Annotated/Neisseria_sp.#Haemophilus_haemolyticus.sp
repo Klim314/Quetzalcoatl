@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 11208283
+TI  == cerebrospinal meningitis with the presence of acinetobacter spp.
+AB  == the study was conducted on 16 strains of acinetobacter sp. which were isolated from cerebrospinal fluid. the diagnostic material was analysed with the use of automatic bact/alert system (organon teknika). the analysis was performed in the  department of microbiology, medical university in bydgoszcz. api 20ne system (biomerieux) enabled the identification of 14 strains (87.5%) as a. baumannii, 1  strain as a. haemolyticus and 1 strain as a. lwoffii. the micro-organisms were isolated from patients whose age ranged between 4 and 66 years. these patients were treated in the departments of neurosurgery (75.0%), neurology (18.8%) and intensive therapy (6.2%). the infection of cerebrospinal fluid was caused by injury and subsequent exposure to the bacteria present in external environment. antibiotic-sensitivity of these micro-organisms was evaluated with the help of disc-diffusion method, observing standardisation conditions outlined by nccls. all the strains proved sensitive to carbapenems, 15 strains were sensitive to netilmicin, 7 strains--to tobramycin and 7 strains--to amikacin. all the strains  displayed multiple resistance. the only exception was a. haemolyticus. the use of two-discs allowed for the detection of esbls in 7 a. baumannii strains. positive  results were most frequently obtained after the combination of sublactam and aztreonam. due to microscopic resemblance between acinetobacter spp., and bacteria of neisseria, moraxella and haemophilus genus, microbiological diagnostics should not be restricted to microscopic assessment of cerebrospinal fluid and quick serological tests evaluating the antigens of the most frequent aetiological factors. considering multiple resistance of acinetobacter spp. to antibiotics, the treatment should be based on sensitivity tests and the ability of a given antibiotic to penetrate into cerebrospinal fluid. in our opinion, both reasonable antibiotic policy as well as observing the principles of hygiene and monitoring infections play equally important roles in the prevention of infections with acinetobacter spp. such combined measures may help to prevent the spreading of multiple resistant strains in hospital environment.
+TIHT== 
+ABHT== 
+

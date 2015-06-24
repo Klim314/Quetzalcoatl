@@ -1,0 +1,29 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22099908
+TI  == persistent extraradicular infection in root-filled asymptomatic human tooth: scanning electron microscopic analysis and microbial investigation after apical microsurgery.
+AB  == introduction: procedural accidents have a negative effect on healing and might contribute to the persistence of infections in inaccessible apical areas, requiring surgical intervention. this report describes a case of persistent apical periodontitis of a lower left first molar associated with the sinus tract  and a periapical lesion that required nonsurgical endodontic retreatment and apical surgery for resolution. methods: the tooth had received endodontic treatment 3 years ago and had to be retreated using the crown-down technique with chemical auxiliary substance (2% chlorhexidine gel), foramen patency, and enlargement and was filled in a single appointment. the occlusal access cavity was immediately restored with composite resin. after 1 month, it could be observed that the sinus tract persisted and, radiographically, the lesion remained unaltered. therefore, endodontic microsurgery was indicated. apical microsurgery was performed under magnification with the use of a dental operating microscope including apicectomy, root end with ultrasound, and sealing with mineral trioxide aggregate. a microbiological sample was collected from the apical lesion. the resected distal root apex was observed by scanning electron microscopy. results: the following species were detected: actinomyces naeslundii  and actinomyces meyeri, propionibacterium propionicum, clostridium botullinum, parvimonas micra, and bacteroides ureolyticus; scanning electron microscopic analysis revealed bacterial biofilm surrounding the apical foramen and external radicular surface. gutta-percha overfilling at the apex because of a zip caused during initial endodontic treatment could be observed. a 6-month follow-up showed apparent radiographic periapical healing, which progressed after 24 months. conclusion: gram-positive anaerobic bacteria and extraradicular biofilm seem to participate in the maintenance of persistent periapical pathology, and endodontic retreatment followed by periapical microsurgery proved to be a successful alternative in the resolution of persistent extraradicular infections.
+TIHT== 
+ABHT== 
+
+PMID== 8324113
+TI  == recent taxonomic changes for anaerobic gram-positive and selected gram-negative organisms.
+AB  == the strains formerly classified as streptococcus anginosus or "streptococcus milleri" have now been recognized as three distinct species, streptococcus anginosus, streptococcus constellatus, and streptococcus intermedius. streptococcus morbillorum has been transferred into the genus gemella. four new species within the genus peptostreptococcus were recently named. a recent addition to the genus clostridium is clostridium argentinense, which includes clostridium botulinum type g. two new species of actinomyces have been introduced: actinomyces georgiae and actinomyces gerencseriae. arachnia propionica was shown to be related to propionibacteria and has been renamed propionibacterium propionicum. eubacterium yurii was named to contain "test-tube  brush" bacteria found in subgingival plaque. lactobacillus uli and lactobacillus  rimae are obligately anaerobic lactobacilli found in periodontal pockets. bilophila is a new genus of gram-negative bacilli. wolinella recta and wolinella  curva are now included in the genus campylobacter. the taxonomic position of mobiluncus, currently assigned to the family bacteroidaceae, remains uncertain.
+TIHT== 
+ABHT== 
+
+PMID== 3235677
+TI  == evaluation of a commercial latex test for clostridium difficile for reactivity with c. difficile and cross-reactions with other bacteria.
+AB  == seventy-eight species of bacteria (739 isolates) were tested for reactivity with  a commercial latex test for clostridium difficile. all noncytotoxic as well as cytotoxic strains of c. difficile reacted positively. immuno-specific cross-reactions were found only with c. sporogenes, proteolytic c. botulinum, and peptostreptococcus anaerobius.
+TIHT== 
+ABHT== 
+
+PMID== 6805929
+TI  == leucine dissimilation to isovaleric and isocaproic acids by cell suspensions of amino acid fermenting anaerobes: the stickland reaction revisited.
+AB  == freshly compared cell suspensions of clostridia (clostridium bifermentans, c. botulinum proteolytic type a, c. difficile, c. sordellii, and c. sporogenes) and  peptostreptococcus anaerobius converted leucine to isovaleric (iv) and isocaproic (ic) acids in the absence of other amino acids. the optimal ph for conversion was between 8 and 9 at 37 degrees c. the stoichiometry of reaction was compatible with that expected for the stickland reaction, as the ratio of iv to ic was 1:2,  the amount of co2 produced was equivalent to that of iv, and ammonium ion concentrations were equal to the total c5 and c6 acids formed. the presence of alanine and valine (proton donors in the stickland reaction) in incubations effectively increased the concentration of ic at the expense of iv production, implying that leucine acted there primarily as a proton acceptor. glycine and proline (proton acceptors) stimulated both iv and ic production from leucine, but increases in iv concentrations were proportionately greater than for ic so that leucine was primarily a proton donor in the presence of proton acceptors. glucose stimulated the conversion of leucine to volatile fatty acids but favoured ic production. production of ic from leucine was inhibited by surface active compounds (cetyltrimethylammonium bromide and desoxycholate) as well as arsenite  and iodoacetate. the redox dyes methyl viologen and phenosafranine inhibited ic production more severely than iv production, as did the nitroimidazole antimicrobial agent, metronidazole.
+TIHT== 
+ABHT== 
+

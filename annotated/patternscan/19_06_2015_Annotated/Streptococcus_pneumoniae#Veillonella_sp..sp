@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 6865629
+TI  == bacteriological study in chronic maxillary sinusitis.
+AB  == the bacterial findings of 73 maxillary sinuses in 48 patients with chronic maxillary sinusitis, together with 7 non-inflamed sinuses, are reported. employing an intraoperative technique and simultaneous collection of 3 different  types of specimens in the present investigation made possible comparison of their bacterial characteristics. the results indicated that intraoperative culture of antral mucosa seems to provide the most reliable finding of bacterial flora in chronic maxillary sinusitis. the anaerobic bacteria were never found in the mucosal culture of non-inflamed sinus. the anaerobes appeared to invade the sinus cavity following the sealing of the ostium through the lymphatic or venous system and maintain the inflammatory process. microbiological analysis of the results between the infected and non-inflamed sinuses established anaerobic bacteria as the most important pathogen in chronic maxillary sinusitis. the predominant anaerobes recovered in descending order of frequency were veillonella sp., peptococcus sp., propionibacterium acne and anaerobic nonspore-forming gpb. statistical analysis of the results of mucosal culture of inflamed and control materials demonstrated that those aerobic and faculatative bacteria recovered in  the inflamed sinus appeared to be the normal inhabitants of non-inflamed sinus mucosa. the presence of normal flora in the normal healthy sinus mucosa may explain the chain of events that follows the occlusion of the ostium. these aerobic bacteria may become pathogenic and play a role in the pathogenesis of sinusitis.
+TIHT== 
+ABHT== 
+
+PMID== 7464399
+TI  == aerobic and anaerobic bacteriology of adenoids in children: a comparison between  patients with chronic adenotonsillitis and adenoid hypertrophy.
+AB  == adenoids were obtained from 18 children with chronic adenotonsillitis (group a) and from 12 others with adenoid hypertrophy (group b). patients' ages ranged from 20 months to 15 years (mean 6 years); 18 were males and 12 females. the adenoids  were sectioned in half after heat searing of the surface, and the core material was cultured for aerobic and anaerobic microorganisms. mixed aerobic and anaerobic flora were obtained from all patients, yielding an average of 7.8 isolates (4.6 anaerobes and 3.2 aerobes) per specimen. there were 97 anaerobes isolated. the predominant isolates in both groups were: bacteroides sp. (including b. melaninogenicus and b. oralis), fusobacterium sp., gram-positive anaerobic cocci, and veillonella sp. there were 138 aerobic isolates. the predominant isolates in both groups were: alpha and gamma hemolytic streptococci, beta hemolytic streptococci (group a, b, c, and f), s. aureus, s. pneumoniae, and hemophilus sp. hemophilus influenzae type b, and s. aureus were more frequently isolated in group a. b. fragilis was only recovered in group a. beta lactamase production was noted in 27 isolates obtained from 18 patients. fifteen of these patients belonged to group a (83% of group a), while 3 were members of group b (25% of group b). these bacteria were all isolates of s. aureus (11) and b. fragilis (2), 8 of 22 b. melaninogenicus group, 4 of 11 b. oralis, and two of 8 h. influenza type b. our findings indicate the polymicrobial nature of deep adenoid flora and demonstrate the presence of many beta lactamase-producing organisms in children with recurrent adenotonsillitis.
+TIHT== 
+ABHT== 
+

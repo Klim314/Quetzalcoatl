@@ -1,0 +1,29 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23196364
+TI  == sonication of explanted cardiac implants improves microbial detection in cardiac  device infections.
+AB  == the sonication technique has been shown to be a promising tool for microbiological diagnosis of device-related infections. we evaluated the usefulness of the sonication method for pathogen detection in 80 explanted cardiac components collected from 40 patients, and the results were compared with those of conventional cultures. forty subjects undergoing cardiac device removal  were studied: 20 had cardiac device infection, and 20 subjects underwent elective generator replacement or revision in the absence of infection. sonication of explanted devices was more sensitive than traditional culture for microbial detection (67% and 50%, respectively; p = 0.0005). the bacterial count detected in sonication fluid culture was significantly higher than that detected in traditional culture in both infected (p = 0.019) and uninfected (p = 0.029) devices. in the infected patients, sonication fluid culture yielded a significantly higher rate of pathogen detection in explanted electrodes than traditional culture (65% versus 45%; p = 0.02), while no differences were found in the generators. ten strains were detected only through sonication fluid culture: 6 staphylococcus epidermidis strains, 1 staphylococcus hominis strain, 2 corynebacterium striatum strains, and 1 brevundimonas sp. neither the type nor the duration of antimicrobial therapy before device removal had an effect on the  diagnostic performance of sonication fluid culture (p = 0.75 and p = 0.56, respectively). in the patients without infection, sonication fluid culture was positive in 8 cases (40%), whereas conventional culture was positive in only 4 (20%). in summary, the sonication technique improves the microbiological diagnosis of explanted cardiac devices.
+TIHT== 
+ABHT== 
+
+PMID== 21853673
+TI  == [the characteristics of gram-positive bacteria isolated from skin lesions observed in ambulatory patients and the assessment of their susceptibility to antimicrobial drugs].
+AB  == the bacterial skin and soft-tissue infections occur commonly and are characterized by more or less intensified changes within skin and subcutaneous tissue. the bacterial skin infections give rise to significant therapeutic problems associated with increasing resistance etiological agents of these infections to antibiotics and chemotherapeutics. the aim of this study was to assess the distribution of various gram-positive microorganisms in skin lesion observed in ambulatory patients in a period from june 2005 to december 2006. there were 116 bacterial strains isolated and identified from clinical samples: staphylococcus aureus, coagulase - negative staphylococi (s.epidermidis, s. xylosus, s.capitis, s.saccharolyticus), propionobacterium acnes, streptococcus spp. (s.agalactiae, s.pyogenes) i corynebacterium spp. (c. striatum, c. amycolatum, c. aquaticum). in the further part of this study we analyzed a profile of their susceptibility to antibiotics and chemotherapeutics in relation  to drugs recommended for the empirical therapy. the resultant resistance patterns among the examined bacterial isolates are indicative of certain divergence between recommended empirical antibiotic therapy and actual antimicrobial susceptibility of many etiologic factors of skin and soft-tissue infections.
+TIHT== 
+ABHT== 
+
+PMID== 15536048
+TI  == impact of manufacturing, irradiation and filtration steps to bacterial contamination of autologous fibrin sealant.
+AB  == background: preoperative production of autologous fibrin sealant has become a routine procedure during the last years. as a certain percentage of blood products is contaminated with bacteria, contamination of plasma used for the production of fibrin sealant cannot be excluded. especially in the orthopaedic setting, application of contaminated fibrin sealant can cause severe infections.  materials and methods: we contaminated plasma with staphylococcus epidermidis, corynebacterium striatum, bacillus subtilis or escherichia coli and produced fibrin sealant by cryoprecipitation and alcohol precipitation. additionally, the  products were gamma-irradiated at a dose of 30 gy, frozen at -55 degrees c and filtered through a 0.2 microm filter after thawing. after each preparation step,  samples were drawn and numbers of colony forming units were counted after incubation on agar plates. results: cryoprecipitation, irradiation, freezing at -55 degrees c, and alcohol precipitation have only little impact on numbers of colony forming units. filtration through a bacterial filter results in a sterile  product. conclusion: bacteria in plasma as a starting material for production of  fibrin sealant survive all routine steps of production, including gamma irradiation and freezing. filtration of the product through a qualified bacterial filter is the only safe means to provide a sterile product.
+TIHT== 
+ABHT== 
+
+PMID== 12673107
+TI  == report of a case with polymicrobial endocarditis related to multiresistant strains.
+AB  == we present a patient with polymicrobial endocarditis who had been operated on previously for a mycotic aneurysm and was seen at the cardiology clinic because of palpitations related to effort. a transesophageal echocardiogram revealed a 15-mm vegetation on his aortic valve. staphylococcus epidermidis and corynebacterium striatum were isolated from the blood cultures. both strains were multiresistant (susceptible to 3 antibiotics at most) against chemotherapy in vitro. microbiological eradication was not achieved from blood cultures even after applying antimicrobial therapy with effective antibiotics as determined with an antibiotic susceptibility test. for this reason, the patient underwent valve replacement. he was discharged from hospital in fairly good health.
+TIHT== 
+ABHT== 
+

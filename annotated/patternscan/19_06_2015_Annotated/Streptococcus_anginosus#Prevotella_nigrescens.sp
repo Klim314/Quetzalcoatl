@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19905954
+TI  == hydrogen sulfide production from cysteine and homocysteine by periodontal and oral bacteria.
+AB  == background: hydrogen sulfide is one of the predominant volatile sulfur compounds  (vscs) produced by oral bacteria. this study developed and evaluated a system for detecting hydrogen sulfide production by oral bacteria. methods: l-methionine-alpha-deamino-gamma-mercaptomethane-lyase (metase) and beta carbon-sulfur (beta c-s) lyase were used to degrade homocysteine and cysteine, respectively, to produce hydrogen sulfide. enzymatic reactions resulting in hydrogen sulfide production were assayed by reaction with bismuth trichloride, which forms a black precipitate when mixed with hydrogen sulfide. the enzymatic activities of various oral bacteria that result in hydrogen sulfide production and the capacity of bacteria from periodontal sites to form hydrogen sulfide in reaction mixtures containing l-cysteine or dl-homocysteine were assayed. results: with l-cysteine as the substrate, streptococcus anginosus fw73 produced the most  hydrogen sulfide, whereas porphyromonas gingivalis american type culture collection (atcc) 33277 and w83 and fusobacterium nucleatum atcc 10953 produced approximately 35% of the amount produced by the p. gingivalis strains. finally, the hydrogen sulfide found in subgingival plaque was analyzed. using bismuth trichloride, the hydrogen sulfide produced by oral bacteria was visually detectable as a black precipitate. conclusions: hydrogen sulfide production by oral bacteria was easily analyzed using bismuth trichloride. however, further innovation is required for practical use.
+TIHT== 
+ABHT== 
+
+PMID== 17949342
+TI  == evaluation of the microbiota of primary endodontic infections using checkerboard  dna-dna hybridization.
+AB  == background/aims: the aim of this study was to evaluate the composition of the microbiota of primary endodontic infections in 111 selected cases of single-rooted teeth with necrotic pulp. methods: samples were collected from the  root canals using #15 hedstroen-type files and two sterile paper points, which were introduced 1 mm short of the apical foramen. the presence, levels, and proportions of 40 different bacterial species in each sample were determined using dna probes and checkerboard dna-dna hybridization techniques. results: the  mean number of species per sample was 22. enterococcus faecalis (89.3%), campylobacter gracilis (89.3%), leptotrichia buccalis (89.3%), neisseria mucosa (87.5%), prevotella melaninogenica (86.6%), fusobacterium nucleatum ssp. vincentii (85.7%), eubacterium saburreum (75.9%), streptococcus anginosus (75%),  and veillonella parvula (74.1%) were the most prevalent species. the species found in highest mean counts (over 10(5)) were f. nucleatum ssp. vincentii (13.14 x 10(5)), e. saburreum (5.67 x 10(5)), e. faecalis (5.38 x 10(5)), n. mucosa (4.19 x 10(5)), v. parvula (3.63 x 10(5)), c. gracilis (3.46 x 10(5)), treponema  socranskii (3.34 x 10(5)), porphyromonas endodontalis (2.96 x 10(5)), porphyromonas gingivalis (2.85 x 10(5)), micromonas micros (2.81 x 10(5)), prevotella nigrescens (2.68 x 10(5)) and fusobacterium nucleatum ssp. nucleatum (2.64 x 10(5)). most of these species were also found in high proportions. conclusions: our results suggest that several bacterial species considered to be  oral pathogens seem to be implicated in the etiology of primary endodontic infections.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 15580774
+TI  == towards the establishment and standardization of a veterinary antimicrobial resistance surveillance and monitoring programme in south africa.
+AB  == the objective of this study was to establish a repeatable, standardized laboratory procedure for monitoring the development of antimicrobial resistance in bacteria isolated from animals and food of animal origin in south africa, with reagents prepared in-house. the emergence of resistance and the spread of resistant bacteria can be limited by implementing a veterinary antimicrobial drug policy, in which inter alia systematic monitoring and prudent use play essential  roles. the bacteria included in this study represented three different categories, namely zoonotic bacteria (salmonella), indicator bacteria (escherichia coli, enterococcus faecalis and enterococcus faecium) and veterinary pathogens (mannheimia haemolytica). thirty isolates of each species were collected with the aim of standardizing the laboratory methodology for a future national veterinary surveillance and monitoring programme. susceptibility to ten  selected antimicrobial drugs was determined by means of minimum inhibitory concentrations (mics) using the microdilution method. the method according to the national committee for clinical laboratory standards was used as the standard. multi-well plates containing varying dilutions of antimicrobial drugs and prepared in-house for mic determinations, yielded repeatable results. storage of  plates for 2 months at -70 degrees c did not influence results meaningfully. within this limited sample of bacteria, mic results did not indicate meaningful resistance against any of the ten selected antimicrobial drugs. the findings of the study will be used to establish a national veterinary antimicrobial resistance surveillance and monitoring programme in south africa. to allow for international comparison of data, harmonisation of the surveillance and monitoring programme in accordance with global trends is encouraged. ideally it should be combined with a programme monitoring the quantities of antimicrobial drugs used. the aim is to contribute to slowing down the emergence of resistance  and the problems associated with this phenomenon by means of the rational use of  antimicrobial drugs.
+TIHT== 
+ABHT== 
+

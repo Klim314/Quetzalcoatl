@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 20659602
+TI  == efficacy of vaginal probiotic capsules for recurrent bacterial vaginosis: a double-blind, randomized, placebo-controlled study.
+AB  == objective: we assessed the effectiveness of vaginal probiotic capsules for recurrent bacterial vaginosis (bv) prevention. study design: one hundred twenty healthy chinese women with a history of recurrent bv were assigned randomly to daily vaginal prophylaxis with 1 capsule (probaclac vaginal; nicar laboratories,  inc, blainville, quebec, canada) that contained 8 billion colony-forming units of lactobacillus rhamnosus, l acidophilus, and streptococcus thermophilus (n = 58 women) or 1 placebo capsule (n = 62 women) for 7 days on, 7 days off, and 7 days  on. results: probiotic prophylaxis resulted in lower recurrence rates for bv (15.8% [9/57 women] vs 45.0% [27/60 women]; p < .001) and gardnerella vaginalis incidence through 2 months (3.5% [2/57 women] vs 18.3% [11/60 women]; p = .02). between the 2- and 11-month follow-up period, women who received probiotics reported a lower incidence of bv and g vaginalis. aside from vaginal discharge and malodor, no adverse events were reported in either study group. conclusion: short-term probiotic prophylaxis is well tolerated and reduces bv recurrence and  g vaginalis risk through 11 months after treatment.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22112246
+TI  == staphylococccus pseudintermedius surface proteins spsd and spso mediate adherence to ex vivo canine corneocytes.
+AB  == the gram-positive bacterium staphylococcus pseudintermedius is regarded as the major cause of canine bacterial pyoderma. despite its clinical importance, there  is only very limited knowledge about the pathogenesis of s. pseudintermedius infection and the specific bacterial virulence factors involved in causing disease. using a whole-genome approach, we have previously identified 18 predicted cell-wall-anchored surface proteins representing possible virulence factors in a clinical isolate of s. pseudintermedius (strain ed99). they were designated s. pseudintermedius surface proteins a-r (spsa-spsr). the present study tested three of the putative sps proteins (spsd, spsl and spso) for their ability to mediate adherence of bacteria to canine corneocytes. the three proteins were expressed on the surface of the nonpathogenic surrogate host lactococcus lactis, a gram-positive bacterium that does not adhere to canine corneocytes. adherence assays were performed using corneocytes from different healthy canine donors (n = 5), and bacterial cells were quantified using computerized image analysis. two of the proteins, spsd and spso, mediated adherence of l. lactis to canine corneocytes, suggesting that they contribute to  s. pseudintermedius pathogenesis and may represent novel therapeutic targets to combat infection.
+TIHT== 
+ABHT== 
+
+PMID== 21576333
+TI  == genomic and surface proteomic analysis of the canine pathogen staphylococcus pseudintermedius reveals proteins that mediate adherence to the extracellular matrix.
+AB  == cell wall-associated (cwa) proteins made by gram-positive pathogens play a fundamental role in pathogenesis. staphylococcus pseudintermedius is a major animal pathogen responsible for the canine skin disease bacterial pyoderma. here, we describe the bioinformatic analysis of the family of 18 predicted cwa proteins encoded in the genome of s. pseudintermedius strain ed99 and determine their distribution among a phylogenetically diverse panel of s. pseudintermedius clinical isolates and closely related species of the staphylococcus intermedius group. in parallel, we employed a proteomic approach to identify proteins presented on the surface of strain ed99 in vitro, revealing a total of 60 surface-localized proteins in one or more phases of growth, including 6 of the 18 genome-predicted cwa proteins. based on these analyses, we selected two cwa proteins (spsd and spsl) encoded by all strains examined and investigated their capacity to mediate adherence to extracellular matrix proteins. we discovered that spsd and spsl mediated binding of a heterologous host, lactococcus lactis, to fibrinogen and fibronectin and that spsd mediated binding to cytokeratin 10, a major constituent of mammalian skin. of note, the interaction with fibrinogen was host-species dependent, suggestive of a role for spsd and spsl in the host tropism of s. pseudintermedius. finally, we identified igg specific for spsd and  spsl in sera from dogs with bacterial pyoderma, implying that both proteins are expressed during infection. the combined genomic and proteomic approach employed  in the current study has revealed novel host-pathogen interactions which represent candidate therapeutic targets for the control of bacterial pyoderma.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25418480
+TI  == effect of lactobacillus rhamnosus hsryfm 1301 on the gut microbiota and lipid metabolism in rats fed a high-fat diet.
+AB  == accumulating evidence indicates that lactic acid bacteria could improve host physiology and lipid metabolism. to investigate the effect of the gut microbiota  on host lipid metabolism, a hyperlipidemic rat model was established by feeding rats a high-fat diet for 28 days, and the gut microbiota of the rats was analyzed using real-time pcr before and after administration of lactobacillus rhamnosus hsryfm 1301 and its fermented milk for 28 days. the findings showed that the lactobacillus spp., bifidobacterium spp., bacteroides spp., and enterococcus spp. content in the hyperlipidemic rats gut was increased significantly (p < 0.05), while the clostridium leptum and enterobacter spp. content was decreased significantly after intervening with l. rhamnosus hrsyfm 1301 and its fermented milk for 28 days (p < 0.05). furthermore, the lipid levels of the serum and the liver were decreased significantly (p < 0.05) and the fecal water content was increased significantly (p < 0.05) in the hyperlipidemic rats after the intervention, and hepatocyte fatty degeneration of liver tissues was also prevented. a positive correlation was observed between the clostridium leptum content and the level of serum cholesterol, triglycerides, low-density lipoprotein, and high-density lipoprotein, and a negative correlation was observed between the enterobacter spp. content and the lactobacillus spp. and bifidobacterium spp. content in the hyperlipidemic rats gut. these results suggest that the gut microbiota and lipid metabolism of hyperlipidemic rats could be improved by supplementation with l. rhamnosus hsryfm 1301 and its fermented milk.
+TIHT== 
+ABHT== 
+
+PMID== 17957115
+TI  == lactobacillus rhamnosus r11 consumed in a food supplement survived human digestive transit without modifying microbiota equilibrium as assessed by real-time polymerase chain reaction.
+AB  == the aim of this study was to evaluate the survival of lactobacillus rhamnosus r11 and lactobacillus acidophilus r52 in the human digestive tract and their effects  on the microbiota homeostasis. we designed an open human trial including 14 healthy volunteers. a 3-week exclusion period of fermented products was followed  by a 12-day consumption period of 4 capsules daily containing 2 x 10(9)l. rhamnosus r11 and 1 x 10(8)l. acidophilus r52, and a 12-day wash-out period. the  2 strains and dominant bacterial groups of the microbiota were quantified by real-time polymerase chain reaction. at the end of the capsule consumption period, high levels of l. rhamnosus r11 were detected in faecal samples from all  volunteers, reaching a mean value of 7.1 log(10) colony-forming unit (cfu) equivalents/g of stool. l. acidophilus r52 was detected in the stools of only 1 volunteer, reaching a maximum level of 6.1 log(10) cfu equivalents/g of stool. dilution plating enumerations performed in parallel provided less consistent and  generally lower levels. no significant effect of capsule consumption was observed on microbiota homeostasis for the dominant faecal populations. mean values of 8.8, 9.2, 9.9 and 10.6 log(10) cfu equivalents/g of stool were obtained for the clostridium coccoides, bifidobacterium sp., bacteroides sp. and clostridium leptum groups, respectively.
+TIHT== 
+ABHT== 
+

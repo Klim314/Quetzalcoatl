@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 22267666
+TI  == correlation between composition of the bacterial community and concentration of volatile fatty acids in the rumen during the transition period and ketosis in dairy cows.
+AB  == the transition period is a severe challenge to dairy cows. glucose supply cannot  meet demand and body fat is mobilized, potentially leading to negative energy balance (neb), ketosis, or fatty liver. propionate produces glucose by gluconeogenesis, which depends heavily on the number and species of microbes. in  the present study, we analyzed the rumen microbiome composition of cows in the transition period, cows with ketosis, and nonperinatal cows by terminal restriction fragment length polymorphism (trflp) analysis of 16s rrna genes and quantitative pcr. trflp analysis indicated that the quantity of veillonellaceae organisms was reduced and that of streptococcaceae organisms was increased in rumen samples from the transition period and ketosis groups, with the number of lactobacillaceae organisms increased after calving. quantitative pcr data suggested that the numbers of the main propionate-producing microbes, megasphaera elsdenii and selenomonas ruminantium, were decreased, while numbers of the main lactate-producing bacterium, streptococcus bovis, were increased in the rumen of  cows from the transition period and ketosis groups, with the number of lactobacillus sp. organisms increased after calving. volatile fatty acid (vfa) and glucose concentrations were decreased, but the lactic acid concentration was  increased, in rumen samples from the transition period and ketosis groups. our results indicate that the vfa concentration is significantly related to the numbers of selenomonas ruminantium and megasphaera elsdenii organisms in the rumen.
+TIHT== 
+ABHT== 
+
+PMID== 3223764
+TI  == effects of the ionophores monensin and tetronasin on simulated development of ruminal lactic acidosis in vitro.
+AB  == a continuous coculture of four ruminal bacteria, megasphaera elsdenii, selenomonas ruminantium, streptococcus bovis, and lactobacillus sp. strain lb17,  was used to study the effects of the ionophores monensin and tetronasin on the changes in ruminal microbial ecology that occur during the onset of lactic acidosis. in control incubations, the system simulated the development of lactic  acidosis in vivo, with an initial overgrowth of s. bovis when an excess of glucose was added to the fermentor. lactobacillus sp. strain lb17 subsequently became dominant as ph fell and lactate concentration rose. both ionophores were able to prevent the accumulation of lactic acid and maintain a healthy non-lactate-producing bacterial population when added at the same time as an excess of glucose. tetronasin was more potent in this respect than monensin. when tetronasin was added to the culture 24 h after glucose, the proliferation of lactobacilli was reversed and a non-lactate-producing bacterial population developed, with an associated drop in lactate concentration in the fermentor. rises in culture ph and volatile fatty acid concentrations accompanied these changes. monensin was unable to suppress the growth of lactobacilli; therefore, in contrast to tetronasin, monensin added 24 h after the addition of glucose failed to reverse the acidosis. numbers of lactobacilli and lactate concentrations remained high, whereas ph and volatile fatty acid concentrations were low.
+TIHT== 
+ABHT== 
+

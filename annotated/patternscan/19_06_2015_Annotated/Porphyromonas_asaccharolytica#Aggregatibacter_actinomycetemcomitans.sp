@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 7870467
+TI  == the gingival immune response to periodontal pathogens in juvenile periodontitis.
+AB  == a gingival explant culture system was utilized to evaluate the reactivity of local immunoglobulins produced by juvenile periodontitis tissue. gingival explant culture supernatant fluids were screened, via a standardized dot-immunobinding assay, for antibodies reactive to: actinobacillus actinomycetemcomitans, porphyromonas gingivalis, prevotella intermedia, campylobacter rectus, eikenella  corrodens, peptostreptococcus micros, peptostreptococcus anaerobius, capnocytophaga ochracea, eubacterium nodatum and fusobacterium nucleatum and one  nonoral microorganism, porphyromonas asaccharolytica. of the 75 juvenile periodontitis supernatant fluids tested, the organisms that reacted with the highest numbers of supernatant fluids were e. nodatum (72%) and a. actinomycetemcomitans (49%). more juvenile periodontitis than healthy tissue samples showed supernatant fluid reactivity to p. intermedia, c. ochracea, e. nodatum and p. micros. no significant difference was observed between the juvenile periodontitis group supernatant fluids reactivity and the supernatant fluids of the other periodontal disease groups tested. cluster analysis revealed  the association, as determined by supernatant fluid reactivity, of p. micros and  c. ochracea in the juvenile periodontitis group. the data from this investigation are consistent with a hypothesis of multiple possible etiologies of periodontal destruction in juvenile periodontitis and other forms of periodontal diseases.
+TIHT== 
+ABHT== 
+
+PMID== 8148788
+TI  == effects of root planing on the distribution of microorganisms adult periodontitis sites.
+AB  == the aims of this study were to identify the microbial species present in subgingival plaque in patients with adult periodontitis, and to investigate the effects of root planing upon the microbial flora for 12 months following root planing. microorganisms from samples of subgingival plaque obtained from adult periodontitis sites in 15 patients were cultured, both aerobically and anaerobically, on a variety of media and identified. prevotella intermedia and porphyromonas asaccharolytica were the most frequently identified species before  treatment. bacteroides ureolyticus, the prevotella veroralis/buccalis complex and other microorganisms including capnocytophaga ochracea, species of streptococci,  staphylococci and diphtheroids were also frequently isolated. root planing improved periodontal health, and was accompanied by reductions in the frequencies with which p. intermedia, p. asaccharolytica, the p. veroralis/buccalis complex and c. ochracea were isolated. regular scaling and oral hygiene reviews maintained the clinical improvements and balance in favour of beneficial microbial species during the study.
+TIHT== 
+ABHT== 
+
+PMID== 1765941
+TI  == the gingival immune response to actinobacillus actinomycetemcomitans in juvenile  periodontitis.
+AB  == the established and advanced lesions of juvenile periodontitis-localized form (jp) are predominated by b-lymphocytes and plasma cells. local immune processes may participate in protective or immunopathologic roles in the pathogenesis of this disease. actinobacillus actinomycetemcomitans (a.a.) is implicated as a primary etiologic agent in jp. an in vitro gingival explant culture system was utilized to study the specificity of immunoglobulins produced by diseased jp tissues. a dot-immunobinding assay demonstrated that 46% of the supernatant fluids (sf) from explant cultures of diseased tissues (n = 39) were positive for  the presence of antibody to a.a. y4, while 61% of autologous jp sera (n = 39) tested positive. for rapidly progressive (rp) and adult periodontitis (ap) sf, 50% and 40% were positive for a.a. y4, respectively. seventeen percent of sf from healthy tissue were positive for a.a. y4. there was no significant difference between jp sf reactivities to a.a. y4 when compared to reactivities of sf from ap and rp patients. only 10% of jp sf were positive for porphyromonas asaccharolytica, a non-oral control microorganism. the de novo biosynthesis of antibody in jp tissue, reactive with a.a. y4, was demonstrated with staph protein a isolated 14c-labeled igg (spag) and the use of a dot-immunobinding assay and autoradiography. the in vitro gingival tissue explant culture system described provides a useful model for the study of the synthesis and specificity of localized immunoglobulins produced by diseased tissues of jp patients.
+TIHT== 
+ABHT== 
+

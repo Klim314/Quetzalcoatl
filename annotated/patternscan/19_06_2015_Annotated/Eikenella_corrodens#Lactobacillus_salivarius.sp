@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 12060423
+TI  == salivary microbiota levels in relation to periodontal status, experience of caries and miswak use in sudanese adults.
+AB  == objectives: the purpose of the present investigation was to assess the salivary levels of 25 oral bacteria in relation to periodontal status and experience of caries, and to compare the levels of these bacteria between habitual miswak and toothbrush users in adult sudanese subjects. material and methods: the study subjects consisted of 56 individuals with age range 19-53 years (mean 35.2 years) and included 30 miswak and 26 toothbrush users. the periodontal status and presence of dental caries were assessed clinically. whole saliva was collected from all subjects, and the levels of 25 selected bacterial species in saliva were assessed by the checkerboard dna-dna hybridization method using whole genomic dna probes. results: a high percentage of the subjects had detectable levels (> or =  105 bacterial cells) of several bacterial species in saliva. between 12% and 16%  of the subjects showed high (> or = 106 cells) salivary levels of the periodontitis-associated bacteria a. actinomycetemcomitans, p. melaninogenica, p. intermedia, c. rectus and e. corrodens, whereas only two (3.6%) and four (7.1%) subjects had high levels of p. gingivalis and f. nucleatum, respectively. there were no significant differences in the levels of all or most bacterial species by age group, gender or periodontal status. presence of > or = 105 l. acidophilus bacterial cells in saliva was associated with high caries scores (p = 0.02). there were significantly higher levels of a. actinomycetemcomitans, p. melaninogenica, c. rectus, p. micros, v. parvula, s. mutans, s. anginosus, a. israelii, c. sputigena, and c. gingivalis, and significantly lower levels of p. intermedia, f. nucleatum, s. sputigena, e. corrodens, l. acidophilus, s. sanguis, s. salivarius, s. oralis, and s. mitis in the miswak than in the toothbrush group. conclusions: : the findings suggest that miswak may have a selective inhibitory effect on the level of certain bacteria in saliva, particularly several oral streptococci species. this is the first report that the checkerboard dna-dna hybridization method can be useful for assessing the levels of a wide range of bacterial taxa in saliva.
+TIHT== 
+ABHT== 
+

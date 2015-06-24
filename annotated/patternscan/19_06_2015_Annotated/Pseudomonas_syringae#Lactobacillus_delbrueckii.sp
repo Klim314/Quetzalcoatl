@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 18573559
+TI  == development of biocontrol agents from food microbial isolates for controlling post-harvest peach brown rot caused by monilinia fructicola.
+AB  == an unconventional strategy of screening food microbes for biocontrol activity was used to develop biocontrol agents for controlling post-harvest peach brown rot caused by monilinia fructicola. forty-four microbial isolates were first screened for their biocontrol activity on apple fruit. compared with the pathogen-only check, seven of the 44 isolates reduced brown rot incidence by >50%, including four bacteria: bacillus sp. c06, lactobacillus sp. c03-b and bacillus sp. t03-c,  lactobacillus sp. p02 and three yeasts: saccharomyces delbrueckii a50, s. cerevisiae ye-5 and s. cerevisiae a41. eight microbial isolates were selected for testing on peaches by wound co-inoculation with mixtures of individual microbial  cultures and conidial suspension of m. fructicola. only two of them showed significant biocontrol activity after five days of incubation at 22 degrees c. bacillus sp. c06 suppressed brown rot incidence by 92% and reduced lesion diameter by 88% compared to the pathogen-only check. bacillus sp.t03-c reduced incidence and lesion diameter by 40% and 62%, respectively. the two isolates were compared with pseudomonas syringae ma-4, a biocontrol agent for post-harvest peach diseases, by immersing peaches in an aliquot containing individual microbial isolates and the pathogen conidia. treatments with isolates ma-4, c06 and t03-c significantly controlled brown rot by 91, 100, and 100% respectively. however, only isolates ma-4 and c06 significantly reduced brown rot by 80% and 15%, respectively when bacterial cells alone were applied. on naturally infected  peaches, both the bacterial culture and its cell-free filtrate of the isolate c06 significantly controlled peach decay resulting in 77 and 90% reduction, respectively, whereas the treatment using only the bacterial cells generally had  no effect. isolate c06 is a single colony isolate obtained from a mesophilic cheese starter, and has been identified belonging to bacillus amyloliquefaciens.  the results have clearly demonstrated that isolate c06 has a great potential for  being developed into a biocontrol agent.
+TIHT== 
+ABHT== 
+

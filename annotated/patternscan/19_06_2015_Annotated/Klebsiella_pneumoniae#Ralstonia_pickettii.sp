@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 23451394
+TI  == analysis of the bacterial diversity existing on animal hide and wool: development of a preliminary pcr-restriction fragment length polymorphism fingerprint database for identifying isolates.
+AB  == twenty-one bacterial strains were isolated from imported cattle hide and rabbit wool using two types of media, nutrient broth, and nutrient broth with serum. the bacteria identified were brevibacillus laterosporus, leclercia adecarboxylata, peptococcus niger, bacillus circulans, raoultella ornithinolytica, bacillus subtilis, bacillus cereus, bacillus thermobacillus, bacillus choshinensis, bacillus sphaericus, acinetobacter haemolyticus, sphingomonas paucimobilis, bacillus thuringiensis, staphylococcus intermedius, mycobacteria, moraxella, klebsiella pneumoniae, ralstonia pickettii, staphylococcus chromogenes, comamonas testosteroni, and cupriavidus pauculus. the 16s rdna gene of each bacterium was amplified using the universal primers 27f and 1492r. the amplicons were digested  with avai, bamhi, bgii, drai, ecori, ecorv, hindiii, hinfi, hpai, psti, smai, taqii, xbai, xmai, alui, xhoi, and pvui individually. a specific fingerprint from the pcr-restriction fragment length polymorphism method based on 16s rdna was obtained for each bacterium. the results showed that the method developed was useful not only for bacterial identification but also for the etiological investigation of pathogens in imported animal hair and wool.
+TIHT== 
+ABHT== 
+
+PMID== 9717292
+TI  == microbial communities of printing paper machines.
+AB  == the microbial content of printing paper machines, running at a temperature of 45-50 degrees c and at ph 4.5-5, was studied. bacteria were prevalent colonizers  of the machine wet end and the raw materials. a total of 390 strains of aerobic bacteria were isolated and 86% of these were identified to genus and species by biochemical, chemotaxonomic and phylogenetic methods. the most common bacteria found at the machine wet end were bacillus coagulans and other bacillus species,  burkholderia cepacia, ralstonia pickettii, and in pink slimes, accumulating in the wire area and press section, species of deinococcus, aureobacterium and brevibacterium. paper-making chemicals also contained species of aureobacterium,  b. cereus, b. licheniformis, b. sphaericus, bordetella, hydrogenophaga, klebsiella pneumoniae, pantoea agglomerans, pseudomonas stutzeri, staphylococcus  and sometimes other enteric bacteria, but these did not colonize the process water. yeasts and moulds were not present in significant numbers. a total of 131  strains were tested for their potential to degrade paper-making raw materials; 91 strains were found to have degradative activity, mainly species of burkholderia and ralstonia, sphingomonas and bacillus, and enterobacteria produced enzymes which degraded paper-making chemicals. stainless steel adhering strains occurred  in slimes and wire water and were identified as burkholderia cepacia, b. coagulans and deinococcus geothermalis. coloured slimes were formed on the machine by species of deinococcus, acinetobacter and methylobacterium (pink), aureobacterium, pantoea and ralstonia (yellowish) and microbulbifer-related strains (brown). the impact of the strains and species found in the printing paper machine community on the technical quality of paper, machine operation, and as a potential biohazard (hazard group 2 bacteria), is discussed.
+TIHT== 
+ABHT== 
+

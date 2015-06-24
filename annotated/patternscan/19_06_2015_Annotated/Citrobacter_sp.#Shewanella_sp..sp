@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 26016343
+TI  == [selective-differential nutrient medium "shewanella irhls agar" for isolation of  shewanella genus bacteria].
+AB  == aim: development of a selective-differential nutrient medium for isolation of shewanella genus bacteria. materials and methods: 73 strains of shewanella bacteria (s. algae--3, s. baltica--26, s. putrefaciens--44) and 80 strains of 22  other bacteria genera were used. shewanella species were identified by methods and criteria proposed by nozue h. et al., 1992; khashe s. et al., 1998. results:  nutrient media "shewanella irhls agar" for shewanella isolation was developed. medium selective factors: irgazan dp-300 (i). 0.14-0.2 g/l and rifampicin (r) 0.0005-0.001 g/l. shevanella colonies were detected by the production of hydrogen sulfide (h), lipase presence (l), lack of sorbitol fermentation (s). the medium suppressed the growth of hydrogen sulfide producers (salmonella, proteus) and blocked hydrogen sulfide production by citrobacter. growth of escherichia, enterobacter, klebsiella, shigella, staphylococcus, bacillus was also suppressed, analytical sensitivity of the medium was 1-2 cfu/ml for shewanella and stenotrophomonas, aerombnas, serratia genera bacteria. 72 strains of shewanella were isolated from water of neva river in this medium, 91.7 +/- 3.2% of those produced h2s. 1 strain of s. algae was isolated from clinical material. conclusion: the developed media allows to use it in a complex for stenotrophomo-  nas sp., aeromonas sp., serratia sp., citrobactersp. and shewanella bacteria isolation.
+TIHT== 
+ABHT== 
+
+PMID== 22252223
+TI  == coastal seawater bacteria harbor a large reservoir of plasmid-mediated quinolone  resistance determinants in jiaozhou bay, china.
+AB  == diversity and prevalence of plasmid-mediated quinolone resistance determinants were investigated in environmental bacteria isolated from surface seawater of jiaozhou bay, china. five qnr gene alleles were identified in 34 isolates by pcr  amplification, including qnra3 gene in a shewanella algae isolate, qnrb9 gene in  a citrobacter freundii isolate, qnrd gene in 22 proteus vulgaris isolates, qnrs1  gene in 1 enterobacter sp. and 4 klebsiella spp. isolates, and qnrs2 gene in 1 pseudomonas sp. and 4 pseudoalteromonas sp. isolates. the qnrc, aac(6')-ib-cr, and qepa genes could not be detected in this study. the 22 qnrd-positive proteus  vulgaris isolates could be differentiated into four genotypes based on eric-pcr assay. the qnrs1 and qnrd genes could be transferred to escherichia coli j53 azi(r) or e. coli top10 recipient strains using conjugation or transformation methods. among the 34 qnr-positive isolates, 30 had a single point mutation in the qrdrs of gyra protein (ala67ser, ser83ile, or ser83thr), indicating that cooperation of chromosome- and plasmid-mediated resistance contributed to the spread and evolution of quinolone resistance in this coastal bay. eighty-five percent of the isolates were also found to be resistant to ampicillin, and bla(cmy), bla(oxy), bla(shv), and bla(tem) genes were detected in five isolates that also harbored the qnrb9 or qnrs1 gene. our current study is the first identification of qnrs2 gene in pseudoalteromonas and pseudomonas strains, and qnrd gene in proteus vulgaris strains. high prevalence of diverse qnr genes in jiaozhou bay indicates that coastal seawater may serve as an important reservoir, natural source, and dissemination vehicle of quinolone resistance determinants.
+TIHT== 
+ABHT== 
+

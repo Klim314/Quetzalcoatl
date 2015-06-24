@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25284750
+TI  == mapping of the modular closthioamide architecture reveals crucial motifs of polythioamide antibiotics.
+AB  == closthioamide, the first known secondary metabolite from an anaerobic microorganism (clostridium cellulolyticum), represents a highly potent antibiotic that is active against methicillin-resistant staphylococcus aureus (mrsa) and vancomycin-resistant enterococcus faecalis (vre) at nanomolar concentrations. to  unveil structure-activity relationships of the unusual polythioamide natural product we have designed a synthetic grid to access analogues with altered terminal aromatic moieties, diverse p-phenyl substituents, different types and sizes of aliphatic spacers, varying numbers of thioamide residues, and diverse sizes and symmetries of the poly-beta-thioalanyl backbone. a library of 28 closthioamide analogues was tested against a panel of human pathogenic bacteria.  we found that aromatic terminal groups, the defined length of the spacer groups,  the presence of all six thioamide residues and the modular arrangement of the beta-thioalanyl units play essential roles for the antibiotic activity of closthioamide, yet there is a degree of freedom in the symmetry of the molecule.  this study yields the first insights into pivotal structural motifs and the structural space of this new family of antibiotics, a prerequisite for the development of these promising antibiotics.
+TIHT== 
+ABHT== 
+
+PMID== 11101665
+TI  == gene transfer to clostridium cellulolyticum atcc 35319.
+AB  == although much is known about the bacterial cellulosome and its various protein components, their contributions to bacterial growth on cellulose and the process  of cellulolysis in vivo cannot currently be assessed. to remedy this, the authors have developed gene transfer techniques for clostridium cellulolyticum atcc 35319. firstly, transfer of tn1545 has been obtained using an enterococcus faecalis donor. secondly, incp-mediated conjugative mobilization of plasmids from escherichia coli donors has also been achieved. the yield of transconjugants in both cases was low and was probably limited by the suboptimal growth conditions that must of necessity be employed for the co-culture of oligotrophic c. cellulolyticum with copiotrophic donors. a restriction endonuclease was detected  in crude extracts of c. cellulolyticum. this enzyme, named cce:i, is an isoschizomer of msp:i (hpa:ii). electro-transformation was employed to establish  plasmids containing the replication functions of pamss1 (en. faecalis), pim13 (bacillus subtilis), pcb102 (clostridium butyricum), pip404 (clostridium perfringens) and pwv01 (lactococcus lactis subsp. cremoris) in c. cellulolyticum. transformants were only obtained if the dna was appropriately methylated on the external c of the sequence 5'-ccgg-3' using either bsu:fi methylase in vivo or msp:i methylase in vitro. plasmids based on the pamss1 and pim13 replicons were more stably maintained than one based on the pcb102 replicon. selection of transformants on solid medium led to low apparent transformation efficiencies (approx. 10(2) transformants per microg dna) which might, in part, reflect the low plating efficiency of the organism. selection of transformants in liquid medium led to a higher apparent yield of transformants (between 10(5) and 10(7) transformants per microg dna). the methods developed here will pave the way for functional analysis of the various cellulosome components in vivo.
+TIHT== 
+ABHT== 
+

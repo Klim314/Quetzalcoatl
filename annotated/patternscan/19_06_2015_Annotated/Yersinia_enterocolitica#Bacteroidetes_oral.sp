@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 19307219
+TI  == resistance of capnocytophaga canimorsus to killing by human complement and polymorphonuclear leukocytes.
+AB  == capnocytophaga canimorsus is a bacterium of the canine oral flora known since 1976 to cause rare but severe septicemia and peripheral gangrene in patients that have been in contact with a dog. it was recently shown that these bacteria do not elicit an inflammatory response (h. shin, m. mally, m. kuhn, c. paroz, and g. r.  cornelis, j. infect. dis. 195:375-386, 2007). here, we analyze their sensitivity  to the innate immune system. bacteria from the archetype strain cc5 were highly resistant to killing by complement. there was little membrane attack complex (mac) deposition in spite of c3b deposition. cc5 bacteria were as resistant to phagocytosis by human polymorphonuclear leukocytes (pmns) as yersinia enterocolitica mrs40, endowed with an antiphagocytic type iii secretion system. we isolated y1c12, a transposon mutant that is hypersensitive to killing by complement via the antibody-dependent classical pathway. the mutation inactivated a putative glycosyltransferase gene, suggesting that the y1c12 mutant was affected at the level of a capsular polysaccharide or lipopolysaccharide (lps) structure. cc5 appeared to have several polysaccharidic structures, one being altered in y1c12. the structure missing in y1c12 could be purified by classical lps purification procedures and labeled by tritiated palmitate, indicating that it is more likely to be an lps structure than a capsule. y1c12 bacteria were also more sensitive to phagocytosis by pmns than wild-type bacteria. in conclusion, a  polysaccharide structure, likely an lps, protects c. canimorsus from deposition of the complement mac and from efficient phagocytosis by pmns.
+TIHT== 
+ABHT== 
+
+PMID== 18926295
+TI  == capnocytophaga canimorsus resists phagocytosis by macrophages and blocks the ability of macrophages to kill other bacteria.
+AB  == capnocytophaga canimorsus is a commensal bacterium from the canine oral flora, which can cause septicemia or meningitis in humans upon bite wound infections. c. canimorsus 5 (cc5), a strain isolated from a patient with fatal septicemia, was used to investigate the interaction between c. canimorsus and j774.1 mouse macrophages. j774.1 cells infected at high multiplicity with cc5 did not phagocytose nor kill cc5 within 120 min of infection, unless the bacteria were opsonized with specific antibodies. opsonization with complement, however, did not increase phagocytosis. moreover, infection of j774.1 cells with live cc5 led  to the release of a soluble factor, which interfered with the ability of macrophages to kill other phagocytosed bacteria. these results provide an example of how c. canimorsus neutralizes the innate immune system.
+TIHT== 
+ABHT== 
+
+PMID== 17485456
+TI  == identification of commensal bacterial strains that modulate yersinia enterocolitica and dextran sodium sulfate-induced inflammatory responses: implications for the development of probiotics.
+AB  == an increasing body of evidence suggests that probiotic bacteria are effective in  the treatment of enteric infections, although the molecular basis of this activity remains elusive. to identify putative probiotics, we tested commensal bacteria in terms of their toxicity, invasiveness, inhibition of yersinia-induced inflammation in vitro and in vivo, and modulation of dextran sodium sulfate (dss)-induced colitis in mice. the commensal bacteria escherichia coli, bifidobacterium adolescentis, bacteroides vulgatus, bacteroides distasonis, and streptococcus salivarius were screened for adhesion to, invasion of, and toxicity for host epithelial cells (ec), and the strains were tested for their ability to  inhibit y. enterocolitica-induced nf-kappab activation. additionally, b. adolescentis was administered to mice orally infected with y. enterocolitica and  to mice with mucosae impaired by dss treatment. none of the commensal bacteria tested was toxic for or invaded the ec. b. adolescentis, b. distasonis, b. vulgatus, and s. salivarius inhibited the y. enterocolitica-induced nf-kappab activation and interleukin-8 production in ec. in line with these findings, b. adolescentis-fed mice had significantly lower results for mean pathogen burden in the visceral organs, intestinal tumor necrosis factor alpha mrna expression, and  loss of body weight upon oral infection with y. enterocolitica. in addition, the  administration of b. adolescentis decelerated inflammation upon dss treatment in  mice. we suggest that our approach might help to identify new probiotics to be used for the treatment of inflammatory and infectious gastrointestinal disorders.
+TIHT== 
+ABHT== 
+

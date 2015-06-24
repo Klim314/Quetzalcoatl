@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 9495612
+TI  == microbial complexes in subgingival plaque.
+AB  == it has been recognized for some time that bacterial species exist in complexes in subgingival plaque. the purpose of the present investigation was to attempt to define such communities using data from large numbers of plaque samples and different clustering and ordination techniques. subgingival plaque samples were taken from the mesial aspect of each tooth in 185 subjects (mean age 51 +/- 16 years) with (n = 160) or without (n = 25) periodontitis. the presence and levels  of 40 subgingival taxa were determined in 13,261 plaque samples using whole genomic dna probes and checkerboard dna-dna hybridization. clinical assessments were made at 6 sites per tooth at each visit. similarities between pairs of species were computed using phi coefficients and species clustered using an averaged unweighted linkage sort. community ordination was performed using principal components analysis and correspondence analysis. 5 major complexes were consistently observed using any of the analytical methods. one complex consisted  of the tightly related group: bacteroides forsythus, porphyromonas gingivalis and treponema denticola. the 2nd complex consisted of a tightly related core group including members of the fusobacterium nucleatum/periodonticum subspecies, prevotella intermedia, prevotella nigrescens and peptostreptococcus micros. species associated with this group included: eubacterium nodatum, campylobacter rectus, campylobacter showae, streptococcus constellatus and campylobacter gracilis. the 3rd complex consisted of streptococcus sanguis, s. oralis, s. mitis, s. gordonii and s. intermedius. the 4th complex was comprised of 3 capnocytophaga species, campylobacter concisus, eikenella corrodens and actinobacillus actinomycetemcomitans serotype a. the 5th complex consisted of veillonella parvula and actinomyces odontolyticus. a. actinomycetemcomitans serotype b, selenomonas noxia and actinomyces naeslundii genospecies 2 (a. viscosus) were outliers with little relation to each other and the 5 major complexes. the 1st complex related strikingly to clinical measures of periodontal disease particularly pocket depth and bleeding on probing.
+TIHT== 
+ABHT== 
+

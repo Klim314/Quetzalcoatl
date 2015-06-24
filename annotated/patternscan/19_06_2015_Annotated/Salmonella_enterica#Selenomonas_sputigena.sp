@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 9467402
+TI  == chemical and biological properties of lipopolysaccharide from selenomonas sputigena atcc 33150.
+AB  == chemical and biological studies were performed on lipopolysaccharide isolated from selenomonas sputigena atcc 33150t, a possible causative agent of periodontal diseases. the sugar components of the lipopolysaccharide of s. sputigena were mannose, galactose, glucose, l-glycero-d-mannoheptose (heptose), 2-keto-3-deoxy-octonic acid, glucosamine and galactosamine in a molar ratio of 0.3:1.0:1.0:1.0:0.2:3.0:3.2 (mol/mol heptose). sephadex g-50 chromatography of the polysaccharide portion of the lipopolysaccharide obtained by partial hydrolysis yielded three fractions: the o-polysaccharide chain attached to the core oligosaccharide, the core oligosaccharide and monosaccharides. compositional analysis of these fractions revealed that lipopolysaccharide of s. sputigena carries a short o-polysaccharide chain consisting of galactose and glucosamine and that the core oligosaccharide consisted of glucose, heptose, glucosamine and  2-keto-3-deoxyoctonic acid. it is of particular interest that galactosamine was detected as a component sugar of the lipid a moiety in addition to glucosamine, which is a usual component sugar of the lipid a of most gram-negative bacteria. thus, the lipid a of s. sputigena might have a unique backbone that differs from  that of the lipid a of other gram-negative bacteria. lipid a of s. sputigena consisted mainly of fatty acids such as undecanoic, tridecanoic, tridecenoic, 3-hydroxytridecanoic and 3-hydroxytetradecanoic acid in a molar ratio of 0.4:1.0:0.3:4.0:0.5 (mol/mol tridecanoic acid). lipopolysaccharide and lipid a from s. sputigena both exhibited biological activity in activating the clotting enzyme of limulus amebocytes, the schwartzman reaction, mitogenicity for murine lymphocytes and in inducing interleukin-1 alpha and interleukin-6 production in murine macrophages to the same extent as those observed for lipopolysaccharide of the salmonella serovar typhimurium used as a positive control. the results suggested that the lipopolysaccharide of s. sputigena is a virulent factor in human periodontal diseases.
+TIHT== 
+ABHT== 
+

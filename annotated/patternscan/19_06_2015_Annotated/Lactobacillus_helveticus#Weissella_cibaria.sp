@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 21700007
+TI  == diversity of lactic acid bacteria associated with traditional fermented dairy products in mongolia.
+AB  == spontaneous milk fermentation has a long history in mongolia, and beneficial microorganisms have been handed down from one generation to the next for use in fermented dairy products. the objective of this study was to investigate the diversity of lactic acid bacteria (lab) communities in fermented yak, mare, goat, and cow milk products by analyzing 189 samples collected from 13 different regions in mongolia. the lab counts in these samples varied from 3.41 to 9.03 log cfu/ml. fermented yak and mare milks had almost identical mean numbers of lab, which were significantly higher than those in fermented goat milk but slightly lower than those in fermented cow milk. in total, 668 isolates were obtained from these samples using de man, rogosa, and sharpe agar and m17 agar. each isolate was considered to be presumptive lab based on gram-positive and catalase-negative properties, and was identified at the species level by 16s rrna gene sequencing,  multiplex pcr assay, and restriction fragment length polymorphism analysis. all isolates from mongolian dairy products were accurately identified as enterococcus faecalis (1 strain), enterococcus durans (3 strains), lactobacillus brevis (3 strains), lactobacillus buchneri (2 strains), lactobacillus casei (16 strains), lactobacillus delbrueckii ssp. bulgaricus (142 strains), lactobacillus diolivorans (17 strains), lactobacillus fermentum (42 strains), lactobacillus helveticus (183 strains), lactobacillus kefiri (6 strains), lactobacillus plantarum ssp. plantarum (7 strains), lactococcus lactis ssp. lactis (7 strains), leuconostoc lactis (22 strains), leuconostoc mesenteroides (21 strains), streptococcus thermophilus (195 strains), and weissella cibaria (1 strain). the predominant lab were strep. thermophilus and lb. helveticus, which were isolated  from all sampling sites. the results demonstrate that traditional fermented dairy products from different regions of mongolia have complex compositions of lab species. such diversity of lab provides useful information for further studies of probiotic strain selection and starter culture design, with regard to the industrial production of traditional fermented milk.
+TIHT== 
+ABHT== 
+

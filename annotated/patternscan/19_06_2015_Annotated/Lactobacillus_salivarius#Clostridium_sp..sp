@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 25104766
+TI  == screening of lactobacillus strains of domestic goose origin against bacterial poultry pathogens for use as probiotics.
+AB  == lactobacilli are natural inhabitants of human and animal mucous membranes, including the avian gastrointestinal tract. recently, increasing attention has been given to their probiotic, health-promoting capacities, among which their antagonistic potential against pathogens plays a key role. a study was conducted  to evaluate probiotic properties of lactobacillus strains isolated from feces or  cloacae of domestic geese. among the 104 examined isolates, previously identified to the species level by whole-cell matrix-assisted laser desorption/ionization time-of-flight mass spectrometry and analysis of 16s-23s regions of rdna, dominated lactobacillus salivarius (35%), followed by lactobacillus johnsonii (18%) and lactobacillus ingluviei (11%). all lactobacilli were screened for antimicrobial activity toward salmonella enteritidis, escherichia coli, clostridium perfringens, staphylococcus aureus, pasteurella multocida, and riemerella anatipestifer using the agar slab method and the well diffusion method. lactobacillus salivarius and lactobacillus plantarum exhibited particularly strong antagonism toward all of the indicator strains. in the agar slab method, the highest sensitivity to lactobacillus was observed in r. anatipestifer and p. multocida, and the lowest in e. coli and s. aureus. the ability to produce h(2)o(2)was exhibited by 92% of isolates, but there was no correlation between the rate of production of this reactive oxygen species and the antimicrobial activity of lactobacillus sp. all lactobacilli showed resistance to ph 3.0 and 3.5 and to 2% bile. the data demonstrate that lactobacillus isolates from geese may have probiotic potential in reducing bacterial infections. the antibacterial activity of the selected lactobacilli is  mainly due to lactic acid production by these bacteria. the selected lactobacillus strains that strongly inhibited the growth of pathogenic bacteria,  and were also resistant to low ph and bile salts, can potentially restore the balance of intestinal microflora in geese and could offer an alternative to antibiotic therapy.
+TIHT== 
+ABHT== 
+
+PMID== 3938453
+TI  == the influence of the host on expression of intestinal microbial enzyme activities involved in metabolism of foreign compounds.
+AB  == the activities of four enzymes (beta-glucuronidase, nitrate reductase and nitroreductase) in selected intestinal bacteria (escherichia coli, clostridium sp., streptococcus sp., bacteroides sp. and lactobacillus salivarius) were measured after growth in vitro and in vivo. the five strains differed in their activities with clostridium sp. being the most active for beta-glucosidase, beta-glucuronidase and nitroreductase, and e. coli the most active producer of nitrate reductase. enzyme activity in vivo tended to be higher than in vitro but  there were instances where the comparative activities were reversed.
+TIHT== 
+ABHT== 
+

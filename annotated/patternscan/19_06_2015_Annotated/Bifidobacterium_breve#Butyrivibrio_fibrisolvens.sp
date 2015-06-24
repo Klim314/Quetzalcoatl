@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 21192703
+TI  == production of conjugated linoleic acid (cla) by bifidobacterium breve lmc520 and  its compatibility with cla-producing rumen bacteria.
+AB  == this study was performed to characterize the ability of an active bifidobacterium strain to produce conjugated linoleic acid (cla) and to test its possible utilization as a probiotic compatible to the ruminal condition. bifidobacterium breve lmc520 can actively convert linoleic acid (la) to cis-9,trans-11-cla, which is a major isomer derived from microbial conversion. lmc520 showed reasonable tolerance under acidic conditions (ph 2.5 with 1% pepsin) and in the presence of  oxgall (0-3%). the growth and cla production of lmc520 were tested under ruminal  conditions and compared with those of butyrivibrio fibrisolvens a38, which is a major cla producer in the rumen as an intermediate in the biohydrogenation (bh) process. lmc520 converted 15% of la to cla under ruminal conditions, which was 2  times higher activity than that of a38, and there was no decline in cla level during prolonged incubation of 48 h. the bh activity of lmc520 was comparable to  that of a38. when lmc520 was cocultured with a38, even with slight decrease of cla due to high bh activity by a38, but the level of cla was maintained by the high cla-producing activity of lmc520. this comparative study shows the potential of this strain to be applied as a functional probiotic not only for humans but also for ruminants as well as to increase cla production.
+TIHT== 
+ABHT== 
+
+PMID== 19118369
+TI  == mechanism of conjugated linoleic acid and vaccenic acid formation in human faecal suspensions and pure cultures of intestinal bacteria.
+AB  == faecal bacteria from four human donors and six species of human intestinal bacteria known to metabolize linoleic acid (la) were incubated with la in deuterium oxide-enriched medium to investigate the mechanisms of conjugated linoleic acid (cla) and vaccenic acid (va) formation. the main cla products in faecal suspensions, rumenic acid (cis-9,trans-11-cla; ra) and trans-9,trans-11-cla, were labelled at c-13, as were other 9,11 geometric isomers. traces of trans-10,cis-12-cla formed were labelled to a much lower extent. in pure culture, bifidobacterium breve ncfb 2258 formed labelled ra and trans-9,trans-11-cla, while butyrivibrio fibrisolvens 16.4, roseburia hominis a2-183t, roseburia inulinivorans a2-192t and ruminococcus obeum-like strain a2-162 converted la to va, labelled in a manner indicating that va was formed via c-13-labelled ra. propionibacterium freudenreichii subsp. shermanii dsm 4902t, a  possible probiotic, formed mainly ra with smaller amounts of trans-10,cis-12-cla  and trans-9,trans-11-cla, labelled the same as in the mixed microbiota. ricinoleic acid (12-oh-cis-9-18 : 1) did not form cla in the mixed microbiota, in contrast to cla formation described for lactobacillus plantarum. these results were similar to those reported for the mixed microbiota of the rumen. thus, although the bacterial genera and species responsible for biohydrogenation in the rumen and the human intestine differ, and a second route of ra formation via a 10-oh-18 : 1 is present in the intestine, the overall labelling patterns of different cla isomers formation are common to both gut ecosystems. a hydrogen-abstraction enzymic mechanism is proposed that may explain the role of a 10-oh-18 : 1 intermediate in 9,11-cla formation in pure and mixed cultures.
+TIHT== 
+ABHT== 
+

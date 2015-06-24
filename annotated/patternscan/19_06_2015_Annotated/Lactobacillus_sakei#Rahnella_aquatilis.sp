@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 16820458
+TI  == changes in the spoilage-related microbiota of beef during refrigerated storage under different packaging conditions.
+AB  == the microbial spoilage of beef was monitored during storage at 5 degrees c under  three different conditions of modified-atmosphere packaging (map): (i) air (map1), (ii) 60% o2 and 40% co2 (map2), and (iii) 20% o2 and 40% co2 (map3). pseudomonas, enterobacteriaceae, brochothrix thermosphacta, and lactic acid bacteria were monitored by viable counts and pcr-denaturing gradient gel electrophoresis (dgge) analysis during 14 days of storage. moreover, headspace gas composition, weight loss, and beef color change were also determined at each  sampling time. overall, map2 was shown to have the best protective effect, keeping the microbial loads and color change to acceptable levels in the first 7  days of refrigerated storage. the microbial colonies from the plate counts of each microbial group were identified by pcr-dgge of the variable v6-v8 region of  the 16s rrna gene. thirteen different genera and at least 17 different species were identified after sequencing of dgge fragments that showed a wide diversity of spoilage-related bacteria taking turns during beef storage in the function of  the packaging conditions. the countable species for each spoilage-related microbial group were different according to packaging conditions and times of storage. in fact, the dgge profiles displayed significant changes during time and depending on the initial atmosphere used. the spoilage occurred between 7 and 14  days of storage, and the microbial species found in the spoiled meat varied according to the packaging conditions. rahnella aquatilis, rahnella spp., pseudomonas spp., and carnobacterium divergens were identified as acting during beef storage in air (map1). pseudomonas spp. and lactobacillus sakei were found in beef stored under map conditions with high oxygen content (map2), while rahnella spp. and l. sakei were the main species found during storage using map3. the identification of the spoilage-related microbiota by molecular methods can help in the effective establishment of storage conditions for fresh meat.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,11 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24679105
+TI  == distinct polymicrobial populations in a chronic foot ulcer with implications for  diagnostics and anti-infective therapy.
+AB  == background: polymicrobial infections caused by combinations of different bacteria are being detected with an increasing frequency. the evidence of such complex infections is being revealed through the use of novel molecular and culture-independent methods. considerable progress has been made in the last decade regarding the diagnostic application of such molecular techniques. in particular, 16s rdna-based sequencing and even metagenomic analyses have been successfully used to study the microbial diversity in ecosystems and human microbiota. here, we utilized denaturing high-performance liquid chromatography (dhplc) as a diagnostic tool for identifying different bacterial species in complex clinical samples of a patient with a chronic foot ulcer. case presentation: a 45-year-old female suffered from a chronic 5x5cm large plantar ulcer located in the posterior calcaneal area with subcutaneous tissue infection  and osteomyelitis. the chronic ulcer developed over a period of 8 years. culture  and dhplc revealed a distinct and location-dependent polymicrobial infection of the ulcer. the analysis of a superficial biopsy revealed a mixture of staphylococcus aureus, proteus vulgaris, and fusobacterium nucleatum, whereas the tissue-deep biopsy harbored a mixture of four different bacterial species, namely gemella morbillorum, porphyromonas asaccharolytica, bacteroides fragilis, and arcanobacterium haemolyticum. conclusions: this clinical case highlights the difficulties in assessing polymicrobial infections where a mixture of fastidious, rapid and slow growing bacteria as well as anaerobes exists as structured communities within the tissue architecture of chronic wound infections. the diagnosis of this multilayered polymicrobial infection led to a microbe-adapted antibiotic therapy, targeting the polymicrobial nature of this infection in addition to a standard local wound treatment. however, a complete wound closure could not be achieved due to the long-lasting extensive destruction of tissue.
+TIHT== 
+ABHT== 
+

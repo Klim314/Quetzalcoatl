@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 21731180
+TI  == microbiological identification and analysis of swine tonsils collected from carcasses at slaughter.
+AB  == the primary objective of this 7-month study was to determine the prevalence of porcine pathogens of the tonsil of the soft palate of swine at slaughter. additional objectives were to determine if sampling the carcasses of normal or abnormal hogs provided different microbiological profiles and if the slaughter plant provides a feasible sampling frame and environment for detecting and monitoring important pathogens in tonsils that have health implications for both  swine and humans. a total of 395 samples were collected from 264 farms. of these, 180 tonsils were collected from normal carcasses and 215 tonsils were collected from carcasses that were diverted to the hold rail. laboratory testing included bacteriological culture and identification as well as real time-polymerase chain  reaction (pcr) testing for porcine reproductive and respiratory syndrome virus (pprsv) and immunohistochemistry (ihc) for porcine circovirus-2 (pcv-2). the most commonly isolated bacteria included: streptococcus suis (53.7%), arcanobacterium  pyogenes (29.9%), pasteurella multocida (27.3%), and streptococcus porcinus (19.5%). virus screening revealed evidence of prrsv and pcv-2 in 22.0% and 11.9%  of the samples, respectively. salmonella typhimurium and yersinia enterocolitica  were isolated in 0.5% and 1.8% of the samples, respectively. tonsils collected from the hold rail were more likely to be positive for staphylococcus hyicus [odds ratio (or) = 7.51, confidence interval (ci) = 2.89 to 19.54], streptococcus porcinus (or = 9.93, ci = 4.27 to 23.10), and streptococcus suis (or = 2.16, ci = 1.45 to 3.24). tonsils collected from abnormal carcasses were less likely to be positive for staphylococcus aureus (or = 0.05, ci = 0.005 to 0.482).
+TIHT== 
+ABHT== 
+
+PMID== 11731177
+TI  == development of a brucella suis specific hybridisation probe and pcr which distinguishes b. suis from brucella abortus.
+AB  == a genomic library was prepared from brucella suis dna (mboi digested) and cloned  into the bamhi site of puc18. colony hybridisation using a probe prepared from purified b. suis dna labelled with alpha 32p was carried out to identify colonies of interest. about 20 colonies, which gave an intense signal upon hybridisation with whole b. suis genomic dna as a probe, were selected. because of the high degree of dna homology between b. suis and brucella abortus, a short probe was chosen as it would more likely give species specificity. of seven fragments selected to probe whole b. suis, b. abortus, and yersinia enterocolitica dna, one was found to hybridise with b. suis only. the probe was sequenced in two directions and sense and anti sense primers of 25bp in length were chosen to yield a product of 421bp. after optimisation of the pcr, a product of 420bp was obtained with b. suis template dna and two bands of 420 and 650bp were detected with b. abortus template dna. this is the first reported pcr of the brucella genome where a single pair of primers will discriminate between b. suis and b. abortus. no band was observed when the two primers were used to amplify e. coli,  y. enterocolitica, enterobacter cloacae, staphylococcus aureus, streptococcus uberis, corynebacterium bovis, or serratia marcescens template dna.
+TIHT== 
+ABHT== 
+

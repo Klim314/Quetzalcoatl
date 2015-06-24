@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 11740648
+TI  == abdominal actinomycosis: complication of endoscopic stenting in chronic pancreatitis?
+AB  == pancreatic endotherapy is frequently performed in patients with chronic pancreatitis and stenoses of the main pancreatic duct. in a patient with long-standing chronic pancreatitis and treatment with pancreatic stents, metastatic pancreatic head carcinoma was suspected because of infiltration of the neighboring organs and hepatic lesions. ultrasound-guided aspiration of one liver lesion revealed grains typical for actinomycosis. in the light of this case, an extracted pancreatic stent was microbiologically investigated for actinomycetes in another patient who had a suspicious lesion of the pancreatic head. microbiological examination of the extracted pancreatic stent revealed colonization by actinomyces meyeri, klebsiella oxytoca, and mixed cultures of anaerobic and saprophytic gram-positive bacteria. in the following weeks, she developed a septic clinical picture with multiple abscesses of the liver. actinomyces meyeri, corynebacterium species, candida and enterococcae were cultivated in the aspirates. it seems possible, that treatment with pancreatic stents could have caused invasion of actinomycetes into the parenchyma of the pancreas, which was already harmed by the chronic inflammation, followed by the typical infiltrative growth and hematologic or biliary seeding into the liver.
+TIHT== 
+ABHT== 
+
+PMID== 1910729
+TI  == microbiology of chronic sinusitis in children.
+AB  == to better understand the factors involved in chronic sinusitis in childhood, we cultured the sinuses, middle meatus, and nasopharynx in 39 children requiring surgical intervention. sixty-nine percent of these patients had other medical problems, including asthma (49%) and immunologic compromise (18%). we cultured coagulase-negative staphylococcus in 18 patients, streptococcus viridans in 14 patients, normal flora in 10 patients, staphylococcus aureus in nine patients, group d streptococcus in five patients, corynebacterium in five patients, haemophilus influenzae in three patients, neisseria in three patients, and streptococcus pneumoniae, group a streptococcus, escherichia coli, pseudomonas aeruginosa, klebsiella oxytoca, propionibacterium acnes, actinomyces, and an anaerobic gram-negative bacillus in one patient each. cultures yielded no growth  in nine patients. a strong association between cultures of the middle meatus obtained ipsilaterally and cultures of the maxillary (83%) and ethmoid sinuses (80%) occurred. a poor correlation was found between cultures of the nasopharynx  and maxillary (45%) and ethmoid sinuses (49%). all seven patients who had both maxillary and ethmoid sinus cultures showed the same organisms in both sinuses. only 41% of organisms were found on both sides when procedures were performed bilaterally. cultures of the middle meatus appear to be sensitive and specific for organisms within sinuses. the presence of predominantly nonvirulent organisms in low titers suggests that additional factors other than bacterial overgrowth contribute to the pathogenesis of chronic sinusitis in children.
+TIHT== 
+ABHT== 
+
+PMID== 1902184
+TI  == further observations on enhancement of the infectivity of fusobacterium necrophorum by other bacteria.
+AB  == it had already been shown with a single virulent strain (a42) of fusobacterium necrophorum that suspension of the fusobacteria in sub-lethal doses of broth cultures of other bacteria reduced the minimum infective dose (greater than 10(6) organisms) for mice by subcutaneous inoculation, sometimes to less than 10 organisms. the present study extended the known range of bacteria with strong infectivity-enhancing properties to include bacillus cereus, klebsiella oxytoca and staphylococcus aureus; and those with weaker effect to include bacillus subtilis, 'bacteroides melaninogenicus', clostridium sporogenes, pasteurella haemolytica, and proteus mirabilis. the study also showed that five further virulent strains of f. necrophorum closely resembled a42 in respect of striking susceptibility to infectivity enhancement by escherichia coli. actinomyces (corynebacterium) pyogenes and s. aureus. one further strain (a6) of f. necrophorum resembled a42 in respect of strong infectivity enhancement by a. pyogenes, s. aureus, b. cereus and k. oxytoca but differed from it and the other  five strains in being only slightly affected by e. coli. this work was a necessary prelude to the development of a method, based on infectivity enhancement, for the detection and isolation of f. necrophorum present in small numbers in heavily contaminated material such as faeces.
+TIHT== 
+ABHT== 
+

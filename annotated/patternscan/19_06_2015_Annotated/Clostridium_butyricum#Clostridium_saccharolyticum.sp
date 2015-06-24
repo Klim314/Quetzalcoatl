@@ -1,0 +1,23 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 17953581
+TI  == quality of silages from italian farms as attested by number and identity of microbial indicators.
+AB  == aims: this study evaluated the quality and possible hygiene risks related to farm-made silages by analysing the presence and number of micro-organisms that influence the preservation and safety in samples from four italian regions. methods and results: lactic acid bacteria, clostridia, lactate-fermenting yeasts  and propionibacteria (pab) were isolated and identified by random amplified polymorphic dna pcr, sequencing of the v2-v3 16s rrna gene region, 5.8s-its rdna  rflp and species-specific pcr. the lactobacillus plantarum cluster was the most numerous and comprised strains mostly isolated from alfalfa silage. the lactobacillus buchneri cluster, second in number, comprised isolates from both alfalfa and maize silage. anaerobic spore formers were assigned to the species clostridium baratii, clostridium beijerinkii, clostridium butyricum, clostridium  perfringens, clostridium saccharolyticum, clostridium tyrobutyricum and paenibacillus macerans. yeast isolates were identified as candida apicola, candida mesenterica and pichia fermentans. pab strains, detected only in unifeed, were all identified as propionibacterium acidipropionici. conclusions: the occurrence of spoiling micro-organisms was frequent and the possibility of contamination by potentially pathogenic clostridia was demonstrated. significance and impact of the study: the results suggest the need for improved ensiling practices and appropriate control measures to safeguard the hygienic and nutritional quality of silages produced in farms.
+TIHT== 
+ABHT== 
+
+PMID== 17196483
+TI  == clostridium saccharogumia sp. nov. and lactonifactor longoviformis gen. nov., sp. nov., two novel human faecal bacteria involved in the conversion of the dietary phytoestrogen secoisolariciresinol diglucoside.
+AB  == two anaerobic bacteria involved in the conversion of the plant lignan secoisolariciresinol diglucoside were isolated from faeces of a healthy male adult. the first isolate, strain sdg-mt85-3db, was a mesophilic strictly anaerobic gram-positive helically coiled rod. based on 16s r rna gene sequence analysis, its nearest relatives were clostridium cocleatum (96.7% similarity) and clostridium ramosum (96.6%). in contrast to these species, the isolate was devoid of alpha-galactosidase and -glucosidase and did not grow on maltose, melibiose, raffinose, rhamnose and trehalose. the hypothesis that strain sdg-mt85-3db represents a new bacterial species of the clostridium cluster xviii was confirmed by dna-dna hybridisation experiments. the g+c content of dna of strain sdg-mt85-3db (30.7+/-0.8 mol%) was comparable with that of clostridium butyricum, the type species of the genus clostridium. the name clostridium saccharogumia is  proposed for strain sdg-mt85-3db (=dsm 17460t=ccug 51486t). the second isolate, strain ed-mt61/pyg-s6, was a mesophilic strictly anaerobic gram-positive regular  rod. based on 16s rrna gene sequence analysis, its nearest relatives were clostridium amygdalinum (93.3%), clostridium saccharolyticum (93.1%) and ruminococcus productus (93.0%). the isolate differed from these species in its ability to dehydrogenate enterodiol. it also possessed alpha-arabinosidase and -galactosidase and had a higher g+c content of dna (48.0 mol%). according to these findings, it is proposed to create a novel genus, lactonifactor, and a novel species, lactonifactor longoviformis, to accommodate strain ed-mt61/pyg-s6. the type strain is dsm 17459t (=ccug 51487t).
+TIHT== 
+ABHT== 
+
+PMID== 19719572
+TI  == phylogenetic and metabolic diversity of hexahydro-1,3,5-trinitro-1,3,5-triazine (rdx)-transforming bacteria in strictly anaerobic mixed cultures enriched on rdx  as nitrogen source.
+AB  == five obligate anaerobes that were most closely related to clostridium bifermentans, clostridium celerecrescens, clostridium saccharolyticum, clostridium butyricum and desulfovibrio desulfuricans by their 16s rrna genes sequences were isolated from enrichment cultures using hexahydro-1,3,5-trinitro-1,3,5-triazine (rdx) as a nitrogen source. the above isolates transformed rdx at rates of 24.0, 5.4, 6.2, 2.5, 5.5 mumol h(-1) g (dry  weight) of cells(-1), respectively, to nitrite, formaldehyde, methanol, and nitrous oxide. the present results indicate that clostridia are major strains responsible for rdx removal, and all isolates seemed to mainly transform rdx via  its initial reduction to mnx and subsequent denitration. since clostridia are commonly present in soil, we suggest that they may contribute to the removal of rdx in the subsurface (anoxic) soil.
+TIHT== 
+ABHT== 
+

@@ -1,0 +1,17 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 20440117
+TI  == tipsitis: incidence and outcome-a single centre experience.
+AB  == introduction: infection of transjugular intrahepatic portosystemic stent shunt (tipss) called 'tipsitis' has been reported but appears unusual. we report here our experience of patients who were diagnosed to have tipsitis at our centre. methods: retrospective single centre study. patients identified from a dedicated  data base. patients with tipss with otherwise unexplained sustained bacteraemia were included. results: over 14 years of age, of 785 patients with tipss, eight (1%) had tipsitis. indication for tipss: variceal bleed, seven; refractory ascites, one. child-pugh score: 8.3 (1.4). seven patients had overlapping stents  in situ. duration to tipsitis: 21.6 (7.1) months. at diagnosis, tipss was occluded in four and patent in three. tipsitis developed within 2 weeks of shunt  interventions in two patients and was owing to development of bilio-venous fistula in one. the organisms identified were: lactobacillus rhamnosus, escherichia coli, enterobacter cloacae, enterococcusfaecium and staphylococcus aureus. median duration of antibiotic therapy: 3 (0.3-3) months. symptoms initially resolved in all but one. symptoms recurred in three and this was related to premature cessation of antibiotics in two. five patients died at a median 1.3 (0.3 to 33) months after tipsitis with tipsitis contributing to death  in three. conclusion: tipsitis is a rare but serious problem. it should be suspected in patients with tipss and unexplained sustained bacteraemia. shunt interventions, where tipss is inserted for variceal bleed, and use of overlapping shunts at tipss insertion may be risk factors for its development. prolonged antibiotics are usually required but tipsitis may recur despite apparently successful treatment.
+TIHT== 
+ABHT== 
+
+PMID== 11316370
+TI  == probiotic activities of lactobacillus casei rhamnosus: in vitro adherence to intestinal cells and antimicrobial properties.
+AB  == the interest of probiotics as remedies for a broad number of gastrointestinal and other infectious diseases has gained wide interest over the last few years, but little is known about their underlying mechanism of action. in this study, the probiotic activities of a human isolate of lactobacillus casei subsp. rhamnosus strain (lcr35) were investigated. using intestinal caco-2 cell line in an in vitro model, we demonstrated that this strain exhibited adhesive properties. the  inhibitory effects of lcr35 organisms on the adherence of three pathogens, enteropathogenic escherichia coli (epec), enterotoxigenic e. coli (etec) and klebsiella pneumoniae, were determined. a decrease in the number of adhering pathogens was observed, using either preincubation, postincubation or coincubation of the pathogens with lcr35. moreover, the antibacterial activities  of cell-free lcr35 supernatant was examined against nine human pathogenic bacteria, etec, epec, k. pneumoniae, shigella flexneri, salmonella typhimurium, enterobacter cloacae, pseudomonas aeruginosa, enterococcus faecalis and clostridium difficile. the growth of all strains was inhibited, as measured by determining the number of viable bacteria over time, but no bactericidal activity was detected in this in vitro assay. together, these findings suggest that this probiotic strain could be used to prevent colonization of the gastrointestinal tract by a large variety of pathogens.
+TIHT== 
+ABHT== 
+

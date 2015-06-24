@@ -1,0 +1,35 @@
+@SUMMARY
+INT == 
+POS == 
+NEG == 
+@PAPERS
+PMID== 24045008
+TI  == new derivatives of salicylamides: preparation and antimicrobial activity against  various bacterial species.
+AB  == three series of salicylanilides, esters of n-phenylsalicylamides and 2-hydroxy-n-[1-(2-hydroxyphenylamino)-1-oxoalkan-2-yl]benzamides, in total thirty target compounds were synthesized and characterized. the compounds were evaluated against seven bacterial and three mycobacterial strains. the antimicrobial activities of some compounds were comparable or higher than the standards ampicillin, ciprofloxacin or isoniazid. derivatives 3f demonstrated high biological activity against staphylococcus aureus (0.03mumol/l), mycobacterium marinum (0.40mumol/l) and mycobacterium kansasii (1.58mumol/l), 3g shows activity against clostridium perfringens (0.03mumol/l) and bacillus cereus (0.09mumol/l),  3h against pasteurella multocida (0.03mumol/l) and m. kansasii (0.43mumol/l), 3i  against methicillin-resistant s. aureus and b. cereus (0.03mumol/l). the structure-activity relationships are discussed for all the compounds.
+TIHT== 
+ABHT== 
+
+PMID== 19851734
+TI  == identification and characterization of a novel antibacterial peptide, avian beta-defensin 2 from ducks.
+AB  == in this study, a novel avian beta-defensin (avbd) was isolated from duck pancreas. the complete nucleotide sequence of the gene contained an 195 bp open reading frame encoding 64 amino acids. homology, characterization and comparison  of the gene with avbd from other avian species confirmed that it was duck avbd2.  the mrna expression of the gene was analyzed in 17 tissues from 21-day-old ducks. avbd2 was highly expressed in the trachea, crop, heart, bone marrow, and pancreas; moderately expressed in the muscular stomach, small intestine, kidney,  spleen, thymus, and bursa of fabricius; and weakly expressed in skin. we produced and purified recombinant avbd2 by expressing the gene in escherichia coli. as expected, the recombinant peptide exhibited strong bactericidal properties against bacillus cereus, staphylococcus aureus, and pasteurella multocida, and weak bactericidal properties against e. coli and salmonella choleraesuis. in addition, the recombinant protein retained antimicrobial activity against s. aureus under different temperatures (range, -20 degrees c to 100 degrees c) and ph values (range, 3 to 12).
+TIHT== 
+ABHT== 
+
+PMID== 17615154
+TI  == nucleoside analogues are activated by bacterial deoxyribonucleoside kinases in a  species-specific manner.
+AB  == objectives: to investigate the bactericidal activity of antiviral and anticancer  nucleoside analogues against a variety of pathogenic bacteria and characterize the activating enzymes, deoxyribonucleoside kinases (dnks). methods: several fda-approved nucleoside analogue drugs were screened for their potential bactericidal activity against several clinical bacterial isolates and type strains. we identified and subcloned the genes coding for putative deoxyribonucleoside kinases in escherichia coli, pasteurella multocida, salmonella enterica, yersinia enterocolitica, bacillus cereus, clostridium perfringens and listeria monocytogenes. these genes were tested for their ability to increase the susceptibility of a dnk-deficient e. coli strain to various analogues. we overexpressed, purified and characterized the substrate specificity and kinetic properties of the recombinant enzymes from s. enterica and b. cereus. results: the tested gram-negative bacteria were susceptible to 3'-azido-3'-deoxythymidine (azt) in the concentration range 0.032-31.6 microm except for a single e. coli isolate and two pseudomonas aeruginosa isolates which were resistant to the tested azt concentrations. purified recombinant s. enterica thymidine kinase phosphorylated azt efficiently with a km of 73.3 microm and k(cat)/km of 6.6 x 10(4) s(-1) m(-1) and is the activator of this drug in vivo. 2',2'-difluoro-2'-deoxycytidine (gemcitabine) was a potent antibiotic against gram-positive bacteria in the concentration range between 0.001 and 1.0 microm. the b. cereus deoxyadenosine kinase had a km for gemcitabine of 33.5 microm and k(cat)/km of 5.1 x 10(3) s(-1) m(-1) and activates gemcitabine in vivo. s. enterica and b. cereus are now amongst the first bacteria with a completely characterized set of dnk enzymes. conclusions: bacterial dnks efficiently activate nucleoside analogues in a species-specific manner. therefore, nucleoside analogues have a potential to be employed as antibiotics in the fight against emerging multiresistant bacteria.
+TIHT== 
+ABHT== 
+
+PMID== 7587049
+TI  == antimicrobial activity of cefotaxime tested against infrequently isolated pathogenic species (unusual pathogens).
+AB  == the cefotaxime sodium spectrum of activity is very broad and includes many common species and a variety of less frequently isolated pathogens. we have reviewed the clinical microbiology literature (44 references) and the data base of the university of iowa hospitals and clinics (iowa city, ia) to collect data on the activity of cefotaxime against the less common species. cefotaxime was consistently active against actinobacillus actinomycetemcomitans, capnocytophaga  spp., eikenella corrodens, erysipelothrix rhusiopathiae, pasteurella multocida, plesiomonas shigelloides, and fusobacterium nucleatum. the species alcaligenes xylosoxidans, flavobacterium spp., stenotrophomonas (xanthomonas) maltophilia, bacillus cereus, listeria monocytogenes, and rhodococcus equi were uniformly cefotaxime resistant. for many other species there was considerable variation in  reported minimum inhibitory concentrations. these data may be helpful in guiding  therapy of unusual infections, particularly in the case of fastidious species, where the appropriate susceptibility testing methodology may not be immediately or routinely available.
+TIHT== 
+ABHT== 
+
+PMID== 1258564
+TI  == [possible relationship between bacterial surface structures, immune-adherence, chemotaxis and phagocytosis (author's transl)].
+AB  == in the present study we attempted to determine the relationship between bacterial surface structures, immune adherence, chemotaxis and phagocytosis. as shown in table 1 encapsulated bacteria (klebsiella ozanae, k. pneumoniae, pasteurella multocida, streptococcus pneumoniae), mycoplasma pneumoniae and m. fermentans had a much lower immune adherence-activity than non-encapsulated bacteria (bacillus cereus, brucella abortus, erysipelothrix insidiosa, escherichia coli, listeria monocytogenes, pseudomonas aeruginosa, salmonella typhimurium, s. typhi). consequently, the former bacteria, in the absece of specific antibodies, activated complement via the c-3-bypass to a smaller extent than the latter. in modified boyden chambers the encapsulated bacteria and the mycoplasmas were much  less cytotaxigenic than the non-encapsulated bacteria (table 3). corresponding to this was the chemotactic response in vivo. finally the rates of phagocytosis were considerably lower with the encapsulated bacteria than with the non-encapsulated  ones (fig. 1).
+TIHT== 
+ABHT== 
+
